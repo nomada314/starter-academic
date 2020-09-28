@@ -1,7 +1,7 @@
 +++
 title = "Una prueba basada en rachas para simetría al rededor de una mediana específica"
 date = "1999-05-18"
-authors = ["Corzo Salamanca J. A.", "**Rojas A.L**"]
+authors = ["Corzo Salamanca J. A.", "admin"]
 publication_types = ["2"]
 
 publication = "*Revista Colombiana de Estadística*, Volumen 22, Issue 2"
