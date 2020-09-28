@@ -7,6 +7,6 @@ title     = "Segundo semestre 2020"
 math      = true
 +++
 
-* [Electiva I: Programación]()
-* [Inferencía Estadística]()
-* [Estadística Básica]()
+* [Electiva I: Programación](https://alexrojas.netlify.app/post/Prog/)
+* [Inferencía Estadística](https://alexrojas.netlify.app/post/Inf/)
+* [Estadística Básica](https://alexrojas.netlify.app/post/Bio/)
