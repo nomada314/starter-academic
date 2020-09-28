@@ -100,11 +100,11 @@ address = {street = "Avenida Central del Norte 39 - 115", city = "Tunja", region
 coordinates = {latitude = "5.551170", longitude = "-73.354644"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Edificio de Bienestar. Salón M201"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["TBA"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
