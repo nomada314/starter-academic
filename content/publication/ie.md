@@ -1,7 +1,7 @@
 +++
 title = "Una Introducción Concisa a la Inferencia Estadística"
 date = "2020-07-13"
-authors = ["López A.", "Rojas A.L"]
+authors = ["López A.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
 publication_short = ""
