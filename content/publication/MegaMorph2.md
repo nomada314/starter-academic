@@ -1,22 +1,8 @@
 +++
 title = "MegaMorph - Multiwavelength measurement of galaxy structure. Sérsic profile fits to galaxies near and far"
 date = "2013-10-11"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vika M.", "Bamford S.P.", "Häußler B.", "**Rojas A.L.**","Borch A.", "Nichol R.C."]
-
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
+authors = ["Vika M.", "Bamford S.P.", "Häußler B.", "admin","Borch A.", "Nichol R.C."]
 publication_types = ["2"]
-
-# Publication name and optional abbreviated version.
 publication = "*Monthly Notices of the Royal Astronomical Society*, Volume 435, Issue 1"
 publication_short = "*MNRAS*, V. 435 (1) "
 
