@@ -1,6 +1,6 @@
 ---
 title: Pato Criollo
-summary: Pato
+summary: Colciencias
 tags:
 - GEO
 date: "2016-04-27T00:00:00Z"
