@@ -1,17 +1,17 @@
 ############################################################
 # Código en `R` usado en el primer capítulo del libro:
 # "Una introducción concisa a la inferencia estadística"
-# escrito por Adriana López y Alex Rojas.
+# por Adriana López y Alex Rojas.
 # https://alexrojas.netlify.com/publication/ie/
 ############################################################
 
 # Capítulo 2
 
 ############################################################
-### Sección 2.1
+## Sección 2.1
 ############################################################
 
-#### Ejemplo 2.20
+### Ejemplo 2.20
 
 set.seed(31414)
 # La muestra es ordenada para facilitar los cálculos
@@ -42,10 +42,10 @@ ErrorEstE3 = sqrt((n-1)^2*var(E3s)/n)
 ErrorEstE4 = sqrt((n-1)^2*var(E4s)/n)
 
 ############################################################
-### Sección 2.3
+## Sección 2.3
 ############################################################
 
-#### Ejemplo 2.22
+### Ejemplo 2.22
 
 precip    = read.csv("LluviaIllinois.csv")[,1]
 precip.k  = skewness(precip)
@@ -55,7 +55,7 @@ precip.MBoot  = matrix(sample(precip,2270000,replace=TRUE),
 precip.sesgo  = apply(precip.MBoot,1,skewness)
 cat("Error estándar =", sd(precip.sesgo), "\n")
 
-#### Ejemplo 2.23
+### Ejemplo 2.23
 
 set.seed(31415)
 muestraGamma125      <- rgamma(25,1,1/25)
@@ -78,21 +78,21 @@ cat("Error estándar bootstrap paramétrico:",
     sd(rho.Boot.param$t))
 
 ############################################################
-### Sección 2.4
+## Sección 2.4
 ############################################################
 
-#### Ejemplo 2.27
+### Ejemplo 2.27
 
 set.seed(31416)
 MoMPois <- rpois(15,lambda = 2)
 lambda1 <- mean(MoMPois)
 lambda2 <- -0.5 + 0.5*sqrt(1+4*mean(MoMPois^2))
 
-#### Ejemplo 2.29
+### Ejemplo 2.29
 
 lambda3 <- -log(mean(MoMPois==0))
 
-#### Ejemplo 2.30
+### Ejemplo 2.30
 
 B <- 10000
 muestraPoisson <- matrix(sample(MoMPois,15*B,
@@ -108,18 +108,18 @@ cat("Error estándar lambda 3",
     sd(lambda3.mom[which(!is.infinite(lambda3.mom))]))
 
 
-#### Ejemplo 2.31
+### Ejemplo 2.31
 
 nlm(function(r)(gamma(2*r+1)/gamma(r+1)^2 -1)/r^2,2,
     gradtol=1e-8)$estimate
 
 
 ############################################################
-### Sección 2.5
+## Sección 2.5
 ############################################################
 
 
-#### Ejemplo 2.32
+### Ejemplo 2.32
 
 precip.mm <- function(data, d){
   m  <- mean(data[d])
@@ -133,12 +133,12 @@ cat("Error estándar bootstrap para alfa:",sd(ab.Boot.param$t[,1]))
 cat("Error estándar bootstrap para beta:",sd(ab.Boot.param$t[,2]))
 
 
-#### Ejemplo 2.40
+### Ejemplo 2.40
 
 uniroot(function(x)(digamma(x)- log(x) + 1.469824556),
         c(.1,1))$root
 
-#### Ejemplo 2.41
+### Ejemplo 2.41
 
 rMuon <- function(n,alpha=0){
   if(abs(alpha) < 1){
@@ -169,7 +169,7 @@ cat("Método de momentos:\n El valor estimado es",3*mean(x.Muon),
 cat("Método de máxima verosimilitud:\n El valor estimado es",
     uniroot(S.Muon,c(-1,1),x=x.Muon)$root)
 
-#### Ejemplo 2.42
+### Ejemplo 2.42
 
 set.seed(31415)
 muestrasGeo  <- matrix(rgeom(500000,0.5),ncol=50)
@@ -177,7 +177,7 @@ EMV.Geo      <- apply(muestrasGeo,1,function(x){1/(mean(x)+1)})
 EMV.GeoScore <- (50- apply(muestrasGeo,1,sum))/.5
 
 
-#### Ejemplo 2.48
+### Ejemplo 2.48
 
 resultados <- matrix(NA,ncol=2, nrow = 1)
 flag <- TRUE
@@ -196,7 +196,7 @@ l.Muon2 <- function(alpha){sum(log((1+alpha*x.Muon)/2))}
 maxLik(l.Muon2,start=.7)
 
 
-#### Ejemplo 2.49
+### Ejemplo 2.49
 
 l.precip <- function(a,b)
   matrix(c(log(b)-digamma(a)-2.964185, a/b - 0.2243921),ncol=1)
@@ -211,7 +211,7 @@ while(flag){
   theta0 <- theta
 }
 
-#### Ejemplo 2.51
+### Ejemplo 2.51
 
 nflK <- read.csv("nflK.csv")
 s.nflK <- function(ab,y=nflK$gol,x=nflK$distancia){
@@ -253,7 +253,7 @@ modelo.NFL <-glm(formula = gol ~ distancia,
 summary(modelo.NFL)
 
 
-#### Ejemplo 2.52
+### Ejemplo 2.52
 
 I.Muon <- function(alpha){
           return(log((1+alpha)/(1-alpha))/(2*alpha^3)-
@@ -273,7 +273,7 @@ while(flag){
 }
 
 
-#### Ejemplo 2.53
+### Ejemplo 2.53
 
 # Función de log-verosimilitud
 lvero.Gen <- function(theta,Y= c(125,18,20,34)){
@@ -296,7 +296,7 @@ while(flag){
 }
 
 
-#### Ejemplo 2.54
+### Ejemplo 2.54
 
 lvero.adn <- function(theta,x= c(1,12,3,11,15,2,9,17,20,16))
   return(sum(log(theta[1]*dpois(x,theta[2])
@@ -326,7 +326,7 @@ while(flag){
 }
 
 
-#### Ejemplo 2.55
+### Ejemplo 2.55
 
 set.seed(1035)
 N <- 10
@@ -349,7 +349,7 @@ while(flag){
 cat("Valor estimado usando el algoritmo EM:",lambda.k)
 
 
-#### Ejemplo 2.56
+### Ejemplo 2.56
 
 data(bearings)
 n = length(bearings)
@@ -389,12 +389,12 @@ cat('Valor estimado de lambda:', lambdas[i],
 
 
 ############################################################
-### Sección 2.6
+## Sección 2.6
 ############################################################
 
 
 
-#### Ejemplo 2.66
+### Ejemplo 2.66
 
 min.Retraso = c(101,43, 80,111,41,18,60,48,102,65,72,104,102,43)
 maximoRetraso = max(min.Retraso)
@@ -402,7 +402,7 @@ pChiValues = pchisq(2*120/maximoRetraso, 2*(14+2+c(-1,0)))
 media.A.Post = 120*pChiValues[1]/((14+2-1)*pChiValues[2])
 
 
-#### Ejemplo 2.67
+### Ejemplo 2.67
 
 B = 10000
 n = 10
@@ -415,7 +415,7 @@ cat("Probabilidad de no exceder ", k," es: ",mean(muestra),".",
     sep="")
 
 
-#### Ejemplo 2.68
+### Ejemplo 2.68
 
 B = 10000
 set.seed(2233)
@@ -428,7 +428,7 @@ cat("Probabilidad de infección al tomar 10 litros de agua:",
     mean(probInfeccion))
 
 
-#### Ejemplo 2.69
+### Ejemplo 2.69
 
 # Determina si el vector de probabilidades pertenece
 # a la región R
@@ -457,7 +457,7 @@ deltas = pago.i[apply(muestras.Utiles,1,mayorQueP)]
 delta.Estimado = mean(deltas)
 
 
-#### Ejemplo 2.70
+### Ejemplo 2.70
 
 B = 10000
 set.seed(31454)
@@ -474,7 +474,7 @@ cat('Valor estimado de theta:',
     mean(thetas2*r(thetas2))/mean(r(thetas2)))
 
 
-#### Ejemplo 2.71
+### Ejemplo 2.71
 
 B = 1000
 N = 1000
@@ -492,7 +492,7 @@ mu.Normal = matrix(rnorm(B*N, 4.74, 1), ncol=B)
 mus.cauchy = apply(mu.Cauchy,1, mc.Cauchy, x = 4.74)
 mus.normal = apply(mu.Normal,1, mc.Normal)
 
-#### Ejemplo 2.72
+### Ejemplo 2.72
 
 B = 1000
 N = 1000
@@ -511,7 +511,7 @@ pesos    =  dnorm(muestraG)/dnorm(muestraG,3)
 theta.P  = apply((muestraG>3)*pesos, 1,mean)
 
 
-#### Ejemplo 2.74
+### Ejemplo 2.74
 
 Y= c(125,18,20,34)
 B = 10000
@@ -526,7 +526,7 @@ for(j in 2:B){
 }
 
 
-#### Ejemplo 2.75
+### Ejemplo 2.75
 
 nfl.Gibbs <- function(X, n=512, B=10000, tau=20, eliminar=1000){
   cadena.lambda = rep(0.3,B)
@@ -542,7 +542,7 @@ set.seed(87251)
 nfl.G.res = nfl.Gibbs(171)
 
 
-#### Ejemplo 2.76
+### Ejemplo 2.76
 
 
 data(Energy)
