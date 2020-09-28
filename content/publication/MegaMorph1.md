@@ -3,7 +3,7 @@ title = "Measuring SEDs for individual galaxy components"
 date = "2011-11-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bamford S.P. ", "Häußler B. ", "**Rojas A.L.** ", "Vika M. ", "Cresswell J"]
+authors = ["Bamford S.P. ", "Häußler B. ", "admin", "Vika M. ", "Cresswell J"]
 
 # Publication type.
 # Legend:
