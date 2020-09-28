@@ -1,15 +1,15 @@
 ############################################################
 # Código en `R` usado en el primer capítulo del libro:
 # "Una introducción concisa a la inferencia estadística"
-# escrito por Adriana López y Alex Rojas.
+# por Adriana López y Alex Rojas.
 # https://alexrojas.netlify.com/publication/ie/
 ############################################################
 
 # Capítulo 1
 
-### Sección 1.5. Método de MonteCarlo
+## Sección 1.5. Método de MonteCarlo
 
-#### Ejemplo: Distancia promedio entre dos puntos
+### Ejemplo: Distancia promedio entre dos puntos
 
 B  <- 100000
 # Se generan B parejas de puntos en tres dimensiones
@@ -20,7 +20,7 @@ distancias <- apply(puntos,1,
 cat("Distancia promedio aproximada:", mean(distancias), "usando", B, "muestras.")
 
 
-#### Ejemplo: Black-Scholes
+### Ejemplo: Black-Scholes
 
 BS <-  function(S0=1000,sigma=0.1,T=1,r=0.06,K = S0){
   C <- (log(K/S0)-(r-sigma^2/2)*T)/(sqrt(T)*sigma)
