@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
+  title = "Traveler"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2015-09-01"
+  date_end = "2017-01-31"
+  description = """"""
+
+[[experience]]
   title = "Visiting Assistant Professor"
   company = "Carnegie Mellon University"
   company_url = "https://www.cmu.edu/"
