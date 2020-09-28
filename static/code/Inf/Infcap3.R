@@ -1,25 +1,25 @@
 ############################################################
 # Código en `R` usado en el primer capítulo del libro:
 # "Una introducción concisa a la inferencia estadística"
-# escrito por Adriana López y Alex Rojas.
+# por Adriana López y Alex Rojas.
 # https://alexrojas.netlify.com/publication/ie/
 ############################################################
 
 # Capítulo 3
 
 ############################################################
-### Sección 3.1
+## Sección 3.1
 ############################################################
 
 
-#### Ejemplo 3.9
+### Ejemplo 3.9
 
 set.seed(1234)
 x <- rnorm(25,7,2)
 cat("p-valor:", 1-pnorm(sum(x),25*6, sqrt(25*4)))
 
 
-#### Ejemplo 3.10
+### Ejemplo 3.10
 
 set.seed(2635)
 B = 10000; n = 10
@@ -33,10 +33,10 @@ pValores2 = pgamma(sumas2,n,1)
 
 
 ############################################################
-### Sección 3.3
+## Sección 3.3
 ############################################################
 
-#### Ejemplo 3.17
+### Ejemplo 3.17
 
 Verizon  = read.csv("Verizon.csv",head=TRUE)
 medianas = tapply(Verizon$Time, Verizon$Group, median)
@@ -50,7 +50,7 @@ VerMed = two.boot(Verizon$Time[1:1664],Verizon$Time[1665:1685],
 W = diff(medianas)/sd(VerMed$t)
 
 
-#### Ejemplo 3.19
+### Ejemplo 3.19
 
 cat("Estadística de prueba score:",
 (1/sqrt(length(precip)))*(1/trigamma(.8))*
@@ -58,7 +58,7 @@ cat("Estadística de prueba score:",
      sum(log(precip))-227*digamma(.8)))
 
 
-#### Ejemplo 3.20
+### Ejemplo 3.20
 
 n = 25
 lambda0 = 0.05
@@ -69,7 +69,7 @@ W = sqrt(n)*(lambda0/mediaMuestraGamma125 - lambda0^2)
 
 
 ############################################################
-### Sección 3.4
+## Sección 3.4
 ############################################################
 
 prov0  <- seq(0.5,50)
