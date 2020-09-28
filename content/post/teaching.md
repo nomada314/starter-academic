@@ -8,5 +8,5 @@ math      = true
 +++
 
 * [Electiva I: Programación]()
-* [TBA]
-* [TBA]
+* [Inferencía Estadística]()
+* [Estadística Básica]()
