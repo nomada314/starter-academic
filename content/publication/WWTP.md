@@ -1,7 +1,7 @@
 +++
 title = "Assessment of two sludge stabilization methods in a wastewater treatment plant in Sotaquirá, Colombia"
 date = "2020-02-25"
-authors = ["Castellanos-Rozo J.","Galvis-López J. A.", "Merchán Castellanos N.","Manjarres-Hernándes, E.","**Rojas A.**"]
+authors = ["Castellanos-Rozo J.","Galvis-López J. A.", "Merchán Castellanos N.","Manjarres-Hernándes, E.","admin"]
 publication_types = ["2"]
 publication = "*Universitas Scientiarum*, Volumen 25(1), 17-36"
 publication_short = ""
