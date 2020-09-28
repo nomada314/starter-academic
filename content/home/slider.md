@@ -68,7 +68,7 @@ height = "400px"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "RapaNui.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "RanaNui.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 +++
