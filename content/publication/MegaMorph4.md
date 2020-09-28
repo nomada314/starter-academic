@@ -1,38 +1,14 @@
 +++
 title = "Galaxy And Mass Assembly (GAMA): the wavelength-dependent sizes and profiles of galaxies revealed by MegaMorph"
 date = "2014-06-21"
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vulcani B.", "Bamford S. P.","Häußler B.","Vika M.", "**Rojas A.L.**", "Agius N.K.", "Baldry I.", "Bauer A.E", "Brown M.J.I.","Driver S.P.", "Graham A.W.", "Kelvin L.S.", "Liske J.", "Loveday J.", "Popescu C.C.", "Robotham A. S. G.", "Tuffs R.J"]
-
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
+authors = ["Vulcani B.", "Bamford S. P.","Häußler B.","Vika M.", "admin", "Agius N.K.", "Baldry I.", "Bauer A.E", "Brown M.J.I.","Driver S.P.", "Graham A.W.", "Kelvin L.S.", "Liske J.", "Loveday J.", "Popescu C.C.", "Robotham A. S. G.", "Tuffs R.J"]
 publication_types = ["2"]
-
-# Publication name and optional abbreviated version.
 publication = "*Monthly Notices of the Royal Astronomical Society*, Volume 441, Issue 2"
 publication_short = "*MNRAS*, V. 441 (2) "
-
-# Abstract and optional shortened version.
 abstract = "We investigate the relationship between colour and structure within galaxies using a large, volume-limited sample of bright, low-redshift galaxies with optical–near-infrared imaging from the Galaxy And Mass Assembly survey. We fit single-component, wavelength-dependent, elliptical Sérsic models to all passbands simultaneously, using software developed by the MegaMorph project. Dividing our sample by n and colour, the recovered wavelength variations in effective radius ($R_e$) and Sérsic index (n) reveal the internal structure, and hence formation history, of different types of galaxies. All these trends depend on n; some have an additional dependence on galaxy colour. Late-type galaxies ($n_r < 2.5$) show a dramatic increase in Sérsic index with wavelength. This might be a result of their two-component (bulge–disc) nature, though stellar population gradients within each component and dust attenuation are likely to play a role. All galaxies show a substantial decrease in Re with wavelength. This is strongest for early types ($n_r > 2.5$), even though they maintain constant $n$ with wavelength, revealing that ellipticals are a superimposition of different stellar populations associated with multiple collapse and merging events. Processes leading to structures with larger Re must be associated with lower metallicity or younger stellar populations. This appears to rule out the formation of young cores through dissipative gas accretion as an important mechanism in the recent lives of luminous elliptical galaxies."
 abstract_short = ""
-
-# Featured image thumbnail (optional)
 image_preview = ""
-
-# Is this a selected publication? (true/false)
 selected = false
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["MegaMorph"]
 
 # Links (optional).
