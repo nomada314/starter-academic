@@ -13,6 +13,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/header_N_15.jpg"
-caption = "Iceland"
+image = "Guican.jpg"
+caption = "Guican"
 +++
