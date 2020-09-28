@@ -1,7 +1,7 @@
 +++
 title = "Recursive Bayesian Decoding of Motor Cortical Signals by Particle Filtering"
 date = "2004-04-01"
-authors = ["Brockwell A.E.", "**Rojas A.L.**", "Kass R.E"]
+authors = ["Brockwell A.E.", "admin", "Kass R.E"]
 publication_types = ["2"]
 publication = "Journal of Neurophysiology"
 publication_short = ""
