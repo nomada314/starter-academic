@@ -1,17 +1,17 @@
 ############################################################
 # Código en `R` usado en el primer capítulo del libro:
 # "Una introducción concisa a la inferencia estadística"
-# escrito por Adriana López y Alex Rojas.
+# por Adriana López y Alex Rojas.
 # https://alexrojas.netlify.com/publication/ie/
 ############################################################
 
 # Capítulo 4
 
 ############################################################
-### Sección 4.1
+## Sección 4.1
 ############################################################
 
-#### Ejemplo 4.2
+### Ejemplo 4.2
 
 p.mu = function(mu)
   return(exp(-mu^2/20)/((1+(mu+4.3)^2)*(1+(3.2-mu)^2)))
@@ -46,7 +46,7 @@ while(delta > 0.00001){
 cat("Intervalo HPD: (",lim.i,",",lim.s,")" )
 
 
-#### Ejemplo 4.3
+### Ejemplo 4.3
 
 IntConfAgua.Prob  = hdi(probInfeccion)
 cat("Intervalo de credibilidad para la probabilidad de
@@ -68,17 +68,17 @@ en las dos colas\n",
 
 
 ############################################################
-### Sección 4.2
+## Sección 4.2
 ############################################################
 
-#### Ejemplo 4.5
+### Ejemplo 4.5
 
 sumaG125 <- sum(muestraGamma125)
 ICExp.lambda<- qgamma(c(0.05/2,1-0.05/2),25,1)/sumaG125
 ICExp.lambda2<- qgamma(c(0.04,0.99),25,1)/sumaG125
 
 
-#### Ejemplo 4.10
+### Ejemplo 4.10
 
 ICMuon <- function(alpha, x, g=0)
   return(-sum( log(1 - .25*(alpha*x^2 + 2*x+2-alpha))) - g)
@@ -88,7 +88,7 @@ cat("Intervalo de confianza: (",
  uniroot(ICMuon,c(-1,1),x=x.Muon, g= qgamma(.05,20,1))$root,").",
  sep="")
 
-#### Ejemplo 4.12
+### Ejemplo 4.12
 
 # Intervalo de confianza del 100(1-alpha)%
 # Primer método, estimando la varianza asintótica
@@ -135,12 +135,12 @@ cobertura.Geom2 = (ICSimulacion.Geom2[1,]<0.5)&
 cat("% Cobertura segundo método: ", mean(cobertura.Geom2)*100,
     "\n",sep="")
 
-#### Ejemplo 4.16
+### Ejemplo 4.16
 
 confint.default(modelo.NFL)
 
 
-#### Ejemplo 4.17
+### Ejemplo 4.17
 
 alphaEMV = function(a, b = -.1, y=nflK$gol,x=nflK$distancia)
   return(sum(y)- sum(1/(1+exp(-(a+b*x)))))
@@ -158,12 +158,12 @@ cat("Intervalo de confianza del 95%: (",
 
 confint(modelo.NFL)
 
-#### Ejemplo 4.19
+### Ejemplo 4.19
 
 binom.confint(51,8197, methods=c("asymptotic","wilson","ac"))
 
 
-#### Ejemplo 4.21
+### Ejemplo 4.21
 
 EnlaceGenetico.MLE = function(Y, n=197){
   b = -Y[1]+2*(Y[2]+Y[3])+Y[4]
@@ -180,7 +180,7 @@ cat("Intervalo de confianza al 95%:(",
     sep="")
 
 
-#### Ejemplo 4.24
+### Ejemplo 4.24
 
 alpha <- 0.05
 aICGamma125 <- mean(muestraGamma125)+
@@ -191,7 +191,7 @@ dICGamma125 <- sum(muestraGamma125)/
   rev(qgamma(c(alpha/2,1-alpha/2),25,1))
 
 
-#### Ejemplo 4.25
+### Ejemplo 4.25
 
 data("Skateboard")
 mPatineta <- Skateboard %>% filter(Experimenter=="Female") %>%
