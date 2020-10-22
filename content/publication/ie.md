@@ -30,6 +30,10 @@ caption = ""
 
 ## Árboles sembrados
 
+a| a | a
+:---:|:---:|
+[Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata)] 
+
 ## Errata
 
 * p. 46: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
