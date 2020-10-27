@@ -22,7 +22,7 @@ By appointment.
 
 Week  | Date | Topic
 --- | --- | ---
-1 | Nov 03 | Acta de compromiso. Contenido programático. Anaconda, [Chapter 2, TP](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [Chapter 3, PSP](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/).
+1 | Nov 03 | Course presentation. [Anaconda](https://www.anaconda.com/products/individual). [Chapter 2, TP](http://greenteapress.com/thinkpython2/html/thinkpython2003.html). [Chapter 3, PSP](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/).
 . | Nov 05 | 
 2 | Nov 10 | 
 . | Nov 12 | Quiz # 2
