@@ -30,7 +30,7 @@ caption = ""
 
 ## Árboles sembrados
 
-![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.png)| ![Roble](https://alexrojas.netlify.app/media/roble.png) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.png)
+![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.jpg)| ![Roble](https://alexrojas.netlify.app/media/roble.jpg) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.jpg)
 :---:|:---:|:---:
 [Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata) 
 
