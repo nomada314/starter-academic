@@ -19,7 +19,7 @@ By appointment.
 
 Week | Date | Topic
 ---| ---| ---
-1 | Nov 04 | Acta de compromiso. Contenido programático.
+1 | Nov 04 | Course presentation. Syllabus
 . | Nov 06 | 
 2 | Nov 11 | 
 . | Nov 13 | 
