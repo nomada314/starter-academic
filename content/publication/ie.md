@@ -30,10 +30,11 @@ caption = ""
 
 ## Árboles sembrados
 
-![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.jpg)| ![Roble](https://alexrojas.netlify.app/media/roble.jpg) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.jpg)
+![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.png)| ![Roble](https://alexrojas.netlify.app/media/roble.png) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.png)
 :---:|:---:|:---:
 [Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata) 
 
 ## Errata
 
 * p. 46: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
+* p. 128: El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el código del segundo capítulo.
