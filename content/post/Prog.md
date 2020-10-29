@@ -3,7 +3,7 @@ date      = 2020-09-28
 lastmod   = 2020-10-27
 draft     = false
 tags      = ["Teaching", "Programming", "Python"]
-title     = "Elective I:Programming"
+title     = "Elective I: Programming"
 math      = true
 +++
 
