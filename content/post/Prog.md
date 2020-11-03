@@ -32,8 +32,8 @@ Semana  | Fecha | Tópico
 5 | Dec 01 | Eliminación de ciclos.
 . | Dec 03 | Eliminación de ciclos, continuación. **Entrega Taller # 4**.
 6 | Dec 08 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
-. | Dec 10 | **Proyect presentation**
-7 | Dec 15 | **Proyect presentation**
+. | Dec 10 | **Presentación proyecto**
+7 | Dec 15 | **Presentación proyecto**
 . | Dec 17 | 
 8 | Feb  | 
 . | Feb  | 
