@@ -33,11 +33,11 @@ Week  | Date | Topic
 5 | Dec 01 | Loops: [Chapter 9, PSP](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)
 . | Dec 03 | Homework # 4
 6 | Dec 08 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
-. | Dec 10 | Homework # 4
-7 | Dec 15 | Arrays: [Chapter 5, PSP](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.02-Installing-NumPy/)
+. | Dec 10 | Proyect presentation
+7 | Dec 15 | Proyect presentation
 . | Dec 17 | 
-8 | Feb 00 | 
-. | Feb 00 | 
+8 | Feb  | 
+. | Feb  | 
 
 
 ### Resources:
