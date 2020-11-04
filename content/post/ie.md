@@ -7,19 +7,19 @@ title     = "Estadística Inferencial"
 math      = true
 +++
 
-### Textbook:
+### Libro guía:
 
 López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
 
-### Office hours: 
+### Horas de oficina: 
 
-By appointment.
+Por cita.
 
-### Schedule
+### Horario
 
-Week | Date | Topic
+Semana | Fecha | Tópico
 ---| ---| ---
-1 | Nov 04 | Course presentation. Syllabus
+1 | Nov 04 | Presentación del curso. Estadísticas y suficiencia (Secciones 1.1 y 1.2)
 . | Nov 06 | 
 2 | Nov 11 | 
 . | Nov 13 | 
