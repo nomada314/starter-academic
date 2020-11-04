@@ -15,11 +15,11 @@ caption = ""
 
 ## Datos
 
-* Ejemplo 1.40: [Precio acción simulado](https://alexrojas.netlify.com/Data/Inf/PrecioAccionSimulado.csv)
-* Ejemplos 2.2, 2.22, 2.32, 2.40, 2.49, 4.20, 4.22: [Precipitación tormentas en verano](https://alexrojas.netlify.com/Data/Inf/LluviaIllinois.csv)
-* Ejemplos 2.51 y 4.17: [Goles de campo en la NFL 1995-96](https://alexrojas.netlify.com/Data/Inf/nflK.csv)
-* Ejemplo 2.63: [Lesiones craneales en la NFL 2012-15](https://alexrojas.netlify.com/Data/Inf/NFL.csv)
-* Ejemplo 3.17: [Verizon](https://alexrojas.netlify.com/Data/Inf/Verizon.csv)
+* [Precio acción simulado](https://alexrojas.netlify.com/Data/Inf/PrecioAccionSimulado.csv): Ejemplo 1.40
+* [Precipitación tormentas en verano](https://alexrojas.netlify.com/Data/Inf/LluviaIllinois.csv): Ejemplos 2.2, 2.22, 2.32, 2.40, 2.49, 4.20 y 4.22
+* [Goles de campo en la NFL 1995-96](https://alexrojas.netlify.com/Data/Inf/nflK.csv): Ejemplos 2.51 y 4.17
+* [Lesiones craneales en la NFL 2012-15](https://alexrojas.netlify.com/Data/Inf/NFL.csv): Ejemplo 2.63
+* [Verizon](https://alexrojas.netlify.com/Data/Inf/Verizon.csv): Ejemplo 3.17
 
 ## Código
 
@@ -28,11 +28,14 @@ caption = ""
 * [Capítulo 3.](https://alexrojas.netlify.com/code/Inf/Infcap3.R) Contraste de hipótesis
 * [Capítulo 4.](https://alexrojas.netlify.com/code/Inf/Infcap4.R) Estimación por regiones
 
-## Árboles sembrados
+## Muestra de árboles sembrados
 
 ![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.jpg)| ![Roble](https://alexrojas.netlify.app/media/roble.jpg) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.jpg)
 :---:|:---:|:---:
 [Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata) 
+![Garrocho]()| ![Borrachero]() | ![Gaque]()
+[Garrocho (Viburnum triphyllum)](https://es.wikipedia.org/wiki/Viburnum_triphyllum) | [Borrachero (Brugmansia arborea)](https://es.wikipedia.org/wiki/Brugmansia_arborea)| [Gaque (Clusia multiflora)](https://es.wikipedia.org/wiki/Clusia_multiflora) 
+
 
 ## Errata
 
