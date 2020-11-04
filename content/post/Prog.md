@@ -21,8 +21,8 @@ Por cita.
 
 Semana  | Fecha | Tópico
 --- | --- | ---
-1 | Nov 03 | Presentación del curso. [Anaconda](https://www.anaconda.com/products/individual). 
-. | Nov 05 | Asignación y variables, cálculos básicos. [Chapter 2, TP](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [Chapter 3, PSP](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
+**1** | **Nov 03** | Presentación del curso. [Anaconda](https://www.anaconda.com/products/individual). 
+. | **Nov 05** | Asignación y variables, cálculos básicos. [Chapter 2, TP](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [Chapter 3, PSP](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
 2 | Nov 10 | Cálculos simbólicos, contenedores básicos
 . | Nov 12 | Funciones: [Chapter 7, PSP](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [Chapter 3, TP](http://greenteapress.com/thinkpython2/html/thinkpython2004.html). **Entrega Taller # 1**.
 3 | Nov 17 | Funciones, continuación.
