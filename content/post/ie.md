@@ -20,21 +20,19 @@ Por cita.
 Semana | Fecha | Tópico
 ---| ---| ---
 1 | Nov 04 | Presentación del curso. Estadísticas y suficiencia (Secciones 1.1 y 1.2)
-. | Nov 06 | 
-2 | Nov 11 | 
-. | Nov 13 | 
-3 | Nov 17 | 
-. | Nov 19 | 
-4 | Nov 25 | 
-. | Nov 27 | 
-5 | Dec 02 | 
-. | Dec 04 | 
+. | Nov 06 | Familia exponencial, función de distribución empírica (Secciones 1.3 y 1.4)
+2 | Nov 11 | Método de Montecarlo (Sección 1.5)
+. | Nov 13 | Estimación puntual. Notación y definiciones (Sección 2.1). **Entrega Tarea # 1.**
+3 | Nov 17 | Métodos de sustitución y método de momentos (Secciones 2.2 y 2.4).
+. | Nov 19 | Método de máxima verosimilitud (Sección 2.5)
+4 | Nov 25 | Información de Fisher y propiedades EMV (Secciones 2.5.1, 2.5.2). **Entrega Tarea # 2.**
+. | Nov 27 | Algoritmos de Newton-Rapson, Fisher *scoring*, EM (Secciones 2.5.3 a 2.5.5).
+5 | Dec 02 | Método Bayesiano (Sección 2.6)
+. | Dec 04 | Método MonteCarlo para estimación bayesiana (Sección 2.6.1). **Entrega Tarea # 3.**
 6 | Dec 09 | 
-. | Dec 11 | 
-7 | Dec 16 | 
-. | Dec 18 | 
-8 | Feb 00 | 
-. | Feb 00 | 
+. | Dec 11 | Primer examen
+7 | Dec 16 | Presentación inicial del artículo
+. | Dec 18 | Presentación inicial del artículo
 
 
 ### Resources:
