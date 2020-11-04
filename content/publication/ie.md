@@ -40,5 +40,6 @@ caption = ""
 ## Errata
 
 * p. 2, quinta línea, segundo párrafo: la función de probabilidad debe ser denotada por $f_{\mathbf{X}}(\mathbf{x}|\pmb{{\theta}})$, no por $f_{\mathbf{X}}(x|\pmb{{\theta}})$
+* p. 5, Ecuación (1.3): la integración es con respecto a $u$, no $x$.
 * p. 46, última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
 * p. 128: El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el código del segundo capítulo.
