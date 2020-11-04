@@ -34,9 +34,3 @@ Semana | Fecha | Tópico
 7 | Dec 16 | Presentación inicial del artículo
 . | Dec 18 | Presentación inicial del artículo
 
-
-### Resources:
-
-  - 
-
-  - 
