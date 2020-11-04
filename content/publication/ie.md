@@ -36,5 +36,6 @@ caption = ""
 
 ## Errata
 
-* p. 46: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
+* p. 2, quinta línea, segundo párrafo: la función de probabilidad denota por $f_{\mathbf{X}}(\mathbf{x}|\pmb{{\theta}})$
+* p. 46, última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
 * p. 128: El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el código del segundo capítulo.
