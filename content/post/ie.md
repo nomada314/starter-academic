@@ -23,8 +23,8 @@ Semana | Fecha | Tópico
 &nbsp; | **Nov 06** | Suficiencia (1.3)
 **2**  | **Nov 11** | Familia exponencial, función de distribución empírica (1.3, 1.4)
 &nbsp; | **Nov 13** | Método de Montecarlo. Estimación puntual: Notación y definiciones (Sección 2.1). 
-3 | Nov 16 | **Entrega Tarea # 1.**
-&nbsp; | Nov 17 | Métodos de sustitución y método de momentos (2.2 y 2.4).
+3      | Nov 17 | Métodos de sustitución y método de momentos (2.2 y 2.4).
+&nbsp; | Nov 18 | **Entrega Tarea # 1, antes de las 11:00pm**
 &nbsp; | Nov 19 | Método de máxima verosimilitud (2.5)
 &nbsp; | &nbsp; | &nbsp;
 4 | Nov 25 | Información de Fisher y propiedades EMV (2.5.1, 2.5.2). **Entrega Tarea # 2.**
