@@ -24,13 +24,13 @@ Semana | Fecha | Tópico
 **2**  | **Nov 11** | Familia exponencial, función de distribución empírica (1.3, 1.4)
 &nbsp; | **Nov 13** | Método de Montecarlo. Estimación puntual: Notación y definiciones (Sección 2.1). 
 3 | Nov 16 | **Entrega Tarea # 1.**
-&nbsp; | Nov 17 | Métodos de sustitución y método de momentos (Secciones 2.2 y 2.4).
-&nbsp; | Nov 19 | Método de máxima verosimilitud (Sección 2.5)
+&nbsp; | Nov 17 | Métodos de sustitución y método de momentos (2.2 y 2.4).
+&nbsp; | Nov 19 | Método de máxima verosimilitud (2.5)
 &nbsp; | &nbsp; | &nbsp;
-4 | Nov 25 | Información de Fisher y propiedades EMV (Secciones 2.5.1, 2.5.2). **Entrega Tarea # 2.**
-&nbsp; | Nov 27 | Algoritmos de Newton-Rapson, Fisher *scoring*, EM (Secciones 2.5.3 a 2.5.5).
-5 | Dec 02 | Método Bayesiano (Sección 2.6)
-&nbsp; | Dec 04 | Método MonteCarlo para estimación bayesiana (Sección 2.6.1). **Entrega Tarea # 3.**
+4 | Nov 25 | Información de Fisher y propiedades EMV (2.5.1, 2.5.2). **Entrega Tarea # 2.**
+&nbsp; | Nov 27 | Algoritmos de Newton-Rapson, Fisher *scoring*, EM (2.5.3 a 2.5.5).
+5 | Dec 02 | Método Bayesiano (2.6)
+&nbsp; | Dec 04 | Método MonteCarlo para estimación bayesiana (2.6.1). **Entrega Tarea # 3.**
 6 | Dec 09 | 
 &nbsp; | Dec 11 | Primer examen
 7 | Dec 16 | Presentación inicial del artículo
