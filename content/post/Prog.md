@@ -22,14 +22,14 @@ Por cita.
 Semana  | Fecha | Tópico
 --- | --- | ---
 **1**  | **Nov 03** | Presentación del curso. [Anaconda](https://www.anaconda.com/products/individual)
-&nbsp; | **Nov 05** | Asignación y variables, cálculos básicos. [Chapter 2, TP](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [Chapter 3, PSP](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
+&nbsp; | **Nov 05** | Asignación y variables, cálculos básicos. [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
 **2**  | **Nov 10** | Cálculos simbólicos, contenedores básicos
-&nbsp; | **Nov 12** | Funciones: [Chapter 7, PSP](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [Chapter 3, TP](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
+&nbsp; | **Nov 12** | Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
 3 | Nov 16 | **Entrega Taller # 1**
 &nbsp; | Nov 17 | Funciones, continuación
-&nbsp; | Nov 19 | Control de flujo: [Chapter 8, PSP](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/). **Entrega Taller # 2**
+&nbsp; | Nov 19 | Control de flujo: [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/). **Entrega Taller # 2**
 &nbsp; | &nbsp; | &nbsp;
-4 | Nov 24 | Ciclos: [Chapter 9, PSP](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)
+4 | Nov 24 | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)
 &nbsp; | Nov 26 | Ciclos, continuación. **Entrega Taller # 3**
 5 | Dec 01 | Eliminación de ciclos
 &nbsp; | Dec 03 | Eliminación de ciclos, continuación. **Entrega Taller # 4**
