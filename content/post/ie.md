@@ -21,7 +21,7 @@ Semana | Fecha | Tópico
 ---| ---| ---
 **1**  | **Nov 04** | Presentación del curso. Estadísticas (1.1 y 1.2)
 &nbsp; | **Nov 06** | Suficiencia (1.3)
-**2**  | **Nov 11** | Familia exponencial, función de distribución empírica <br> Método de Montecarlo (1.3, 1.4)
+**2**  | **Nov 11** | Familia exponencial, función de distribución empírica <br> Método de Montecarlo (1.3 a 1.5)
 &nbsp; | **Nov 13** | Estimación puntual: Notación y definiciones (2.1). 
 3      | Nov 18 | Métodos de sustitución y método de momentos (2.2 y 2.4) <br> **Entrega Tarea # 1, antes de las 11:00pm**
 &nbsp; | Nov 20 | Método de máxima verosimilitud (2.5)
