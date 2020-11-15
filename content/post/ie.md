@@ -22,7 +22,7 @@ Semana | Fecha | Tópico
 **1**  | **Nov 04** | Presentación del curso. <br> Estadísticas (1.1 y 1.2)
 &nbsp; | **Nov 06** | Suficiencia (1.3)
 **2**  | **Nov 11** | Familia exponencial (1.3) <br> Función de distribución empírica (1.4)<br> Método de Montecarlo (1.5)
-&nbsp; | **Nov 13** | Estimación puntual: <br> Notación y definiciones (2.1) <br> Métodos de sustitución (2.2)
+&nbsp; | **Nov 13** | Estimación puntual: Notación y definiciones (2.1) <br> Métodos de sustitución (2.2)
 **3**  | **Nov 18** | Bootstrapping (2.3) <br> Método de momentos (2.4) <br> **Entrega Tarea # 1, antes de las 11:00pm**
 &nbsp; | **Nov 20** | Método de máxima verosimilitud (2.5)
 4 | Nov 25 | Información de Fisher y propiedades EMV (2.5.1, 2.5.2). **Entrega Tarea # 2.**
