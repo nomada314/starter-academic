@@ -23,7 +23,7 @@ Semana | Fecha | Tópico
 &nbsp; | **Nov 06** | Suficiencia (1.3)
 **2**  | **Nov 11** | Familia exponencial (1.3) <br> Función de distribución empírica (1.4)<br> Método de Montecarlo (1.5)
 &nbsp; | **Nov 13** | Estimación puntual: Notación y definiciones (2.1) <br> Métodos de sustitución (2.2)
-**3**  | **Nov 18** | Bootstrapping (2.3) <br> Método de momentos (2.4) <br> **Entrega Tarea # 1, antes de las 11:00pm**
+**3**  | **Nov 18** | Bootstrapping (2.3) <br> Método de momentos (2.4) <br> **Entrega Tarea # 1**
 &nbsp; | **Nov 20** | Método de máxima verosimilitud (2.5)
 4 | Nov 25 | Información de Fisher y propiedades EMV (2.5.1, 2.5.2). **Entrega Tarea # 2.**
 &nbsp; | Nov 27 | Algoritmos de Newton-Rapson, Fisher *scoring*, EM (2.5.3 a 2.5.5).
