@@ -25,10 +25,10 @@ Semana  | Fecha | Tópico
 &nbsp; | **Nov 05** | Asignación y variables, cálculos básicos. [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
 **2**  | **Nov 10** | Cálculos simbólicos, contenedores básicos
 &nbsp; | **Nov 12** | Contenedores básicos (continuación), funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
-3 | Nov 17 | Funciones, continuación <br> **Entrega Tarea # 1, antes de las 11:00pm**
-&nbsp; | Nov 19 | Control de flujo: [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/).
-4 | Nov 24 | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)
-&nbsp; | Nov 26 | Ciclos, continuación. **Entrega Taller # 2**
+**3**  | **Nov 17** | Control de flujo [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/)<br> **Entrega Tarea # 1
+&nbsp; | **Nov 19** | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)
+4 | Nov 24 | Ciclos, continuación <br> **Entrega Taller # 2**
+&nbsp; | Nov 26 | 
 5 | Dec 01 | Eliminación de ciclos
 &nbsp; | Dec 03 | Eliminación de ciclos, continuación. **Entrega Taller # 3**
 6 | Dec 08 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
