@@ -30,7 +30,7 @@ Semana  | Fecha | Tópico
 4 | Nov 24 | Ciclos, continuación <br> **Entrega Taller # 2**
 &nbsp; | Nov 26 | 
 5 | Dec 01 | Eliminación de ciclos
-&nbsp; | Dec 03 | Eliminación de ciclos, continuación. **Entrega Taller # 3**
+&nbsp; | Dec 03 | Eliminación de ciclos, continuación. <br> **Entrega Taller # 3**
 6 | Dec 08 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
 &nbsp; | Dec 10 | **Presentación proyecto**
 7 | Dec 15 | **Presentación proyecto**
