@@ -22,7 +22,7 @@ Por cita.
 Semana  | Fecha | Tópico
 --- | --- | ---
 **1**  | **Nov 03** | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual)
-&nbsp; | **Nov 05** | Asignación y variables <br> Cálculos básicos. [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
+&nbsp; | **Nov 05** | Asignación y variables <br> Cálculos básicos [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
 **2**  | **Nov 10** | Cálculos simbólicos <br> Contenedores básicos
 &nbsp; | **Nov 12** | Contenedores básicos (continuación) <br> Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
 **3**  | **Nov 17** | Control de flujo [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/)<br> **Entrega Tarea # 1**
