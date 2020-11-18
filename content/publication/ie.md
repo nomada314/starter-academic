@@ -13,6 +13,8 @@ image = ""
 caption = ""
 +++
 
+Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-ciencias-naturales/826-una-introduccion-concisa-a-la-inferencia-estadistica.html)
+
 ## Datos
 
 * [Precio acción simulado](https://alexrojas.netlify.com/Data/Inf/PrecioAccionSimulado.csv): Ejemplo 1.40
