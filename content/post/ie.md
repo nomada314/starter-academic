@@ -30,7 +30,7 @@ Semana | Fecha | Tópico
 5 | Dec 02 | Método Bayesiano (2.6)
 &nbsp; | Dec 04 | Método MonteCarlo para estimación bayesiana (2.6.1). <br> **Entrega Tarea # 3**
 6 | Dec 09 | 
-&nbsp; | Dec 11 | Primer examen
+&nbsp; | Dec 11 | <font color="green"> Primer examen </font> 
 7 | Dec 16 | Presentación inicial del artículo
 &nbsp; | Dec 18 | Presentación inicial del artículo
 
