@@ -31,7 +31,7 @@ Semana  | Fecha | Tópico
 &nbsp; | **Nov 26** | Ciclos, continuación 
 5 | Dec 01 | Eliminación de ciclos
 &nbsp; | Dec 03 | Eliminación de ciclos, continuación. <br> **Entrega Taller # 3**
-6 | Dec 08 | **Festivo**
+6 | Dec 08 | <font color="red">Festivo</font>
 &nbsp; | Dec 10 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
 7 | Dec 15 | **Presentación proyecto**
 &nbsp; | Dec 17 | **Presentación proyecto**
