@@ -22,12 +22,12 @@ Disponible próximamente en [RedBooks]()
 
 ## Imágenes
 
-Número | Figura  | Descripción
-:---- | :------: | :------
-1.1   |![Figura 1.1](https://alexrojas.netlify.com/media/Prog/Catedral.jpg =x250 "Catedral.jpg") | Catedral.jpg
-6.2   |![Figura 6.2](https://alexrojas.netlify.com/media/Prog/CircConc.jpg =x250 "CircConc.jpg") | CircConc.jpg
-7.6   |![Figura 7.6](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg =250x "HCG_92.jpg") HCG_92.jpg
-7.8   |![Figura 7.8](https://alexrojas.netlify.com/media/Prog/ROSAT.png =250x "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff") | Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat`
+Figura  | Descripción
+:------ | :------
+![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg") | `Catedral.jpg`: imágen a color de donde se obtuvo la Figura 1.1
+![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg") | `CircConc.jpg`: imágen a color de donde se obtuvo la Figura 6.2
+![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg =250x "HCG_92.jpg") `HCG_92.jpg`: Grupo de galaxies HCG_92, imágen a color de donde se obtuvo la Figura 7.6 (a)
+![](https://alexrojas.netlify.com/media/Prog/ROSAT.png =250x "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff") | Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat`
 
 ## Código
 
