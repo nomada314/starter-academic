@@ -22,8 +22,10 @@ Disponible en [RedBooks]()
 
 ## Imágenes
 
-![ROSAT](https://alexrojas.netlify.com/img/Prog/ROSAT.png "ROSAT")
-
+![Figura 1.1](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg")
+![Figura 6.2.1](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg")
+![Figura 7.6](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg")
+![Figura 7.8](https://alexrojas.netlify.com/media/Prog/ROSAT.png "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff")
 
 ## Código
 
