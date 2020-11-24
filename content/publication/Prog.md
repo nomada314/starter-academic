@@ -36,8 +36,8 @@ Figura  | Descripción
 :------ | :------
 ![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg") | `Catedral.jpg`: imágen a color de donde se obtuvo la Figura 1.1
 ![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg") | `CircConc.jpg`: imágen a color de donde se obtuvo la Figura 6.2
-![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg") `HCG_92.jpg`: Grupo de galaxies HCG_92, imágen a color de donde se obtuvo la Figura 7.6 (a)
-![](https://alexrojas.netlify.com/media/Prog/ROSAT.png "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff") | Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat`
+![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg") | `HCG_92.jpg`: Grupo de galaxies HCG_92, imágen a color de donde se obtuvo la Figura 7.6 (a)
+![](https://alexrojas.netlify.com/media/Prog/ROSAT.png "ROSAT.png") | Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat`
 
 
 ## Errata
