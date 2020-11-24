@@ -22,10 +22,12 @@ Disponible en [RedBooks]()
 
 ## Imágenes
 
-![Figura 1.1](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg")
-![Figura 6.2.1](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg")
-![Figura 7.6](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg")
-![Figura 7.8](https://alexrojas.netlify.com/media/Prog/ROSAT.png "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff")
+Número | Figura  | Descripción
+:---- | :------: | :------
+1.1   |![Figura 1.1](https://alexrojas.netlify.com/media/Prog/Catedral.jpg =x250 "Catedral.jpg") | Catedral.jpg
+6.2   |![Figura 6.2](https://alexrojas.netlify.com/media/Prog/CircConc.jpg =x250 "CircConc.jpg") | CircConc.jpg
+7.6   |![Figura 7.6](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg =250x "HCG_92.jpg") HCG_92.jpg
+7.8   |![Figura 7.8](https://alexrojas.netlify.com/media/Prog/ROSAT.png =250x "Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección aitoff") | Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat`
 
 ## Código
 
