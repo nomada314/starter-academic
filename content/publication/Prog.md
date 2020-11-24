@@ -13,7 +13,7 @@ image = ""
 caption = ""
 +++
 
-Disponible en [RedBooks]()
+Disponible próximamente en [RedBooks]()
 
 ## Datos
 
