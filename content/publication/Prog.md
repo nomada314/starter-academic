@@ -13,8 +13,6 @@ image = ""
 caption = ""
 +++
 
-Disponible próximamente en [RedBooks]()
-
 ## Datos
 
 * [Precio](https://alexrojas.netlify.com/Data/Prog/): Ejemplo XX
