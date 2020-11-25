@@ -45,6 +45,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 * p. 5, Ecuación (1.3): la integración es con respecto a $u$, no $x$
 * p. 36, segunda línea: vector de parámetros en lugar de vector de parámteros
 * p. 46, última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
+* p. 100, novena línea: DEbe ser $\mathbb{E}_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $\mathbb{E}_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$
 * p. 128: El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R)
 * p. 252, prueba del Teorema de Glivenko-Cantelli: La convergencia de $F_n(t_j)$ a $F(t_j)$ se da en el Teorema 1.5, no en "en el teorema anterior". Además, en la novena línea de la prueba existe un error tipográfico y debe ser $F(t_{j-1}) \leq F(t) \leq F(t_{j})$ y $F_{n}(t_{j-1}) \leq F_{n}(t) \leq F_{n}(t_{j})$
 
