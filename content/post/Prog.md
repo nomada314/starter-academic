@@ -29,14 +29,14 @@ Semana  | Fecha | Tópico
 &nbsp; | **Nov 19** | Control de flujo (continuación)
 **4**  | **Nov 24** | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
 &nbsp; | **Nov 26** | Ciclos, continuación 
-5 | Dec 01 | Eliminación de ciclos <br> **Entrega Taller # 3**
-&nbsp; | Dec 03 | Eliminación de ciclos (continuación)
+**5**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
+&nbsp; | **Dec 03** | Eliminación de ciclos
 6 | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
-&nbsp; | Dec 10 | [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/)
+&nbsp; | Dec 10 | Eliminación de ciclos (continuación)
 7 | Dec 15 | **Presentación proyecto**
 &nbsp; | Dec 17 | **Presentación proyecto**
 
-
+<!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
 ### Resources:
 
   - [Anaconda](https://anaconda.org)
