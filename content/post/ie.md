@@ -31,6 +31,6 @@ Semana | Fecha | Tópico
 &nbsp; | Dec 04 |  Método Bayesiano (Continuación)
 6 | Dec 09 | Repaso
 &nbsp; | Dec 11 | <font color="green"> Primer examen </font> 
-7 | Dec 16 | Presentación inicial del artículo
-&nbsp; | Dec 18 | Presentación inicial del artículo
+7 | Dec 16 | Presentación inicial del artículo 
+&nbsp; | Dec 18 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 
