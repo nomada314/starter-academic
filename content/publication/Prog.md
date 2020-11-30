@@ -15,8 +15,19 @@ caption = ""
 
 ## Datos
 
-* [Precio](https://alexrojas.netlify.com/Data/Prog/): Ejemplo XX
-* [Precipitación](https://alexrojas.netlify.com/Data/Prog): Ejemplos XX
+* [codigos.csv](https://alexrojas.netlify.com/Data/Prog/codigos.csv): Ejemplo 5.15
+* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt): Ejemplo 5.11, Problema "Correlación de expresión genética"
+* [expression_timeseries.txt](https://alexrojas.netlify.com/Data/Prog/expression_timeseries.txt): Problema "Correlación de expresión genética"
+* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv): Ejemplo 5.1, Problema "Patrones de compra"
+* [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
+* [FWF.dat](https://alexrojas.netlify.com/Data/Prog/FWF.dat): Ejemplo 5.5
+* [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 5.4
+* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Problema "Correlación de expresión genética" Ejercicios 5.2, 5.3 y 5.4. 
+* [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
+* [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
+
+
+
 
 ## Código
 
