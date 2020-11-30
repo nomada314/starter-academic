@@ -1,0 +1,9 @@
+\EQUINOX = 'J2000'
+\ Información tomada el 21 de mayo de 2020
+| nombre                | ra       | dec       | J       |
+| char                  | double   | double    | double  |
+  NGC5750                 221.546265 -0.223054   9.389
+  NGC5719                 220.234970 -0.318193   9.304
+  UGC01962                37.227932  0.370370    11.838
+  NGC1087                 41.604889  -0.498703   9.570
+  NGC5334                 208.226959 -1.114756   10.818
