@@ -15,16 +15,45 @@ caption = ""
 
 ## Datos
 
+### Problema "Correlación de expresión genética"
+
+* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt)
+* [expression_timeseries.txt](https://alexrojas.netlify.com/Data/Prog/expression_timeseries.txt)
+* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt)
+
+### Problema "Patrones de compra"
+
+* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv)
+* [productos.csv](https://alexrojas.netlify.com/Data/Prog/productos.csv)
+* [ventas.csv](https://alexrojas.netlify.com/Data/Prog/ventas.csv)
+
+
+### Problema "Comparación de las secuencias de nucleótidos para SARS-CoV, MERS-CoV, SARS-CoV2 y RaTG13"
+
+* [SARS-CoV2Col.fasta](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Col.fasta)
+* [SARS-CoV2Ant.gb](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Ant.gb)
+
+
+### Capítulo 5
+
 * [codigos.csv](https://alexrojas.netlify.com/Data/Prog/codigos.csv): Ejemplo 5.15
-* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt): Ejemplo 5.11, Problema "Correlación de expresión genética"
-* [expression_timeseries.txt](https://alexrojas.netlify.com/Data/Prog/expression_timeseries.txt): Problema "Correlación de expresión genética"
-* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv): Ejemplo 5.1, Problema "Patrones de compra"
-* [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
+* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt): Ejemplo 5.11
+* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv): Ejemplo 5.1
 * [FWF.dat](https://alexrojas.netlify.com/Data/Prog/FWF.dat): Ejemplo 5.5
 * [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 5.4
-* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Problema "Correlación de expresión genética" Ejercicios 5.2, 5.3 y 5.4. 
-* [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
+* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
 * [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
+
+### Capítulo 6
+
+* [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 6.2
+* [vmkmki.csv](https://alexrojas.netlify.com/Data/Prog/vmkmki.csv): Ejemplo 6.4
+
+
+### Capítulo 7
+
+* [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
+* [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
 
 
 
