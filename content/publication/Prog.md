@@ -8,7 +8,7 @@ publication_short = ""
 image_preview = ""
 math = true
 highlight = true
-tags = ["Teaching", "Python"]
+tags = ["Teaching", "Python", "Programming"]
 [header]
 image = ""
 caption = ""
