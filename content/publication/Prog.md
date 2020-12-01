@@ -39,6 +39,7 @@ caption = ""
 * [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
 * [montana.txt](https://alexrojas.netlify.com/Data/Prog/montana.txt): Ejercicios 5.9 y 5.10
 * [pulsar.txt](https://alexrojas.netlify.com/Data/Prog/pulsar.txt): Ejemplo 5.7, 5.10
+* [pinguinos.csv](https://alexrojas.netlify.com/Data/Prog/pinguinos.csv): Ejercicio 5.7
 * [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
 * [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejercicios 5.11 y 5.12
 
@@ -68,7 +69,7 @@ caption = ""
 * [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
 * [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
 * [pinguinos.csv](https://alexrojas.netlify.com/Data/Prog/pinguinos.csv): Ejemplo 7.2
-
+* [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejemplo 7.5
 
 #### Problema "Comparación de las secuencias de nucleótidos para SARS-CoV, MERS-CoV, SARS-CoV2 y RaTG13"
 
