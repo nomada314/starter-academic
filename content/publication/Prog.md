@@ -16,6 +16,19 @@ caption = ""
 
 ### Datos
 
+#### Capítulo 2
+
+* [LCT.txt](https://alexrojas.netlify.com/Data/Prog/LCT.txt): Ejemplo Sección 2.3
+
+#### Capítulo 3
+
+* [LCT.txt](https://alexrojas.netlify.com/Data/Prog/LCT.txt): Ejemplo 3.3, Ejercicio 3.8
+
+#### Capítulo 4
+
+* [PAM1.csv](https://alexrojas.netlify.com/Data/Prog/PAM1.csv): Ejercicio 4.19
+
+
 #### Capítulo 5
 
 * [codigos.csv](https://alexrojas.netlify.com/Data/Prog/codigos.csv): Ejemplo 5.15
@@ -24,6 +37,8 @@ caption = ""
 * [FWF.dat](https://alexrojas.netlify.com/Data/Prog/FWF.dat): Ejemplo 5.5
 * [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 5.4
 * [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
+* [montana.txt](https://alexrojas.netlify.com/Data/Prog/montana.txt): Ejercicios 5.9 y 5.10
+* [pulsar.txt](https://alexrojas.netlify.com/Data/Prog/pulsar.txt): Ejemplo 5.7, 5.10
 * [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
 * [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejercicios 5.11 y 5.12
 
@@ -33,6 +48,7 @@ caption = ""
 * [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt)
 * [expression_timeseries.txt](https://alexrojas.netlify.com/Data/Prog/expression_timeseries.txt)
 * [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt)
+* [transcript_table.txt](https://alexrojas.netlify.com/Data/Prog/transcript_table.txt)
 
 #### Problema "Patrones de compra"
 
@@ -51,12 +67,19 @@ caption = ""
 
 * [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
 * [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
+* [pinguinos.csv](https://alexrojas.netlify.com/Data/Prog/pinguinos.csv): Ejemplo 7.2
 
 
 #### Problema "Comparación de las secuencias de nucleótidos para SARS-CoV, MERS-CoV, SARS-CoV2 y RaTG13"
 
-* [SARS-CoV2Col.fasta](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Col.fasta)
+* [arbol.dnd](https://alexrojas.netlify.com/Data/Prog/arbol.dnd)
+* [MERS.fasta](https://alexrojas.netlify.com/Data/Prog/MERS.fasta)
+* [Murcielago.fasta](https://alexrojas.netlify.com/Data/Prog/Murcielago.fasta)
+* [SARS.fasta](https://alexrojas.netlify.com/Data/Prog/SARS.fasta)
+* [SARSCoV.fasta](https://alexrojas.netlify.com/Data/Prog/SARSCoV.fasta)
 * [SARS-CoV2Ant.gb](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Ant.gb)
+* [SARS-CoV2Col.fasta](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Col.fasta)
+
 
 
 
