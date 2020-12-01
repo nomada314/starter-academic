@@ -25,6 +25,7 @@ caption = ""
 * [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 5.4
 * [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
 * [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
+* [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejercicios 5.11 y 5.12
 
 
 #### Problema "Correlación expresión genética"
@@ -39,13 +40,14 @@ caption = ""
 * [productos.csv](https://alexrojas.netlify.com/Data/Prog/productos.csv)
 * [ventas.csv](https://alexrojas.netlify.com/Data/Prog/ventas.csv)
 
+
 #### Capítulo 6
 
 * [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 6.2
 * [vmkmki.csv](https://alexrojas.netlify.com/Data/Prog/vmkmki.csv): Ejemplo 6.4
 
 
-### Capítulo 7
+#### Capítulo 7
 
 * [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
 * [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
