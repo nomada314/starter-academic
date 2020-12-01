@@ -32,7 +32,7 @@ Semana  | Fecha | Tópico
 **5**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
 &nbsp; | **Dec 03** | Eliminación de ciclos
 6 | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
-&nbsp; | Dec 10 | Eliminación de ciclos (continuación)
+&nbsp; | Dec 10 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
 7 | Dec 15 | **Presentación proyecto**
 &nbsp; | Dec 17 | **Presentación proyecto**
 
