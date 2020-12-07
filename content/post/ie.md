@@ -28,9 +28,9 @@ Semana | Fecha | Tópico
 **4**  | **Nov 25** | Información de Fisher (2.5.1) <br> Propiedades EMV  (2.5.2) <br> **Entrega Tarea # 2**
 &nbsp; | **Nov 27** | Algoritmos de Newton-Rapson (2.5.3) <br> Fisher *scoring* (2.5.4) <br> EM (2.5.5)
 **5**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
-&nbsp; | **Dec 04** |  Método Bayesiano (Continuación)
-6 | Dec 09 | Repaso
-&nbsp; | Dec 11 | <font color="green"> Primer examen </font> 
+&nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
+**6**  | **Dec 09** | Repaso
+&nbsp; | **Dec 11** | <font color="green"> Primer examen </font> 
 7 | Dec 16 | Presentación inicial del artículo 
 &nbsp; | Dec 18 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 
