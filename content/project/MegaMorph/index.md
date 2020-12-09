@@ -5,9 +5,6 @@ tags:
 - Old projects
 date: 2016-04-27
 
-# Optional external URL for project (replaces project detail page).
-#external_link: ""
-
 image:
   caption: NGC_5364
   focal_point: Smart
@@ -23,6 +20,3 @@ image:
 #url_video: ""
 
 ---
-
-
-
