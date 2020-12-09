@@ -8,7 +8,7 @@ math      = true
 
 [Página oficial Pari/GP](https://pari.math.u-bordeaux.fr/) y [Página oficial SageMath](https://www.sagemath.org/)
 
-Podemos encontrar y almacenar la representación en base $p$ de un número $n$ así `n + O(p^e)`, donde `e` es la precisión deseada, por ejemplo, 
+Podemos encontrar y almacenar la representación en base $p$ de un número $n$ así `n + O(p^N)`, donde `N` es la precisión deseada, por ejemplo, 
 
 ```{python}
 a = 157 + O(5^20)
@@ -17,13 +17,17 @@ c = 24 + O(3^20)
 d = 17 + O(3^20)
 ```
 
+Esta representación es de la forma $a + p^N\mathbb{Z}_p$ o, en otras palabras $a+O(p^N)$:
+
+$$ a = a_vp^v + a_{v+1}p^{v+1}+\cdots + a_{N-1}p^{N-1} + \text{?}p^N+ \text{?}p^{N+1}+\cdots$$
+
 Para obtener los dígitos usamos la función `digits()`:
 
 ```{python}
 digits(157,5)
 ```
 
-*** Sin embargo, dado que queremos "elevar" de $\mathbb{Z}/nZ$ a $Z$, 
+*** Sin embargo, dado que queremos "elevar" de $\mathbb{Z}/n\mathbb{Z}$ a $\mathbb{Z}$, 
 
 ```{python}
 digits(lift(b),5)
