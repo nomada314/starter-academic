@@ -53,4 +53,32 @@ sqrt(8 + O(5^20))
 
 La última línea de código produce un error. 
 
+#### Orden (Valuation)
+
+El orden p-ádico de $n$, $v_p(n)$,  es tal que  $n = p^{v_p(n)}n'$
+
+
+```{python}
+valuation(400,5)
+5^(valuation(400,5))*16
+
+
+valuation(965,7)
+valuation(196/48,7)
+valuation(196,7)
+valuation(48,7)
+
+valuation(123,7)
+valuation(123/48,7)
+
+valuation(180/3,5)
+
+valuation(180*4,5)
+valuation(180,5)+valuation(4,5)
+
+valuation(180,5) + valuation(400,5)
+```
+
+
+
 
