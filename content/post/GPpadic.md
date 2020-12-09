@@ -23,7 +23,7 @@ Para obtener los dígitos usamos la función `digits()`:
 digits(157,5)
 ```
 
-*** Sin embargo, dado que queremos "elevar" de $Z/nZ$ a $Z$, 
+*** Sin embargo, dado que queremos "elevar" de $\mathbb{Z}/nZ$ a $Z$, 
 
 ```{python}
 digits(lift(b),5)
