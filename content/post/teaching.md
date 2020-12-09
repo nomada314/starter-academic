@@ -8,7 +8,7 @@ math      = true
 +++
 
 
-## Second semester 2020
+## Segundo semestre 2020
 * [Electiva I: Programación](https://alexrojas.netlify.app/post/Prog/)
 * [Inferencía Estadística](https://alexrojas.netlify.app/post/Inf/)
 
