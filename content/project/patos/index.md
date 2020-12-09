@@ -9,7 +9,7 @@ date: 2019-08-01"
 #external_link: ""
 
 image:
-  caption: Pato
+  caption: "Cairina moschata"
   focal_point: Smart
 
 #links:
