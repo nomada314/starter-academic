@@ -126,4 +126,24 @@ concat("...",concat([Str(x)|x<-digits(lift(r2[1]),2)]))
 Una raíz es congruente con $1 (\text{mod} 8)$ y la otra es $7 (\text{mod} 8)$
 
 
+```{python}
+factorpadic(x^2 - 17, 2,20)
+factorpadic(x^2 + x + 6, 2,20) 
+```
+
+### Series de potencias
+
+
+Sea $$ f(X) = 1 + X + \frac{X^2}{2}+\cdots + \frac{X^n}{n!}+ \cdots,$$ 
+$$g(X) = 2X^2 - 2X$$
+y $h(X) = f(g(X))$.
+
+```{python}
+h(x)=exp(2*x^2-2*x)
+hseries=truncate(exp(2*x^2-2*x))
+
+h(1+O(2^20))
+subst(hseries,x,1+O(2^20))
+```
+
 
