@@ -147,3 +147,8 @@ subst(hseries,x,1+O(2^20))
 ```
 
 
+#### Polinomios generadores $K/\mathbb{Q}_p$ de grado $n$
+```{python}
+padicfields(3,4)
+```
+
