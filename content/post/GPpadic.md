@@ -80,5 +80,50 @@ valuation(180,5) + valuation(400,5)
 ```
 
 
+#### Raíces p-ádicas
+
+Se quieren encontrar las raices del polinomio $x^2+x+6$ `mod` $p$. 
+
+```{python}
+raiz = padicappr(x^2+x+6,0+O(2^20))[1]
+concat("...",concat([Str(x)|x<-digits(lift(raiz),raiz.p)]))
+raiz^2
+raiz^2 + raiz + 6
+```
+Paso a paso:
+
+```{python}
+a = 1 + O(2^20)
+valuation(a^2 + a + 6,2)
+valuation(2*a + 1,2)
+
+b = a  - (a^2 + a + 6)/(2*a+1)
+b^2 + b + 6
+a = b
+b = a  - (a^2 + a + 6)/(2*a+1)
+b^2 + b + 6
+a = b
+b = a  - (a^2 + a + 6)/(2*a+1)
+b^2 + b + 6
+a = b
+b = a  - (a^2 + a + 6)/(2*a+1)
+b^2 + b + 6
+```
+
+
+
+Ahora encontremos $x$ tal que $x^2 - 17 \equiv 1 (\text{mod} 2)$:
+
+```{python}
+a = 1 + O(2^20)
+valuation(a^2 -17 ,2)
+
+
+r2 = padicappr(x^2-17,1+O(2^20))
+concat("...",concat([Str(x)|x<-digits(lift(r2[1]),2)]))
+```
+
+Una raíz es congruente con $1 (\text{mod} 8)$ y la otra es $7 (\text{mod} 8)$
+
 
 
