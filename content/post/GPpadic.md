@@ -93,7 +93,7 @@ raiz^2 + raiz + 6
 Paso a paso:
 
 ```{python}
-a = 1 + O(2^20)
+a = 0 + O(2^20)
 valuation(a^2 + a + 6,2)
 valuation(2*a + 1,2)
 
@@ -117,7 +117,7 @@ Ahora encontremos $x$ tal que $x^2 - 17 \equiv 1 (\text{mod} 2)$:
 ```{python}
 a = 1 + O(2^20)
 valuation(a^2 -17 ,2)
-
+valuation(2*a ,2)
 
 r2 = padicappr(x^2-17,1+O(2^20))
 concat("...",concat([Str(x)|x<-digits(lift(r2[1]),2)]))
