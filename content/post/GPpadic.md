@@ -46,6 +46,9 @@ c/3
 concat("...",concat([Str(x)|x<-digits(lift(c/3),3)]))
 log(c)
 log(a)
+
+I + O(5^9)
+ 
 sqrt(6 + O(5^20))
 sqrt(9 + O(5^20))
 sqrt(8 + O(5^20))
