@@ -35,24 +35,26 @@ Semana  | Fecha | Tópico
 &nbsp; | **Dec 10** | Cese de actividades
 7 | Dec 15 | .
 &nbsp; | Dec 17 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
-8  | Feb 04 | **Presentación proyecto**
-&nbsp; | Feb 06 | .
-9  | Feb 11 | .
-&nbsp; | Feb 13 | .
-10  | Feb 18 | .
-&nbsp; | Feb 20 | .
-11  | Feb 25 | .
-&nbsp; | Feb 27 | .
-12  | Mar 03 | .
-&nbsp; | Mar 05 | .
-13  | Mar 10 | .
-&nbsp; | Mar 12 | .
-14  | Mar 17 | .
-&nbsp; | Mar 19 | .
-15  | Mar 24 | .
-&nbsp; | Mar 26 | .
-16  | Mar 31 | .
-&nbsp; | Abr 02 | .
+8  | Feb 02 | **Presentación proyecto**
+&nbsp; | Feb 04 | .
+9  | Feb 09 | .
+&nbsp; | Feb 11 | .
+10  | Feb 16 | .
+&nbsp; | Feb 18 | .
+11  | Feb 23 | .
+&nbsp; | Feb 25 | .
+12  | Mar 02 | .
+&nbsp; | Mar 04 | .
+13  | Mar 09 | .
+&nbsp; | Mar 11 | .
+14  | Mar 16 | .
+&nbsp; | Mar 18 | .
+15  | Mar 23 | .
+&nbsp; | Mar 25 | .
+-  | Mar 30 | Semana santa
+&nbsp; | Abr 01 | Semana santa
+16  | Abr 06 | .
+&nbsp; | Abr 08 | .
 
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
