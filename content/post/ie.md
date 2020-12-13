@@ -47,7 +47,7 @@ Semana | Fecha | Tópico
 &nbsp; | Mar 19 | .
 14  | Mar 24 | .
 &nbsp; | Mar 26 | .
--  | Mar 31 | Semana santa
+&nbsp; | Mar 31 | Semana santa
 &nbsp; | Abr 02 | Semana santa
 16  | Abr 07 | .
 &nbsp; | Abr 09 | .
