@@ -33,22 +33,22 @@ Semana | Fecha | Tópico
 &nbsp; | **Dec 11** | Repaso
 **7**  | **Dec 16** | Cese de actividades
 &nbsp; | **Dec 18** | <font color="green"> Primer examen </font> 
-8  | Feb 05 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
-&nbsp; | Feb 07 | .
-9  | Feb 12 | .
-&nbsp; | Feb 14 | .
-10  | Feb 19 | .
-&nbsp; | Feb 21 | .
-11  | Feb 26 | .
-&nbsp; | Feb 28 | .
-12  | Mar 04 | .
-&nbsp; | Mar 06 | .
-13  | Mar 11 | .
-&nbsp; | Mar 13 | .
-14  | Mar 18 | .
-&nbsp; | Mar 20 | .
-15  | Mar 25 | .
-&nbsp; | Mar 27 | .
-16  | Abr 01 | .
-&nbsp; | Abr 03 | .
+8  | Feb 10 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+&nbsp; | Feb 12 | .
+9  | Feb 17 | .
+&nbsp; | Feb 19 | .
+10  | Feb 24 | .
+&nbsp; | Feb 26 | .
+11  | Mar 03 | .
+&nbsp; | Mar 05 | .
+12  | Mar 10 | .
+&nbsp; | Mar 12 | .
+13  | Mar 17 | .
+&nbsp; | Mar 19 | .
+14  | Mar 24 | .
+&nbsp; | Mar 26 | .
+-  | Mar 31 | Semana santa
+&nbsp; | Abr 02 | Semana santa
+16  | Abr 07 | .
+&nbsp; | Abr 09 | .
 
