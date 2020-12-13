@@ -51,7 +51,7 @@ Semana  | Fecha | Tópico
 &nbsp; | Mar 18 | .
 15  | Mar 23 | .
 &nbsp; | Mar 25 | .
--  | Mar 30 | Semana santa
+&nbsp;  | Mar 30 | Semana santa
 &nbsp; | Abr 01 | Semana santa
 16  | Abr 06 | .
 &nbsp; | Abr 08 | .
