@@ -29,8 +29,26 @@ Semana | Fecha | Tópico
 &nbsp; | **Nov 27** | Algoritmos de Newton-Rapson (2.5.3) <br> Fisher *scoring* (2.5.4) <br> EM (2.5.5)
 **5**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
-**6**  | **Dec 09** | Repaso
-&nbsp; | **Dec 11** | <font color="green"> Primer examen </font> 
-7 | Dec 16 | Presentación inicial del artículo 
-&nbsp; | Dec 18 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+**6**  | **Dec 09** | Cese de actividades
+&nbsp; | **Dec 11** | Repaso
+**7**  | **Dec 16** | Cese de actividades
+&nbsp; | **Dec 18** | <font color="green"> Primer examen </font> 
+8  | Feb 05 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+&nbsp; | Feb 07 | .
+9  | Feb 12 | .
+&nbsp; | Feb 14 | .
+10  | Feb 19 | .
+&nbsp; | Feb 21 | .
+11  | Feb 26 | .
+&nbsp; | Feb 28 | .
+12  | Mar 04 | .
+&nbsp; | Mar 06 | .
+13  | Mar 11 | .
+&nbsp; | Mar 13 | .
+14  | Mar 18 | .
+&nbsp; | Mar 20 | .
+15  | Mar 25 | .
+&nbsp; | Mar 27 | .
+16  | Abr 01 | .
+&nbsp; | Abr 03 | .
 
