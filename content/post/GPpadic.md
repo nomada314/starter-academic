@@ -1,7 +1,7 @@
 +++
 date      = 2020-12-09
 lastmod   = 2020-12-09
-draft     = false
+draft     = true
 title     = "PariGP y SageMath"
 math      = true
 +++
