@@ -32,9 +32,28 @@ Semana  | Fecha | Tópico
 **5**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
 &nbsp; | **Dec 03** | Eliminación de ciclos
 **6** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
-&nbsp; | **Dec 10** | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
-7 | Dec 15 | **Presentación proyecto**
-&nbsp; | Dec 17 | **Presentación proyecto**
+&nbsp; | **Dec 10** | Cese de actividades
+7 | Dec 15 | .
+&nbsp; | Dec 17 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
+8  | Feb 04 | **Presentación proyecto**
+&nbsp; | Feb 06 | .
+9  | Feb 11 | .
+&nbsp; | Feb 13 | .
+10  | Feb 18 | .
+&nbsp; | Feb 20 | .
+11  | Feb 25 | .
+&nbsp; | Feb 27 | .
+12  | Mar 03 | .
+&nbsp; | Mar 05 | .
+13  | Mar 10 | .
+&nbsp; | Mar 12 | .
+14  | Mar 17 | .
+&nbsp; | Mar 19 | .
+15  | Mar 24 | .
+&nbsp; | Mar 26 | .
+16  | Mar 31 | .
+&nbsp; | Abr 02 | .
+
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
 ### Resources:
