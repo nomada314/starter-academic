@@ -33,27 +33,23 @@ Semana  | Fecha | Tópico
 &nbsp; | **Dec 03** | Eliminación de ciclos
 **6** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
 &nbsp; | **Dec 10** | Cese de actividades
-7 | Dec 15 | .
-&nbsp; | Dec 17 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
-8  | Feb 02 | **Presentación proyecto**
-&nbsp; | Feb 04 | .
-9  | Feb 09 | .
-&nbsp; | Feb 11 | .
-10  | Feb 16 | .
+x  | Feb 09 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
+&nbsp; | Feb 11 | **Presentación proyecto**
+x  | Feb 16 | .
 &nbsp; | Feb 18 | .
-11  | Feb 23 | .
+x  | Feb 23 | .
 &nbsp; | Feb 25 | .
-12  | Mar 02 | .
+x  | Mar 02 | .
 &nbsp; | Mar 04 | .
-13  | Mar 09 | .
+x  | Mar 09 | .
 &nbsp; | Mar 11 | .
-14  | Mar 16 | .
+x  | Mar 16 | .
 &nbsp; | Mar 18 | .
-15  | Mar 23 | .
+x  | Mar 23 | .
 &nbsp; | Mar 25 | .
 &nbsp;  | Mar 30 | Semana santa
 &nbsp; | Abr 01 | Semana santa
-16  | Abr 06 | .
+x  | Abr 06 | .
 &nbsp; | Abr 08 | .
 
 
