@@ -31,24 +31,22 @@ Semana | Fecha | Tópico
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
 **6**  | **Dec 09** | Cese de actividades
 &nbsp; | **Dec 11** | Repaso
-**7**  | **Dec 16** | Cese de actividades
-&nbsp; | **Dec 18** | <font color="green"> Primer examen </font> 
-8  | Feb 10 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
-&nbsp; | Feb 12 | .
-9  | Feb 17 | .
+x  | Feb 10 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+&nbsp; | Feb 12 | <font color="green"> Primer examen </font> 
+x  | Feb 17 | .
 &nbsp; | Feb 19 | .
-10  | Feb 24 | .
+x  | Feb 24 | .
 &nbsp; | Feb 26 | .
-11  | Mar 03 | .
+x  | Mar 03 | .
 &nbsp; | Mar 05 | .
-12  | Mar 10 | .
+x  | Mar 10 | .
 &nbsp; | Mar 12 | .
-13  | Mar 17 | .
+x  | Mar 17 | .
 &nbsp; | Mar 19 | .
-14  | Mar 24 | .
+x  | Mar 24 | .
 &nbsp; | Mar 26 | .
 &nbsp; | Mar 31 | Semana santa
 &nbsp; | Abr 02 | Semana santa
-16  | Abr 07 | .
+x  | Abr 07 | .
 &nbsp; | Abr 09 | .
 
