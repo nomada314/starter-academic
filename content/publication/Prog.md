@@ -1,6 +1,6 @@
 +++
 title = "Introducción a Python para Estudiantes de Ciencias (Bajo revisión)"
-date = "2020-12-01"
+date = "2021-01-09"
 authors = ["López A.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
@@ -81,8 +81,6 @@ caption = ""
 * [SARSCoV.fasta](https://alexrojas.netlify.com/Data/Prog/SARSCoV.fasta)
 * [SARS-CoV2Ant.gb](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Ant.gb)
 * [SARS-CoV2Col.fasta](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Col.fasta)
-
-
 
 
 
