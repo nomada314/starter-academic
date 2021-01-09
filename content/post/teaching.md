@@ -10,5 +10,5 @@ math      = true
 
 ## Segundo semestre 2020
 * [Electiva I: Programación](https://alexrojas.netlify.app/post/Prog/)
-* [Inferencía Estadística](https://alexrojas.netlify.app/post/Inf/)
+* [Inferencía Estadística](https://alexrojas.netlify.app/post/ie/)
 
