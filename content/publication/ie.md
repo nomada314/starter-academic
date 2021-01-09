@@ -35,9 +35,9 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="250" height="350"></th>
-    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="250" height="350"></th>
-    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="250" height="350"></th>
+    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="250"></th>
+    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="250"></th>
+    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="250"></th>
   </tr>
   <tr>
     <td>Mano de oso (Oreopanax bogotensis)</td>
