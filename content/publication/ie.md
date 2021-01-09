@@ -33,6 +33,19 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 
 ## Muestra de árboles sembrados
 
+<table style="width:100%">
+  <tr>
+    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="50" height="70"></th>
+    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="50" height="70"></th>
+    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="50" height="70"></th>
+  </tr>
+  <tr>
+    <td>[Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis)</td>
+    <td>[Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)</td>
+    <td>[Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata)</td>
+  </tr>
+</table>
+
 <img src="https://alexrojas.netlify.app/media/manodeoso.png" width="50" height="70"> | 
 <img src="https://alexrojas.netlify.app/media/roble.png" width="50" height="70"> | 
 <img src="https://alexrojas.netlify.app/media/yarumo.png" width="50" height="70">
