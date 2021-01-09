@@ -35,14 +35,24 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="50" height="70"></th>
-    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="50" height="70"></th>
-    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="50" height="70"></th>
+    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="100" height="140"></th>
   </tr>
   <tr>
-    <td>[Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis)</td>
-    <td>[Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)</td>
-    <td>[Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata)</td>
+    <td>Mano de oso (Oreopanax bogotensis)</td>
+    <td>Roble (Quercus humboldtii)</td>
+    <td>Yarumo (Cecropia peltata)</td>
+  </tr>
+  <tr>
+    <th><img src="https://alexrojas.netlify.app/media/garrocho.png" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/gaque.png" width="100" height="140"></th>
+  </tr>
+  <tr>
+    <td>Garrocho (Viburnum triphyllum)</td>
+    <td>Raque (Vallea stipularis)</td>
+    <td>Gaque (Clusia multiflora)</td>
   </tr>
 </table>
 
