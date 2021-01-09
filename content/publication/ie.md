@@ -36,8 +36,8 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 ![Mano de oso](https://alexrojas.netlify.app/media/manodeoso.png)| ![Roble](https://alexrojas.netlify.app/media/roble.png) | ![Yarumo](https://alexrojas.netlify.app/media/yarumo.png)
 :---:|:---:|:---:
 [Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata) 
-![Garrocho](https://alexrojas.netlify.app/media/garrocho.png)| ![Borrachero]() | ![Gaque](https://alexrojas.netlify.app/media/gaque.png)
-[Garrocho (Viburnum triphyllum)](https://es.wikipedia.org/wiki/Viburnum_triphyllum) | [Borrachero (Brugmansia arborea)](https://es.wikipedia.org/wiki/Brugmansia_arborea)| [Gaque (Clusia multiflora)](https://es.wikipedia.org/wiki/Clusia_multiflora) 
+![Garrocho](https://alexrojas.netlify.app/media/garrocho.png)| ![Raque]() | ![Gaque](https://alexrojas.netlify.app/media/raque.png)
+[Garrocho (Viburnum triphyllum)](https://es.wikipedia.org/wiki/Viburnum_triphyllum) | [Raque (Vallea stipularis)](https://es.wikipedia.org/wiki/Vallea_stipularis)| [Gaque (Clusia multiflora)](https://es.wikipedia.org/wiki/Clusia_multiflora) 
 
 
 ## Errata
