@@ -35,9 +35,9 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="100" height="140"></th>
-    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="100" height="140"></th>
-    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="200" height="280"></th>
+    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="200" height="280"></th>
+    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="200" height="280"></th>
   </tr>
   <tr>
     <td>Mano de oso (Oreopanax bogotensis)</td>
@@ -55,14 +55,6 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
     <td>Gaque (Clusia multiflora)</td>
   </tr>
 </table>
-
-<img src="https://alexrojas.netlify.app/media/manodeoso.png" width="50" height="70"> | 
-<img src="https://alexrojas.netlify.app/media/roble.png" width="50" height="70"> | 
-<img src="https://alexrojas.netlify.app/media/yarumo.png" width="50" height="70">
-:---:|:---:|:---:
-[Mano de oso (Oreopanax bogotensis)](https://es.wikipedia.org/wiki/Oreopanax_bogotensis) | [Roble (Quercus humboldtii)](https://es.wikipedia.org/wiki/Quercus_humboldtii)| [Yarumo (Cecropia peltata)](https://es.wikipedia.org/wiki/Cecropia_peltata) 
-![Garrocho](https://alexrojas.netlify.app/media/garrocho.png =50x50)| ![Raque](https://alexrojas.netlify.app/media/Raque.jpg =50x50) | ![Gaque](https://alexrojas.netlify.app/media/gaque.png =50x50)
-[Garrocho (Viburnum triphyllum)](https://es.wikipedia.org/wiki/Viburnum_triphyllum) | [Raque (Vallea stipularis)](https://es.wikipedia.org/wiki/Vallea_stipularis)| [Gaque (Clusia multiflora)](https://es.wikipedia.org/wiki/Clusia_multiflora) 
 
 
 ## Errata
