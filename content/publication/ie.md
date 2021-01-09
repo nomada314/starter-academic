@@ -45,9 +45,9 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
     <td>Yarumo (Cecropia peltata)</td>
   </tr>
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/garrocho.png" width="100" height="140"></th>
-    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="100" height="140"></th>
-    <th><img src="https://alexrojas.netlify.app/media/gaque.png" width="100" height="140"></th>
+    <th><img src="https://alexrojas.netlify.app/media/garrocho.png" width="250" height="350"></th>
+    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="250" height="350"></th>
+    <th><img src="https://alexrojas.netlify.app/media/gaque.png" width="250" height="350"></th>
   </tr>
   <tr>
     <td>Garrocho (Viburnum triphyllum)</td>
