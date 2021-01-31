@@ -24,7 +24,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-cien
 * [Lesiones craneales en la NFL 2012-15](https://alexrojas.netlify.com/Data/Inf/NFL.csv): Ejemplo 2.63
 * [Verizon](https://alexrojas.netlify.com/Data/Inf/Verizon.csv): Ejemplo 3.17
 
-## Código
+## Código en R
 
 * [Capítulo 1.](https://alexrojas.netlify.com/code/Inf/Infcap1.R) Preliminares
 * [Capítulo 2.](https://alexrojas.netlify.com/code/Inf/Infcap2.R) Estimación puntual
