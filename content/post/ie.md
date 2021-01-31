@@ -1,6 +1,6 @@
 +++
 date      = 2020-10-27
-lastmod   = 2020-10-27
+lastmod   = 2021-01-31
 draft     = false
 tags      = ["Teaching", "Inferencia"]
 title     = "Estadística Inferencial"
@@ -31,22 +31,26 @@ Semana | Fecha | Tópico
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
 **6**  | **Dec 09** | Cese de actividades
 &nbsp; | **Dec 11** | Repaso
-x  | Feb 10 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
-&nbsp; | Feb 12 | <font color="green"> Primer examen </font> 
-x  | Feb 17 | .
+7  | Feb 17 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 &nbsp; | Feb 19 | .
-x  | Feb 24 | .
+8  | Feb 24 | <font color="green"> Primer examen </font> 
 &nbsp; | Feb 26 | .
-x  | Mar 03 | .
+9  | Mar 03 | .
 &nbsp; | Mar 05 | .
-x  | Mar 10 | .
+10  | Mar 10 | .
 &nbsp; | Mar 12 | .
-x  | Mar 17 | .
+11 | Mar 17 | .
 &nbsp; | Mar 19 | .
-x  | Mar 24 | .
+12  | Mar 24 | .
 &nbsp; | Mar 26 | .
 &nbsp; | Mar 31 | Semana santa
 &nbsp; | Abr 02 | Semana santa
-x  | Abr 07 | .
+13  | Abr 07 | .
 &nbsp; | Abr 09 | .
+14  | Abr 14 | .
+&nbsp; | Abr 16 | .
+15  | Abr 21 | .
+&nbsp; | Abr 23 | .
+16  | Abr 28 | .
+&nbsp; | Abr 30 | .
 
