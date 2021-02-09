@@ -35,8 +35,8 @@ Semana  | Fecha | Tópico
 &nbsp; | **Dec 10** | Cese de actividades
 5  | Feb 16 | Eliminación de ciclos (continuación) 
 &nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
-6  | Feb 23 | .
-&nbsp; | Feb 25 | .
+6  | Feb 23 | Presentación de problemas
+&nbsp; | Feb 25 | Presentación de problemas
 7  | Mar 01 | **Entrega Taller # 4**
 &nbsp; | Mar 02 | **Presentación proyecto**
 &nbsp; | Mar 04 | **Entrega Taller # 5**
