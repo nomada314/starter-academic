@@ -1,6 +1,6 @@
 +++
 date      = 2020-09-28
-lastmod   = 2020-11-23
+lastmod   = 2020-02-09
 draft     = false
 tags      = ["Teaching", "Programming", "Python"]
 title     = "Electiva I"
@@ -29,28 +29,37 @@ Semana  | Fecha | Tópico
 &nbsp; | **Nov 19** | Control de flujo (continuación)
 **4**  | **Nov 24** | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
 &nbsp; | **Nov 26** | Ciclos, continuación 
-**5**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
+**5x**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
 &nbsp; | **Dec 03** | Eliminación de ciclos
-**6** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
+**6x** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
 &nbsp; | **Dec 10** | Cese de actividades
-x  | Feb 09 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**
-&nbsp; | Feb 11 | **Presentación proyecto**
-x  | Feb 16 | .
-&nbsp; | Feb 18 | .
-x  | Feb 23 | .
+5  | Feb 16 | Eliminación de ciclos (continuación) 
+&nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
+6  | Feb 23 | .
 &nbsp; | Feb 25 | .
-x  | Mar 02 | .
-&nbsp; | Mar 04 | .
-x  | Mar 09 | .
+7  | Mar 01 | **Entrega Taller # 4**
+&nbsp; | Mar 02 | **Presentación proyecto**
+&nbsp; | Mar 04 | **Entrega Taller # 5**
+8  | Mar 09 | .
 &nbsp; | Mar 11 | .
-x  | Mar 16 | .
+9  | Mar 16 | .
 &nbsp; | Mar 18 | .
-x  | Mar 23 | .
+10  | Mar 23 | .
 &nbsp; | Mar 25 | .
 &nbsp;  | Mar 30 | Semana santa
 &nbsp; | Abr 01 | Semana santa
-x  | Abr 06 | .
+11  | Abr 06 | .
 &nbsp; | Abr 08 | .
+12  | Abr 13 | .
+&nbsp; | Abr 15 | .
+13  | Abr 20 | .
+&nbsp; | Abr 22 | .
+14  | Abr 27 | .
+&nbsp; | Abr 29 | .
+15  | May 04 | .
+&nbsp; | May 06 | .
+16  | May 11 | .
+&nbsp; | May 13 | .
 
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
