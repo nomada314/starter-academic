@@ -1,6 +1,6 @@
 +++
 date      = 2020-10-27
-lastmod   = 2021-01-31
+lastmod   = 2021-02-09
 draft     = false
 tags      = ["Teaching", "Inferencia"]
 title     = "Estadística Inferencial"
@@ -27,16 +27,16 @@ Semana | Fecha | Tópico
 &nbsp; | **Nov 20** | Método de máxima verosimilitud (2.5)
 **4**  | **Nov 25** | Información de Fisher (2.5.1) <br> Propiedades EMV  (2.5.2) <br> **Entrega Tarea # 2**
 &nbsp; | **Nov 27** | Algoritmos de Newton-Rapson (2.5.3) <br> Fisher *scoring* (2.5.4) <br> EM (2.5.5)
-**5**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
+**5x**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
-**6**  | **Dec 09** | Cese de actividades
+**6x**  | **Dec 09** | Cese de actividades
 &nbsp; | **Dec 11** | Repaso
-7  | Feb 17 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+5  | Feb 17 | .
 &nbsp; | Feb 19 | .
-8  | Feb 24 | <font color="green"> Primer examen </font> 
+8  | Feb 24 | .
 &nbsp; | Feb 26 | .
-9  | Mar 03 | .
-&nbsp; | Mar 05 | .
+9  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+&nbsp; | Mar 05 | <font color="green"> Primer examen </font> 
 10  | Mar 10 | .
 &nbsp; | Mar 12 | .
 11 | Mar 17 | .
