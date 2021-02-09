@@ -46,8 +46,8 @@ Semana  | Fecha | Tópico
 &nbsp; | Mar 18 | .
 10  | Mar 23 | .
 &nbsp; | Mar 25 | .
-&nbsp;  | Mar 30 | Semana santa
-&nbsp; | Abr 01 | Semana santa
+&nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
+&nbsp; | <font color="red">Abr 01</font> | <font color="red">Semana santa</font>
 11  | Abr 06 | .
 &nbsp; | Abr 08 | .
 12  | Abr 13 | .
