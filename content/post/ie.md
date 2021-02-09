@@ -27,30 +27,35 @@ Semana | Fecha | Tópico
 &nbsp; | **Nov 20** | Método de máxima verosimilitud (2.5)
 **4**  | **Nov 25** | Información de Fisher (2.5.1) <br> Propiedades EMV  (2.5.2) <br> **Entrega Tarea # 2**
 &nbsp; | **Nov 27** | Algoritmos de Newton-Rapson (2.5.3) <br> Fisher *scoring* (2.5.4) <br> EM (2.5.5)
-**5x**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
+**x**  | **Dec 02** | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
-**6x**  | **Dec 09** | Cese de actividades
+**x**  | **Dec 09** | Cese de actividades
 &nbsp; | **Dec 11** | Repaso
 5  | Feb 17 | .
 &nbsp; | Feb 19 | .
-8  | Feb 24 | .
+6  | Feb 24 | .
 &nbsp; | Feb 26 | .
-9  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
+7  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 &nbsp; | Mar 05 | <font color="green"> Primer examen </font> 
-10  | Mar 10 | .
+8  | Mar 10 | .
 &nbsp; | Mar 12 | .
-11 | Mar 17 | .
+9 | Mar 17 | .
 &nbsp; | Mar 19 | .
-12  | Mar 24 | .
+10  | Mar 24 | .
 &nbsp; | Mar 26 | .
 &nbsp; | Mar 31 | Semana santa
 &nbsp; | Abr 02 | Semana santa
-13  | Abr 07 | .
+11  | Abr 07 | .
 &nbsp; | Abr 09 | .
-14  | Abr 14 | .
+12  | Abr 14 | .
 &nbsp; | Abr 16 | .
-15  | Abr 21 | .
+13  | Abr 21 | .
 &nbsp; | Abr 23 | .
-16  | Abr 28 | .
+14  | Abr 28 | .
 &nbsp; | Abr 30 | .
+15  | May 05 | .
+&nbsp; | May 07 | .
+16  | May 12 | .
+&nbsp; | May 14 | .
+
 
