@@ -29,9 +29,9 @@ Semana  | Fecha | Tópico
 &nbsp; | **Nov 19** | Control de flujo (continuación)
 **4**  | **Nov 24** | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
 &nbsp; | **Nov 26** | Ciclos, continuación 
-**5x**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
+**x**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
 &nbsp; | **Dec 03** | Eliminación de ciclos
-**6x** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
+**x** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
 &nbsp; | **Dec 10** | Cese de actividades
 5  | Feb 16 | Eliminación de ciclos (continuación) 
 &nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
