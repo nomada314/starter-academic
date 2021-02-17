@@ -31,10 +31,10 @@ Semana | Fecha | Tópico
 &nbsp; | **Dec 04** | Asistencia a charla "Una vista al lado oscuro"
 **x**  | **Dec 09** | Cese de actividades
 &nbsp; | **Dec 11** | Repaso
-5  | Feb 17 | .
-&nbsp; | Feb 19 | .
-6  | Feb 24 | .
-&nbsp; | Feb 26 | .
+5  | Feb 17 | Repaso máxima verosimilitud 1
+&nbsp; | Feb 19 | Repaso máxima verosimilitud 2
+6  | Feb 24 | Repaso estimación bayesiana 1
+&nbsp; | Feb 26 | Repaso estimación bayesiana 2
 7  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 &nbsp; | Mar 05 | <font color="green"> Primer examen </font> 
 8  | Mar 10 | .
