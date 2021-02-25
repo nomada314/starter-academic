@@ -53,10 +53,9 @@ Por cita
 
 La nota final para este módulo será obtenida con base en tres componentes: exámenes (50%), tareas (40%) y un exposición (10%). Cada uno de estos componentes se describe a continuación.
 
-*Exámenes:* se realizarán dos examenes parciales durante el semestre. El primer examen se realizará el jueves 19 de marzo de 2020. El segundo examen se realizará el 30 de Abril de 2020 y el examen final será el jueves 4 de Junio de 2020.
+*Exámenes:* se realizarán dos examenes parciales durante el semestre. El primer examen se realizará el jueves 8 de abril de 2021. El segundo examen se realizará el 20 de mayo de 2021 y el examen final será el jueves 10 de Junio de 2021.
 
 *Tareas:* A lo largo del semestre se asignarán al menos cuatro (4) tareas. Todas las tareas deben llevarse acabo con algún *software* estadístico, a menos que se diga lo contrario. Además deben ser enviadas usando [Piazza] en formato pdf.
-
 
 *Exposición:* cada estudiante expondrá un artículo relacionado con su área de investigación y que use métodos aprendidos en clase.
 
