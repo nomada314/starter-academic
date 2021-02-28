@@ -21,29 +21,30 @@ Por cita.
 
 Semana  | Fecha | Tópico
 --- | --- | ---
-**1**  | **Nov 03** | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual)
-&nbsp; | **Nov 05** | Asignación y variables <br> Cálculos básicos [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
-**2**  | **Nov 10** | Cálculos simbólicos <br> Contenedores básicos
-&nbsp; | **Nov 12** | Contenedores básicos (continuación) <br> Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
-**3**  | **Nov 17** | Control de flujo [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/)<br> **Entrega Tarea # 1**
-&nbsp; | **Nov 19** | Control de flujo (continuación)
-**4**  | **Nov 24** | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
-&nbsp; | **Nov 26** | Ciclos, continuación 
-**x**  | **Dec 01** | Ejercicios <br> **Entrega Taller # 3**
-&nbsp; | **Dec 03** | Eliminación de ciclos
-**x** | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
-&nbsp; | **Dec 10** | Cese de actividades
+1  | Nov 03 | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual)
+&nbsp; | Nov 05 | Asignación y variables <br> Cálculos básicos [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
+2  | Nov 10 | Cálculos simbólicos <br> Contenedores básicos
+&nbsp; | **Nov 12 | Contenedores básicos (continuación) <br> Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
+3  | Nov 17 | Control de flujo [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/)<br> **Entrega Tarea # 1**
+&nbsp; | Nov 19 | Control de flujo (continuación)
+4  | Nov 24 | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
+&nbsp; | Nov 26 | Ciclos, continuación 
+-  | Dec 01 | Ejercicios <br> **Entrega Taller # 3**
+&nbsp; | Dec 03 | Eliminación de ciclos
+- | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
+&nbsp; | Dec 10 | Cese de actividades
 5  | Feb 16 | Eliminación de ciclos (continuación) 
 &nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
 6  | Feb 23 | Presentación de problemas
 &nbsp; | Feb 25 | Presentación de problemas
 7  | Mar 01 | **Entrega Taller # 4**
 &nbsp; | Mar 02 | **Presentación proyecto**
-&nbsp; | Mar 04 | **Entrega Taller # 5**
-8  | Mar 09 | .
-&nbsp; | Mar 11 | .
-9  | Mar 16 | .
-&nbsp; | Mar 18 | .
+&nbsp; | Mar 04 | Algebra lineal con Numpy
+8  | Mar 09 | Polinomio con Numpy
+&nbsp; | Mar 10 |**Entrega Taller # 5**
+&nbsp; | Mar 11 | 
+9  | Mar 16 |  Manipulación de datos (continuación) 
+&nbsp; | Mar 18 | Manipulación de datos (continuación) 
 10  | Mar 23 | .
 &nbsp; | Mar 25 | .
 &nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
@@ -58,8 +59,8 @@ Semana  | Fecha | Tópico
 &nbsp; | Abr 29 | .
 15  | May 04 | .
 &nbsp; | May 06 | .
-16  | May 11 | .
-&nbsp; | May 13 | .
+16  | May 11 | **Presentación proyecto**
+&nbsp; | May 13 | **Presentación proyecto**
 
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
