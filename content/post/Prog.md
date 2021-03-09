@@ -29,9 +29,9 @@ Semana  | Fecha | Tópico
 &nbsp; | Nov 19 | Control de flujo (continuación)
 4  | Nov 24 | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
 &nbsp; | Nov 26 | Ciclos, continuación 
--  | Dec 01 | Ejercicios <br> **Entrega Taller # 3**
+.  | Dec 01 | Ejercicios <br> **Entrega Taller # 3**
 &nbsp; | Dec 03 | Eliminación de ciclos
-- | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
+. | <font color="red">Dec 08</font> | <font color="red">Festivo</font>
 &nbsp; | Dec 10 | Cese de actividades
 5  | Feb 16 | Eliminación de ciclos (continuación) 
 &nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
@@ -39,13 +39,13 @@ Semana  | Fecha | Tópico
 &nbsp; | Feb 25 | Presentación de problemas
 7  | Mar 01 | **Entrega Taller # 4**
 &nbsp; | Mar 02 | **Presentación proyecto**
-&nbsp; | Mar 04 | Algebra lineal con Numpy
-8  | Mar 09 | Polinomio con Numpy
+&nbsp; | Mar 04 | Ejercicio: Regla 30
+8  | Mar 09 | Algebra lineal con Numpy
 &nbsp; | Mar 10 |**Entrega Taller # 5**
-&nbsp; | Mar 11 | 
-9  | Mar 16 |  Manipulación de datos (continuación) 
+&nbsp; | Mar 11 | Polinomio con Numpy
+9  | Mar 16 |  Manipulación de datos  
 &nbsp; | Mar 18 | Manipulación de datos (continuación) 
-10  | Mar 23 | .
+10  | Mar 23 | Manipulación de datos (continuación) 
 &nbsp; | Mar 25 | .
 &nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
 &nbsp; | <font color="red">Abr 01</font> | <font color="red">Semana santa</font>
