@@ -70,11 +70,11 @@ La nota final para este módulo será obtenida con base en tres componentes: ex�
 
 Semana | Fecha | Tópico
 ---| ---| ---
-**1**  | **Feb 25** | Presentación del curso. <br> Introducción a `R`
-2  | Mar 04 | x
-3  | Mar 11 | x
-4  | Mar 18 | x
-5  | Mar 25 | x
+1  | Feb 25 | Presentación del curso. <br> Introducción a `R`
+2  | Mar 04 | Distribución normal y teorema de límite central
+3  | Mar 11 | Distribuciones muestrales
+4  | Mar 18 | Intervalos de confianza
+5  | Mar 25 | Pruebas de hipótesis
 6  | Abr 08 | x
 7  | Abr 15 | x
 8  | Abr 22 | x
