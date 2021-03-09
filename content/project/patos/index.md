@@ -1,6 +1,6 @@
 ---
 title: Pato Criollo
-summary: Colciencias
+summary: Colciencias - closed
 tags:
 - GEO
 date: 2019-08-01"
