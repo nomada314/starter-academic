@@ -46,10 +46,10 @@ Semana  | Fecha | Tópico
 9  | Mar 16 |  Manipulación de datos  
 &nbsp; | Mar 18 | Manipulación de datos (continuación) 
 10  | Mar 23 | Manipulación de datos (continuación) 
-&nbsp; | Mar 25 | .
+&nbsp; | Mar 25 | Manipulación de datos (continuación) 
 &nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
 &nbsp; | <font color="red">Abr 01</font> | <font color="red">Semana santa</font>
-11  | Abr 06 | .
+11  | Abr 06 | Manipulación de datos (continuación) 
 &nbsp; | Abr 08 | .
 12  | Abr 13 | .
 &nbsp; | Abr 15 | .
