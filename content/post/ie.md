@@ -38,10 +38,10 @@ Semana | Fecha | Tópico
 7  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
 &nbsp; | Mar 05 | <font color="green"> Primer examen </font> 
 8  | Mar 10 | Método Bayesiano (continuación)
-&nbsp; | Mar 12 | Método Bayesiano (continuación)
-9 | Mar 17 | .
-&nbsp; | Mar 19 | .
-10  | Mar 24 | .
+&nbsp; | Mar 12 | Método de MonteCarlo
+9 | Mar 17 | Muestreo ponderado
+&nbsp; | Mar 19 | Gibbs Sampler
+10  | Mar 24 | Gibbs Sampler (continuación)
 &nbsp; | Mar 26 | .
 &nbsp;  | <font color="red">Mar 31</font> | <font color="red">Semana santa</font>
 &nbsp; | <font color="red">Abr 02</font> | <font color="red">Semana santa</font>
