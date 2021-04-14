@@ -43,17 +43,17 @@ Semana  | Fecha | Tópico
 8  | Mar 09 | Algebra lineal con Numpy
 &nbsp; | Mar 10 |**Entrega Taller # 5**
 &nbsp; | Mar 11 | Polinomio con Numpy
-9  | Mar 16 |  Manipulación de datos  
-&nbsp; | Mar 18 | Manipulación de datos (continuación) 
-10  | Mar 23 | Manipulación de datos (continuación) 
-&nbsp; | Mar 25 | Manipulación de datos (continuación) 
+9  | Mar 16 |  Manejo de datos  
+&nbsp; | Mar 18 | Manejo de datos (continuación) 
+10  | Mar 23 | Manejo de datos (continuación) 
+&nbsp; | Mar 25 | Manejo de datos (continuación) 
 &nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
 &nbsp; | <font color="red">Abr 01</font> | <font color="red">Semana santa</font>
-11  | Abr 06 | Manipulación de datos (continuación) 
-&nbsp; | Abr 08 | .
-12  | Abr 13 | .
-&nbsp; | Abr 15 | .
-13  | Abr 20 | .
+11  | Abr 06 | Manejo de datos (continuación) 
+&nbsp; | Abr 08 | Manejo de datos (continuación) 
+12  | Abr 13 | Manejo de datos (continuación) 
+&nbsp; | Abr 15 | Manejo de datos (continuación) 
+13  | Abr 20 | Integrales
 &nbsp; | Abr 22 | .
 14  | Abr 27 | .
 &nbsp; | Abr 29 | .
