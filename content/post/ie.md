@@ -42,20 +42,20 @@ Semana | Fecha | Tópico
 9 | Mar 17 | Muestreo ponderado
 &nbsp; | Mar 19 | Gibbs Sampler
 10  | Mar 24 | Gibbs Sampler (continuación)
-&nbsp; | Mar 26 | .
+&nbsp; | Mar 26 | Gibbs Sampler (continuación)
 &nbsp;  | <font color="red">Mar 31</font> | <font color="red">Semana santa</font>
 &nbsp; | <font color="red">Abr 02</font> | <font color="red">Semana santa</font>
-11  | Abr 07 | .
-&nbsp; | Abr 09 | .
-12  | Abr 14 | .
-&nbsp; | Abr 16 | .
-13  | Abr 21 | .
-&nbsp; | Abr 23 | .
-14  | Abr 28 | .
-&nbsp; | Abr 30 | .
-15  | May 05 | .
-&nbsp; | May 07 | .
-16  | May 12 | .
-&nbsp; | May 14 | .
+11  | Abr 07 | Contraste de hipótesis
+&nbsp; | Abr 09 | Contraste de hipótesis (continuación)
+12  | Abr 14 | Razón generalizada de verosimilitud
+&nbsp; | Abr 16 | Razón generalizada de verosimilitud (continuación)
+13  | Abr 21 | Pruebas de Wald y *score* 
+&nbsp; | Abr 23 | Presentación avance del proyecto
+14  | Abr 28 | Estimación por regiones (Enfoque bayesiano)
+&nbsp; | Abr 30 | Estimación por regiones (Enfoque frecuentista)
+15  | May 05 | Estimación por regiones (Bootstrap)
+&nbsp; | May 07 | Segundo exámen
+16  | May 12 | Presentación proyecto
+&nbsp; | May 14 | Presentación proyecto
 
 
