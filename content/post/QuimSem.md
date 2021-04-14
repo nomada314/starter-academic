@@ -75,8 +75,8 @@ Semana | Fecha | Tópico
 3  | Mar 11 | Distribuciones muestrales
 4  | Mar 18 | Intervalos de confianza
 5  | Mar 25 | Pruebas de hipótesis
-6  | Abr 08 | x
-7  | Abr 15 | x
+6  | Abr 08 | `R`
+7  | Abr 15 | `R`
 8  | Abr 22 | x
 9  | Abr 29 | x
 10  | May 06 | x
