@@ -52,12 +52,12 @@ Semana  | Fecha | Tópico
 11  | Abr 06 | Manejo de datos (continuación) 
 &nbsp; | Abr 08 | Manejo de datos (continuación) 
 12  | Abr 13 | Manejo de datos (continuación) 
-&nbsp; | Abr 15 | Manejo de datos (continuación) 
-13  | Abr 20 | Integrales
-&nbsp; | Abr 22 | .
-14  | Abr 27 | .
-&nbsp; | Abr 29 | .
-15  | May 04 | .
+&nbsp; | Abr 15 | Interpolación
+13  | Abr 20 | Interpolación
+&nbsp; | Abr 22 | Interpolación, mínimos cuadrados
+14  | Abr 27 | **Avance proyecto**
+&nbsp; | Abr 29 | Integración
+15  | May 04 | SIR
 &nbsp; | May 06 | .
 16  | May 11 | **Presentación proyecto**
 &nbsp; | May 13 | **Presentación proyecto**
