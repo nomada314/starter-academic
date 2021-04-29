@@ -14,7 +14,7 @@ image = ""
 caption = ""
 +++
 
-Disponible en [RedBooks](https://www.redbooks.com.co/libreria/matematicas-y-ciencias-naturales/826-una-introduccion-concisa-a-la-inferencia-estadistica.html)
+Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
 
 ## Datos
 
