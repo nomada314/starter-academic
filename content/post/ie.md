@@ -51,9 +51,9 @@ Semana | Fecha | Tópico
 &nbsp; | Abr 16 | Razón generalizada de verosimilitud (continuación)
 13  | Abr 21 | Pruebas de Wald y *score* 
 &nbsp; | Abr 23 | Presentación avance del proyecto
-14  | Abr 28 | Estimación por regiones (Enfoque bayesiano)
-&nbsp; | Abr 30 | Estimación por regiones (Enfoque frecuentista)
-15  | May 05 | Estimación por regiones (Bootstrap)
+14  | Abr 28 | Permiso académico
+&nbsp; | Abr 30 | Estimación por regiones (Enfoque bayesiano)
+15  | May 05 | Estimación por regiones (Enfoque frecuentista)
 &nbsp; | May 07 | Segundo exámen
 16  | May 12 | Presentación proyecto
 &nbsp; | May 14 | Presentación proyecto
