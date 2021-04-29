@@ -45,13 +45,5 @@ caption = ""
 * Capítulo 3[.R](https://alexrojas.netlify.com/code/Bio/Bcap3.py) : Probabilidad
 * Capítulo 4[.R](https://alexrojas.netlify.com/code/Bio/Bcap4.py) : Inferencia
 
-## Imágenes
-
-Figura  | Descripción
-:------ | :------
-![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg") | `Catedral.jpg`: imágen a color de donde se obtuvo la Figura 1.1
-![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg") | `CircConc.jpg`: imágen a color de donde se obtuvo la Figura 6.2
-
-
 ## Errata
 
