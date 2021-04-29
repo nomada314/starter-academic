@@ -1,7 +1,7 @@
 +++
-title = "Bioestadística (Bajo revisión)"
+title = "Herramientas para el análisis estadístico de datos biológicos en R (Bajo revisión)"
 date = "2022-04-30"
-authors = ["López A.", "Rojas M. L.", "admin"]
+authors = ["López A.", "Rojas-Peña, M. L.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
 publication_short = ""
