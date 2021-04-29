@@ -77,11 +77,11 @@ Semana | Fecha | Tópico
 5  | Mar 25 | Pruebas de hipótesis
 6  | Abr 08 | `R`
 7  | Abr 15 | `R`
-8  | Abr 22 | x
-9  | Abr 29 | x
-10  | May 06 | x
-11  | May 13 | x
-12  | May 20 | x
+8  | Abr 22 | Principios del diseño de experimentos
+9  | Abr 29 | Principios del diseño de experimentos, cont.
+10  | May 06 | Supuestos
+11  | May 13 | Diseño Factorial
+12  | May 20 | Diseño Factorial, cont
 13  | May 27 | x
 14  | Jun 03 | x
 15  | Jun 10 | x
