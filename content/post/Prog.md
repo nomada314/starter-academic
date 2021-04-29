@@ -55,9 +55,9 @@ Semana  | Fecha | Tópico
 &nbsp; | Abr 15 | Interpolación
 13  | Abr 20 | Interpolación
 &nbsp; | Abr 22 | Interpolación, mínimos cuadrados
-14  | Abr 27 | **Avance proyecto**
-&nbsp; | Abr 29 | Integración
-15  | May 04 | SIR
+14  | Abr 27 | **Avance proyecto**, Integración
+&nbsp; | Abr 29 | SIR
+15  | May 04 | SIR (continuación)
 &nbsp; | May 06 | .
 16  | May 11 | **Presentación proyecto**
 &nbsp; | May 13 | **Presentación proyecto**
