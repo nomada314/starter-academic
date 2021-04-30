@@ -80,7 +80,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 168, Ejemplo 3.11: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
 * p. 169, Ejemplo 3.12: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
 * p. 171, Ejemplo 3.13: en la primera fórmula en lugar de $\mu$ debe ser $\bar{x}$
-* p. 178, Ejemplo 3.20: $W = \sqrt{n}\overline{X}\left(\frac{1}{\overline{X}}-\lambda_0\right)$ en lugar de $W = \sqrt{n}\lambda_0\left(\frac{1}{\overline{X}}-\lambda_0\right)$
+* p. 178, Ejemplo 3.20: $W = \sqrt{n}\overline{X}\left(\frac{1}{\overline{X}}-\lambda_0\right)$ en lugar de $W = \sqrt{n}\lambda_0\left(\frac{1}{\overline{X}}-\lambda_0\right)$, luego $W = -0.704$.
 
 
 #### Apéndice C
