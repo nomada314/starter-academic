@@ -10,8 +10,8 @@ math = true
 highlight = true
 tags = ["Teaching", "Python", "Programming"]
 [header]
-image = ""
-caption = ""
+image = "JuliaSet.png"
+caption = "Julia set"
 +++
 
 ### Datos
