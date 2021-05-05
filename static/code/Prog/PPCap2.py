@@ -97,14 +97,14 @@ def EntreDosCurvas(z, f, g):
     return None
 
 
-if abs(z[0])< 4 and abs(y[0])< 4:    #¿z está dentro del tablero?
-    if y > 0:                      #¿z está por encima del eje x?
-        if x > 0:                #¿z está a la derecha del eje y?
-            print("Blanco")
+if abs(z[0]) < 4 and abs(z[1]) < 4:  #¿z está dentro del tablero?
+    if z[1] > 0:                   #¿z está por encima del eje x?
+        if z[0] > 0:             #¿z está a la derecha del eje y?     
+            print("Blanco")   
         else:
             print("Negro")
     else:
-        if x > 0:
+        if z[0] > 0:
             print("Negro")
         else:
             print("Blanco")
