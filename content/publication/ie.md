@@ -14,9 +14,11 @@ image = "IEfig33.png"
 caption = "Figura 3.3."
 +++
 
-Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
 
-<center><img src="https://alexrojas.netlify.app/media/IEcaratula.png" width="250"></center>
+<center><img src="https://alexrojas.netlify.app/media/IEcaratula.png" width="250">
+  
+Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
+</center>
 
 ## Datos
 
@@ -37,23 +39,23 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="250"></th>
     <th><img src="https://alexrojas.netlify.app/media/roble.png" width="250"></th>
+    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="250"></th>
     <th><img src="https://alexrojas.netlify.app/media/garrocho.png" width="250" height="350"></th>
   </tr>
   <tr>
-    <td>Mano de oso (Oreopanax bogotensis)</td>
     <td>Roble (Quercus humboldtii)</td>
+    <td>Mano de oso (Oreopanax bogotensis)</td>
     <td>Garrocho (Viburnum triphyllum)</td>
   </tr>
   <tr>
-    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="250" height="350"></th>
     <th><img src="https://alexrojas.netlify.app/media/gaque.png" width="250" height="350"></th>
+    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="250" height="350"></th>
     <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="250"></th>
   </tr>
   <tr>
-    <td>Raque (Vallea stipularis)</td>
     <td>Gaque (Clusia multiflora)</td>
+    <td>Raque (Vallea stipularis)</td>
     <td>Yarumo (Cecropia peltata)</td>
   </tr>
 </table>
