@@ -1,6 +1,6 @@
 +++
 title = "A review on the productive potential of the Muscovy Duck"
-date = "2021-06-30"
+date = "2021-05-05"
 authors = ["Arias-Sosa, L. A.","admin"]
 publication_types = ["2"]
 publication = "World's Poultry Science Journal 77(TBA), x-x"
