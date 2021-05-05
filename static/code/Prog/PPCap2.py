@@ -12,67 +12,67 @@ import math
 ##################################################
 
 z = (3.2,0.2)
-if Norma(z) <= 4:
+if Norma(z[0],z[1]) <= 4:
     print("Dentro del círculo")
 
 z = (4.2, 0.2)
-if Norma(z) <= 4:
+if Norma(z[0],z[1]) <= 4:
     print("Dentro del círculo")
-    print("Norma de z = ", Norma(z))
+    print("Norma de z = ", Norma(z[0],z[1]))
 
 z = (4.2,0.2)
-if Norma(z) <= 4:
+if Norma(z[0],z[1]) <= 4:
     print("Dentro del círculo")
-print("Norma de z = ", Norma(z))
+print("Norma de z = ", Norma(z[0],z[1]))
 
 z = (4.2, 0.2)
-if Norma(z) <= 4:
+if Norma(z[0],z[1]) <= 4:
     print("Dentro del círculo")
 else:
     print("Fuera del círculo")
 
 z = (4.2, 0.2)
-if Norma(z) <= 4:
+if Norma(z[0],z[1]) <= 4:
     print("Dentro del círculo")
 else:
     print("Fuera del círculo")
-    print("A una distancia de", Norma(z)-4)
+    print("A una distancia de", Norma(z[0],z[1])-4)
 
 
 
 def DentroCirculo(z, r=4):
     if len(z)==2:
-        if Norma(z) <= r:
+        if Norma(z[0],z[1]) <= r:
             print("Dentro del círculo")
         else:
             print("Fuera del círculo, a una distancia de",
-            Norma(z)-r,"unidades")
+            Norma(z[0],z[1])-r,"unidades")
     else:
         print("La longitud de",z,"no es dos")
     return None
 
 z = (3.2,0.2)
-if Norma(z) <= 4:
-    if Norma(z) >= 2:
+if Norma(z[0],z[1]) <= 4:
+    if Norma(z[0],z[1]) >= 2:
         print("Dentro del anillo")
     else:
         print("Fuera del anillo")
 else:
     print("Fuera del anillo")
 
-if Norma(z) >= 2 and Norma(z) <= 4:
+if Norma(z[0],z[1]) >= 2 and Norma(z[0],z[1]) <= 4:
     print("Dentro del anillo")
 else:
     print("Fuera del anillo")
 
-if  2 <= Norma(z) <= 4:
+if  2 <= Norma(z[0],z[1]) <= 4:
     print("Dentro del anillo")
 else:
     print("Fuera del anillo")
 
-def DentroAnillo(z, r2=4,r1=2):
+def DentroAnillo(z, r2 = 4,r1 = 2):
     if len(z)==2:
-        if  r1 <= Norma(z) <= r2:
+        if  r1 <= Norma(z[0],z[1]) <= r2:
             print("Dentro del anillo")
         else:
             print("Fuera del anillo")
@@ -157,7 +157,7 @@ def Ajedrez88(z):
     return None
 
 
-def Ajedrez(z, tam=8):
+def Ajedrez(z, tam = 8):
     if len(z)==2:
         tam /= 2
         if abs(z[0])< tam and abs(z[1])< tam:
