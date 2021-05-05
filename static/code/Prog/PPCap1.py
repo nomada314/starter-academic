@@ -52,8 +52,7 @@ tasa = tasa + 0.003
 print(tasa)
 
 f"Tres elevado a la 2 es {3**2}"
-f"La tasa de interés es {tasa}, pero esta aumentará 10%,\
-es decir, la nueva tasa es {tasa*1.1}"
+f"La tasa de interés es {tasa}, pero esta aumentará 10%, es decir, la nueva tasa es {tasa*1.1}"
 
 
 ##################################################
@@ -184,8 +183,7 @@ NucleotidosADN.sort()   # Error: un objeto tupla no tiene el
 
 
 # Lista de números en el plano cartesiano
-z = [(2,3),(1,1), (4,7), (1.5,3.4), (1.34,3.41), (2.2,3.2),
-    (0.2, -0.5)]
+z = [(2,3),(1,1), (4,7), (1.5,3.4), (1.34,3.41), (2.2,3.2),(0.2, -0.5)]
 # Cálculo de |x| + |y| para el último elemento de z
 abs(z[-1][0])+abs(z[-1][1])
 
@@ -270,6 +268,9 @@ solve(dfdx,x)
 
 solve(f-(1/(2*pi*gamma)),x)
 
+##################################################
+### Figura 1.2
+##################################################
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -381,7 +382,7 @@ print(figura1)
 figura2 = plt.figure(figsize=(6, 4), facecolor='white')
 print(figura2)
 
-x1 = [0,1,2,3,4,5]
+x1 = [0, 1, 2, 3, 4, 5]
 x2 = [0.2, 0.8, 1.6, 2.5, 3.6, 4.8]
 y1 = [10, 20, 25, 30, 25, 20]
 y2 = [5, 15, 25, 25, 28,30]
@@ -406,9 +407,9 @@ plt.show()
 ##################################################
 
 
-Edad = [0,1,2,3,4,5,6]
-Fecundidad = [0,0,0,0,0.08,0.28,0.42]
-Supervivencia = [0.657,0.93,0.93,0.93,0.935,0.935,0]
+Edad = [0, 1, 2, 3, 4, 5, 6]
+Fecundidad = [0, 0, 0, 0, 0.08, 0.28, 0.42]
+Supervivencia = [0.657, 0.93, 0.93, 0.93, 0.935, 0.935, 0]
 FocaGris = plt.figure()
 ax = FocaGris.add_subplot(111)
 ax.plot(Edad, Fecundidad, marker='+', markersize=12, lw=2,
@@ -445,9 +446,8 @@ plt.legend(loc='upper center',
 
 Pais = ['E.E.U.U.', 'Italia', 'China','España','Alemania',
         'Francia','Iran', 'G.B.','Suiza','Holanda']
-Casos = [123780,92472,81439,73235,58247,37575,35408,17089,
-         14076,9762]
-Recuperados = [3238,12384,75448,12285,8481,5700,11679,135,1595,3]
+Casos = [123780, 92472, 81439, 73235, 58247, 37575, 35408, 17089, 14076, 9762]
+Recuperados = [3238, 12384, 75448, 12285, 8481, 5700, 11679, 135, 1595, 3]
 
 from matplotlib import style         # Importar `style`
 style.use("fivethirtyeight")         # Escoger estilo
@@ -458,9 +458,10 @@ ax1 = COVID.add_subplot(211)         # Adicionar un subfigura
 ax1.bar(Pais,Casos, color="gray")    # Adicionar barras
 ax1.set_ylabel('Frecuencia')         # Adicionar etiqueta eje Y
 ax1.tick_params(axis='x', labelrotation=45)
+
 # Posiciones de las barras
-posiciones = [1,2,3,4,5,6,7,8,9,10]
-posiciones2 = [1.45,2.45,3.45,4.45,5.45,6.45,7.45,8.45,9.45,10.45]
+posiciones = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+posiciones2 = [1.45, 2.45, 3.45, 4.45, 5.45, 6.45, 7.45, 8.45, 9.45, 10.45]
 
 style.use("seaborn-dark-palette")
 ax2 = COVID.add_subplot(212)
@@ -499,15 +500,15 @@ def PC1(z):
 
 
 
-a = [(2,1,4,1.5,2,4,3,1,5,1.34,2.2,0.2),
-     (3,1,7,3.4,7,-2,3,2.3,4.5,3.41,-3.2,-.5)]
+a = [(2, 1, 4, 1.5, 2, 4, 3, 1, 5, 1.34, 2.2, 0.2),
+     (3, 1, 7, 3.4, 7, -2, 3, 2.3, 4.5, 3.41, -3.2, -.5)]
 PC1(a)
 
 
-PC1([(1,2,3),(1,3)])
-PC1([(1,2),(1,3)])
-PC1([(1,2),(1,3),(2,3)])
-PC1([(1,2,4,5),(1,3,3)])
+PC1([(1, 2, 3),(1, 3)])
+PC1([(1, 2),(1, 3)])
+PC1([(1, 2),(1, 3),(2, 3)])
+PC1([(1, 2, 4, 5),(1, 3, 3)])
 
 
 import math
