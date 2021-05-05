@@ -86,13 +86,13 @@ caption = ""
 
 ## Código
 
-* Capítulo 1[.py](https://alexrojas.netlify.com/code/Prog/PPcap1.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap1.ipynb): Introducción 
-* Capítulo 2[.py](https://alexrojas.netlify.com/code/Prog/PPcap2.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap2.ipynb): Control de flujo 
-* Capítulo 3[.py](https://alexrojas.netlify.com/code/Prog/PPcap3.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap3.ipynb): Ciclos 
-* Capítulo 4[.py](https://alexrojas.netlify.com/code/Prog/PPcap4.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap4.ipynb): NumPy
-* Capítulo 5[.py](https://alexrojas.netlify.com/code/Prog/PPcap5.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap5.ipynb): Manipulación y visualización de datos
-* Capítulo 6[.py](https://alexrojas.netlify.com/code/Prog/PPcap6.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap6.ipynb): Computación científica 
-* Capítulo 7[.py](https://alexrojas.netlify.com/code/Prog/PPcap7.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPcap7.ipynb): Otras librerías de interés 
+* Capítulo 1[.py](https://alexrojas.netlify.com/code/Prog/PPCap1.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap1.ipynb): Introducción 
+* Capítulo 2[.py](https://alexrojas.netlify.com/code/Prog/PPCap2.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap2.ipynb): Control de flujo 
+* Capítulo 3[.py](https://alexrojas.netlify.com/code/Prog/PPCap3.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap3.ipynb): Ciclos 
+* Capítulo 4[.py](https://alexrojas.netlify.com/code/Prog/PPCap4.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap4.ipynb): NumPy
+* Capítulo 5[.py](https://alexrojas.netlify.com/code/Prog/PPCap5.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap5.ipynb): Manipulación y visualización de datos
+* Capítulo 6[.py](https://alexrojas.netlify.com/code/Prog/PPCap6.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap6.ipynb): Computación científica 
+* Capítulo 7[.py](https://alexrojas.netlify.com/code/Prog/PPCap7.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap7.ipynb): Otras librerías de interés 
 
 ## Imágenes
 
