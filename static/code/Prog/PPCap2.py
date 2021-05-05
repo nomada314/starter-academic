@@ -1,25 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 21 12:00:59 2020
-@author:
-"""
 
 ##################################################
 ### Control de flujo
 ##################################################
 
-import numpy as np
-import numpy.linalg as nl
-import matplotlib.pyplot as plt
 import math
-import seaborn as sns
-from sympy import *
-import numpy.linalg as nl
-sns.set_style("white")
-plt.rcParams['font.family'] = 'serif'
-plt.rcParams['figure.figsize'] = (10.0, 8.0)
-plt.rcParams['font.size'] = 18
 
 ##################################################
 ### Declaraciones `if-else`
