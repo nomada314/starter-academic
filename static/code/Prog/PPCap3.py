@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 12 20:06:13 2020
-@author:
-"""
 
 ##################################################
 ### Ciclos
