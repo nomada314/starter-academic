@@ -23,7 +23,7 @@ caption = ""
 #### Capítulo 3
 
 * [LCT.txt](https://alexrojas.netlify.com/Data/Prog/LCT.txt): Ejemplo 3.3, Ejercicio 3.8
-* [muon.txt](https://alexrojas.netlify.com/Data/Prog/muon.txt.txt): Ejercicio 3.19
+* [muon.txt](https://alexrojas.netlify.com/Data/Prog/muon.txt): Ejercicio 3.19
 
 #### Capítulo 4
 
@@ -98,9 +98,9 @@ caption = ""
 
 Figura  | Descripción
 :------ | :------
-![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg") | `Catedral.jpg`: imágen a color de donde se obtuvo la Figura 1.1
-![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg") | `CircConc.jpg`: imágen a color de donde se obtuvo la Figura 6.2
-![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg") | `HCG_92.jpg`: Grupo de galaxies HCG_92, imágen a color de donde se obtuvo la Figura 7.6 (a)
+![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg "Catedral.jpg") | `Catedral.jpg`: Figura 1.1 a color  
+![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg "CircConc.jpg") | `CircConc.jpg`: Figura 6.2 a color 
+![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg "HCG_92.jpg") | `HCG_92.jpg`: Grupo de galaxies HCG_92. Figura 7.6 (a) a color
 ![](https://alexrojas.netlify.com/media/Prog/ROSAT.png "ROSAT.png") | `ROSAT.png`: Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat` (Versión a color de la Figura 7.8)
 
 
