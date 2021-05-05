@@ -10,8 +10,8 @@ math = true
 highlight = true
 tags = ["Teaching", "Inferencia"]
 [header]
-image = ""
-caption = ""
+image = "IEfig33.png"
+caption = "Figura 3.3."
 +++
 
 Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
