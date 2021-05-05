@@ -174,12 +174,11 @@ def Ajedrez(z, tam = 8):
 
 Ajedrez((3.2/4,1.2/4),2) # Produce el mismo resultado que
                          # Ajedrez22((3.2,-1.2))
-Ajedrez((3.2/2,-1.2/2,4) # Produce el mismo resultado que
+Ajedrez((3.2/2,-1.2/2),4) # Produce el mismo resultado que
                          # Ajedrez44((3.2,-1.2))
 
 
-"Dentro del anillo" if 2<= Norma((1.42,-1.42)) <= 4 else \
-"Fuera del anillo"
+"Dentro del anillo" if 2<= Norma(1.42,-1.42) <= 4 else "Fuera del anillo"
 
 ##################################################
 ### Declaraciones `if-elif-else`
