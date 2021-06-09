@@ -9,6 +9,7 @@ math      = true
 
 ### Libro guía:
 
+Benjamin, J. R., & Cornell, C. A. (2014). *Probability, statistics, and decision for civil engineers.* Courier Corporation.
 
 ### Horas de oficina: 
 
