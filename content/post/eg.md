@@ -24,9 +24,9 @@ Semana | Fecha | Tópico
 2  | Jun 28 | TBA
 &nbsp; | Jun 30 | TBA
 &nbsp; | Jul 02 | TBA
-3  | Jul 05 | TBA
+3  | Jul 05 | Festivo
 &nbsp; | Jul 07 | TBA
-&nbsp; | Jul 09 | TBA
+&nbsp; | Jul 09 | Primer examen
 4  | Jul 12 | TBA
 &nbsp; | Jul 14 | TBA
 &nbsp; | Jul 16 | TBA
@@ -38,11 +38,11 @@ Semana | Fecha | Tópico
 &nbsp; | Jul 30 | TBA
 7  | Aug 02 | TBA
 &nbsp; | Aug 04 | TBA
-&nbsp; | Aug 06 | TBA
+&nbsp; | Aug 06 | Segundo examen
 8  | Aug 09 | TBA
 &nbsp; | Aug 11 | TBA
 &nbsp; | Aug 13 | TBA
-9  | Aug 16 | TBA
+9  | Aug 16 | Festivo
 &nbsp; | Aug 18 | TBA
 &nbsp; | Aug 20 | TBA
 10  | Aug 23 | TBA
@@ -50,7 +50,7 @@ Semana | Fecha | Tópico
 &nbsp; | Aug 27 | TBA
 11  | Aug 30 | TBA
 &nbsp; | Sep 01 | TBA
-&nbsp; | Sep 03 | TBA
+&nbsp; | Sep 03 | Tercer examen
 12  | Sep 06 | TBA
 &nbsp; | Sep 08 | TBA
 &nbsp; | Sep 10 | TBA
@@ -62,7 +62,7 @@ Semana | Fecha | Tópico
 &nbsp; | Sep 24 | TBA
 15  | Sep 27 | TBA
 &nbsp; | Sep 29 | TBA
-&nbsp; | Oct 01 | TBA
+&nbsp; | Oct 01 | Cuarto examen
 16  | Oct 04 | TBA
 &nbsp; | Oct 06 | TBA
 &nbsp; | Oct 08 | TBA
