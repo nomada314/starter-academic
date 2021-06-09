@@ -33,7 +33,7 @@ Semana | Fecha | Tópico
 &nbsp; | Aug 05 | Segundo examen
 8  | Aug 10 | TBA
 &nbsp; | Aug 12 | TBA
-9  | Aug 17 | Festivo
+9  | Aug 17 | TBA
 &nbsp; | Aug 19 | TBA
 10  | Aug 24 | TBA
 &nbsp; | Aug 26 | TBA
