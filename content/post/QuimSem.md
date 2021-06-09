@@ -82,8 +82,8 @@ Semana | Fecha | Tópico
 10  | May 06 | Supuestos
 11  | May 13 | Diseño Factorial
 12  | May 20 | Diseño Factorial, cont
-13  | May 27 | x
-14  | Jun 03 | x
-15  | Jun 10 | x
-16  | Jun 17 | x
+13  | May 27 | Diseño factorial $2^k$
+14  | Jun 03 | Superficies de respuesta
+15  | Jun 10 | Superficies de respuesta, cont
+16  | Jun 17 | Superficies de respuesta, cont
 
