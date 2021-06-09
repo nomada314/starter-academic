@@ -3,7 +3,7 @@ date      = 2021-06-09
 lastmod   = 2021-06-09
 draft     = false
 tags      = ["Teaching", "Probabilidad"]
-title     = "Probabilidd y Estadística"
+title     = "Probabilidad y Estadística"
 math      = true
 +++
 
