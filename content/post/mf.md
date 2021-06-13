@@ -9,6 +9,7 @@ math      = true
 
 ### Libro guía:
 
+Capinski, M., & Zastawniak, T. (2003). Mathematics for finance. An Introduction to Financial Engineering
 
 ### Horas de oficina: 
 
