@@ -2,7 +2,7 @@
 date      = 2021-01-31
 lastmod   = 2021-01-31
 draft     = false
-tags      = ["Teaching", "DoE"]
+tags      = ["Teaching", "Design of Experiments"]
 title     = "Seminario I. Modulo diseño experimental"
 math      = true
 +++
