@@ -7,9 +7,10 @@ title     = "Profundización II"
 math      = true
 +++
 
-### Libro guía:
+### Libros guía:
 
-Capinski, M., & Zastawniak, T. (2003). Mathematics for finance. An Introduction to Financial Engineering
++ Federer-Vaaler L. J. & Daniel, J. W. (2007). Mathematica Interest Theory. Pearson Prentice Hall.
++ Capinski, M. & Zastawniak, T. (2003). Mathematics for finance. An Introduction to Financial Engineering. Springer.
 
 ### Horas de oficina: 
 
