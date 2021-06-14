@@ -8,7 +8,7 @@ publication_short = ""
 image_preview = ""
 math = true
 highlight = true
-tags = ["R"]
+tags = ["Biology","Inference","EDA","R"]
 draft = true
 [header]
 image = ""
