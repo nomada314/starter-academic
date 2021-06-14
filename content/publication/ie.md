@@ -5,10 +5,11 @@ authors = ["López A.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
 publication_short = ""
+abstract = "Este libro es una introducción práctica a la inferencia estadística, con abundancia y variedad de ejemplos reales y simulados que le permitirán a quien lee usar fácilmente los conceptos aprendidos. Los ejemplos que requieren cálculos numéricos son implementados en el *software* libre `R` y el código usado también está disponible para quien quiera replicar los ejemplos. Además del enfoque clásico de inferencia, se incluye el enfoque bayesiano para resolver problemas de estimación. Dando así herramientas para abordar problemas prácticos desde otra perspectiva.Para entender mejor el material en este libro, nuestros lectores deben tener conocimiento de funciones de probabilidad, unciones de distribución, variables aleatorias y convergencia, que usualmente se abordan en un curso básico de teoría de probabilidad. Igualmente, es aconsejable que nuestros lectores puedan resolver problemas de cálculo diferencial e integral."
 image_preview = ""
 math = true
 highlight = true
-tags = ["Teaching", "Inferencia"]
+tags = ["Teaching", "Inference","R"]
 [header]
 image = "IEfig33.png"
 caption = "Figura 3.3."
@@ -19,9 +20,6 @@ caption = "Figura 3.3."
   
 Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
 </center>
-
-
-Este libro es una introducción práctica a la inferencia estadística, con abundancia y variedad de ejemplos reales y simulados que le permitirán a quien lee usar fácilmente los conceptos aprendidos. Los ejemplos que requieren cálculos numéricos son implementados en el *software* libre `R` y el código usado también está disponible para quien quiera replicar los ejemplos. Además del enfoque clásico de inferencia, se incluye el enfoque bayesiano para resolver problemas de estimación. Dando así herramientas para abordar problemas prácticos desde otra perspectiva.Para entender mejor el material en este libro, nuestros lectores deben tener conocimiento de funciones de probabilidad, unciones de distribución, variables aleatorias y convergencia, que usualmente se abordan en un curso básico de teoría de probabilidad. Igualmente, es aconsejable que nuestros lectores puedan resolver problemas de cálculo diferencial e integral.
 
 
 ## Datos
