@@ -9,7 +9,8 @@ math      = true
 
 ### Libro guía:
 
-Pishro-Nik, H. (2014) Introduction to Probability, Statistics, and Random Processes. Kappa Research, LLC. Disponible *online* en la dirección: https://www.probabilitycourse.com
+Pishro-Nik, H. (2014) Introduction to Probability, Statistics, and Random Processes. Kappa Research, LLC. <br>
+Disponible *online* en la dirección: https://www.probabilitycourse.com
 
 
 ### Horas de oficina: 
