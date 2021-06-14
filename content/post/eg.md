@@ -9,6 +9,7 @@ math      = true
 
 ### Libro guía:
 
+Pishro-Nik, H. (2014) Introduction to Probability, Statistics, and Random Processes. Kappa Research, LLC. Disponible *online* en https://www.probabilitycourse.com
 
 ### Horas de oficina: 
 
@@ -18,8 +19,8 @@ Por cita.
 
 Semana | Fecha | Tópico
 ---| ---| ---
-1  | Jun 21 | Presentación del curso. <br> (1.1 y 1.2)
-&nbsp; | Jun 23 | TBA
+1  | Jun 21 | Presentación del curso. <br> Axiomas de la probabilidad (1.3.1 - 1.3.3)
+&nbsp; | Jun 23 | 
 &nbsp; | Jun 25 | TBA
 2  | Jun 28 | TBA
 &nbsp; | Jun 30 | TBA
