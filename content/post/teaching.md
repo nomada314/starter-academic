@@ -10,7 +10,7 @@ math      = true
 ## Primer semestre 2021
 * [Estadística General](https://alexrojas.netlify.app/post/eg/)
 * [Estadística Inferencial](https://alexrojas.netlify.app/post/ie/)
-* [Profundización](https://alexrojas.netlify.app/post/mf/)
+* [Profundización II](https://alexrojas.netlify.app/post/mf/)
 
 ## Segundo semestre 2020
 * Electiva I: Programación
