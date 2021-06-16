@@ -16,7 +16,7 @@ Este curso proporciona una base teórica, donde los tres objetivos principales e
 
 En su formación integral como licenciado en matemáticas, el estudiante debe adquirir durante su preparación universitaria conocimientos en áreas afines como estadística, donde a lo largo de la adquisición de nuevos conceptos consolida conceptos acumulados durante su formación matemática. Estadística inferencial  es un curso que proporciona al licenciado en matemáticas un bagaje estadístico que: 
 
-+ lo prepara a futuro para cursos en estadística, 
++ lo prepara para otros cursos de estadística, 
 + le permite profundizar en su entendimiento de publicaciones científicas, 
 + y le abre oportunidades en otras líneas de investigación.
 
