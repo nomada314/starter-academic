@@ -14,8 +14,8 @@ math      = true
 
 ### Enlaces sesiones sincrónicas
 
-Martes: meet.google.com/kki-zdnd-btg
-Jueves: meet.google.com/bbx-cgnc-xvc
++ Martes: meet.google.com/kki-zdnd-btg
++ Jueves: meet.google.com/bbx-cgnc-xvc
 
 ### Horas de oficina: 
 
