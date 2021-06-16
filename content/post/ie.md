@@ -22,9 +22,9 @@ En su formación integral como licenciado en matemáticas, el estudiante debe ad
 
 ### Competencias
 
-+ Construir estimadores y pruebas de hipótesis usando el método de  máxima verosimilitud y el método bayesiano.
++ Construir estimadores y pruebas de hipótesis usando el método de  máxima verosimilitud.
 + Determinar las propiedades de estimadores y contrastes de hipótesis
-+ Usar de paquetes estadísticos para generar resultados usando los procedimientos de inferencia más comunes y métodos  intensivos en computación.
++ Usar paquetes estadísticos para generar resultados usando los procedimientos de inferencia estándar y métodos intensivos en computación.
 
 ### Metodología
 
