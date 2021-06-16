@@ -9,9 +9,9 @@ math      = true
 
 ## Primer semestre 2021
 * [Estadística General](https://alexrojas.netlify.app/post/eg/)
-* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
+* [Estadística Inferencial](https://alexrojas.netlify.app/post/ie/)
 * [Profundización](https://alexrojas.netlify.app/post/mf/)
 
 ## Segundo semestre 2020
-* [Electiva I: Programación](https://alexrojas.netlify.app/post/Prog/)
-* [Inferencía Estadística](https://alexrojas.netlify.app/post/ie/)
+* Electiva I: Programación
+* Inferencía Estadística
