@@ -19,43 +19,36 @@ Por cita.
 
 Semana | Fecha | Tópico
 ---| ---| ---
-1  | Nov 04 | Presentación del curso. <br> Estadísticas (1.1 y 1.2)
-&nbsp; | Nov 06 | Suficiencia (1.3)
-2  | Nov 11 | Familia exponencial (1.3) <br> Función de distribución empírica (1.4)<br> Método de Montecarlo (1.5)
-&nbsp; | Nov 13 | Estimación puntual: Notación y definiciones (2.1) <br> Métodos de sustitución (2.2)
-3  | Nov 18 | Bootstrapping (2.3) <br> Método de momentos (2.4) <br> **Entrega Tarea # 1**
-&nbsp; | Nov 20 | Método de máxima verosimilitud (2.5)
-4  | Nov 25 | Información de Fisher (2.5.1) <br> Propiedades EMV  (2.5.2) <br> **Entrega Tarea # 2**
-&nbsp; | Nov 27 | Algoritmos de Newton-Rapson (2.5.3) <br> Fisher *scoring* (2.5.4) <br> EM (2.5.5)
-.  | Dec 02 | Método Bayesiano (2.6) <br> **Entrega Tarea # 3**
-&nbsp; | Dec 04 | Asistencia a charla "Una vista al lado oscuro"
-.  | Dec 09 | Cese de actividades
-&nbsp; | Dec 11 | Repaso
-5  | Feb 17 | Repaso máxima verosimilitud 1
-&nbsp; | Feb 19 | Repaso máxima verosimilitud 2
-6  | Feb 24 | Repaso estimación bayesiana 1
-&nbsp; | Feb 26 | Repaso estimación bayesiana 2
-7  | Mar 03 | Presentación inicial del artículo <br> **Entrega Tarea # 4**
-&nbsp; | Mar 05 | <font color="green"> Primer examen </font> 
-8  | Mar 10 | Método Bayesiano (continuación)
-&nbsp; | Mar 12 | Método de MonteCarlo
-9 | Mar 17 | Muestreo ponderado
-&nbsp; | Mar 19 | Gibbs Sampler
-10  | Mar 24 | Gibbs Sampler (continuación)
-&nbsp; | Mar 26 | Gibbs Sampler (continuación)
-&nbsp;  | <font color="red">Mar 31</font> | <font color="red">Semana santa</font>
-&nbsp; | <font color="red">Abr 02</font> | <font color="red">Semana santa</font>
-11  | Abr 07 | Contraste de hipótesis
-&nbsp; | Abr 09 | Contraste de hipótesis (continuación)
-12  | Abr 14 | Razón generalizada de verosimilitud
-&nbsp; | Abr 16 | Razón generalizada de verosimilitud (continuación)
-13  | Abr 21 | Pruebas de Wald y *score* 
-&nbsp; | Abr 23 | Presentación avance del proyecto
-14  | Abr 28 | Permiso académico
-&nbsp; | Abr 30 | Estimación por regiones (Enfoque bayesiano)
-15  | May 05 | Estimación por regiones (Enfoque frecuentista)
-&nbsp; | May 07 | 
-16  | May 12 | &nbsp;
-&nbsp; | May 14 | &nbsp;
-
+1  | Jun 23 | Presentación del curso. <br> Distribuciones discretas (A.1) <br> Introducción a `R` (D.1 - D.3)
+&nbsp; | Jun 24 | Introducción a `R` (D.4) <br> Distribuciones continuas (A.2)
+2  | Jun 30 | Teorema de límite central y método $\delta$
+&nbsp; | Jul 01 | Distribuciones de probabilidad conjunta
+3  | Jul 07 | Repaso
+&nbsp; | Jul 08 | Primer examen
+4  | Jul 14 | Distribuciones del mínimo, el máximo y el rango.
+&nbsp; | Jul 15 | Estadísticas y suficiencia (1.2)
+5  | Jul 21 | Función de distribución empírica (1.4)
+&nbsp; | Jul 22 | Método de Montecarlo (1.5)
+6  | Jul 28 | Método de Montecarlo, cont. 
+&nbsp; | Jul 29 | &nbsp;
+7  | Aug 04 | Repaso
+&nbsp; | Aug 05 | Segundo examen
+8  | Aug 11 | Estimadores puntuales (2.1)
+&nbsp; | Aug 12 | Método de sustitución (2.2)
+9  | Aug 18 | *Bootstrapping* (2.3)
+&nbsp; | Aug 29 | &nbsp;
+10 | Aug 25 | Método de momentos (2.4)
+&nbsp; | Aug 26 | Método de máxima verosimilitud (2.5)
+11  | Sep 01 | Repaso
+&nbsp; | Sep 02 | Tercer examen
+12  | Sep 08 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
+&nbsp; | Sep 11 | Propiedades estimadores máxima verosimilitud, cont.
+13  | Sep 15 | Contraste de hipótesis (3.1)
+&nbsp; | Sep 16 | Pruebas *score* y de Wald (3.3)
+14  | Sep 22 | Pruebas *score* y de Wald, cont.
+&nbsp; | Sep 25 | Estimación por regiones (4.2)
+15  | Sep 29 | Estimación por regiones, cont.
+&nbsp; | Sep 30 |  Intervalos de confianza usando la distribución *bootstrap*
+16  | Oct 06 | Repaso
+&nbsp; | Oct 07 | Cuarto examen
 
