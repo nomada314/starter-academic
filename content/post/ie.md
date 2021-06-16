@@ -54,8 +54,8 @@ Semana | Fecha | Tópico
 14  | Abr 28 | Permiso académico
 &nbsp; | Abr 30 | Estimación por regiones (Enfoque bayesiano)
 15  | May 05 | Estimación por regiones (Enfoque frecuentista)
-&nbsp; | May 07 | Segundo exámen
-16  | May 12 | Presentación proyecto
-&nbsp; | May 14 | Presentación proyecto
+&nbsp; | May 07 | 
+16  | May 12 | &nbsp;
+&nbsp; | May 14 | &nbsp;
 
 
