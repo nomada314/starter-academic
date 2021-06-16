@@ -7,10 +7,32 @@ title     = "Estadística General"
 math      = true
 +++
 
+
+
 ### Libro guía:
 
-Pishro-Nik, H. (2014) Introduction to Probability, Statistics, and Random Processes. Kappa Research, LLC. <br>
+Pishro-Nik, H. (2014) *Introduction to Probability, Statistics, and Random Processes*. Kappa Research, LLC. <br>
 Disponible *online* en la dirección: https://www.probabilitycourse.com
+
+### Otras referencias:
+
++ Bertsekas, D. P. y Tsitsklis, J. N. (2002). *Introduction to Probability*. Athena Scientific.
++ Blanco, L. (2008). *Probabilidad*. Editorial UNAL.
++ Ross, S. M. (2014). *Introduction to Probability Models*. Academic press.
+
+### Contenidos mínimos
+
++ **Unidad 1. Espacios muestrales y probabilidad.** Axiomas de probabilidad. Probabilidad condicional, teorema de la probabilidad total. Independencia. Conteo.
++ **Unidad 2. Variables aleatorias discretas.** Funciones de masa de probabilidad.  Valor esperado. 
++ **Unidad 3. Variables aleatorias continuas.** Funciones de densidad. Funciones de variables aleatorias. Funciones conjuntas. Sumas de variables aleatorias.
++ **Unidad 4. Convergencia**
++ **Unidad 5. Análisis Exploratorio de Datos**
+
+### Evaluación
+
+Se harán 4 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 90% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 40%.
+
+El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
 
 ### Enlace encuentros sincrónicos
 
