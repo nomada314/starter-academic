@@ -21,7 +21,7 @@ Por cita.
 
 ### Horario
 
-Semana | Fecha | Tópico
+Semana | Fecha | Tema
 ---| ---| ---
 1  | Jun 23 | Presentación del curso. <br> Distribuciones discretas (A.1) <br> Introducción a `R` (D.1 - D.3)
 &nbsp; | Jun 24 | Introducción a `R` (D.4) <br> Distribuciones continuas (A.2)
