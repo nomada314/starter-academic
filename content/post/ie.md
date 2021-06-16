@@ -28,7 +28,7 @@ En su formación integral como licenciado en matemáticas, el estudiante debe ad
 
 ### Metodología
 
-Se hará una exposición teórica de conceptos y ejecución práctica de ejemplos relacionados con las temáticas de la asignatura. Además, resolveremos ejercicios de aplicación usando el software estadístico \texttt{R}.
+Se hará una exposición teórica de conceptos y ejecución práctica de ejemplos relacionados con las temáticas de la asignatura. Además, resolveremos ejercicios de aplicación usando el software estadístico `R`.
 
 ### Contenidos mínimos
 
@@ -45,7 +45,7 @@ Se hará una exposición teórica de conceptos y ejecución práctica de ejemplo
 
 Se harán 4 exámenes usando la plataforma *Moodle* de la Universidad. Estos exámenes correponden a 90% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 40%. 
 
-El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la  participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmenteuna el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato *markdown*. **NO** se aceptan archivos en ningún otro formato. 
+El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la  participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato *markdown*. **NO** se aceptan archivos en ningún otro formato. 
 
 
 ### Libro guía:
