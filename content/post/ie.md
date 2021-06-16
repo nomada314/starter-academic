@@ -11,6 +11,10 @@ math      = true
 
 López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
 
+### Enlace reuniones sincrónicas
+
+meet.google.com/bof-itau-rig
+
 ### Horas de oficina: 
 
 Por cita.
