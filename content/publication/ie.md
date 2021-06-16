@@ -37,32 +37,6 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * [Capítulo 3.](https://alexrojas.netlify.com/code/Inf/Infcap3.R) Contraste de hipótesis
 * [Capítulo 4.](https://alexrojas.netlify.com/code/Inf/Infcap4.R) Estimación por regiones
 
-## Muestra de árboles sembrados
-
-<table style="width:100%">
-  <tr>
-    <th><img src="https://alexrojas.netlify.app/media/roble.png" width="250"></th>
-    <th><img src="https://alexrojas.netlify.app/media/manodeoso.png" width="250"></th>
-    <th><img src="https://alexrojas.netlify.app/media/garrocho.png" width="250" height="350"></th>
-  </tr>
-  <tr>
-    <td>Roble (Quercus humboldtii)</td>
-    <td>Mano de oso (Oreopanax bogotensis)</td>
-    <td>Garrocho (Viburnum triphyllum)</td>
-  </tr>
-  <tr>
-    <th><img src="https://alexrojas.netlify.app/media/gaque.png" width="250" height="350"></th>
-    <th><img src="https://alexrojas.netlify.app/media/Raque.jpg" width="250" height="350"></th>
-    <th><img src="https://alexrojas.netlify.app/media/yarumo.png" width="250"></th>
-  </tr>
-  <tr>
-    <td>Gaque (Clusia multiflora)</td>
-    <td>Raque (Vallea stipularis)</td>
-    <td>Yarumo (Cecropia peltata)</td>
-  </tr>
-</table>
-
-
 ## Errata
 
 #### Capítulo I
