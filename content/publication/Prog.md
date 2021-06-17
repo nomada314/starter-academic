@@ -16,6 +16,11 @@ caption = "Julia set"
 +++
 
 
+<center><img src="https://alexrojas.netlify.app/mediaProgCaratula.png" width="250">
+  
+
+</center>
+
 
 
 ### Datos
