@@ -37,7 +37,7 @@ Son las que identifican al profesional egresado de esta alma Mater, y se pueden 
 
 #### Competencias profesionales
 
-Son la que involucran el dominio de habilidades y saberes propios de la acción docente, lo cual hace que se relacionen mediante el diseño de alternativas didácticas con el fin de mejorar el aprendizaje de la matemática y la topología, igualmente propicia la construcción y apropiación de los saberes propios del área y por otro lado la articula con otras áreas del conocimento científico y pedagógico. Estas se basan en:
+Son la que involucran el dominio de habilidades y saberes propios de la acción docente, lo cual hace que se relacionen mediante el diseño de alternativas didácticas con el fin de mejorar el aprendizaje de la matemática y la estadística, igualmente propicia la construcción y apropiación de los saberes propios del área y por otro lado la articula con otras áreas del conocimento científico y pedagógico. Estas se basan en:
 
 - El diseño de alternativas didácticas que mejoren el aprendizaje de la Estadística en los diferentes niveles con base en los aportes de la psicología, la pedagogía y demás disciplinas que se involucran en la formación de las nuevas generaciones.
 - La promoción de la construcción y apropiación del saber matemático y estadístico en el desarrollo de la creatividad.
