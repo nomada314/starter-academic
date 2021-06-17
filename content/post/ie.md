@@ -14,21 +14,48 @@ Este curso proporciona una base teórica, donde los tres objetivos principales e
 
 ### Justificación
 
-En su formación integral como licenciado en matemáticas, el estudiante debe adquirir durante su preparación universitaria conocimientos en áreas afines como estadística, donde a lo largo de la adquisición de nuevos conceptos consolida conceptos acumulados durante su formación matemática. Estadística inferencial  es un curso que proporciona al licenciado en matemáticas un bagaje estadístico que: 
-
-+ lo prepara para otros cursos de estadística, 
-+ le permite profundizar en su entendimiento de publicaciones científicas, 
-+ y le abre oportunidades en otras líneas de investigación.
+Debido al creciente movimiento tendiente a incorporar elementos de estadística y probabilidad en el currículo de secundaria, como parte del discurso básico de las matemáticas, es importante que el futuro docente adquiera conocimiento acerca de dichas temáticas de manera formal. Por otra parte, el Licenciado como cualquier profesional que busca incrementar su acerbo intelectual, se dedica a la adquisición constante de un conjunto de conocimientos fundamentales para su práctica, una forma de adquirir tales conocimientos es por medio de técnicas de investigación. La estadística como eje central de toda investigación suministra al futuro profesional herramientas útiles para estudiar, analizar e interpretar problemas o comportamientos individuales o de grupo.
 
 ### Competencias
 
-+ Construir estimadores y pruebas de hipótesis usando el método de  máxima verosimilitud.
-+ Determinar las propiedades de estimadores y contrastes de hipótesis
-+ Usar paquetes estadísticos para generar resultados usando los procedimientos de inferencia estándar y métodos intensivos en computación.
+#### Competencias básicas 
+
+Las competencias básicas son las que se relacionan con el desarrollo de los tipos de pensamiento: MATEMÁTICO Y PEDAGÓGICO en las dimensiones interpretativa y argumentativa por tanto el estudiante debe:
+- Desarrollar mediante las competencias argumentativas e interpretativas ejercicios, problemas, situaciones donde se aplica los conceptos de modelamiento estadístico.
+- Realizar los procesos correspondientes para probar las hipótesis asociadas a la técnica estadística propuesta.
+- Verificar los supuestos del correspondiente modelo de regresión.
+- Realizar investigaciones a nivel educativo con conceptos de estadística avanzados
+- Utilizar *software* para encontrar los resultados de investigaciones propuestas.
+
+#### Competencias Generales
+
+Son las que identifican al profesional egresado de esta alma Mater, y se pueden verificar con el desarrollo reflexivo e investigativo, con los compromisos y las responsabilidades como educador, asi como el de promover valores para la convivencia, generando ambientes propicios para la interacción grupal y para la discusión objetiva y crítica de los contenidos de la asignatura. Estas competencias se manifiestan en la capacidad de:
+- Transformar realidades, a través del acercamiento y reconocimiento de los ambientes sociales, la identificación de conflictos y problemas y la búsqueda de soluciones.
+- Asumir compromisos y responsabilidades en su función educadora, desde su actuación personal y su articulación con su comunidad.
+- Desarrollar un espíritu reflexivo e investigativo, lo cual implica un proceso permanente de autoevaluación que lo lleve a replantear permanentemente su labor como futuro docente.
+- Pensar y promover valores para la convivencia e interacción ciudadana.
+
+#### Competencias profesionales
+
+Son la que involucran el dominio de habilidades y saberes propios de la acción docente, lo cual hace que se relacionen mediante el diseño de alternativas didácticas con el fin de mejorar el aprendizaje de la matemática y la topología, igualmente propicia la construcción y apropiación de los saberes propios del área y por otro lado la articula con otras áreas del conocimento científico y pedagógico. Estas se basan en:
+
+- El diseño de alternativas didácticas que mejoren el aprendizaje de la Estadística en los diferentes niveles con base en los aportes de la psicología, la pedagogía y demás disciplinas que se involucran en la formación de las nuevas generaciones.
+- La promoción de la construcción y apropiación del saber matemático y estadístico en el desarrollo de la creatividad.
+- El planeamiento y ejecución de proyectos de investigación relacionados con esta asignatura que respondan a la solución de necesidades del contexto en el cual se desempeñe.
+- La articulación de la Estadística con las diferentes áreas del saber, las cuales se manifiestan en la interdisciplinariedad y transdisciplinariedad, para la búsqueda de la integralidad del conocimiento.
+- Desarrollar la comprensión lectora, mediante el análisis de lecturas previas sobre las temáticas de la estadística inferencial.
+- Y la incorporación de prácticas evaluativas que conduzcan a un proceso continuo de mejoramiento y adquisición del conocimiento de estadística inferencial, así como la recursividad en el uso de estrategias y herramientas tecnológicas y didácticas.
+
 
 ### Metodología
 
-Se hará una exposición teórica de conceptos y ejecución práctica de ejemplos relacionados con las temáticas de la asignatura. Además, resolveremos ejercicios de aplicación usando el software estadístico `R`.
+**Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. Plenarias: Son clases en las cuales hay necesidad de una puesta en común de los conceptos.
+**Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. Desarrollo de talleres con discusión de ejercicios: En cada semana de trabajo y bajo la supervisión directa del profesor, se desarrolla un taller de ejercicios, a través del cual se soluciona un conjunto de problemas de aplicación a la temática respectiva de clase.
+**Trabajos de consulta:** La profundización de ciertos temas de interés relacionados con la asignatura, se llevará a cabo con la revisión del material bibliográfico disponible en la biblioteca o en las bases de datos.
+**Trabajos dirigidos:** Son aquellos que se desarrollan en presencia del docente y en los cuales entre otras actividades se realizan las siguientes: Socialización de lecturas, desarrollo de talleres, aclaración de significados.
+**Exposición magistral:** El docente se encargará de realizar la exposición de cada uno de los temas, brindando el espacio para las preguntas de los estudiantes, las discusiones y consensos de información.
+**Manejo de tecnología:** Desarrollo y complemento usando el computador con el software estadístico adecuado (`R`).
+
 
 ### Contenidos mínimos
 
