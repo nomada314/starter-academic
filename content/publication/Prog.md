@@ -16,7 +16,7 @@ caption = "Julia set"
 +++
 
 
-<center><img src="https://alexrojas.netlify.app/mediaProgCaratula.png" width="250">
+<center><img src="https://alexrojas.netlify.app/media/ProgCaratula.png" width="250">
   
 
 </center>
