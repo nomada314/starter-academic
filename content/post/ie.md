@@ -49,12 +49,12 @@ Son la que involucran el dominio de habilidades y saberes propios de la acción 
 
 ### Metodología
 
-**Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. Plenarias: Son clases en las cuales hay necesidad de una puesta en común de los conceptos.
-**Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. Desarrollo de talleres con discusión de ejercicios: En cada semana de trabajo y bajo la supervisión directa del profesor, se desarrolla un taller de ejercicios, a través del cual se soluciona un conjunto de problemas de aplicación a la temática respectiva de clase.
-**Trabajos de consulta:** La profundización de ciertos temas de interés relacionados con la asignatura, se llevará a cabo con la revisión del material bibliográfico disponible en la biblioteca o en las bases de datos.
-**Trabajos dirigidos:** Son aquellos que se desarrollan en presencia del docente y en los cuales entre otras actividades se realizan las siguientes: Socialización de lecturas, desarrollo de talleres, aclaración de significados.
-**Exposición magistral:** El docente se encargará de realizar la exposición de cada uno de los temas, brindando el espacio para las preguntas de los estudiantes, las discusiones y consensos de información.
-**Manejo de tecnología:** Desarrollo y complemento usando el computador con el software estadístico adecuado (`R`).
++ **Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. Plenarias: Son clases en las cuales hay necesidad de una puesta en común de los conceptos.
++ **Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. Desarrollo de talleres con discusión de ejercicios: En cada semana de trabajo y bajo la supervisión directa del profesor, se desarrolla un taller de ejercicios, a través del cual se soluciona un conjunto de problemas de aplicación a la temática respectiva de clase.
++ **Trabajos de consulta:** La profundización de ciertos temas de interés relacionados con la asignatura, se llevará a cabo con la revisión del material bibliográfico disponible en la biblioteca o en las bases de datos.
++ **Trabajos dirigidos:** Son aquellos que se desarrollan en presencia del docente y en los cuales entre otras actividades se realizan las siguientes: Socialización de lecturas, desarrollo de talleres, aclaración de significados.
++ **Exposición magistral:** El docente se encargará de realizar la exposición de cada uno de los temas, brindando el espacio para las preguntas de los estudiantes, las discusiones y consensos de información.
++ **Manejo de tecnología:** Desarrollo y complemento usando el computador con el software estadístico adecuado (`R`).
 
 
 ### Contenidos mínimos
