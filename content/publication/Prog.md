@@ -1,6 +1,6 @@
 +++
 title = "Introducción a Python para Estudiantes de Ciencias"
-date = "2021-05-05"
+date = "2021-06-17"
 authors = ["López A.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
