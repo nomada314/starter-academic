@@ -21,6 +21,10 @@ math      = true
 
 Por cita.
 
+### Evaluación
+
+Se harán 4 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 80% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 30%. El 20% restante corresponde a participación. 
+
 ### Horario
 
 Semana | Fecha | Tema
