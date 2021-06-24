@@ -1,6 +1,6 @@
 +++
 date      = 2020-10-27
-lastmod   = 2021-02-09
+lastmod   = 2021-06-23
 draft     = false
 tags      = ["Teaching", "Inference"]
 title     = "Estadística Inferencial"
@@ -70,7 +70,7 @@ Son la que involucran el dominio de habilidades y saberes propios de la acción 
 
 ### Evaluación
 
-Se harán 4 exámenes usando la plataforma *Moodle* de la Universidad. Estos exámenes correponden a 90% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 40%. 
+Se harán 4 exámenes usando la plataforma *Moodle* de la Universidad. Estos exámenes correponden a 70% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 40% y el otro 30%. Habrá 2 talleres en cada 50 con un peso del 20%.
 
 El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la  participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato *markdown*. **NO** se aceptan archivos en ningún otro formato. 
 
@@ -100,18 +100,18 @@ Por cita.
 
 Semana | Fecha | Tema
 ---| ---| ---
-1  | Jun 23 | Presentación del curso. <br> Distribuciones discretas (A.1) <br> Introducción a `R` (D.1 - D.3)
-&nbsp; | Jun 24 | Introducción a `R` (D.4) <br> Distribuciones continuas (A.2)
-2  | Jun 30 | Teorema de límite central y método $\delta$
-&nbsp; | Jul 01 | Distribuciones de probabilidad conjunta
+1  | Jun 23 | Presentación del curso <br> Ejemplo del uso de `Rmarkdown` <br> Distribución Bernoulli (A.1)
+&nbsp; | Jun 24 | Distribuciones Binomial y Poisson  (A.1) <br> Introducción a `R` (D.4) 
+2  | Jun 30 | Distribuciones continuas (A.2) 
+&nbsp; | Jul 01 | Teorema de límite central y método $\delta$
 3  | Jul 07 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Jul 08 | <font color="red">Primer examen</font> 
-4  | Jul 14 | Distribuciones del mínimo, el máximo y el rango.
-&nbsp; | Jul 15 | Estadísticas y suficiencia (1.2)
-5  | Jul 21 | Función de distribución empírica (1.4)
-&nbsp; | Jul 22 | Método de Montecarlo (1.5)
-6  | Jul 28 | Método de Montecarlo, cont. 
-&nbsp; | Jul 29 | &nbsp;
+4  | Jul 14 | Distribuciones de probabilidad conjunta
+&nbsp; | Jul 15 | Distribuciones del mínimo, el máximo y el rango.
+5  | Jul 21 | Estadísticas y suficiencia (1.2)
+&nbsp; | Jul 22 | Función de distribución empírica (1.4)
+6  | Jul 28 | Método de Montecarlo (1.5)
+&nbsp; | Jul 29 | Método de Montecarlo, cont. 
 7  | Aug 04 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Aug 05 | <font color="red">Segundo examen</font> 
 8  | Aug 11 | Estimadores puntuales (2.1)
