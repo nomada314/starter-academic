@@ -1,6 +1,6 @@
 +++
 date      = 2021-06-09
-lastmod   = 2021-06-09
+lastmod   = 2021-06-23
 draft     = false
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
@@ -48,10 +48,10 @@ Por cita.
 Semana | Fecha | Tema
 ---| ---| ---
 1  | Jun 21 | Presentación del curso. <br> Axiomas de la probabilidad (1.3.1 - 1.3.3)
-&nbsp; | Jun 23 | Cálculo de probabilidades
-&nbsp; | Jun 25 | Cálculo de probabilidades, cont. 
+&nbsp; | Jun 23 | Cálculo de probabilidades (1.3.3) <br> Modelos discretos (1.3.4)
+&nbsp; | Jun 25 | Conteo (2.1)
 2  | Jun 28 | Sesión ejercicios
-&nbsp; | Jun 30 | TBA
+&nbsp; | Jun 30 | Conteo (2.1), continuación
 &nbsp; | Jul 02 | TBA
 3  | Jul 05 | Festivo
 &nbsp; | Jul 07 | <font color="red">Sesión de preguntas</font> 
