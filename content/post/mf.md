@@ -1,6 +1,6 @@
 +++
 date      = 2021-06-09
-lastmod   = 2021-06-09
+lastmod   = 2021-06-23
 draft     = false
 tags      = ["Teaching"]
 title     = "Profundización II"
@@ -33,8 +33,8 @@ Semana | Fecha | Tema
 &nbsp; | Jun 24 | Interés simple y compuesto (**FD** 1.4 - 1.7)
 2  | Jun 29 | Interés simple y compuesto, cont. (**FD** 1.8 - 1.10)
 &nbsp; | Jul 01 | Interés simple y compuesto, cont. (**FD** 1.10 - 1.14)
-3  | Jul 06 | (**FD** 1.8 - 1.10)
-&nbsp; | Jul 08 |  (**FD** 1.10 - 1.14)
+3  | Jul 06 | &nbsp;
+&nbsp; | Jul 08 |  &nbsp;
 4  | Jul 13 |  <font color="red">Sesión preguntas</font> 
 &nbsp; | Jul 15 |  <font color="red">Segundo examen</font> 
 5  | Jul 20 |  Festivo
