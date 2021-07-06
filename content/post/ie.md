@@ -103,15 +103,15 @@ Semana | Fecha | Tema
 1  | Jun 23 | Presentación del curso <br> Ejemplo del uso de `Rmarkdown` <br> Distribución Bernoulli (A.1)
 &nbsp; | Jun 24 | Distribuciones Binomial y Poisson  (A.1) <br> Introducción a `R` (D.4) 
 2  | Jun 30 | Distribuciones continuas (A.2) 
-&nbsp; | Jul 01 | Teorema de límite central y método $\delta$
+&nbsp; | Jul 01 | Teorema de límite central y método $\delta$ <br> Distribuciones de probabilidad conjunta
 3  | Jul 07 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Jul 08 | <font color="red">Primer examen</font> 
-4  | Jul 14 | Distribuciones de probabilidad conjunta
-&nbsp; | Jul 15 | Distribuciones del mínimo, el máximo y el rango.
-5  | Jul 21 | Estadísticas y suficiencia (1.2)
-&nbsp; | Jul 22 | Función de distribución empírica (1.4)
-6  | Jul 28 | Método de Montecarlo (1.5)
-&nbsp; | Jul 29 | Método de Montecarlo, cont. 
+4  | Jul 14 | Distribuciones del mínimo, el máximo y el rango.
+&nbsp; | Jul 15 | Estadísticas y suficiencia (1.2)
+5  | Jul 21 | Función de distribución empírica (1.4)
+&nbsp; | Jul 22 | Método de Montecarlo (1.5)
+6  | Jul 28 | Método de Montecarlo, cont.
+&nbsp; | Jul 29 |  TBA
 7  | Aug 04 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Aug 05 | <font color="red">Segundo examen</font> 
 8  | Aug 11 | Estimadores puntuales (2.1)
