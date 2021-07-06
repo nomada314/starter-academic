@@ -103,7 +103,7 @@ Semana | Fecha | Tema
 1  | Jun 23 | Presentación del curso <br> Ejemplo del uso de `Rmarkdown` <br> Distribución Bernoulli (A.1)
 &nbsp; | Jun 24 | Distribuciones Binomial y Poisson  (A.1) <br> Introducción a `R` (D.4) 
 2  | Jun 30 | Distribuciones continuas (A.2) 
-&nbsp; | Jul 01 | Teorema de límite central y método $\delta$ <br> Distribuciones de probabilidad conjunta
+&nbsp; | Jul 01 | Teorema de límite central y método $\delta$ (B.4) <br> Distribuciones de probabilidad conjunta
 3  | Jul 07 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Jul 08 | <font color="red">Primer examen</font> 
 4  | Jul 14 | Distribuciones del mínimo, el máximo y el rango.
