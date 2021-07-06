@@ -52,19 +52,19 @@ Semana | Fecha | Tema
 &nbsp; | Jun 25 | Conteo (2.1)
 2  | Jun 28 | Sesión ejercicios
 &nbsp; | Jun 30 | Conteo (2.1), continuación
-&nbsp; | Jul 02 | TBA
+&nbsp; | Jul 02 | Probabilidad condicional <br> Teorema de Bayes
 3  | Jul 05 | Festivo
 &nbsp; | Jul 07 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Jul 09 | <font color="red">Primer examen</font> 
 4  | Jul 12 | Sesión ejercicios
-&nbsp; | Jul 14 | TBA
-&nbsp; | Jul 16 | TBA
+&nbsp; | Jul 14 | Variables aleatorias <br> Variables aleatorias discretas
+&nbsp; | Jul 16 | Valor esperado <br> Varianza
 5  | Jul 19 | Sesión ejercicios
-&nbsp; | Jul 21 | TBA
-&nbsp; | Jul 23 | TBA
+&nbsp; | Jul 21 | Binomial, Poisson, Geométrica
+&nbsp; | Jul 23 | Binomial negativa, hipergeométrica
 6  | Jul 26 | Sesión ejercicios
-&nbsp; | Jul 28 | TBA
-&nbsp; | Jul 30 | TBA
+&nbsp; | Jul 28 | Variables aleatorias continuas
+&nbsp; | Jul 30 | Uniforme, exponencial y normal
 7  | Aug 02 | Sesión ejercicios
 &nbsp; | Aug 04 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Aug 06 | <font color="red">Segundo examen</font> 
