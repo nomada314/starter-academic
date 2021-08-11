@@ -28,7 +28,7 @@ Disponible *online* en la dirección: https://www.probabilitycourse.com
 
 ### Evaluación
 
-Se harán 4 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 90% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 40%.
+Para el primer 50 se hará un examen con un peso del 50% y dos talleres con un peso del 40%. Para el segundo 50 se harán dos exámenes con un peso del 90%. El examen con mejor nota valdrá 50% y el otro 40%.
 
 El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
 
@@ -67,7 +67,7 @@ Semana | Fecha | Tema
 &nbsp; | Aug 04 | <font color="red">Paro</font> 
 &nbsp; | Aug 06 | <font color="red">Paro</font> 
 8  | Aug 09 | <font color="red">Paro</font> 
-&nbsp; | Aug 11 | Variables aleatorias <br> Variables aleatorias discretas
+&nbsp; | Aug 11 | Variables aleatorias <br> Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Función de distribución acumulada
 &nbsp; | Aug 13 | Valor esperado <br> Varianza
 9  | Aug 16 | Festivo
 &nbsp; | Aug 18 | Binomial, Poisson, Geométrica
