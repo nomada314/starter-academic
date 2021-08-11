@@ -7,8 +7,6 @@ title     = "Estadística General"
 math      = true
 +++
 
-
-
 ### Libro guía:
 
 Pishro-Nik, H. (2014) *Introduction to Probability, Statistics, and Random Processes*. Kappa Research, LLC. <br>
@@ -54,38 +52,38 @@ Semana | Fecha | Tema
 &nbsp; | Jun 30 | Conteo (2.1), continuación
 &nbsp; | Jul 02 | Probabilidad condicional <br> Teorema de Bayes
 3  | Jul 05 | Festivo
-&nbsp; | Jul 07 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Jul 09 | <font color="red">Primer examen</font> 
-4  | Jul 12 | Sesión ejercicios
-&nbsp; | Jul 14 | Variables aleatorias <br> Variables aleatorias discretas
-&nbsp; | Jul 16 | Valor esperado <br> Varianza
-5  | Jul 19 | Sesión ejercicios
-&nbsp; | Jul 21 | Binomial, Poisson, Geométrica
-&nbsp; | Jul 23 | Binomial negativa, hipergeométrica
-6  | Jul 26 | Sesión ejercicios
-&nbsp; | Jul 28 | Variables aleatorias continuas
-&nbsp; | Jul 30 | Uniforme, exponencial y normal
-7  | Aug 02 | Sesión ejercicios
-&nbsp; | Aug 04 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Aug 06 | <font color="red">Segundo examen</font> 
-8  | Aug 09 | Sesión ejercicios
-&nbsp; | Aug 11 | TBA
-&nbsp; | Aug 13 | TBA
+&nbsp; | Jul 07 | <font color="blue">Sesión de preguntas</font> 
+&nbsp; | Jul 09 | <font color="blue">Primer examen</font> 
+4  | Jul 12 | <font color="red">Paro</font> 
+&nbsp; | Jul 14 | <font color="red">Paro</font> 
+&nbsp; | Jul 16 | <font color="red">Paro</font> 
+5  | Jul 19 | <font color="red">Paro</font> 
+&nbsp; | Jul 21 | <font color="red">Paro</font> 
+&nbsp; | Jul 23 | <font color="red">Paro</font> 
+6  | Jul 26 | <font color="red">Paro</font> 
+&nbsp; | Jul 28 | <font color="red">Paro</font> 
+&nbsp; | Jul 30 | <font color="red">Paro</font> 
+7  | Aug 02 | <font color="red">Paro</font> 
+&nbsp; | Aug 04 | <font color="red">Paro</font> 
+&nbsp; | Aug 06 | <font color="red">Paro</font> 
+8  | Aug 09 | <font color="red">Paro</font> 
+&nbsp; | Aug 11 | Variables aleatorias <br> Variables aleatorias discretas
+&nbsp; | Aug 13 | Valor esperado <br> Varianza
 9  | Aug 16 | Festivo
-&nbsp; | Aug 18 | TBA
-&nbsp; | Aug 20 | TBA
+&nbsp; | Aug 18 | Binomial, Poisson, Geométrica
+&nbsp; | Aug 20 | Binomial negativa, hipergeométrica
 10  | Aug 23 | Sesión ejercicios
-&nbsp; | Aug 25 | TBA
-&nbsp; | Aug 27 | TBA
+&nbsp; | Aug 25 | <font color="red">Sesión de preguntas</font> 
+&nbsp; | Aug 27 | <font color="red">Segundo examen</font> 
 11  | Aug 30 | Sesión ejercicios
-&nbsp; | Sep 01 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Sep 03 | <font color="red">Tercer examen</font> 
+&nbsp; | Sep 01 | Variables aleatorias continuas
+&nbsp; | Sep 03 | Uniforme, exponencial y normal
 12  | Sep 06 | Sesión ejercicios
 &nbsp; | Sep 08 | TBA
 &nbsp; | Sep 10 | TBA
 13  | Sep 13 | Sesión ejercicios
-&nbsp; | Sep 15 | TBA
-&nbsp; | Sep 17 | TBA
+&nbsp; | Sep 15 | <font color="red">Sesión de preguntas</font> 
+&nbsp; | Sep 17 | <font color="red">Tercer examen</font> 
 14  | Sep 20 | Sesión ejercicios
 &nbsp; | Sep 22 | TBA
 &nbsp; | Sep 24 | TBA
@@ -95,5 +93,4 @@ Semana | Fecha | Tema
 16  | Oct 04 | &nbsp;
 &nbsp; | Oct 06 | <font color="red">Cuarto examen</font> 
 &nbsp; | Oct 08 | TBA
-
 
