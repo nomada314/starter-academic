@@ -12,7 +12,6 @@ image_preview = ""
 selected = false
 tags = ["Poultry", "Muscovy Duck"]
 projects = ["patos"]
-url_pdf = "https://www.tandfonline.com/toc/twps20/77/1?nav=tocList"
 doi = "10.1080/00439339.2021.1921668"
 math = false
 highlight = true
