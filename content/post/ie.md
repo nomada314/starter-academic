@@ -70,7 +70,7 @@ Son la que involucran el dominio de habilidades y saberes propios de la acción 
 
 ### Evaluación
 
-Se harán 4 exámenes usando la plataforma *Moodle* de la Universidad. Estos exámenes correponden a 70% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 40% y el otro 30%. Habrá 2 talleres en cada 50 con un peso del 20%.
+Para el primer 50 se hará un examen con un peso del 40% y 4 talleres con un peso del 50%. Para el segundo 50 se harán dos exámenes y dos talleres. El examen con mejor nota valdrá 40% y el otro 30%. Los talleres tienen un peso del 20%.
 
 El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la  participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato *markdown*. **NO** se aceptan archivos en ningún otro formato. 
 
@@ -114,8 +114,8 @@ Semana | Fecha | Tema
 &nbsp; | Jul 29 |  <font color="red">Paro</font> 
 7  | Aug 04 | <font color="red">Paro</font> 
 &nbsp; | Aug 05 | <font color="red">Paro</font> 
-8  | Aug 11 | Estimadores puntuales (2.1) <br> Método de momentos (2.4)
-&nbsp; | Aug 12 | Método de máxima verosimilitud (2.5)
+8  | Aug 11 | Estimadores puntuales (2.1)
+&nbsp; | Aug 12 | Método de momentos (2.4) <br> Método de máxima verosimilitud (2.5)
 9  | Aug 18 | Método de máxima verosimilitud, cont. (2.5)
 &nbsp; | Aug 29 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
 10 | Aug 25 | <font color="blue">Sesión de preguntas</font> 
