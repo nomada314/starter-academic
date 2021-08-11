@@ -104,9 +104,9 @@ Semana | Fecha | Tema
 &nbsp; | Jun 24 | Distribuciones Binomial y Poisson  (A.1) <br> Introducción a `R` (D.4) 
 2  | Jun 30 | Distribuciones continuas (A.2) 
 &nbsp; | Jul 01 | Teorema de límite central y método $\delta$ (B.4) <br> Distribuciones de probabilidad conjunta
-3  | Jul 07 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; | Jul 08 | <font color="blue">Primer examen</font> 
-4  | Jul 14 | <font color="blue">Sesión de preguntas</font>  Distribuciones del mínimo, el máximo y el rango.
+3  | Jul 07 | <font color="green">Sesión de preguntas</font> 
+&nbsp; | Jul 08 | <font color="green">Primer examen</font> 
+4  | Jul 14 | <font color="red">Paro</font> 
 &nbsp; | Jul 15 | <font color="red">Paro</font> 
 5  | Jul 21 | <font color="red">Paro</font> 
 &nbsp; | Jul 22 | <font color="red">Paro</font> 
