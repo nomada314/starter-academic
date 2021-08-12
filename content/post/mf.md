@@ -23,7 +23,9 @@ Por cita.
 
 ### Evaluación
 
-Se harán 4 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 80% de la nota final. En cada 50 habrán dos exámenes, el examen con mejor nota valdrá 50% y el otro 30%. El 20% restante corresponde a participación. 
+Primer 50: Se hará 1 examen usando la plataforma Moodle de la Universidad con un peso de 40% de la nota final. También se hará una presentación con un peso del 40%. El 20% restante corresponde a participación. 
+
+Segundo 50: Se harán 2 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 80% de la nota final. El examen con mejor nota valdrá 50% y el otro 30%. El 20% restante corresponde a participación. 
 
 ### Horario
 
@@ -61,6 +63,5 @@ Semana | Fecha | Tema
 &nbsp; | Sep 30  | TBA 
 16  | Oct 05 |  <font color="blue">Sesión preguntas</font> 
 &nbsp; | Oct 07  | <font color="blue">Tercer examen</font> 
-
 
 
