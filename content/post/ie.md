@@ -115,7 +115,7 @@ Semana | Fecha | Tema
 7  | Aug 04 | <font color="red">Paro</font> 
 &nbsp; | Aug 05 | <font color="red">Paro</font> 
 8  | Aug 11 | Estimadores puntuales (2.1)
-&nbsp; | Aug 12 | Método de momentos (2.4) <br> Método de máxima verosimilitud (2.5)
+&nbsp; | Aug 12 | Método de momentos (2.4)
 9  | Aug 18 | Método de máxima verosimilitud, cont. (2.5)
 &nbsp; | Aug 29 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
 10 | Aug 25 | <font color="blue">Sesión de preguntas</font> 
