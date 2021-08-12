@@ -44,7 +44,7 @@ Semana | Fecha | Tema
 7  | Aug 03 |  <font color="red">Paro</font> 
 &nbsp; | Aug 05 | <font color="red">Paro</font> 
 8  | Aug 10 |  <font color="red">Paro</font> 
-&nbsp; | Aug 12 | Fuerza de interés
+&nbsp; | Aug 12 | Fuerza de interés <br> Inflación
 9  | Aug 17 |  TBA
 &nbsp; | Aug 19 | TBA 
 10  | Aug 24 | <font color="blue">Sesión preguntas</font>  
