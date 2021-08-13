@@ -107,7 +107,11 @@ caption = "Julia set"
 
 Figura  | Descripción
 :------ | :------
+![](https://alexrojas.netlify.com/media/Prog/CatedralGris.png) | [`catedralGris.png`](https://alexrojas.netlify.com/media/Prog/catedralGris.png): Figura 1.1  
 ![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg) | [`Catedral.jpg`](https://alexrojas.netlify.com/media/Prog/Catedral.jpg): Figura 1.1 a color  
+![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png) | [`catedralGrisBorrosa.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png): Figura 3.5  
+![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png) | [`CatedralGrisBorrosa4.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png): Figura 3.6  
+![](https://alexrojas.netlify.com/media/Prog/catedralGrisFiltroAlto.png) | [`catedralGrisFiltroAlto.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisFiltroAlto.png): Figura 3.7 
 ![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg) | [`CircConc.jpg`](https://alexrojas.netlify.com/media/Prog/CircConc.jpg): Figura 6.2 a color 
 ![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg) | [`HCG_92.jpg`](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg): Grupo de galaxies HCG_92. Figura 7.6 (a) a color
 ![](https://alexrojas.netlify.com/media/Prog/ROSAT.png) | [`ROSAT.png`](https://alexrojas.netlify.com/media/Prog/ROSAT.png): Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat` (Versión a color de la Figura 7.8)
