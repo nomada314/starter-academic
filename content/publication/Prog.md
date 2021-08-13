@@ -107,7 +107,7 @@ caption = "Julia set"
 
 Figura  | Descripción
 :------ | :------
-![](https://alexrojas.netlify.com/media/Prog/CatedralGris.png) | [`catedralGris.png`](https://alexrojas.netlify.com/media/Prog/catedralGris.png): Figura 1.1  
+![](https://alexrojas.netlify.com/media/Prog/CatedralGris.png) | [`catedralGris.png`](https://alexrojas.netlify.com/media/Prog/catedralGris.png): Figura 1.1: Imagen representada en Python como una matriz de tamaño 521 × 1275 píxeles.
 ![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg) | [`Catedral.jpg`](https://alexrojas.netlify.com/media/Prog/Catedral.jpg): Figura 1.1 a color  
 ![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png) | [`catedralGrisBorrosa.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png): Figura 3.5  
 ![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png) | [`CatedralGrisBorrosa4.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png): Figura 3.6  
