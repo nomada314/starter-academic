@@ -60,6 +60,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 146, Ejercicio 2.2: $T(\mathbf{X})$ es $\frac{n+1}{2(n-1)\sqrt{3}}\cdot (X_{(n)}-X_{(1)})$
 
 #### Capítulo III
+* p. 154, segunda línea, debe decir "regla de decisión", no "regla decisión".
 * p. 154, Ejemplo 3.1: Debe ser $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1.5)$ en lugar de $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1)$
 * p. 168, Definición 3.8: Debe ser $\Lambda > k$
 * p. 168, Ejemplo 3.11: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
