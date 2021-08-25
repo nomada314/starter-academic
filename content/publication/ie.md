@@ -41,14 +41,14 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 
 #### Capítulo I
 * p. 2, quinta línea, segundo párrafo: la función de probabilidad debe ser denotada por $f_{\mathbf{X}}(\mathbf{x}|\pmb{{\theta}})$, no por $f_{\mathbf{X}}(x|\pmb{{\theta}})$
-* p.3, Ejemplo 1.3. $g(\alpha,\beta) = \alpha/\beta$ en lugar de $g(\alpha,\beta) = \alpha\beta$
+* p.3, Ejemplo 1.3: $g(\alpha,\beta) = \alpha/\beta$ en lugar de $g(\alpha,\beta) = \alpha\beta$
 * p. 5, Ecuación (1.3): la integración es con respecto a $u$, no $x$
 * p. 13, Ejemplo 1.18, penúltima línea: debe ser "$(X_1,X_2)|T(\mathbf{X})$ toma valores $\ldots$" en lugar de "$\Pr((X_1,X_2)|T(\mathbf{X}))$ toma valores $\ldots$".
 * p. 20, A la función $c(\theta)$ falta dividirla por $\sigma$.
-* p. 23, La leyenda en la Figura 1.5 está invertida, pero el título está bien.
+* p. 23, Figura 1.5: La leyenda está invertida, pero el título está bien.
 * p. 24, Ejemplo 1.38, Es asintótica en lugar de asimptótica.
-* p. 24, La leyenda en la Figura 1.6 está invertida, pero el título está bien.
-* p. 24, Sección 1.5, segunda línea, debe ser $X_1, \ldots, X_B$ en lugar de $X_1, \ldots, X_n$.
+* p. 24, Figura 1.6: La leyenda está invertida, pero el título está bien.
+* p. 24, Sección 1.5, segunda línea: debe ser $X_1, \ldots, X_B$ en lugar de $X_1, \ldots, X_n$.
 
 #### Capítulo II
 * p. 36, segunda línea: vector de parámetros en lugar de vector de parámteros
@@ -60,7 +60,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 146, Ejercicio 2.2: $T(\mathbf{X})$ es $\frac{n+1}{2(n-1)\sqrt{3}}\cdot (X_{(n)}-X_{(1)})$
 
 #### Capítulo III
-* p. 154, segunda línea, debe decir "regla de decisión", no "regla decisión".
+* p. 154, segunda línea: debe decir "regla de decisión", no "regla decisión".
 * p. 154, Ejemplo 3.1: Debe ser $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1.5)$ en lugar de $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1)$
 * p. 168, Definición 3.8: Debe ser $\Lambda > k$
 * p. 168, Ejemplo 3.11: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
@@ -70,7 +70,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 
 
 #### Apéndice C
-* p. 232, en la definición de la función de probabilidad de densidad de la exponencial$(\theta,\lambda)$, debe aparecer $x$, en lugar de $x_i$ y $\theta \in \mathbb{R}^{+}$.  
+* p. 232, en la definición de la función de probabilidad de densidad de la exponencial$(\theta,\lambda)$: debe aparecer $x$, en lugar de $x_i$ y $\theta \in \mathbb{R}^{+}$.  
 * p. 236, se define la función de densidad de probabilidad de una Gamma$(\alpha, \beta)$, no Gamma$(\alpha, \lambda)$
 
 #### Apéndice C
