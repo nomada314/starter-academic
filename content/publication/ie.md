@@ -63,7 +63,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 #### Capítulo III
 * p. 154, segunda línea: debe decir "regla de decisión", no "regla decisión".
 * p. 154, Ejemplo 3.1: Debe ser $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1.5)$ en lugar de $\beta(1.5) = \Pr(c < X < 1.5|\theta = 1)$
-* p. 158, Ejemplo 3.4: falta un paréntesis en el denominador y un menos en el denominador ern la tercera expresión. La expresión correcta es $\frac{4^{-1}e^{-|X|/2}{(\sqrt{2\pi})^{-1}e^{-X^2/2}} $
+* p. 158, Ejemplo 3.4: falta un paréntesis en el denominador y un menos en el denominador ern la tercera expresión. La expresión correcta es $\frac{4^{-1}e^{-|X|/2}}{(\sqrt{2\pi})^{-1}e^{-X^2/2}} $
 * p. 168, Definición 3.8: Debe ser $\Lambda > k$
 * p. 168, Ejemplo 3.11: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
 * p. 169, Ejemplo 3.12: se usó $1/\Lambda(X)$ en lugar de $\Lambda(X)$
