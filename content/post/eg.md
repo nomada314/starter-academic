@@ -79,18 +79,18 @@ Semana | Fecha | Tema
 &nbsp; | Sep 01 | Variables aleatorias continuas
 &nbsp; | Sep 03 | Uniforme, exponencial y normal
 12  | Sep 06 | Sesión ejercicios
-&nbsp; | Sep 08 | TBA
-&nbsp; | Sep 10 | TBA
+&nbsp; | Sep 08 | Funciones de masa de probabilidad conjunta
+&nbsp; | Sep 10 | Funciones de densidad de probabilidad conjunta
 13  | Sep 13 | Sesión ejercicios
 &nbsp; | Sep 15 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Sep 17 | <font color="red">Tercer examen</font> 
 14  | Sep 20 | Sesión ejercicios
-&nbsp; | Sep 22 | TBA
-&nbsp; | Sep 24 | TBA
+&nbsp; | Sep 22 | Distribución normal bivariada
+&nbsp; | Sep 24 | Distribución de la suma, el mínimo y el máximo de variables aleatorias
 15  | Sep 27 | Sesión ejercicios
-&nbsp; | Sep 29 | TBA
-&nbsp; | Oct 01 | <font color="red">Sesión de preguntas</font> 
+&nbsp; | Sep 29 | Desigualdades de probabilidad
+&nbsp; | Oct 01 | Desigualdades de probabilidad, cont.
 16  | Oct 04 | &nbsp;
-&nbsp; | Oct 06 | <font color="red">Cuarto examen</font> 
-&nbsp; | Oct 08 | TBA
+&nbsp; | Oct 06 | <font color="red">Sesión de preguntas</font> 
+&nbsp; | Oct 08 | <font color="red">Cuarto examen</font> 
 
