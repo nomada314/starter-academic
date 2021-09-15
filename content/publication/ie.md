@@ -52,6 +52,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 
 #### Capítulo II
 * p. 36, segunda línea: vector de parámetros en lugar de vector de parámteros
+* p. 40, En la última expresión para $\mathbb{V}_{\theta}(T(X))$ es un signo menos, en lugar de un signo más.
 * p. 46, última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
 * p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$
 * p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$
