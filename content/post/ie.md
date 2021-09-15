@@ -126,10 +126,10 @@ Semana | Fecha | Tema
 &nbsp; | Sep 11 | Pruebas *score* y de Wald, cont.
 13  | Sep 15 | <font color="blue">Sesión de preguntas</font> 
 &nbsp; | Sep 16 | <font color="blue">Tercer examen</font> 
-14  | Sep 22 | Estimación por regiones, cont.
+14  | Sep 22 | Estimación por regiones
 &nbsp; | Sep 25 | Estimación por regiones, cont. (4.2)
 15  | Sep 29 | Estimación por regiones, cont. (4.2)
-&nbsp; | Sep 30 |  <font color="blue">Sesión de preguntas</font> 
-16  | Oct 06 | <font color="blue">Cuarto examen</font> 
-&nbsp; | Oct 07 | &nbsp;
+&nbsp; | Sep 30 |  Estimación por regiones, cont. (4.2)
+16  | Oct 06 | <font color="blue">Sesión de preguntas</font> 
+&nbsp; | Oct 07 | <font color="blue">Cuarto examen</font> 
 
