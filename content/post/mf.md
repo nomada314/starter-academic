@@ -51,14 +51,14 @@ Semana | Fecha | Tema
 &nbsp; | Aug 19 | TBA 
 10  | Aug 24 | <font color="blue">Sesión preguntas</font>  
 &nbsp; | Aug 26 | <font color="blue">Primer examen</font> 
-11  | Aug 31 |  TBA
-&nbsp; | Sep 02  | TBA 
-12  | Sep 07 |  TBA
-&nbsp; | Sep 09  | TBA
+11  | Aug 31 |  Anualidades
+&nbsp; | Sep 02  | Anualidades, cont.
+12  | Sep 07 |  Anualidades, cont.
+&nbsp; | Sep 09  | Anualidades, cont.
 13  | Sep 14 |  <font color="blue">Sesión preguntas</font> 
-&nbsp; | Sep 16  | <font color="blue">Segundo examen</font> 
-14  | Sep 21 |  TBA
-&nbsp; | Sep 23  | TBA 
+&nbsp; | Sep 16  | Riesgo y retorno
+14  | Sep 21 |  <font color="blue">Segundo examen</font> 
+&nbsp; | Sep 23  | Riesgo y retorno, cont.
 15  | Sep 28 |  TBA
 &nbsp; | Sep 30  | TBA 
 16  | Oct 05 |  <font color="blue">Sesión preguntas</font> 
