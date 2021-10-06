@@ -21,7 +21,7 @@ caption = "Figura 4.16"
 
 ### Datos
 
-Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.com/Data/Bio/Datos.zip)
+Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.com/Data/Bio/Datos.zip). 
 
 * [BRCA2.fa](https://alexrojas.netlify.com/Data/Bio/BRCA2.fa)
 * [Cadaver.txt](https://alexrojas.netlify.com/Data/Bio/Cadaver.txt)
