@@ -1,0 +1,32 @@
+Sample name,characteristics: fusion type,Cluster,type,title,source name,organism,characteristics: gender,characteristics: AGE (months),processed data file
+FPKM_2.3,METOPIC,A,Craniosynostosis,Osteoblast growth on culture-Sample_2-3,Osteoblast growth in culture from skull,Homo Sapiens,MAL,15,NSCS_snm-normalization
+FPKM_6,METOPIC,B,Craniosynostosis,Osteoblast growth on culture-Sample_6,Osteoblast growth in culture from skull,Homo Sapiens,MAL,28,NSCS_snm-normalization
+FPKM_7,METOPIC,C,Craniosynostosis,Osteoblast growth on culture-Sample_7,Osteoblast growth in culture from skull,Homo Sapiens,MAL,6,NSCS_snm-normalization
+FPKM_8.2,METOPIC,B,Craniosynostosis,Osteoblast growth on culture-Sample_8-2,Osteoblast growth in culture from skull,Homo Sapiens,MAL,3,NSCS_snm-normalization
+FPKM_9.1,METOPIC,B,Craniosynostosis,Osteoblast growth on culture-Sample_9-1,Osteoblast growth in culture from skull,Homo Sapiens,MAL,11,NSCS_snm-normalization
+FPKM_10,METOPIC,C,Craniosynostosis,Osteoblast growth on culture-Sample_10,Osteoblast growth in culture from skull,Homo Sapiens,MAL,8,NSCS_snm-normalization
+FPKM_11,METOPIC,C,Craniosynostosis,Osteoblast growth on culture-Sample_11,Osteoblast growth in culture from skull,Homo Sapiens,MAL,10,NSCS_snm-normalization
+FPKM_13,CORONAL,B,Craniosynostosis,Osteoblast growth on culture-Sample_13,Osteoblast growth in culture from skull,Homo Sapiens,FEM,6,NSCS_snm-normalization
+FPKM_16,CORONAL,N,Craniosynostosis,Osteoblast growth on culture-Sample_16,Osteoblast growth in culture from skull,Homo Sapiens,FEM,16,NSCS_snm-normalization
+FPKM_17,CORONAL,N,Craniosynostosis,Osteoblast growth on culture-Sample_17,Osteoblast growth in culture from skull,Homo Sapiens,FEM,4,NSCS_snm-normalization
+FPKM_18,CORONAL,C,Craniosynostosis,Osteoblast growth on culture-Sample_18,Osteoblast growth in culture from skull,Homo Sapiens,FEM,2,NSCS_snm-normalization
+FPKM_19,CORONAL,C,Craniosynostosis,Osteoblast growth on culture-Sample_19,Osteoblast growth in culture from skull,Homo Sapiens,FEM,5,NSCS_snm-normalization
+FPKM_20,CORONAL,A,Craniosynostosis,Osteoblast growth on culture-Sample_20,Osteoblast growth in culture from skull,Homo Sapiens,FEM,24,NSCS_snm-normalization
+FPKM_21,CORONAL,A,Craniosynostosis,Osteoblast growth on culture-Sample_21,Osteoblast growth in culture from skull,Homo Sapiens,FEM,9,NSCS_snm-normalization
+FPKM_23,CORONAL,A,Craniosynostosis,Osteoblast growth on culture-Sample_23-2,Osteoblast growth in culture from skull,Homo Sapiens,FEM,24,NSCS_snm-normalization
+FPKM_24,LAMBDOID,N,Craniosynostosis,Osteoblast growth on culture-Sample_24,Osteoblast growth in culture from skull,Homo Sapiens,FEM,10,NSCS_snm-normalization
+FPKM_25,LAMBDOID,A,Craniosynostosis,Osteoblast growth on culture-Sample_25,Osteoblast growth in culture from skull,Homo Sapiens,FEM,20,NSCS_snm-normalization
+FPKM_27,LAMBDOID,A,Craniosynostosis,Osteoblast growth on culture-Sample_27,Osteoblast growth in culture from skull,Homo Sapiens,FEM,14,NSCS_snm-normalization
+FPKM_28,SAGITAL,A,Craniosynostosis,Osteoblast growth on culture-Sample_28,Osteoblast growth in culture from skull,Homo Sapiens,MAL,19,NSCS_snm-normalization
+FPKM_30,SAGITAL,A,Craniosynostosis,Osteoblast growth on culture-Sample_30,Osteoblast growth in culture from skull,Homo Sapiens,MAL,1,NSCS_snm-normalization
+FPKM_32,SAGITAL,C,Craniosynostosis,Osteoblast growth on culture-Sample_32,Osteoblast growth in culture from skull,Homo Sapiens,MAL,4,NSCS_snm-normalization
+FPKM_33,SAGITAL,C,Craniosynostosis,Osteoblast growth on culture-Sample_33,Osteoblast growth in culture from skull,Homo Sapiens,MAL,6,NSCS_snm-normalization
+FPKM_34,SAGITAL,C,Craniosynostosis,Osteoblast growth on culture-Sample_34,Osteoblast growth in culture from skull,Homo Sapiens,FEM,24,NSCS_snm-normalization
+FPKM_1,NORMAL_SKULL,N,Normal,Osteoblast growth on culture_Normal-Sample_1,Osteoblast growth in culture from skull,Homo Sapiens,MAL,15,NSCS_snm-normalization
+FPKM_21N,NORMAL_SKULL,A,Normal,Osteoblast growth on culture_Normal-Sample_21N,Osteoblast growth in culture from skull,Homo Sapiens,MAL,6,NSCS_snm-normalization
+FPKM_29,NORMAL_SKULL,N,Normal,Osteoblast growth on culture_Normal-Sample_29,Osteoblast growth in culture from skull,Homo Sapiens,FEM,3,NSCS_snm-normalization
+FPKM_NHOst1,NORMAL_SKULL,N,Normal,Osteoblast growth on culture_Normal-Sample_NHOst1,Osteoblast growth in culture from skull,Homo Sapiens,MAL,15,NSCS_snm-normalization
+FPKM_NHOst2,NORMAL_LONG-BONE,N,Normal,Osteoblast growth on culture_Normal-Sample_NHOst2,Osteoblast growth in culture from long bone,Homo Sapiens,MAL,156,NSCS_snm-normalization
+FPKM_NHOst3,NORMAL_LONG-BONE,N,Normal,Osteoblast growth on culture_Normal-Sample_NHOst3,Osteoblast growth in culture from long bone,Homo Sapiens,MAL,156,NSCS_snm-normalization
+FPKM_NHOst5,NORMAL_LONG-BONE,N,Normal,Osteoblast growth on culture_Normal-Sample_NHOst5,Osteoblast growth in culture from long bone,Homo Sapiens,FEM,132,NSCS_snm-normalization
+FPKM_NHOst6,NORMAL_LONG-BONE,N,Normal,Osteoblast growth on culture_Normal-Sample_NHOst6,Osteoblast growth in culture from long bone,Homo Sapiens,FEM,132,NSCS_snm-normalization
