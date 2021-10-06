@@ -23,8 +23,8 @@ caption = "Figura 4.16"
 
 Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.com/Data/Bio/Datos.zip). 
 
-* [BRCA2.fa](https://alexrojas.netlify.com/Data/Bio/BRCA2.fa)
-* [Cadaver.txt](https://alexrojas.netlify.com/Data/Bio/Cadaver.txt)
+* [BRCA2.fa](https://alexrojas.netlify.com/Data/Bio/BRCA2.fa): Ejemplo 3.22
+* [Cadaver.txt](https://alexrojas.netlify.com/Data/Bio/Cadaver.txt): Ejemplo 2.13
 * [Camacho_ELEV.csv](https://alexrojas.netlify.com/Data/Bio/Camacho_ELEV.csv)
 * [Camacho_MEC.csv](https://alexrojas.netlify.com/Data/Bio/Camacho_MEC.csv)
 * [cangrejos.dat](https://alexrojas.netlify.com/Data/Bio/cangrejos.dat)
