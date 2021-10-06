@@ -1,16 +1,22 @@
 +++
 date      = 2020-09-28
-lastmod   = 2021-06-09
+lastmod   = 2021-10-06
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
 math      = true
 +++
 
+## Segundo semestre 2021
+* [X1](https://alexrojas.netlify.app/post/)
+* [X2](https://alexrojas.netlify.app/post/)
+* [X3](https://alexrojas.netlify.app/post/)
+
+
 ## Primer semestre 2021
-* [Estadística General](https://alexrojas.netlify.app/post/eg/)
-* [Estadística Inferencial](https://alexrojas.netlify.app/post/ie/)
-* [Profundización II](https://alexrojas.netlify.app/post/mf/)
+* Estadística General
+* Estadística Inferencial
+* Profundización II
 
 ## Segundo semestre 2020
 * Electiva I: Programación
