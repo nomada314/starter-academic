@@ -8,9 +8,9 @@ math      = true
 +++
 
 ## Segundo semestre 2021
-* [X1](https://alexrojas.netlify.app/post/)
-* [X2](https://alexrojas.netlify.app/post/)
-* [X3](https://alexrojas.netlify.app/post/)
+* [Muestreo](https://alexrojas.netlify.app/post/)
+* [Procesos Estocásticos](https://alexrojas.netlify.app/post/)
+* [Inferencia Estadística](https://alexrojas.netlify.app/post/) para administración de empresas.
 
 
 ## Primer semestre 2021
