@@ -1,7 +1,7 @@
 +++
 date      = 2020-10-27
-lastmod   = 2021-08-10
-draft     = true
+lastmod   = 2021-10-22
+draft     = false
 tags      = ["Teaching", "Inference"]
 title     = "Estadística Inferencial"
 math      = true
@@ -10,41 +10,10 @@ math      = true
 
 La inferencia estadística busca pasar de lo específico, una muestra, a lo general, una población, a través de un modelo probabilístico.  En este curso se estudian los métodos que se usan para  hacer declaraciones generales sobre una población, con base en un conjunto de datos observados en una muestra.
 
-Este curso proporciona una base teórica, donde los tres objetivos principales en inferencia: estimación, construcción de regiones de confianza y prueba de hipótesis, se discuten desde el enfoque frecuentista.
 
 ### Justificación
 
-Debido al creciente movimiento tendiente a incorporar elementos de estadística y probabilidad en el currículo de secundaria, como parte del discurso básico de las matemáticas, es importante que el futuro docente adquiera conocimiento acerca de dichas temáticas de manera formal. Por otra parte, el Licenciado como cualquier profesional que busca incrementar su acerbo intelectual, se dedica a la adquisición constante de un conjunto de conocimientos fundamentales para su práctica, una forma de adquirir tales conocimientos es por medio de técnicas de investigación. La estadística como eje central de toda investigación suministra al futuro profesional herramientas útiles para estudiar, analizar e interpretar problemas o comportamientos individuales o de grupo.
-
 ### Competencias
-
-#### Competencias básicas 
-
-Las competencias básicas son las que se relacionan con el desarrollo de los tipos de pensamiento: MATEMÁTICO Y PEDAGÓGICO en las dimensiones interpretativa y argumentativa por tanto el estudiante debe:
-- Desarrollar mediante las competencias argumentativas e interpretativas ejercicios, problemas, situaciones donde se aplica los conceptos de modelamiento estadístico.
-- Realizar los procesos correspondientes para probar las hipótesis asociadas a la técnica estadística propuesta.
-- Verificar los supuestos del correspondiente modelo de regresión.
-- Realizar investigaciones a nivel educativo con conceptos de estadística avanzados
-- Utilizar *software* para encontrar los resultados de investigaciones propuestas.
-
-#### Competencias Generales
-
-Son las que identifican al profesional egresado de esta alma Mater, y se pueden verificar con el desarrollo reflexivo e investigativo, con los compromisos y las responsabilidades como educador, asi como el de promover valores para la convivencia, generando ambientes propicios para la interacción grupal y para la discusión objetiva y crítica de los contenidos de la asignatura. Estas competencias se manifiestan en la capacidad de:
-- Transformar realidades, a través del acercamiento y reconocimiento de los ambientes sociales, la identificación de conflictos y problemas y la búsqueda de soluciones.
-- Asumir compromisos y responsabilidades en su función educadora, desde su actuación personal y su articulación con su comunidad.
-- Desarrollar un espíritu reflexivo e investigativo, lo cual implica un proceso permanente de autoevaluación que lo lleve a replantear permanentemente su labor como futuro docente.
-- Pensar y promover valores para la convivencia e interacción ciudadana.
-
-#### Competencias profesionales
-
-Son la que involucran el dominio de habilidades y saberes propios de la acción docente, lo cual hace que se relacionen mediante el diseño de alternativas didácticas con el fin de mejorar el aprendizaje de la matemática y la estadística, igualmente propicia la construcción y apropiación de los saberes propios del área y por otro lado la articula con otras áreas del conocimento científico y pedagógico. Estas se basan en:
-
-- El diseño de alternativas didácticas que mejoren el aprendizaje de la Estadística en los diferentes niveles con base en los aportes de la psicología, la pedagogía y demás disciplinas que se involucran en la formación de las nuevas generaciones.
-- La promoción de la construcción y apropiación del saber matemático y estadístico en el desarrollo de la creatividad.
-- El planeamiento y ejecución de proyectos de investigación relacionados con esta asignatura que respondan a la solución de necesidades del contexto en el cual se desempeñe.
-- La articulación de la Estadística con las diferentes áreas del saber, las cuales se manifiestan en la interdisciplinariedad y transdisciplinariedad, para la búsqueda de la integralidad del conocimiento.
-- Desarrollar la comprensión lectora, mediante el análisis de lecturas previas sobre las temáticas de la estadística inferencial.
-- Y la incorporación de prácticas evaluativas que conduzcan a un proceso continuo de mejoramiento y adquisición del conocimiento de estadística inferencial, así como la recursividad en el uso de estrategias y herramientas tecnológicas y didácticas.
 
 
 ### Metodología
@@ -77,20 +46,19 @@ El 10% restante corresponde a participación. Esta participación será evaluada
 
 ### Libro guía:
 
-López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
+Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
 
 ### Otras referencias:
 
-+ Casella G. y Berger R. (2001). *Statistical Inference.* Second Edition. Duxbury.
-+ DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. AddisonWesley.
-+ Freud J. E., Miller I. y Miller M. (2000). *Estadística Matemática con aplicaciones.* Sexta Edición. Pearson Educación.
-+ Gómez, M. (2005). *Inferencia estadística.* Ediciones Díaz de Santos.
+
++ DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. Addison Wesley.
++ López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
 + Mayorga, H. (2003.) *Inferencia Estadística.* Unibiblos.
 
 
 ### Enlace reuniones sincrónicas
 
-meet.google.com/bof-itau-rig
+meet.google.com/XXX
 
 ### Horas de oficina: 
 
@@ -100,36 +68,36 @@ Por cita.
 
 Semana | Fecha | Tema
 ---| ---| ---
-1  | Jun 23 | Presentación del curso <br> Ejemplo del uso de `Rmarkdown` <br> Distribución Bernoulli (A.1)
-&nbsp; | Jun 24 | Distribuciones Binomial y Poisson  (A.1) <br> Introducción a `R` (D.4) 
-2  | Jun 30 | Distribuciones continuas (A.2) 
-&nbsp; | Jul 01 | Teorema de límite central y método $\delta$ (B.4) <br> Distribuciones de probabilidad conjunta
-3  | Jul 07 | <font color="green">Sesión de preguntas</font> 
-&nbsp; | Jul 08 | <font color="green">Primer examen</font> 
-4  | Jul 14 | <font color="red">Paro</font> 
-&nbsp; | Jul 15 | <font color="red">Paro</font> 
-5  | Jul 21 | <font color="red">Paro</font> 
-&nbsp; | Jul 22 | <font color="red">Paro</font> 
-6  | Jul 28 | <font color="red">Paro</font> 
-&nbsp; | Jul 29 |  <font color="red">Paro</font> 
-7  | Aug 04 | <font color="red">Paro</font> 
-&nbsp; | Aug 05 | <font color="red">Paro</font> 
-8  | Aug 11 | Estimadores puntuales (2.1)
-&nbsp; | Aug 12 | Método de momentos (2.4)
-9  | Aug 18 | Método de máxima verosimilitud, cont. (2.5)
-&nbsp; | Aug 29 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
-10 | Aug 25 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; | Aug 26 | <font color="blue">Segundo examen</font> 
-11  | Sep 01 | Contraste de hipótesis (3.1)
-&nbsp; | Sep 02 | Contraste de hipótesis, cont.  (3.1)
-12  | Sep 08 | Pruebas *score* y de Wald (3.3)
-&nbsp; | Sep 11 | Pruebas *score* y de Wald, cont.
-13  | Sep 15 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; | Sep 16 | <font color="blue">Tercer examen</font> 
-14  | Sep 22 | Estimación por regiones
-&nbsp; | Sep 25 | Estimación por regiones, cont. (4.2)
-15  | Sep 29 | Estimación por regiones, cont. (4.2)
-&nbsp; | Sep 30 |  Estimación por regiones, cont. (4.2)
-16  | Oct 06 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; | Oct 07 | <font color="blue">Cuarto examen</font> 
+1      | Oct 29 | Presentación del curso 
+&nbsp; | Nov 24 | 
+2      | Nov 30 | Teorema de límite central y método $\delta$ (B.4)
+&nbsp; | Nov 01 | 
+3      | Nov 07 | <font color="green">Sesión de preguntas</font> 
+&nbsp; | Nov 08 | <font color="green">Primer examen</font> 
+4      | Nov 14 | <font color="red">Paro</font> 
+&nbsp; | Nov 15 | <font color="red">Paro</font> 
+5      |  21 | <font color="red">Paro</font> 
+&nbsp; |  22 | <font color="red">Paro</font> 
+6      |  28 | <font color="red">Paro</font> 
+&nbsp; |  29 |  <font color="red">Paro</font> 
+7      |  04 | <font color="red">Paro</font> 
+&nbsp; |  05 | <font color="red">Paro</font> 
+8      |  11 | Estimadores puntuales (2.1)
+&nbsp; |  12 | Método de momentos (2.4)
+9      |  18 | Método de máxima verosimilitud, cont. (2.5)
+&nbsp; |  29 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
+10     |  25 | <font color="blue">Sesión de preguntas</font> 
+&nbsp; |  26 | <font color="blue">Segundo examen</font> 
+11     |  01 | Contraste de hipótesis (3.1)
+&nbsp; |  02 | Contraste de hipótesis, cont.  (3.1)
+12     |  08 | Pruebas *score* y de Wald (3.3)
+&nbsp; |  11 | Pruebas *score* y de Wald, cont.
+13     |  15 | <font color="blue">Sesión de preguntas</font> 
+&nbsp; |  16 | <font color="blue">Tercer examen</font> 
+14     |  22 | Estimación por regiones
+&nbsp; |  25 | Estimación por regiones, cont. (4.2)
+15     |  29 | Estimación por regiones, cont. (4.2)
+&nbsp; |  30 |  Estimación por regiones, cont. (4.2)
+16     |  06 | <font color="blue">Sesión de preguntas</font> 
+&nbsp; |  07 | <font color="blue">Cuarto examen</font> 
 
