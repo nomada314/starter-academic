@@ -9,10 +9,8 @@ math      = true
 
 ### Libros guía:
 
-+ s
-
-### Otros libros:
-
++ Durrett, R. (2016). *Essentials of Stochastic Processes*. Springer.
++ Dobrow, R.P. (2016) *Introduction to Stochastic Processes with R*. Wiley.
 
 ### Enlaces sesiones sincrónicas
 
