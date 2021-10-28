@@ -39,22 +39,19 @@ La inferencia estadística busca pasar de lo específico, una muestra, a lo gene
 
 ### Evaluación
 
-Para el primer 50 se hará un examen con un peso del 40% y 4 talleres con un peso del 50%. Para el segundo 50 se harán dos exámenes y dos talleres. El examen con mejor nota valdrá 40% y el otro 30%. Los talleres tienen un peso del 20%.
-
-El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la  participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato *markdown*. **NO** se aceptan archivos en ningún otro formato. 
+El 10% restante corresponde a participación. 
 
 
 ### Libro guía:
 
-Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
+Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
 
 ### Otras referencias:
-
 
 + DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. Addison Wesley.
 + López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
 + Mayorga, H. (2003.) *Inferencia Estadística.* Unibiblos.
-
++ Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
 
 ### Enlace reuniones sincrónicas
 
@@ -69,35 +66,4 @@ Por cita.
 Semana | Fecha | Tema
 ---| ---| ---
 1      | Oct 29 | Presentación del curso 
-&nbsp; | Nov 24 | 
-2      | Nov 30 | Teorema de límite central y método $\delta$ (B.4)
-&nbsp; | Nov 01 | 
-3      | Nov 07 | <font color="green">Sesión de preguntas</font> 
-&nbsp; | Nov 08 | <font color="green">Primer examen</font> 
-4      | Nov 14 | <font color="red">Paro</font> 
-&nbsp; | Nov 15 | <font color="red">Paro</font> 
-5      |  21 | <font color="red">Paro</font> 
-&nbsp; |  22 | <font color="red">Paro</font> 
-6      |  28 | <font color="red">Paro</font> 
-&nbsp; |  29 |  <font color="red">Paro</font> 
-7      |  04 | <font color="red">Paro</font> 
-&nbsp; |  05 | <font color="red">Paro</font> 
-8      |  11 | Estimadores puntuales (2.1)
-&nbsp; |  12 | Método de momentos (2.4)
-9      |  18 | Método de máxima verosimilitud, cont. (2.5)
-&nbsp; |  29 | Propiedades estimadores máxima verosimilitud (2.5.1 - 2.5.2)
-10     |  25 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; |  26 | <font color="blue">Segundo examen</font> 
-11     |  01 | Contraste de hipótesis (3.1)
-&nbsp; |  02 | Contraste de hipótesis, cont.  (3.1)
-12     |  08 | Pruebas *score* y de Wald (3.3)
-&nbsp; |  11 | Pruebas *score* y de Wald, cont.
-13     |  15 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; |  16 | <font color="blue">Tercer examen</font> 
-14     |  22 | Estimación por regiones
-&nbsp; |  25 | Estimación por regiones, cont. (4.2)
-15     |  29 | Estimación por regiones, cont. (4.2)
-&nbsp; |  30 |  Estimación por regiones, cont. (4.2)
-16     |  06 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; |  07 | <font color="blue">Cuarto examen</font> 
 
