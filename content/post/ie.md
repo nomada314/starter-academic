@@ -7,7 +7,7 @@ title     = "Estadística Inferencial"
 math      = true
 +++
 
-La inferencia juega un papel muy importante en el ámbito empresarial y social dando soporte y objetividad a las investigaciones que se desarrollan utilizando muestras representativas. Para iniciar el presente curso, el estudiante ya tiene conocimiento de la Estadística Descriptiva, en la cual se trabaja con la población total, y consecuentemente el cálculo de probabilidades; ahora el estudio estadístico se realizará sobre muestras representativas obtenidas de poblaciones en particular, donde se aplican procedimientos inferenciales.
+La inferencia juega un papel importante en el ámbito empresarial y social dando soporte y objetividad a las investigaciones que se desarrollan utilizando muestras representativas. Para iniciar el presente curso, el estudiante ya tiene conocimiento de la Estadística Descriptiva, en la cual se trabaja con la población total, y consecuentemente el cálculo de probabilidades; ahora el estudio estadístico se realizará sobre muestras representativas obtenidas de poblaciones en particular, donde se aplican procedimientos inferenciales.
 
 ### Justificación
 
@@ -70,7 +70,7 @@ Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 29 | Presentación del curso. Métodos de muestreo (L08-1)
-2      | Nov 03 | Error muestral. Distribución muestral de la media <br> Teorema de límite central (L08-2, L08-3, L08-4)
+2      | Nov 03 | Error muestral (L08-2) <br> Distribución muestral de la media (L08-3)<br> Teorema de límite central (L08-4)
 &nbsp; | Nov 05 | Estimador puntual para la media (L09-1) Intervalo de confianza para la media (L09-2)
 3      | Nov 10 | Intervalo de confianza para la proporción (L09-3)
 &nbsp; | Nov 12 | Tamaño de muestra (L09-4)
