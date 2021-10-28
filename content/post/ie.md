@@ -1,6 +1,6 @@
 +++
 date      = 2020-10-27
-lastmod   = 2021-10-22
+lastmod   = 2021-10-28
 draft     = false
 tags      = ["Teaching", "Inference"]
 title     = "Estadística Inferencial"
@@ -42,7 +42,7 @@ La asignatura de Estadística Inferencial le aporta al estudiante y futuro profe
 
 ### Evaluación
 
-El 10% restante corresponde a participación. 
+La nota para cada corte se calculará con los siguientes pesos: 40% para talleres, 50% para exámenes y 10% para participación. 
 
 
 ### Libro guía:
@@ -69,13 +69,13 @@ Por cita.
 Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
-&nbsp; | Oct 29 | Presentación del curso.
-2      | Nov 03 | Conceptos metodológicos (1.1)
-&nbsp; | Nov 05 | Base de datos `Lucy` (1.2) <br> Introducción a `R`
-3      | Nov 10 | Población y muestra aleatoria (2.1)
-&nbsp; | Nov 12 | Estimadores de muestreo (2.2)
-4      | Nov 17 | &nbsp;
-&nbsp; | Nov 19 | &nbsp;
+&nbsp; | Oct 29 | Presentación del curso. Métodos de muestreo (L08-1)
+2      | Nov 03 | Error muestral. Distribución muestral de la media <br> Teorema de límite central (L08-2, L08-3, L08-4)
+&nbsp; | Nov 05 | Estimador puntual para la media (L09-1) Intervalo de confianza para la media (L09-2)
+3      | Nov 10 | Intervalo de confianza para la proporción (L09-3)
+&nbsp; | Nov 12 | Tamaño de muestra (L09-4)
+4      | Nov 17 | Pruebas de hipótesis (L10-1, L10-2, L10-3)
+&nbsp; | Nov 19 | Prueba de hipótesis para la media (L10-4)
 5      | Nov 24 | <font color="blue">Sesión preguntas</font>
 &nbsp; | Nov 26 | <font color="blue">Examen I</font>
 6      | Dec 01 |  &nbsp;
