@@ -23,7 +23,7 @@ Por cita.
 
 ### Evaluación
 
-Primer 50: El 10% restante corresponde a participación. 
+Primer 50: Talleres 30%, 20% presentación, 40 exámenes. El 10% restante corresponde a participación. 
 
 Segundo 50: El 10% restante corresponde a participación. 
 
