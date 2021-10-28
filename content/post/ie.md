@@ -55,7 +55,7 @@ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in b
 
 ### Enlace reuniones sincrónicas
 
-meet.google.com/XXX
+meet.google.com/
 
 ### Horas de oficina: 
 
@@ -65,5 +65,36 @@ Por cita.
 
 Semana | Fecha | Tema
 ---| ---| ---
-1      | Oct 29 | Presentación del curso 
+1      | &nbsp; | &nbsp;
+&nbsp; | Oct 29 | Presentación del curso.
+2      | Nov 03 | &nbsp;
+&nbsp; | Nov 05 | &nbsp;
+3      | Nov 10 | &nbsp;
+&nbsp; | Nov 12 | &nbsp;
+4      | Nov 17 | &nbsp;
+&nbsp; | Nov 19 | &nbsp;
+5      | Nov 24 | &nbsp;
+&nbsp; | Nov 26 | &nbsp;
+6      | Dic 01 | &nbsp;
+&nbsp; | Dic XX | &nbsp;
+7      | Dic 07 | &nbsp;
+&nbsp; | Dic 09 | &nbsp;
+8      | Dic 14 | <font color="blue">Sesión preguntas</font>  
+&nbsp; | Dic 16  | <font color="blue">Examen II</font> 
+9      | &nbsp; |  &nbsp;
+&nbsp; | Feb 03 | &nbsp;
+10     | Feb 08 | &nbsp;
+&nbsp; | Feb 10 | &nbsp;
+11     | Feb 15 |  &nbsp;
+&nbsp; | Feb 17  | &nbsp;
+12     | Feb 22 |  &nbsp;
+&nbsp; | Feb 24  | &nbsp;
+13     | Mar 01 |  &nbsp;
+&nbsp; | Mar 03  | &nbsp;
+14     | Mar 08 |  &nbsp;
+&nbsp; | Mar 10  | &nbsp;
+15     | Mar 15 |  &nbsp;
+&nbsp; | Mar 17  | &nbsp;
+16     | Mar 22 |  &nbsp;
+&nbsp; | Mar 24  | &nbsp;
 
