@@ -51,14 +51,14 @@ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in b
 
 ### Otras referencias:
 
-+ DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. Addison Wesley.
++ Levine, D., Krehbiel, T., y Berenson, M. (2014), Estadística para administración, México: Pearson Educación.
 + López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
-+ Mayorga, H. (2003.) *Inferencia Estadística.* Unibiblos.
++ Mendenhall, W., Beaver, R., & Beaver, B., (2010), Introducción a la probabilidad y la estadística, México DF, México: Cengage Learning Editores S.A., 10a Edición.
 + Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
 
 ### Enlace reuniones sincrónicas
 
-meet.google.com/
+meet.google.com/etd-uxuq-tmv
 
 ### Horas de oficina: 
 
