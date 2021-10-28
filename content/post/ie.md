@@ -70,34 +70,33 @@ Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 29 | Presentación del curso.
-2      | Nov 03 | &nbsp;
-&nbsp; | Nov 05 | &nbsp;
-3      | Nov 10 | &nbsp;
-&nbsp; | Nov 12 | &nbsp;
+2      | Nov 03 | Conceptos metodológicos (1.1)
+&nbsp; | Nov 05 | Base de datos `Lucy` (1.2) <br> Introducción a `R`
+3      | Nov 10 | Población y muestra aleatoria (2.1)
+&nbsp; | Nov 12 | Estimadores de muestreo (2.2)
 4      | Nov 17 | &nbsp;
 &nbsp; | Nov 19 | &nbsp;
-5      | Nov 24 | &nbsp;
-&nbsp; | Nov 26 | &nbsp;
-6      | Dic 01 | &nbsp;
-&nbsp; | Dic XX | &nbsp;
-7      | Dic 07 | &nbsp;
-&nbsp; | Dic 09 | &nbsp;
-8      | Dic 14 | <font color="blue">Sesión preguntas</font>  
-&nbsp; | Dic 16  | <font color="blue">Examen II</font> 
-9      | &nbsp; |  &nbsp;
-&nbsp; | Feb 03 | &nbsp;
-10     | Feb 08 | &nbsp;
-&nbsp; | Feb 10 | &nbsp;
-11     | Feb 15 |  &nbsp;
-&nbsp; | Feb 17  | &nbsp;
-12     | Feb 22 |  &nbsp;
-&nbsp; | Feb 24  | &nbsp;
-13     | Mar 01 |  &nbsp;
-&nbsp; | Mar 03  | &nbsp;
-14     | Mar 08 |  &nbsp;
-&nbsp; | Mar 10  | &nbsp;
-15     | Mar 15 |  &nbsp;
-&nbsp; | Mar 17  | &nbsp;
-16     | Mar 22 |  &nbsp;
-&nbsp; | Mar 24  | &nbsp;
-
+5      | Nov 24 | <font color="blue">Sesión preguntas</font>
+&nbsp; | Nov 26 | <font color="blue">Examen I</font>
+6      | Dec 01 |  &nbsp;
+&nbsp; | Dic 03 | &nbsp;
+7      | Dic 08 |  &nbsp;
+&nbsp; | Dic 10 | &nbsp;
+8      | Dic 15 |  &nbsp;
+&nbsp; | Dic 17 | &nbsp;
+9      | Dic 22 |  &nbsp;
+&nbsp; | &nbsp; | &nbsp;
+10     | Feb 02 |  &nbsp;
+&nbsp; | Feb 04 | &nbsp;
+11     | Feb 09 | &nbsp;
+&nbsp; | Feb 11 | &nbsp;
+12     | Feb 16 |  &nbsp;
+&nbsp; | Feb 18 | &nbsp;
+13     | Feb 23 |  &nbsp;
+&nbsp; | Feb 25 | &nbsp;
+14     | Mar 02 |  &nbsp;
+&nbsp; | Mar 04 | &nbsp;
+15     | Mar 09 |  &nbsp;
+&nbsp; | Mar 11 | &nbsp;
+16     | Mar 16 |  &nbsp;
+&nbsp; | Mar 18 | &nbsp;
