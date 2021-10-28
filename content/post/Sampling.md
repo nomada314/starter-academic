@@ -42,8 +42,8 @@ Semana | Fecha | Tema
 &nbsp; | Nov 11 | Estimadores de muestreo (2.2)
 4      | Nov 16 | &nbsp;
 &nbsp; | Nov 18 | &nbsp;
-5      | Nov 23 | &nbsp;
-&nbsp; | Nov 25 | &nbsp;
+5      | Nov 23 | <font color="blue">Sesión preguntas</font>
+&nbsp; | Nov 25 | <font color="blue">Examen I</font>
 6      | Nov 30 |  &nbsp;
 &nbsp; | Dic 02  | &nbsp;
 7      | Dic 07 |  &nbsp;
@@ -67,5 +67,5 @@ Semana | Fecha | Tema
 16     | Mar 22 |  &nbsp;
 &nbsp; | Mar 24  | &nbsp;
 
-<font color="blue">Sesión preguntas</font>  
+  
 
