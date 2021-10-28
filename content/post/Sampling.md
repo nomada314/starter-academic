@@ -9,11 +9,11 @@ math      = true
 
 ### Libros guía:
 
-Guitierrez, A. (2015). *Estrategias de Muestreo: Diseño de Encuestas y Estimación de Parámetros*. [Ediciones de la U](https://edicionesdelau.com/producto/estrategias-de-muestreo-diseno-de-encuestas-y-estimacion-de-parametros-2/).
+Guitierrez, A. (2015). *Estrategias de Muestreo: Diseño de Encuestas y Estimación de Parámetros*. Segunda edición. [Ediciones de la U](https://edicionesdelau.com/producto/estrategias-de-muestreo-diseno-de-encuestas-y-estimacion-de-parametros-2/).
 
 ### Otras fuentes:
 + Valdivieso Serrano, L. (2020). *Notas de Técnicas de Muestreo*. [Editorial PUCP](https://departamento.pucp.edu.pe/ciencias/pub_dpto/notas-de-tecnicas-de-muestreo/).
-+ Lohr, S.L. (20). Sampling: Design and Analysis. Duxbury Press
++ Lohr, S.L. (2009). Sampling: Design and Analysis. Second edition. Duxbury Press
 
 
 ### Enlaces sesiones sincrónicas
