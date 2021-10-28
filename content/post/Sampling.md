@@ -9,11 +9,11 @@ math      = true
 
 ### Libros guía:
 
-+ (**FD**) Federer-Vaaler L. J. & Daniel, J. W. (2007). Mathematical Interest Theory. Pearson Prentice Hall.
++Guitierrez, A (2015). Estrategias de muestreo: Disenño de encuestas y estimación de parámetros
 
 ### Enlaces sesiones sincrónicas
 
-meet.google.com/XXX
+meet.google.com/emn-wmxr-sdc
 
 
 ### Horas de oficina: 
@@ -22,45 +22,46 @@ Por cita.
 
 ### Evaluación
 
-Primer 50: Se hará 1 examen usando la plataforma Moodle de la Universidad con un peso de 40% de la nota final. También se hará una presentación con un peso del 40%. El 20% restante corresponde a participación. 
+Primer 50: El 10% restante corresponde a participación. 
 
-Segundo 50: Se harán 2 exámenes usando la plataforma Moodle de la Universidad. Estos exámenes correponden a 80% de la nota final. El examen con mejor nota valdrá 50% y el otro 30%. El 20% restante corresponde a participación. 
+Segundo 50: El 10% restante corresponde a participación. 
 
 ### Horario
 
 Semana | Fecha | Tema
 ---| ---| ---
-1      | Oct 28 | Presentación del curso.
-&nbsp; | Nov 24 | &nbsp;
-2      | Nov 29 | &nbsp;
-&nbsp; | Nov 01 | &nbsp;
-3      | Nov 06 | &nbsp;
-&nbsp; | Nov 08 | &nbsp;
-4      | Nov 13 |  <font color="red">Paro</font> 
-&nbsp; | Nov 15 | <font color="red">Paro</font> 
-5      |  20 |  Festivo
-&nbsp; |  22 | <font color="red">Paro</font> 
-6      |  27 |  <font color="red">Paro</font> 
-&nbsp; |  29  | <font color="red">Paro</font> 
-7      |  03 |  <font color="red">Paro</font> 
-&nbsp; |  05 | <font color="red">Paro</font> 
-8      |  10 |  <font color="red">Paro</font> 
-&nbsp; |  12 | &nbsp;
-9      |  17 |  TBA
-&nbsp; |  19 | TBA 
-10     |  24 | <font color="blue">Sesión preguntas</font>  
-&nbsp; |  26 | <font color="blue">Primer examen</font> 
-11     |  31 |  Anualidades
-&nbsp; |  02  | Anualidades, cont.
-12     |  07 |  Anualidades, cont.
-&nbsp; |  09  | Anualidades, cont.
-13     |  14 |  <font color="blue">Sesión preguntas</font> 
-&nbsp; |  16  | &nbsp;
-14     |  21 |  <font color="blue">Segundo examen</font> 
-&nbsp; |  23  | &nbsp;
-15     |  28 |  TBA
-&nbsp; |  30  | TBA 
-16     |  05 |  <font color="blue">Sesión preguntas</font> 
-&nbsp; |  07  | <font color="blue">Tercer examen</font> 
+1      | &nbsp; | &nbsp;
+&nbsp; | Oct 28 | Presentación del curso.
+2      | Nov 02 | &nbsp;
+&nbsp; | Nov 04 | &nbsp;
+3      | Nov 09 | &nbsp;
+&nbsp; | Nov 11 | &nbsp;
+4      | Nov 16 | &nbsp;
+&nbsp; | Nov 18 | &nbsp;
+5      | Nov 23 | &nbsp;
+&nbsp; | Nov 25 | &nbsp;
+6      | Nov 30 |  &nbsp;
+&nbsp; | Dic 02  | &nbsp;
+7      | Dic 07 |  &nbsp;
+&nbsp; | Dic 09 | &nbsp;
+8      | Dic 14 |  &nbsp;
+&nbsp; | Dic 16  | &nbsp;
+9      | &nbsp; |  &nbsp;
+&nbsp; | Feb 03 | &nbsp;
+10     | Feb 08 | &nbsp;
+&nbsp; | Feb 10 | &nbsp;
+11     | Feb 15 |  &nbsp;
+&nbsp; | Feb 17  | &nbsp;
+12     | Feb 22 |  &nbsp;
+&nbsp; | Feb 24  | &nbsp;
+13     | Mar 01 |  &nbsp;
+&nbsp; | Mar 03  | &nbsp;
+14     | Mar 08 |  &nbsp;
+&nbsp; | Mar 10  | &nbsp;
+15     | Mar 15 |  &nbsp;
+&nbsp; | Mar 17  | &nbsp;
+16     | Mar 22 |  &nbsp;
+&nbsp; | Mar 24  | &nbsp;
 
+<font color="blue">Sesión preguntas</font>  
 
