@@ -7,14 +7,18 @@ title     = "Estadística Inferencial"
 math      = true
 +++
 
-
-La inferencia estadística busca pasar de lo específico, una muestra, a lo general, una población, a través de un modelo probabilístico.  En este curso se estudian los métodos que se usan para  hacer declaraciones generales sobre una población, con base en un conjunto de datos observados en una muestra.
-
+La inferencia juega un papel muy importante en el ámbito empresarial y social dando soporte y objetividad a las investigaciones que se desarrollan utilizando muestras representativas. Para iniciar el presente curso, el estudiante ya tiene conocimiento de la Estadística Descriptiva, en la cual se trabaja con la población total, y consecuentemente el cálculo de probabilidades; ahora el estudio estadístico se realizará sobre muestras representativas obtenidas de poblaciones en particular, donde se aplican procedimientos inferenciales.
 
 ### Justificación
 
+La asignatura de Estadística Inferencial le aporta al estudiante y futuro profesional un conocimiento teórico- práctico que le permite obtener inferencias, utilizando varios métodos, a partir de los datos muestrales, por otra parte las bases teóricas que se desarrollan en este curso, le permiten abordar y resolver un gran número de problemas de investigación de interés en su área, para obtener conclusiones y dar recomendaciones para la toma de decisiones en un caso dado y evaluar la exactitud de dicha inferencia, puesto que al tomar una decisión se desea conocer la posibilidad de que tal decisión sea correcta en el campo de los negocios; además los temas abordados le permiten al estudiante avanzar en otras asignaturas propias de su disciplina.
+
+
 ### Competencias
 
+* Identifica claramente la diferencia entre población y muestra, parámetro y estimador.
+* Explica el proceso para la construcción de los intervalos de confianza e interpreta los resultados y concluye.
+* Interpreta apropiadamente los resultados obtenidos en los diferentes procesos inferenciales.
 
 ### Metodología
 
@@ -28,13 +32,12 @@ La inferencia estadística busca pasar de lo específico, una muestra, a lo gene
 
 ### Contenidos mínimos
 
-+ **Unidad 1.  Preliminares:** distribuciones de probabilidad, teorema de límite central, estadísticas suficientes, auxiliares,  insesgadas. Función de distribución empírica. Método de Montecarlo.
 
-+ **Unidad 2. Estimación puntual:** métodos de sustitución, momentos, máxima verosimilitud para encontrar estimadores. Métodos para evaluar estimadores.
-
-+ **Unidad 3. Contraste de hipótesis:** elementos de los contraste de hipótesis. Razón de verosimilitud, pruebas de Wald y *score*. 
-
-+ **Unidad 4. Estimación por regiones:** métodos para encontrar estimadores por intervalo. Intervalos aproximados y obtenidos usando con *Bootstrapping*.
++ **Unidad 1. Generalidades del muestreo y tipos de muestreo:** Diseños de las investigaciones por muestreo. Tipos de muestreo: Probabilístico y no Probabilístico. Mecanismos de selección de la muestra. Fundamentos del Muestreo Aleatorio Simple (M.A.S.). Fundamentos de otros tipos de muestreo: estratificado, conglomerado y sistemático.
++ **Unidad 2. Distribuciones muestrales:** Concepto de distribución muestral de un estadístico. Distribución muestral de la media. Distribución muestral de la diferencia de medias. Distribución muestral de la proporción. Distribución muestral de la diferencia de proporciones. Distribuciones muéstrales de la varianza en una y dos poblaciones.
++ **Unidad 3. Estimación e intervalos de confianza:** Definición de estimadores y estimaciones de parámetros. Características. Propiedades. Estimación puntual. Estimación por Intervalos. Generalidades: Nivel de confianza, límites de confianza, errores. Intervalos de confianza para la media en una y dos poblaciones. Intervalos de confianza para proporciones en una y dos poblaciones. Intervalos de confianza para la varianzas en una y dos poblaciones
++ **Unidad 4. Pruebas de hipótesis:** Tipos de hipótesis. Tipos de errores (I y II). Pruebas para la media, la proporción y la varianza en una población. Pruebas para la media, la proporción y la varianza en dos poblaciones. Pruebas pareadas. Comparación de más de dos Medias ANOVA.
++ **Unidad 5. Regresión lineal simple y correlación:** Correlación. Modelo de regresión. Estimación de parámetros. Coeficiente correlación. Prueba de ajuste del modelo.
 
 
 ### Evaluación
