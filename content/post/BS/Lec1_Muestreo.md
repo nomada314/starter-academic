@@ -5,13 +5,6 @@ Métodos de muestreo
 (2017). Statistical techniques in business & economics. McGraw-Hill
 Education.**
 
-## Problem:
-
-> THE NIKE annual report says that the average American buys 6.5 pairs
-> of sports shoes per year. Suppose a sample of 81 customers is surveyed
-> and the population standard deviation of sports shoes purchased per
-> year is 2.1 What is the standard error of the mean in this experiment?
-
 ## Sampling methods
 
 The purpose of inferential statistics is to find something about a
