@@ -94,10 +94,6 @@ d = sample(dias)
 cliente = sample(1:10,1)
 ```
 
-``` r
-kable(rbind(h), col.names = d, caption = "Día y hora para iniciar el muestreo de clientes")
-```
-
 |     | Jueves | Miércoles | Martes | Lunes |
 |:----|-------:|----------:|-------:|------:|
 | h   |      7 |         4 |      8 |    11 |
@@ -135,3 +131,127 @@ characteristics. A random sample from each stratum is taken in a number
 proportional to the stratum’s size when compared to the population. Once
 the strata are defined, we apply simple random sampling within each
 group or stratum to collect the sample.
+
+> Going back to the S&P 500 companies, we would like to determine
+> whether firms in different Global Industry Classification Standard
+> (GICS) sectors spend different amounts on advertising. Based on the
+> following table, if simple random sampling is used, observe that
+> companies in the Industry and Information technology sectors have a
+> higher chance of being selected than companies in the Energy sector.
+
+``` r
+GICSweights = table(SP500$GICS.Sector)/505
+```
+
+| GICS Sector            |      Freq |
+|:-----------------------|----------:|
+| Communication Services | 0.0534653 |
+| Consumer Discretionary | 0.1247525 |
+| Consumer Staples       | 0.0633663 |
+| Energy                 | 0.0415842 |
+| Financials             | 0.1287129 |
+| Health Care            | 0.1267327 |
+| Industrials            | 0.1465347 |
+| Information Technology | 0.1465347 |
+| Materials              | 0.0554455 |
+| Real Estate            | 0.0574257 |
+| Utilities              | 0.0554455 |
+
+Relative frequency per sector
+
+We would like to sample forty companies; therefore, we could sample the
+following number of companies from each strata:
+
+``` r
+ni = round(GICSweights*40)
+```
+
+| Sector                 | Number |
+|:-----------------------|-------:|
+| Communication Services |      2 |
+| Consumer Discretionary |      5 |
+| Consumer Staples       |      3 |
+| Energy                 |      2 |
+| Financials             |      5 |
+| Health Care            |      5 |
+| Industrials            |      6 |
+| Information Technology |      6 |
+| Materials              |      2 |
+| Real Estate            |      2 |
+| Utilities              |      2 |
+
+Number of companies to select from each GICS sector
+
+The following code defined an empty vector and a variable `namesGICS`
+with the names of the GICS sectors. The `for` cycle loops thru the GICS
+sectors selecting the indicated number of companies.
+
+``` r
+StratSample = c()
+namesGICS = names(GICSweights)
+for(i in 1:11)
+  StratSample = c(StratSample, sample(SP500[SP500$GICS.Sector==namesGICS[i],"Security"],ni[i]))
+```
+
+``` r
+kable(StratSample, caption="Selected sample using stratified sampling",col.names = "Company")
+```
+
+| Company                         |
+|:--------------------------------|
+| The Walt Disney Company         |
+| News Corp (Class A)             |
+| Darden Restaurants              |
+| PVH                             |
+| eBay                            |
+| Gap                             |
+| Tractor Supply Company          |
+| Kraft Heinz                     |
+| Monster Beverage                |
+| Hormel                          |
+| Coterra                         |
+| Phillips 66                     |
+| Cincinnati Financial            |
+| Invesco                         |
+| Lincoln National                |
+| MetLife                         |
+| Marsh & McLennan                |
+| Teleflex                        |
+| Thermo Fisher Scientific        |
+| Abiomed                         |
+| Charles River Laboratories      |
+| Edwards Lifesciences            |
+| Paccar                          |
+| Stanley Black & Decker          |
+| General Dynamics                |
+| IDEX Corporation                |
+| Rollins                         |
+| United Parcel Service           |
+| Cisco Systems                   |
+| Texas Instruments               |
+| Fleetcor                        |
+| Tyler Technologies              |
+| NortonLifeLock                  |
+| PTC                             |
+| CF Industries                   |
+| Ball Corp                       |
+| Welltower                       |
+| Boston Properties               |
+| WEC Energy Group                |
+| Public Service Enterprise Group |
+
+Selected sample using stratified sampling
+
+Stratified sampling has the advantage, in some cases, of more accurately
+reflecting the characteristics of the population than does simple random
+or systematic random sampling.
+
+### Cluster Sampling
+
+Cluster Sampling is often employed to reduce the cost of sampling a
+population scattered over a large geographic area.
+
+> CLUSTER SAMPLING A population is divided into clusters using naturally
+> occurring geographic or other boundaries. Then, clusters are randomly
+> selected and a sample is collected by randomly selecting from each
+> cluster.
