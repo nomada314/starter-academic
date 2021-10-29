@@ -44,6 +44,8 @@ muestra1 = sample(SP500$Security, 15)
 muestra2 = sample(SP500$Security, 15)
 ```
 
+Table 1. Two random selected samples from the 505 companies included in the S&P 500 index
+
 | Sample 1                      | Sample 2                      |
 |:------------------------------|:------------------------------|
 | AbbVie                        | American Express              |
@@ -62,8 +64,6 @@ muestra2 = sample(SP500$Security, 15)
 | SBA Communications            | Trimble                       |
 | Target Corporation            | United Airlines               |
 
-Two random selected samples from the 505 companies included in the S&P
-500 index
 
 ### Systematic Random Sampling
 
@@ -87,11 +87,12 @@ d = sample(dias)
 cliente = sample(1:10,1)
 ```
 
+Table 2. Día y hora para iniciar el muestreo de clientes
+
 |     | Jueves | Miércoles | Martes | Lunes |
 |:----|-------:|----------:|-------:|------:|
 | h   |      7 |         4 |      8 |    11 |
 
-Día y hora para iniciar el muestreo de clientes
 
 ``` r
 cat("Seleccionar los clientes:\n", cliente + seq(0,240,10))
@@ -104,8 +105,8 @@ cat("Seleccionar los clientes:\n", cliente + seq(0,240,10))
 
 <p>
 Before using systematic random sampling, we should carefully observe the
-physi- cal order of the population. When the physical order is related
-to the population charac- teristic, then systematic random sampling
+physical order of the population. When the physical order is related
+to the population characteristic, then systematic random sampling
 should not be used because the sample could be biased. For example, if
 we wanted to audit the invoices in a file drawer that were ordered in
 increasing dollar amounts, systematic random sampling would not
@@ -136,6 +137,8 @@ group or stratum to collect the sample.
 GICSweights = table(SP500$GICS.Sector)/505
 ```
 
+Table 3. Relative frequency per sector
+
 | GICS Sector            |      Freq |
 |:-----------------------|----------:|
 | Communication Services | 0.0534653 |
@@ -150,7 +153,6 @@ GICSweights = table(SP500$GICS.Sector)/505
 | Real Estate            | 0.0574257 |
 | Utilities              | 0.0554455 |
 
-Relative frequency per sector
 
 We would like to sample forty companies; therefore, we could sample the
 following number of companies from each strata:
@@ -158,6 +160,8 @@ following number of companies from each strata:
 ``` r
 ni = round(GICSweights*40)
 ```
+
+Table 4. Number of companies to select from each GICS sector
 
 | Sector                 | Number |
 |:-----------------------|-------:|
@@ -173,7 +177,7 @@ ni = round(GICSweights*40)
 | Real Estate            |      2 |
 | Utilities              |      2 |
 
-Number of companies to select from each GICS sector
+
 
 The following code defined an empty vector and a variable `namesGICS`
 with the names of the GICS sectors. The `for` cycle loops thru the GICS
@@ -186,9 +190,7 @@ for(i in 1:11)
   StratSample = c(StratSample, sample(SP500[SP500$GICS.Sector==namesGICS[i],"Security"],ni[i]))
 ```
 
-``` r
-kable(StratSample, caption="Selected sample using stratified sampling",col.names = "Company")
-```
+Table 5. Selected sample using stratified sampling
 
 | Company                         |
 |:--------------------------------|
@@ -233,7 +235,6 @@ kable(StratSample, caption="Selected sample using stratified sampling",col.names
 | WEC Energy Group                |
 | Public Service Enterprise Group |
 
-Selected sample using stratified sampling
 
 Stratified sampling has the advantage, in some cases, of more accurately
 reflecting the characteristics of the population than does simple random
