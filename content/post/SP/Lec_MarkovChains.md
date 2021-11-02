@@ -11,10 +11,10 @@ Processes. Springer.**
 ## Definitions and examples
 
 > **Example 1.1** (Gambler’s Ruin). Consider a gambling game in which on
-> any turn you win $1 with probability $p$ = 0.4 or lose $1 with
+> any turn you win \$1 with probability $p$ = 0.4 or lose \$1 with
 > probability $1 − p$ = 0.6. Suppose further that you adopt the rule
-> that you quit playing if your fortune reaches $N. Of course, if your
-> fortune reaches $0 the casino makes you stop.
+> that you quit playing if your fortune reaches \$N. Of course, if your
+> fortune reaches \$0 the casino makes you stop.
 
 We say that $X_n$ is a discrete time **Markov chain** with
 **transition matrix** $p_{ij}$ if for any
