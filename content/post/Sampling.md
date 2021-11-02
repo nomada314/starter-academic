@@ -36,7 +36,7 @@ Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 28 | Presentación del curso.
-2      | Nov 02 | Conceptos metodológicos (1.1)
+2      | Nov 02 | [Conceptos metodológicos (1.1)](https://alexrojas.netlify.app/post/sampling/Lec_CapituloI/)
 &nbsp; | Nov 04 | Base de datos `Lucy` (1.2) <br> Introducción a `R`
 3      | Nov 09 | Población y muestra aleatoria (2.1)
 &nbsp; | Nov 11 | Estimadores de muestreo (2.2)
