@@ -31,7 +31,7 @@ Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 28 | Presentación del curso.
-2      | Nov 02 | **Cadenas de Markov:** Definiciones (1.1) <br> Probabilidades de transición (1.2)
+2      | Nov 02 | **Cadenas de Markov:** [Definiciones](https://alexrojas.netlify.app/post/sp/Lec_MarkovChains/) (1.1) <br> Probabilidades de transición (1.2)
 &nbsp; | Nov 04 | **Cadenas de Markov:** Clasificación de estados (1.3) <br> Distribución estacionaria (1.4)
 3      | Nov 09 | **Cadenas de Markov:** Reversibilidad <br> Algoritmo Metropolis-Hastings (1.5)
 &nbsp; | Nov 11 | **Cadenas de Markov:** Comportamiento asintótico (1.6)
