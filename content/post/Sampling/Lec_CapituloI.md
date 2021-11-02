@@ -26,7 +26,7 @@ siguientes características:
     población finita y/o acerca de subpoblaciones de interés especial.
 2.  Asociado con cada elemento de la población existe una o más
     variables de interés. Una encuesta permite conseguir información
-    sobre características poblacionales desconocidas llamadaś
+    sobre características poblacionales desconocidas llamadaś
     parámetros. Estas son funciones de los valores de las variables de
     interés y son desconocidos y requeridos.
 3.  El acceso y observación de los elementos de la población se
@@ -225,19 +225,6 @@ Además de la librería `TeachingSampling`, vamos a usar las librerías
 library(tidyverse)
 ```
 
-    ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
-
-    ## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
-    ## ✓ tibble  3.1.5     ✓ stringr 1.4.0
-    ## ✓ tidyr   1.1.4     ✓ forcats 0.5.1
-    ## ✓ readr   2.0.2
-
-    ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-    ## x tidyr::extract()   masks magrittr::extract()
-    ## x dplyr::filter()    masks stats::filter()
-    ## x dplyr::lag()       masks stats::lag()
-    ## x purrr::set_names() masks magrittr::set_names()
-
 ``` r
 library(ggplot2)
 
@@ -349,18 +336,14 @@ p4 = BigLucy %>% ggplot(aes(x = Level, y = Years)) +
 ggarrange(p1,p2,p3,p4,ncol=2, nrow = 2)
 ```
 
-![](Lec_CapituloI_files/figure-gfm/Graficas1-1.png)<!-- -->
+![](http://alexrojas.netlify.com/media/Sampling/Graficas1-1.png)<!-- -->
 
 ``` r
 library(GGally)
 ```
 
-    ## Registered S3 method overwritten by 'GGally':
-    ##   method from   
-    ##   +.gg   ggplot2
-
 ``` r
 BigLucy %>% select(Income,Employees,Taxes, Years) %>% ggpairs()
 ```
 
-![](Lec_CapituloI_files/figure-gfm/Graficas2-1.png)<!-- -->
+![](http://alexrojas.netlify.com/media/Sampling/Graficas2-1.png)<!-- -->
