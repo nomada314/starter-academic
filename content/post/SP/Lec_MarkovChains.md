@@ -97,7 +97,7 @@ $$\\left(
 $$\\left(\\frac{11362}{20000}\\right)^2 = 0.323$$
 
 whereas from Pushkin’s poem the probability is
-*P*<sub>*c**c*</sub> = 0.474.
+$p_{cc} = 0.474$.
 
 ## Multistep Transition Probabilities
 
@@ -114,10 +114,9 @@ $$p_{ij}^m = \Pr(X_{m+n} = j |X_n = i)$$
 $$
 \\begin{array}{cccc}
  &\\mathbf{1}&\\mathbf{2}&\\mathbf{3}\\\\
-\\mathbf{0}&.7& .2 & .1\\\\
-\\mathbf{1}& .3& .5 & .2\\\\
-\\mathbf{2}& .2& .4 & .4 \\\\
-\\mathbf{3}& &  & \\\\
+\\mathbf{1}&.7& .2 & .1\\\\
+\\mathbf{2}& .3& .5 & .2\\\\
+\\mathbf{3}& .2& .4 & .4 \\\\
 \\end{array}$$
 
 Lets us find
