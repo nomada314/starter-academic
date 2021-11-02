@@ -11,14 +11,14 @@ Processes. Springer.**
 ## Definitions and examples
 
 > **Example 1.1** (Gambler’s Ruin). Consider a gambling game in which on
-> any turn you win $1 with probability *p* = 0.4 or lose $1 with
-> probability 1 − *p* = 0.6. Suppose further that you adopt the rule
+> any turn you win $1 with probability $p$ = 0.4 or lose $1 with
+> probability $1 − p$ = 0.6. Suppose further that you adopt the rule
 > that you quit playing if your fortune reaches $N. Of course, if your
 > fortune reaches $0 the casino makes you stop.
 
-We say that *X*<sub>*n*</sub> is a discrete time **Markov chain** with
-**transition matrix** *p*<sub>*i**j*</sub> if for any
-*j*, *i*, *i*<sub>*n* − 1</sub>, …, *i*<sub>0</sub>
+We say that $X_n$ is a discrete time **Markov chain** with
+**transition matrix** $p_{ij}$ if for any
+$j,i, i_{n-1}, \ldots, i_0$
 
 $$
 \\begin{aligned}
@@ -28,9 +28,9 @@ $$
 $$
 
 In the case of the gambler’s ruin chain, the transition probability has
-*p*(0, 0) = 1, *p*(*N*, *N*) = 1 y
+$p_{0,0} = 1$, $p_{N,N} = 1$y
 
-*p*(*i*, *i* + 1) = 0.4   *p*(*i*, *i* − 1) = 0.6   if 0 &lt; *i* &lt; *N*.
+$$p_{i,i+1} = 0.4\qquad p_{i,i-1} = 0.6\qquad \text{si } 0<i<N.$$
 
 ``` r
 library(pracma)
@@ -101,10 +101,9 @@ whereas from Pushkin’s poem the probability is
 
 ## Multistep Transition Probabilities
 
-Our goal in this section is to compute the probability of going from *i*
-to *j* in *m* &gt; 1 steps:
+Our goal in this section is to compute the probability of going $i$ to $j$ in $m > 1$ steps:
 
-*p*<sub>*i**j*</sub><sup>*m*</sup> = Pr (*X*<sub>*m* + *n*</sub> = *j*\|*X*<sub>*n*</sub> = *i*)
+$$p_{ij}^m = \Pr(X_{m+n} = j |X_n = i)$$
 
 > **Example 1.4** (Social Mobility). Let *X*<sub>*n*</sub> be a family’s
 > social class in the *n*th generation, which we assume is either 1 =
@@ -122,7 +121,7 @@ $$
 \\end{array}$$
 
 Lets us find
-Pr (*X*<sub>2</sub> = 3, *X*<sub>1</sub> = 2\|*X*<sub>0</sub> = 1)
+$$\Pr(X_2 = 3, X_1 = 2 | X_0 = 1)$$
 
 $$
 \\begin{aligned}
@@ -133,14 +132,11 @@ $$
 &= p\_{\\cdot3}^Tp\_{1\\cdot}
 \\end{aligned}
 $$
-Donde
-*p*<sub> ⋅ 3</sub><sup>*T*</sup> = (*p*<sub>13</sub>, *p*<sub>23</sub>, *p*<sub>33</sub>)<sup>*T*</sup>
-y
-*p*<sub>1⋅</sub><sup>*T*</sup> = (*p*<sub>11</sub>, *p*<sub>12</sub>, *p*<sub>13</sub>)<sup>*T*</sup>
+Donde $p_{\cdot3}^T = (p_{13}, p_{23}, p_{33})^T$ y $p_{1\cdot}^T = (p_{11}, p_{12}, p_{13})^T$
 
 **Chapman–Kolmogorov equation**
 
-*p*<sub>*i**j*</sub><sup>*m* + *n*</sup> = ∑<sub>*k*</sub>*p*<sub>*i**k*</sub><sup>*m*</sup>*p*<sub>*k**j*</sub><sup>*n*</sup>
+$$ p_{ij}^{m+n} = \sum_{k}p_{ik}^mp_{kj}^n $$
 
 > Gambler’s Ruin
 
