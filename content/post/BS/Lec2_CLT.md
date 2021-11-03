@@ -78,5 +78,18 @@ ggplot(medias.df, aes(x = medias)) +
   geom_histogram(binwidth = .5, fill = "lightblue")
 ```
 
+Note that `mean(medias)` is equal to `mean(alturas)`.
+
+
 **CENTRAL LIMIT THEOREM.** If all samples of a particular size are selected from any population, the sampling distribution of the sample mean is approximately a normal distribution. This approximation improves with larger samples.
 
+$$\widebar{X} \sim \text{N}(\mu, \sigma^2/n).$$
+
+We refer to $\sigma/\sqrt{n}$ as the standard error of the mean. Its longer name is actually the standard deviation of the sampling distribution of the sample mean.
+
+
+In this section, we also came to other important conclusions.
+1. The mean of the distribution of sample means will be exactly equal to the population mean if we are able to select all possible samples of the same size from a given population. That is:
+$$\mu = \mu_{\widebar{X}}$$
+Even if we do not select all samples, we can expect the mean of the distribution of sample means to be close to the population mean.
+2. There will be less dispersion in the sampling distribution of the sample mean than in the population. If the standard deviation of the population is $\sigma$, the standard deviation of the distribution of sample means is $\sigma/\sqrt{n}$. Note that when we increase the size of the sample, the standard error of the mean decreases.
