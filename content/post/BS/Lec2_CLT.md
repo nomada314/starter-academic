@@ -9,9 +9,9 @@ Sampling Error
 
 Samples are used to estimate population characteristics. We can therefore expect a differ- ence between a sample statistic and its corresponding population parameter. This difference is called sampling error.
 
-**SAMPLING ERROR.** The difference between a sample statistic and its corresponding population parameter.
+**Sampling error.** The difference between a sample statistic and its corresponding population parameter.
 
-**Ejemplo.** 
+**Example.** 
 
 $$e = \mu - \bar{x} $$
 
@@ -25,13 +25,21 @@ error = mu - mean(muestra)
 Sampling distribution of the sample mean
 =======================================
 
-SAMPLING DISTRIBUTION OF THE SAMPLE MEAN A probability distribution of
-all possible sample means of a given sample size.
+**Samping distribution of the sample mean** A probability distribution of all possible sample means of a given sample size.
 
 
 ```{r}
-
-
-
+alturas = c()
+n = 3
+m1 = sample(alturas, n)
+m2 = sample(alturas, n)
 ```
+
+Number of possible samples
+
+$${N \choose 3} = \frac{}{3!} =  $$
+
+
+
+
 
