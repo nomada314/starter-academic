@@ -70,7 +70,7 @@ Semana | Fecha | Tema
 ---| ---| ---
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 29 | Presentación del curso. [Métodos de muestreo](https://alexrojas.netlify.app/post/bs/lec1_muestreo/) (L08-1)
-2      | Nov 03 | Error muestral (L08-2) <br> Distribución muestral de la media (L08-3)<br> Teorema de límite central (L08-4)
+2      | Nov 03 | Error muestral (L08-2) <br> [Distribución muestral de la media](https://alexrojas.netlify.app/post/bs/lec2_clt/) (L08-3)<br> Teorema de límite central (L08-4)
 &nbsp; | Nov 05 | Estimador puntual para la media (L09-1) Intervalo de confianza para la media (L09-2)
 3      | Nov 10 | Intervalo de confianza para la proporción (L09-3)
 &nbsp; | Nov 12 | Tamaño de muestra (L09-4)
