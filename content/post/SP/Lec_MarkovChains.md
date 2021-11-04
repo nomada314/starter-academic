@@ -170,3 +170,8 @@ P_sm%*%P_sm
 ``` python
 np.matmul(Psm,Psm)
 ```
+
+
+## Classification of States
+
+Theorem 1.2 (Strong Markov Property). Suppose T is a stopping time. Given that $T = n$ and $X_T = y$, any other information about $X_0,\ldots, X_T$ is irrelevant for predicting the future, and $X_{y+k}$, $k\geq 0$ behaves like the Markov chain with initial state $y$.
