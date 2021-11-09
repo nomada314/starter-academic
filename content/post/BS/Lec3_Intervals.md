@@ -17,7 +17,7 @@ A point estimate is a single statistic used to estimate a population parameter. 
 ## Confidence intervals for the population mean
 
 
-While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is &dollar;85,000. The range of this estimate might be from &#36;81,000 to &#36;89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between &#36;81,000 and &#36;89,000.
+While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is USD 85,000. The range of this estimate might be from USD 81,000 to USD 89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between USD 81,000 and USD 89,000.
 
 
 **CONFIDENCE INTERVAL:** A range of values constructed from sample data so that the population parameter is likely to occur within that range at a specified probability. The specified probability is called the level of confidence.
@@ -58,7 +58,7 @@ To determine a confidence interval for the population mean with an unknown popul
 
 > 48.16 37.92 49.17 42.22 52.64 61.46 46.82 48.59 51.35 51.45 50.82 52.68 23.78 46.94 58.84 41.86 54.86 61.83 61.69 43.88
 
-> What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is \$50? What about \$60?
+> What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is USD 50? What about USD 60?
 
 
 ## Confidence intervals for the population proportion
@@ -131,7 +131,7 @@ he third choice to determine the sample size is the *population standard deviati
 
 1. **Conduct a pilot study**. This is the most common method. Suppose we want an estimate of the number of hours per week worked by students enrolled in the College of Business at the University of Texas. To test the validity of our questionnaire, we use it on a small sample of students. From this small sample, we compute the standard deviation of the number of hours worked and use this value as the population standard deviation.
 2. **Use a comparable study**. Use this approach when there is an estimate of the standard deviation from another study. Suppose we want to estimate the number of hours worked per week by refuse workers. Information from certain state or federal agencies that regularly study the workforce may provide a reliable value to use for the population standard deviation.
-5. Use a range-based approach. To use this approach, we need to know or have an estimate of the largest and smallest values in the population. Recall from Chapter 3, the Empirical Rule states that virtually all the observations could be expected to be within plus or minus 3 standard deviations of the mean, assuming that the distribution follows the normal distribution. Thus, the distance between the largest and the smallest values is 6 standard deviations. We can estimate the standard deviation as one-sixth of the range. For example, the director of operations at University Bank wants to estimate the number of ATM transactions per month made by college stu- dents. She believes that the distribution of ATM transactions follows the normal distribution. The minimum and maximum of ATM transactions per month are 2 and 50, so the range is 48, found by (50 − 2). Then the estimated value of the population standard deviation would be eight ATM transactions per month, 48/6.
+5. **Use a range-based approach**. To use this approach, we need to know or have an estimate of the largest and smallest values in the population. Recall from Chapter 3, the Empirical Rule states that virtually all the observations could be expected to be within plus or minus 3 standard deviations of the mean, assuming that the distribution follows the normal distribution. Thus, the distance between the largest and the smallest values is 6 standard deviations. We can estimate the standard deviation as one-sixth of the range. For example, the director of operations at University Bank wants to estimate the number of ATM transactions per month made by college stu- dents. She believes that the distribution of ATM transactions follows the normal distribution. The minimum and maximum of ATM transactions per month are 2 and 50, so the range is 48, found by (50 − 2). Then the estimated value of the population standard deviation would be eight ATM transactions per month, 48/6.
 
 
 
@@ -139,7 +139,7 @@ Sample size for estimating the population mean
 
 $$n = \left(\frac{z\sigma}{E}\right)^2.$$
 
-> A student in public administration wants to estimate the mean monthly earnings of city council members in large cities. She can tolerate a margin of error of $100 in estimating the mean. She would also prefer to report the interval estimate with a 95% level of confidence. The student found a report by the Department of Labor that reported a standard deviation of \$1,000. What is the required sample size?
+> A student in public administration wants to estimate the mean monthly earnings of city council members in large cities. She can tolerate a margin of error of USD 100 in estimating the mean. She would also prefer to report the interval estimate with a 95% level of confidence. The student found a report by the Department of Labor that reported a standard deviation of USD 1,000. What is the required sample size?
 
 Sample size for estimating the population proportion
 
@@ -150,7 +150,7 @@ $$n = \pi(1-\pi)\left(\frac{z}{E}\right)^2.$$
 
 ## Finite-population correction factor
 
-The populations we have sampled so far have been very large or infinite. What if the sampled population is not very large? We need to make some adjustments in the way we compute the standard error of the sample means and the standard error of the sam- ple proportions.
+The populations we have sampled so far have been very large or infinite. What if the sampled population is not very large? We need to make some adjustments in the way we compute the standard error of the sample means and the standard error of the sample proportions.
 
 For a finite population, where the total number of objects or individuals is N and the number of objects or individuals in the sample is n, we need to adjust the standard errors in the confidence interval formulas.  This adjustment is called the finite-population correction factor. It is often shortened to FPC and is:
 
@@ -162,7 +162,7 @@ So if we wished to develop a confidence interval for the mean from a finite popu
 $$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}\sqrt{\frac{N-n}{n-1}}.$$
 
 
-> There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was \$450 and the standard deviation of this was \$75.
+> There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was \$450 and the standard deviation of this was USD 75.
 1. What is the population mean? What is the best estimate of the population mean?
 2. Develop a 90% confidence interval for the population mean. What are the end-points of the confidence interval?
-3. Using the confidence interval, explain why the population mean could be \$445. Could the population mean be \$425? Why?
+3. Using the confidence interval, explain why the population mean could be USD 445. Could the population mean be USD 425? Why?
