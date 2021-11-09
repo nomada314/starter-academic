@@ -139,7 +139,7 @@ Sample size for estimating the population mean
 
 $$n = \left(\frac{z\sigma}{E}\right)^2.$$
 
-> A student in public administration wants to estimate the mean monthly earnings of city council members in large cities. She can tolerate a margin of error of $100 in estimating the mean. She would also prefer to report the interval estimate with a 95% level of confidence. The student found a report by the Department of Labor that reported a standard deviation of $1,000. What is the required sample size?
+> A student in public administration wants to estimate the mean monthly earnings of city council members in large cities. She can tolerate a margin of error of $100 in estimating the mean. She would also prefer to report the interval estimate with a 95% level of confidence. The student found a report by the Department of Labor that reported a standard deviation of \$1,000. What is the required sample size?
 
 Sample size for estimating the population proportion
 
@@ -162,7 +162,7 @@ So if we wished to develop a confidence interval for the mean from a finite popu
 $$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}\sqrt{\frac{N-n}{n-1}}.$$
 
 
-> There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was $450 and the standard deviation of this was $75.
+> There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was \$450 and the standard deviation of this was \$75.
 1. What is the population mean? What is the best estimate of the population mean?
-2. Develop a 90% confidence interval for the population mean. What are the end- points of the confidence interval?
-3. Using the confidence interval, explain why the population mean could be $445. Could the population mean be $425? Why?
+2. Develop a 90% confidence interval for the population mean. What are the end-points of the confidence interval?
+3. Using the confidence interval, explain why the population mean could be \$445. Could the population mean be \$425? Why?
