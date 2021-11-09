@@ -17,7 +17,7 @@ A point estimate is a single statistic used to estimate a population parameter. 
 ## Confidence intervals for the population mean
 
 
-While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is $85,000. The range of this estimate might be from $81,000 to $89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between $81,000 and $89,000.
+While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is \$85,000. The range of this estimate might be from \$81,000 to \$89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between \$81,000 and \$89,000.
 
 
 **CONFIDENCE INTERVAL:** A range of values constructed from sample data so that the population parameter is likely to occur within that range at a specified probability. The specified probability is called the level of confidence.
@@ -58,7 +58,7 @@ To determine a confidence interval for the population mean with an unknown popul
 
 > 48.16 37.92 49.17 42.22 52.64 61.46 46.82 48.59 51.35 51.45 50.82 52.68 23.78 46.94 58.84 41.86 54.86 61.83 61.69 43.88
 
-> What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is $50? What about $60?
+> What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is \$50? What about \$60?
 
 
 ## Confidence intervals for the population proportion
@@ -91,7 +91,7 @@ Developing a point estimate for a population proportion and a confidence interva
 
 To develop a confidence interval for a population proportion, we use:
 
-$$p \pm z\sqrt{\frac{p(1-p)}{n}.$$
+$$p \pm z\sqrt{\frac{p(1-p)}{n}}.$$
 
 
 > The union representing the Bottle Blowers of America (BBA) is considering a pro- posal to merge with the Teamsters Union. According to BBA union bylaws, at least three-fourths of the union membership must approve any merger. A random sam- ple of 2,000 current BBA members reveals 1,600 plan to vote for the merger proposal. What is the estimate of the population proportion? Develop a 95% confidence interval for the population proportion. Basing your decision on this sample information, can you conclude that the necessary proportion of BBA members favor the merger? Why?
@@ -100,7 +100,7 @@ $$p \pm z\sqrt{\frac{p(1-p)}{n}.$$
 
 > The results of many surveys include confidence intervals. For example, a recent survey of 800 TV viewers in Toledo, Ohio, found 44% watched the evening news on the local CBS affiliate. The article also reported a margin of error of 3.4%. The margin of error is actually the amount that is added and subtracted from the point estimate to find the endpoints of a confidence interval. For a 95% level of confidence, the margin of error is:
 
-$$z\sqrt{\frac{p(1-p)}{n} $$
+$$z\sqrt{\frac{p(1-p)}{n}} $$
 
 
 The estimate of the proportion of all TV viewers in Toledo, Ohio who watch the local news on CBS is between (.44 − .034) and (.44 + .034) or 40.6%
@@ -118,7 +118,7 @@ When working with confidence intervals, one important variable is sample size. H
 
 The first variable is the *margin of error*. It is designated as $E$ and is the amount that is added and subtracted to the sample mean (or sample proportion) to determine the endpoints of the confidence interval. 
 
-> In a study of wages, we may decide that we want to estimate the mean wage of the population with a margin of error of plus or minus $1,000.
+> In a study of wages, we may decide that we want to estimate the mean wage of the population with a margin of error of plus or minus \$1,000.
 > In an opinion poll, we may decide that we want to estimate the population proportion with a margin of error of plus or minus 3.5%. 
 
 The margin of error is the amount of error we are willing to tolerate in estimating a population parameter. A small margin of error will require a larger sample and more money and time to collect the sample. A larger margin of error will permit a smaller sample and result in a wider confidence interval.
