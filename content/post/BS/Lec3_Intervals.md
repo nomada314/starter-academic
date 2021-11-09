@@ -52,7 +52,12 @@ To determine a confidence interval for the population mean with an unknown popul
 > A tire manufacturer wishes to investigate the tread life of its tires. A sample of 10 tires driven 50,000 miles revealed a sample mean of 0.32 inch of tread remaining with a standard deviation of 0.09 inch. Construct a 95% confidence interval for the population mean. Would it be reasonable for the manufacturer to con- clude that after 50,000 miles the population mean amount of tread remaining is 0.30 inch?
 
 
+> Suppose an article in your local newspaper reported that the mean time to sell a residential prop- erty in the area is 60 days. You select a random sample of 20 homes sold in the last year and find the mean selling time is 65 days. Based on the sample data, you de- velop a 95% confidence interval for the population mean. You find that the endpoints of the confidence interval are 62 days and 68 days. How do you interpret this result? You can be reasonably confident the population mean is within this range. The value proposed for the population mean, that is, 60 days, is not included in the interval. It is not likely that the population mean is 60 days. The evidence indicates the statement by the local newspaper may not be correct. To put it another way, it seems un- reasonable to obtain the sample you did from a population that had a mean selling time of 60 days.
 
+> The manager of the Inlet Square Mall, near Ft. Myers, Florida, wants to estimate the mean amount spent per shopping visit by customers. A sample of 20 customers reveals the following amounts (in dollars) spent.
 
+> 48.16 37.92 49.17 42.22 52.64 61.46 46.82 48.59 51.35 51.45 50.82 52.68 23.78 46.94 58.84 41.86 54.86 61.83 61.69 43.88
+
+> What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is $50? What about $60?
 
 
