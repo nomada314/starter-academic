@@ -17,3 +17,42 @@ A point estimate is a single statistic used to estimate a population parameter. 
 ## Confidence intervals for the population mean
 
 
+While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is $85,000. The range of this estimate might be from $81,000 to $89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between $81,000 and $89,000.
+
+
+**CONFIDENCE INTERVAL:** A range of values constructed from sample data so that the population parameter is likely to occur within that range at a specified probability. The specified probability is called the level of confidence.
+
+
+The $t$ distribution is a continuous probability distribution, with many similar characteristics to the $z$ distribution. Consider the following statistic:
+
+$$t = \frac{\overline{X} - \mu}{s/\sqrt{n}},$$
+
+where $s$, the sample standard deviation, is used to estimate $\sigma$, the population standard deviation.
+
+```{r}
+xs = seq(-3,3,length=101)
+plot(xs, dnorm(xs), type="l", xlab = "x", ylab = "Density")
+lines(xs, dt(xs, 2), col = 2)
+legend(1,.4,c("Normal(0,1)","t"), col = 1:2, lty=1)
+```
+
+Note particularly that the $t$ distribution is flatter, more spread out, than the standard normal distribution. This is because the standard deviation of the $t$ distribution is larger than that of the standard normal distribution.
+
+Confidence interval for the population mean, $\sigma$ inknonw:
+
+$$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}.$$
+
+
+To determine a confidence interval for the population mean with an unknown population standard deviation, we:
+1. Assume the sampled population is either normal or approximately normal. This assumption may be questionable for small sample sizes, and becomes more valid with larger sample sizes.
+2. Estimate the population standard deviation ($\sigma$) with the sample standard deviation ($s$).
+3. Use the $t$ distribution rather than the $z$ distribution.
+
+
+> A tire manufacturer wishes to investigate the tread life of its tires. A sample of 10 tires driven 50,000 miles revealed a sample mean of 0.32 inch of tread remaining with a standard deviation of 0.09 inch. Construct a 95% confidence interval for the population mean. Would it be reasonable for the manufacturer to con- clude that after 50,000 miles the population mean amount of tread remaining is 0.30 inch?
+
+
+
+
+
+
