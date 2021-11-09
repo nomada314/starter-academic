@@ -17,7 +17,7 @@ A point estimate is a single statistic used to estimate a population parameter. 
 ## Confidence intervals for the population mean
 
 
-While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is \$85,000. The range of this estimate might be from \$81,000 to \$89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between \$81,000 and \$89,000.
+While we expect the point estimate to be close to the population parameter, we would like to measure how close it really is. A confidence interval serves this purpose. For example, we estimate the mean yearly income for construction workers in the New York–New Jersey area is &#36;85,000. The range of this estimate might be from &#36;81,000 to &#36;89,000. We can describe how confident we are that the population parameter is in the interval. We might say, for instance, that we are 90% confident that the mean yearly income of construction workers in the New York–New Jersey area is between &#36;81,000 and &#36;89,000.
 
 
 **CONFIDENCE INTERVAL:** A range of values constructed from sample data so that the population parameter is likely to occur within that range at a specified probability. The specified probability is called the level of confidence.
