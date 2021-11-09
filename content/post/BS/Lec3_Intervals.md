@@ -61,3 +61,42 @@ To determine a confidence interval for the population mean with an unknown popul
 > What is the best estimate of the population mean? Determine a 95% confidence interval. Interpret the result. Would it be reasonable to conclude that the population mean is $50? What about $60?
 
 
+## Confidence intervals for the population proportion
+
+
+We now want to consider situations such as the following:
++ The career services director at Southern Technical Institute reports that 80% of its graduates enter the job market in a position related to their field of study.
++ A company representative claims that 45% of Burger King sales are made at the drive-through window.
++ A survey of homes in the Chicago area indicated that 85% of the new con- struction had central air conditioning.
++ A recent survey of married men between the ages of 35 and 50 found that 63% felt that both partners should earn a living.
+
+In these cases, an observation is classified into one of two mutually exclusive groups. For example, a graduate of Southern Tech either entered the job market in a position related to his or her field of study or not. A particular Burger King customer either made a purchase at the drive-through window or did not make a purchase at the drive-through window. We can talk about the groups in terms of proportions.
+
+
+**PROPORTION:** The fraction, ratio, or percent indicating the part of the sample or the population having a particular trait of interest.
+
+The population proportion is identified by $\pi$. Therefore, $\pi$ refers to the percent of successes in the population. Recall from a previous course that $\pi$ is the proportion of “successes” in a binomial distribution.
+
+To develop a confidence interval for a proportion, we need to meet two requirements:
+
+1. The sample data are the number of successes in $n$ trials.
+2. There are only two possible outcomes. (We usually label one of the outcomes a “success” and the other a “failure.”)
+3. The probability of a success remains the same from one trial to the next.
+4. The trials are independent. This means the outcome on one trial does not affect the outcome on another.
+5. The values $n\pi$ and $n(1-\pi)$ should both be greater than or equal to 5. This allows us to invoke the central limit theorem and employ the standard normal distribution, that is, $z$, to complete a confidence interval.
+
+Developing a point estimate for a population proportion and a confidence interval for a population proportion is similar to doing so for a mean. 
+
+> John Gail is running for Congress from the third district of Nebraska. From a random sample of 100 voters in the district, 60 indicate they plan to vote for him in the upcoming election. The sample proportion is .60, but the population proportion is unknown. That is, we do not know what proportion of voters in the population will vote for Mr. Gail. The sample value, .60, is the best estimate we have of the unknown population parameter. So we let p, which is .60, be an estimate of $\pi$, which is not known.
+
+To develop a confidence interval for a population proportion, we use:
+
+$$p \pm z\sqrt{\frac{p(1-p)}{n}.$$
+
+
+> The union representing the Bottle Blowers of America (BBA) is considering a pro- posal to merge with the Teamsters Union. According to BBA union bylaws, at least three-fourths of the union membership must approve any merger. A random sam- ple of 2,000 current BBA members reveals 1,600 plan to vote for the merger proposal. What is the estimate of the population proportion? Develop a 95% confidence interval for the population proportion. Basing your decision on this sample information, can you conclude that the necessary proportion of BBA members favor the merger? Why?
+
+
+
+
+
