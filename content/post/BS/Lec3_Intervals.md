@@ -98,5 +98,11 @@ $$p \pm z\sqrt{\frac{p(1-p)}{n}.$$
 
 
 
+> The results of many surveys include confidence intervals. For example, a recent survey of 800 TV viewers in Toledo, Ohio, found 44% watched the evening news on the local CBS affiliate. The article also reported a margin of error of 3.4%. The margin of error is actually the amount that is added and subtracted from the point estimate to find the endpoints of a confidence interval. For a 95% level of confidence, the margin of error is:
 
+$$z\sqrt{\frac{p(1-p)}{n} $$
+
+
+The estimate of the proportion of all TV viewers in Toledo, Ohio who watch the local news on CBS is between (.44 − .034) and (.44 + .034) or 40.6%
+and 47.4%.
 
