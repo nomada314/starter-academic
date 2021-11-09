@@ -106,3 +106,63 @@ $$z\sqrt{\frac{p(1-p)}{n} $$
 The estimate of the proportion of all TV viewers in Toledo, Ohio who watch the local news on CBS is between (.44 − .034) and (.44 + .034) or 40.6%
 and 47.4%.
 
+
+## Choosing an appropiate sample size
+
+When working with confidence intervals, one important variable is sample size. However, in practice, sample size is not a variable. It is a decision we make so that our estimate of a population parameter is a good one. Our decision is based on three variables:
+
+1. The margin of error the researcher will tolerate.
+2. The level of confidence desired, for example, 95%.
+3. The variation or dispersion of the population being studied.
+
+
+The first variable is the *margin of error*. It is designated as $E$ and is the amount that is added and subtracted to the sample mean (or sample proportion) to determine the endpoints of the confidence interval. 
+
+> In a study of wages, we may decide that we want to estimate the mean wage of the population with a margin of error of plus or minus $1,000.
+> In an opinion poll, we may decide that we want to estimate the population proportion with a margin of error of plus or minus 3.5%. 
+
+The margin of error is the amount of error we are willing to tolerate in estimating a population parameter. A small margin of error will require a larger sample and more money and time to collect the sample. A larger margin of error will permit a smaller sample and result in a wider confidence interval.
+
+
+The second choice is the *level of confidence*. In working with confidence intervals, we logically choose relatively high levels of confidence such as 95% and 99%. To compute the sample size, we need the z-statistic that corresponds to the chosen level of confidence. The 95% level of confidence corresponds to a z value of 1.96, and a 90% level of confidence corresponds to a z value of 1.645. Notice that larger sample sizes (and more time and money to collect the sample) correspond with higher levels of confidence. Also, notice that we use a z-statistic.
+
+
+he third choice to determine the sample size is the *population standard deviation*. If the population is widely dispersed, a large sample is required to get a good estimate. On the other hand, if the population is concentrated (homogeneous), the required sample size to get a good estimate will be smaller. Often, we do not know the population standard deviation. Here are three suggestions to estimate the population standard deviation.
+
+1. **Conduct a pilot study**. This is the most common method. Suppose we want an estimate of the number of hours per week worked by students enrolled in the College of Business at the University of Texas. To test the validity of our questionnaire, we use it on a small sample of students. From this small sample, we compute the standard deviation of the number of hours worked and use this value as the population standard deviation.
+2. **Use a comparable study**. Use this approach when there is an estimate of the standard deviation from another study. Suppose we want to estimate the number of hours worked per week by refuse workers. Information from certain state or federal agencies that regularly study the workforce may provide a reliable value to use for the population standard deviation.
+5. Use a range-based approach. To use this approach, we need to know or have an estimate of the largest and smallest values in the population. Recall from Chapter 3, the Empirical Rule states that virtually all the observations could be expected to be within plus or minus 3 standard deviations of the mean, assuming that the distribution follows the normal distribution. Thus, the distance between the largest and the smallest values is 6 standard deviations. We can estimate the standard deviation as one-sixth of the range. For example, the director of operations at University Bank wants to estimate the number of ATM transactions per month made by college stu- dents. She believes that the distribution of ATM transactions follows the normal distribution. The minimum and maximum of ATM transactions per month are 2 and 50, so the range is 48, found by (50 − 2). Then the estimated value of the population standard deviation would be eight ATM transactions per month, 48/6.
+
+
+
+Sample size for estimating the population mean
+
+$$n = \left(\frac{z\sigma}{E}\right)^2.$$
+
+> A student in public administration wants to estimate the mean monthly earnings of city council members in large cities. She can tolerate a margin of error of $100 in estimating the mean. She would also prefer to report the interval estimate with a 95% level of confidence. The student found a report by the Department of Labor that reported a standard deviation of $1,000. What is the required sample size?
+
+Sample size for estimating the population proportion
+
+$$n = \pi(1-\pi)\left(\frac{z}{E}\right)^2.$$
+
+> The student in the previous example also wants to estimate the proportion of cities that have private refuse collectors. The student wants to estimate the population proportion with a margin of error of .10, prefers a level of confidence of 90%, and has no estimate for the population proportion. What is the required sample size?
+
+
+## Finite-population correction factor
+
+The populations we have sampled so far have been very large or infinite. What if the sampled population is not very large? We need to make some adjustments in the way we compute the standard error of the sample means and the standard error of the sam- ple proportions.
+
+For a finite population, where the total number of objects or individuals is N and the number of objects or individuals in the sample is n, we need to adjust the standard errors in the confidence interval formulas.  This adjustment is called the finite-population correction factor. It is often shortened to FPC and is:
+
+
+$$\text{FPC}= \sqrt{\frac{N-n}{n-1}}$$
+
+So if we wished to develop a confidence interval for the mean from a finite population and the population standard deviation was unknown, we would use
+
+$$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}\sqrt{\frac{N-n}{n-1}}.$$
+
+
+> There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was $450 and the standard deviation of this was $75.
+1. What is the population mean? What is the best estimate of the population mean?
+2. Develop a 90% confidence interval for the population mean. What are the end- points of the confidence interval?
+3. Using the confidence interval, explain why the population mean could be $445. Could the population mean be $425? Why?
