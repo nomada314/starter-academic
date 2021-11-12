@@ -40,17 +40,17 @@ Semana | Fecha | Tema
 &nbsp; | Nov 04 | Base de datos `Lucy` (1.2) <br> Introducción a `R`
 3      | Nov 09 | Población y muestra aleatoria (2.1)
 &nbsp; | Nov 11 | Estimadores de muestreo (2.2)
-4      | Nov 16 | &nbsp;
+4      | Nov 16 | Estimadores de muestreo,continuación (2.2)
 &nbsp; | Nov 18 | &nbsp;
 5      | Nov 23 | <font color="blue">Sesión preguntas</font>
 &nbsp; | Nov 25 | <font color="blue">Examen I</font>
 6      | Nov 30 |  &nbsp;
 &nbsp; | Dic 02  | &nbsp;
 7      | Dic 07 |  &nbsp;
-&nbsp; | Dic 09 | &nbsp;
-8      | Dic 14 |  &nbsp;
-&nbsp; | Dic 16  | &nbsp;
-9      | &nbsp; |  &nbsp;
+&nbsp; | Dic 09 | Presentaciones
+8      | Dic 14 |  Presentaciones
+&nbsp; | Dic 16  | <font color="blue">Sesión preguntas</font>
+9      | &nbsp; |  <font color="blue">Examen II</font>
 &nbsp; | Feb 03 | &nbsp;
 10     | Feb 08 | &nbsp;
 &nbsp; | Feb 10 | &nbsp;
