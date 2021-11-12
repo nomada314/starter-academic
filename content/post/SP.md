@@ -32,15 +32,15 @@ Semana | Fecha | Tema
 1      | &nbsp; | &nbsp;
 &nbsp; | Oct 28 | Presentación del curso.
 2      | Nov 02 | **Cadenas de Markov:** [Definiciones](https://alexrojas.netlify.app/post/sp/Lec_MarkovChains/) (1.1) <br> Probabilidades de transición (1.2)
-&nbsp; | Nov 04 | **Cadenas de Markov:** Clasificación de estados (1.3) <br> Distribución estacionaria (1.4)
-3      | Nov 09 | **Cadenas de Markov:** Reversibilidad <br> Algoritmo Metropolis-Hastings (1.5)
-&nbsp; | Nov 11 | **Cadenas de Markov:** Comportamiento asintótico (1.6)
-4      | Nov 16 | **Cadenas de Markov:** Distribución y tiempos de salida (1.8, 1.9)
+&nbsp; | Nov 04 | **Cadenas de Markov:** Clasificación de estados (1.3) 
+3      | Nov 09 | **Cadenas de Markov:** Clasificación de estados, continuación (1.3)
+&nbsp; | Nov 11 | **Cadenas de Markov:** Distribución estacionaria (1.4)
+4      | Nov 16 | **Cadenas de Markov:** Reversibilidad <br> Algoritmo Metropolis-Hastings (1.5)
 &nbsp; | Nov 18 | <font color="blue">Sesión preguntas</font>  
 5      | Nov 23 | <font color="blue">Examen I</font> 
-&nbsp; | Nov 25 | **Proceso de Poisson**: Definición (2.2)
-6      | Nov 30 | **Proceso de Poisson**: Compuesto (2.3)
-&nbsp; | Dic 02 | **Proceso de Poisson**:
+&nbsp; | Nov 25 | **Cadenas de Markov:** Comportamiento asintótico (1.6) <br> Distribución y tiempos de salida (1.8, 1.9)
+6      | Nov 30 | **Proceso de Poisson**: Definición (2.2)
+&nbsp; | Dic 02 | **Proceso de Poisson**: Compuesto (2.3)
 7      | Dic 07 | <font color="blue">Exposiciones</font> 
 &nbsp; | Dic 09 | <font color="blue">Exposiciones, continuación I</font> 
 8      | Dic 14 | <font color="blue">Sesión preguntas</font>  
