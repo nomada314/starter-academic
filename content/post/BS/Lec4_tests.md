@@ -39,6 +39,19 @@ The alternate hypothesis describes what you will conclude if you reject the null
 
 > A recent article indicated the mean age of U.S. commercial aircraft is 15 years. To conduct a statistical test regarding this statement, the first step is to determine the null and the alternate hypotheses. The null hypothesis represents the current or reported condition. It is written $H_0: \mu = 15$. The alternate hypothesis is that the statement is not true, that is, $H_1: \mu\neq 15$. It is important to remember that no matter how the problem is stated, the null hypothesis will always contain the equal sign. The equal sign (=) will never appear in the alternate hypothesis. Why? Because the null hypothesis is the statement being tested, and we need a specific value to include in our calculations. We turn to the alternate hypothesis only if the data suggest the null hypothesis is untrue.
 
+### **Step 2**: Select a Level of Significance
+
+**LEVEL OF SIGNIFICANCE $\alpha$** The probability of rejecting the null hypothesis when it is true.
+
+There is no one level of significance that is applied to all tests. A decision is made to use the .05 level (often stated as the 5% level), the .01 level, the .10 level, or any other level between 0 and 1. Traditionally, the .05 level is selected for consumer research projects, .01 for quality assurance, and .10 for political polling.
+
+
+> Suppose a firm manufacturing personal computers uses a large number of printed circuit boards. Suppliers bid on the boards, and the one with the lowest bid is awarded a sizable contract. Suppose the contract specifies that the computer manufacturer’s quality-assurance department will randomly sample all incoming shipments of circuit boards. If more than 6% of the boards sampled are substandard, the shipment will be rejected. The null hypothesis is that the incoming shipment of boards meets the quality standards of the contract and contains 6% or less defective boards. The alternate hypothesis is that more than 6% of the boards are defective. A shipment of 4,000 circuit boards was received from Allied Electronics, and the quality assurance department selected a random sample of 50 circuit boards for testing. Of the 50 circuit boards sampled, 4 boards, or 8%, were substandard. The shipment was rejected because it exceeded the maximum of 6% substandard printed circuit boards. If the shipment was actually substandard, then the decision to return the boards to the supplier was correct.
+> However, because of sampling error, there is a small probability of an incorrect decision. Suppose there were only 40, or 4%, defective boards in the shipment (well under the 6% threshold) and 4 of these 40 were randomly selected in the sample of 50. The sample evidence indicates that the percentage of defective boards is 8% (4 out of 50 is 8%) so we reject the shipment. But, in fact, of the 4,000 boards, there are only 40 defective units. The true defect rate is 1.00%. In this instance our sample evidence estimates 8% defective but there is only 1% defective in the population. Based on the sample evi- dence, an incorrect decision was made. In terms of hypothesis testing, we rejected the null hypothesis when we should have failed to reject the null hypothesis. By rejecting a true null hypothesis, we committed a Type I error. The probability of committing a Type I error is represented by $\alpha$.
+
+
+
+
 
 
 
