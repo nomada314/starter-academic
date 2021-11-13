@@ -51,7 +51,34 @@ There is no one level of significance that is applied to all tests. A decision i
 
 
 
+**TYPE I ERROR** Rejecting the null hypothesis, $H_0$, when it is true.
 
+**TYPE II ERROR** Not rejecting the null hypothesis when it is false.
+
+
+### **Step 3**: Select the Test Statistic
+
+**TEST STATISTIC** A value, determined from sample information, used to determine whether to reject the null hypothesis.
+
+
+### **Step 4**: Formulate the Decision Rule
+
+
+A decision rule is a statement of the specific conditions under which the null hypothesis is rejected and the conditions under which it is not rejected. The region or area of rejection defines the location of all those values that are so large or so small that the probability of their occurrence under a true null hypothesis is rather remote.
+
+**CRITICAL VALUE** The dividing point between the region where the null hypothesis is rejected and the region where it is not rejected.
+
+### **Step 5**: Make a Decision
+
+The fifth step in hypothesis testing is to compute the value of the test statistic, compare its value to the critical value, and make a decision to reject or not to reject the null hypothesis. 
+
+
+### **Step 6**: Interpret the Result
+
+The final step in the hypothesis testing procedure is to interpret the results. The process does not end with the value of a sample statistic or the decision to reject or not reject the null hypothesis. What can we say or report based on the results of the statistical test?
+
+
+##  One-tailed and two-tailed hypothesis tests
 
 
 
