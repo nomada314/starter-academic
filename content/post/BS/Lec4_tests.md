@@ -9,7 +9,7 @@ Material taken from **Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Stati
 
 Hypothesis testing starts with a statement, or assumption, about a population parameter—such as the population mean. This statement is referred to as a hypothesis.
 
-A hypothesis might be that the mean monthly commission of sales associates in retail electronics stores, such as hhgregg, is USD 2,000. We cannot contact all hhgregg sales associates to determine that the mean is USD 2,000. The cost of locating and inter- viewing every hhgregg electronics sales associate in the United States would be exorbitant. To test the validity of the hypothesis ($\mu$ = USD 2,000), we must select a sample from the population of all hhgregg electronics sales associates, calculate sample statistics, and based on certain decision rules reject or fail to reject the hypothesis. A sample mean of USD 1,000 per month is much less than USD 2,000 per month and we would most likely reject the hypothesis. However, suppose the sample mean is USD 1,995. Can we attribute the $5 difference between USD 1,995 and USD 2,000 to sampling error? Or is this difference of $5 statistically significant?
+A hypothesis might be that the mean monthly commission of sales associates in retail electronics stores, such as hhgregg, is USD 2,000. We cannot contact all hhgregg sales associates to determine that the mean is USD 2,000. The cost of locating and inter- viewing every hhgregg electronics sales associate in the United States would be exorbitant. To test the validity of the hypothesis ($\mu$ = USD 2,000), we must select a sample from the population of all hhgregg electronics sales associates, calculate sample statistics, and based on certain decision rules reject or fail to reject the hypothesis. A sample mean of USD 1,000 per month is much less than USD 2,000 per month and we would most likely reject the hypothesis. However, suppose the sample mean is USD 1,995. Can we attribute the USD 5 difference between USD 1,995 and USD 2,000 to sampling error? Or is this difference of USD 5 statistically significant?
 
 **HYPOTHESIS TESTING** A procedure based on sample evidence and probability theory to determine whether the hypothesis is a reasonable statement.
 
@@ -81,4 +81,40 @@ The final step in the hypothesis testing procedure is to interpret the results. 
 ##  One-tailed and two-tailed hypothesis tests
 
 
+> Suppose that the packaging department at General Foods Corporation is concerned that some boxes of Grape Nuts are significantly overweight. The cereal is packaged in 453-gram boxes, so the null hypothesis is $H_0: \mu \leq 453$. This is read, “the population mean ($\mu$) is equal to or less than 453.” The alternate hypothesis is, therefore, $H_1: \mu > 453$. This is read, “$\mu$ is greater than 453.”
+
+
+> consider the problem of automobile manufacturers, large automobile leasing companies, and other organizations that purchase large quantities of tires. They want the tires to average, say, 60,000 miles of wear under normal usage. They will, therefore, reject a shipment of tires if tests reveal that the mean life of the tires is significantly below 60,000 miles. They gladly accept a shipment if the mean life is greater than 60,000 miles! They are not concerned with this possibility, however. They are concerned only if they have sample evidence to conclude that the tires will average less than 60,000 miles of useful life. Thus, the test is set up to satisfy the concern of the automobile manufacturers that the mean life of the tires is not less than 60,000 miles. This statement appears in the null hypothesis. The null and alternate hypotheses in this case are written $H_0: \mu \geq 60,000$ and $H_1: \mu <60,000$.
+
+
+##  Hypothesis testing for a population mean
+
+$$t = \frac{\overline{X} - \mu }{s/sqrt{n} }$$
+
+> The McFarland Insurance Company Claims Department reports the mean cost to process a claim is $60. An industry comparison showed this amount to be larger than most other insurance companies, so the company instituted cost-cutting measures. To evaluate the effect of the cost-cutting measures, the supervisor of the Claims Department selected a random sample of 26 claims processed last month and recorded the cost to process each claim. The sample information is reported below.
+>  45 49 62 40 43 61 48 53 67 63 78 64 48 54 51 56 63 69 58 51 58 59 56 57 38 76
+> At the .01 significance level, is it reasonable to conclude that the mean cost to process a claim is now less than USD 60?
+
+
+
+> The Myrtle Beach International Airport provides a cell phone parking lot where people can wait for a message to pick up arriving passengers. To decide if the cell phone lot has enough parking places, the manager of airport parking needs to know if the mean time in the lot is more than 15 minutes. A sample of 12 recent customers showed they were in the lot the following lengths of time, in minutes.
+>30 24 28 22 14 2 39 23 23 28 12 31
+>At the .05 significance level, is it reasonable to conclude that the mean time in the lot is more than 15 minutes?
+
+
+**$p$-VALUE** The probability of observing a sample value as extreme as, or more extreme than, the value observed, given that the null hypothesis is true.
+
+## Type II Error
+
+
+In a hypothesis-testing situation there is also the possibility that a null hypothesis is not rejected when it is actually false. This is called a Type II error.
+
+> Western Wire Products purchases steel bars to make cotter pins. Past experience indicates that the mean tensile strength of all incoming shipments is 10,000 psi and that the standard deviation, σ, is 400 psi. To monitor the quality of the cotter pins, samples of 100 pins are randomly selected and tested for their strength. In our hypothesis testing procedure the hypotheses are:
+
+$$H_0: \mu = 10,000 $$
+$$H_1: \mu \neq 10,000 $$
+
+> To determine if a shipment of steel bars meets the quality standard, Western Wire Products set up a rule for the quality-control inspector to follow: “Take a sample of 100 steel bars. Test each of the bars for tensile strength. Using a .05 significance level, accept the shipment if the sample mean ($\overline{x}$) strength falls between 9,922 psi and 10,078 psi.” These values are the critical values for the hypothesis test. If the sample mean is more than 10,078 or less than 9,922, the hypothesis is rejected and we conclude that the shipment does not meet the quality standard.
+
+> Suppose that the result of testing 100 bars results in a sample mean of 9,900 psi. From the quality standards we know that 9,922 psi is used to reject the null hypothesis. Any sample mean greater than 9,922 and less than 10,078 is accepted. If the distribution is really centered on 9,900 psi, it is possible to find sample means more than 9,922, and we would fail to reject the null hypothesis, $\mu$ = 10,000.
 
