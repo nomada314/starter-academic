@@ -36,14 +36,14 @@ Semana | Fecha | Tema
 3      | Nov 09 | **Cadenas de Markov:** Clasificación de estados, continuación (1.3)
 &nbsp; | Nov 11 | **Cadenas de Markov:** Distribución estacionaria (1.4)
 4      | Nov 16 | **Cadenas de Markov:** Reversibilidad <br> Algoritmo Metropolis-Hastings (1.5)
-&nbsp; | Nov 18 | <font color="blue">Sesión preguntas</font>  
-5      | Nov 23 | <font color="blue">Examen I</font> 
-&nbsp; | Nov 25 | **Cadenas de Markov:** Comportamiento asintótico (1.6) <br> Distribución y tiempos de salida (1.8, 1.9)
-6      | Nov 30 | **Proceso de Poisson**: Definición (2.2)
-&nbsp; | Dic 02 | **Proceso de Poisson**: Compuesto (2.3)
-7      | Dic 07 | <font color="blue">Exposiciones</font> 
-&nbsp; | Dic 09 | <font color="blue">Exposiciones, continuación I</font> 
-8      | Dic 14 | <font color="blue">Sesión preguntas</font>  
+&nbsp; | Nov 18 | **Cadenas de Markov:** Comportamiento asintótico (1.6) 
+5      | Nov 23 | <font color="blue">Sesión preguntas</font> 
+&nbsp; | Nov 25 | <font color="blue">Examen I</font> 
+6      | Nov 30 | Distribución y tiempos de salida (1.8, 1.9) 
+&nbsp; | Dic 02 | **Proceso de Poisson**: Definición (2.2)
+7      | Dic 07 | **Proceso de Poisson**: Compuesto (2.3)
+&nbsp; | Dic 09 | <font color="blue">Exposiciones</font> 
+8      | Dic 14 | <font color="blue">Exposiciones, continuación I</font> 
 &nbsp; | Dic 16  | <font color="blue">Examen II</font> 
 9      | &nbsp; |  &nbsp;
 &nbsp; | Feb 03 | &nbsp;
