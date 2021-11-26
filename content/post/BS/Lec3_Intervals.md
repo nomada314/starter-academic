@@ -159,7 +159,7 @@ $$\text{FPC}= \sqrt{\frac{N-n}{n-1}}$$
 
 So if we wished to develop a confidence interval for the mean from a finite population and the population standard deviation was unknown, we would use
 
-$$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}\sqrt{\frac{N-n}{n-1}}.$$
+$$ \overline{X} \pm t_{df}\frac{s}{\sqrt{n}}\sqrt{\frac{N-n}{N-1}}.$$
 
 
 > There are 250 families residing in Scandia, Pennsylvania. A random sample of 40 of these families revealed the mean annual church contribution was \$450 and the standard deviation of this was USD 75.
