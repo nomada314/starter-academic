@@ -41,16 +41,16 @@ Semana | Fecha | Tema
 3      | Nov 09 | Población y muestra aleatoria (2.1)
 &nbsp; | Nov 11 | Estimadores de muestreo (2.2)
 4      | Nov 16 | Estimadores de muestreo,continuación (2.2)
-&nbsp; | Nov 18 | &nbsp;
+&nbsp; | Nov 18 | Estimadores de muestreo,continuación (2.2)
 5      | Nov 23 | <font color="blue">Sesión preguntas</font>
 &nbsp; | Nov 25 | <font color="blue">Examen I</font>
-6      | Nov 30 |  &nbsp;
-&nbsp; | Dic 02  | &nbsp;
-7      | Dic 07 |  &nbsp;
+6      | Nov 30 | Muestreo aleatorio simple sin reemplazo (3.1) <br> Disenño de muestreo Bernoulli (3.2)
+&nbsp; | Dic 02 | Muestreo aleatorio simple con reemplazo (3.3) <br> Diseño de muestreo sistemático (3.4)
+7      | Dic 07 | Presentaciones
 &nbsp; | Dic 09 | Presentaciones
-8      | Dic 14 |  Presentaciones
-&nbsp; | Dic 16  | <font color="blue">Sesión preguntas</font>
-9      | &nbsp; |  <font color="blue">Examen II</font>
+8      | Dic 14 | <font color="blue">Sesión preguntas</font>
+&nbsp; | Dic 16 | <font color="blue">Examen II</font>
+9      | &nbsp; |  
 &nbsp; | Feb 03 | &nbsp;
 10     | Feb 08 | &nbsp;
 &nbsp; | Feb 10 | &nbsp;
