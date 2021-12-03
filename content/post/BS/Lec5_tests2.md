@@ -126,7 +126,7 @@ Welles (minutes)| Atkins (minutes)
 9|5 
 3|8 
 2|4
-|3
+-|3
 
 
 $$
@@ -150,6 +150,9 @@ t = (mean(W) - mean(A))/sqrt(s2p*(1/n1+1/n2))
 qt(c(.05,.95),n1+n2-2)
 # p-valor
 2*pt(t, n1+n2-2)
+# t.test function
+
+t.test(A,W,var.equal = T)
 ```
 
 
@@ -162,4 +165,8 @@ If it is not reasonable to assume the population standard deviations are equal, 
 The formula for the $t$ statistic is:
 
 $$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{ \frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}\right)}} $$
+
+The degrees of freedom statistic is found by:
+
+$$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $$
 
