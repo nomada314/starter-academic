@@ -67,10 +67,12 @@ Fast Lane | 100 |  5.30 minutes | 0.30 minute
 $$\begin{aligned}
 H_0 &: \mu_s \leq \mu_f\\
 H_1 &: \mu_s > \mu_f
-\end{aligned
+\end{aligned}
 $$
 
 Take $\alpha = 0.01$
+
+
 ```{r}
 z = (5.5-5.3)/sqrt(.4^2/50 + .3^2/100)
 # Punto crítico
@@ -82,6 +84,20 @@ qnorm(.99)
 ## Comparing population means with unknown population standard deviation
 
 In the previous section, we used the standard normal distribution and z as the test statistic to test a hypothesis that two population means from independent populations were equal. The hypothesis tests presumed that the populations were normally distributed and that we knew the population standard deviations. However, in most cases, we do not know the population standard deviations. We can overcome this problem, as we did in the one-sample case in the previous chapter, by substituting the sample standard deviation ($s$) for the population standard deviation ($\sigma$)
+
+
+### Two-Sample Pooled Test
+
+In this section, we describe another method for comparing the sample means of two independent populations to determine if the sampled populations could reasonably have the same mean. The method described does not require that we know the standard deviations of the populations. This gives us a great deal more flexibility when investigating the difference in sample means. There are two major differences in this test and the previous test described in this chapter.
+
+1. We assume the sampled populations have equal but unknown standard deviations. Because of this assumption, we combine or “pool” the sample standard deviations.
+2. We use the $t$ distribution as the test statistic.
+
+
+The following formula is used to pool the sample standard deviations. Notice that two factors are involved: the number of observations in each sample and the sample standard deviations themselves.
+
+
+$$S^2_p = \frac{(n_1-1)S^2_1 +(n_2-1)S^2_2}{n_1+n_2-2}$$
 
 
 
