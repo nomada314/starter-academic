@@ -78,13 +78,13 @@ Semana | Fecha | Tema
 &nbsp; | Nov 19 | Prueba de hipótesis para la media (L10-4)
 5      | Nov 24 | <font color="blue">Sesión preguntas</font>
 &nbsp; | Nov 26 | <font color="blue">Examen I</font>
-6      | Dec 01 |  &nbsp;
-&nbsp; | Dic 03 | &nbsp;
-7      | Dic 08 |  &nbsp;
-&nbsp; | Dic 10 | &nbsp;
-8      | Dic 15 |  &nbsp;
-&nbsp; | Dic 17 | &nbsp;
-9      | Dic 22 |  &nbsp;
+6      | Dec 01 | <font color="red">Permiso académico</font>
+&nbsp; | Dic 03 | Prueba de hipótesis para la media, continuación (L10-4) <br> Prueba de hipótesis para dos muestras (L11-1, L11-2)
+7      | Dic 08 |  <font color="red">Festivo</font>
+&nbsp; | Dic 10 | Análisis de varianza (L12-1, L12-2)
+8      | Dic 15 | Análisis de varianza, continuación (L12-3)
+&nbsp; | Dic 17 | <font color="blue">Examen II</font>
+9      | Dic 22 | Análisis de varianza, continuación (L12-4)
 &nbsp; | &nbsp; | &nbsp;
 10     | Feb 02 |  &nbsp;
 &nbsp; | Feb 04 | &nbsp;
