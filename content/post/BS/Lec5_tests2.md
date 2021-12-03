@@ -64,7 +64,8 @@ Standard | 50 | 5.50 minutes | 0.40 minute
 Fast Lane | 100 |  5.30 minutes | 0.30 minute
 
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 H_0 &: \mu_s \leq \mu_f\\
 H_1 &: \mu_s > \mu_f
 \end{aligned}
@@ -105,7 +106,7 @@ where:
 
 The value of $t$ is computed from the following equation.
 
-$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\sigma^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
+$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\S^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
 
 There are three requirements or assumptions for the test.
 
@@ -126,3 +127,29 @@ Welles (minutes)| Atkins (minutes)
 3|8 
 2|4
 |3
+
+
+$$
+\begin{aligned}
+H_0 &: \mu_W = \mu_A\\
+H_1 &: \mu_ W \neq \mu_A
+\end{aligned}
+$$
+
+Take $\alpha = 0.01$
+
+
+```{r}
+A = c(3,7,5,8,4,3)
+W = c(2,4,9,3,2)
+n1 = length(A)
+n2 = length(W)
+s2p =  ((n1 - 1)*var(A) + (n2 - 1)*var(W))/(n1+n2-2)
+t = (mean(W) - mean(A))/sqrt(s2p*(1/n1+1/n2))
+# Puntos críticos
+qt(c(.05,.95),n1+n2-2)
+# p-valor
+2*pt(t, n1+n2-2)
+```
+
+
