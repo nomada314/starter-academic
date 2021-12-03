@@ -64,12 +64,10 @@ Standard | 50 | 5.50 minutes | 0.40 minute
 Fast Lane | 100 |  5.30 minutes | 0.30 minute
 
 
-$$
 \begin{aligned}
 H_0 &: \mu_s \leq \mu_f\\
 H_1 &: \mu_s > \mu_f
 \end{aligned}
-$$
 
 Take $\alpha = 0.01$
 
@@ -128,13 +126,11 @@ Welles (minutes)| Atkins (minutes)
 2|4
 -|3
 
-
-$$
 \begin{aligned}
 H_0 &: \mu_W = \mu_A\\
 H_1 &: \mu_ W \neq \mu_A
 \end{aligned}
-$$
+
 
 Take $\alpha = 0.01$
 
@@ -169,4 +165,21 @@ $$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{ \fra
 The degrees of freedom statistic is found by:
 
 $$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $$
+
+
+> Personnel in a consumer testing laboratory are evaluating the absorbency of paper towels. They wish to compare a set of store brand towels to a similar group of name brand ones. For each brand they dip a ply of the paper into a tub of fluid, allow the paper to drain back into the vat for 2 minutes, and then evaluate the amount of liquid the paper has taken up from the vat. A random sample of nine store brand paper towels absorbed the following amounts of liquid in milliliters.
+
+8 8 3 1 9 7 5 5 12
+
+An independent random sample of 12 name brand towels absorbed the following amounts of liquid in milliliters:
+
+12 11 10 6 8 9 9 10 11 9 8 10
+
+Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
+
+```{r}
+s = c(8, 8, 3, 1, 9, 7, 5, 5, 12)
+b = c(12, 11, 10, 6, 8, 9, 9, 10, 11, 9, 8, 10)
+t.test(s,b)
+```
 
