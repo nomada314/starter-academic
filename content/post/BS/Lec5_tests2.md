@@ -63,11 +63,12 @@ Customer Type | Sample Size | Sample Mean | Population Standard Deviation
 Standard | 50 | 5.50 minutes | 0.40 minute
 Fast Lane | 100 |  5.30 minutes | 0.30 minute
 
-
-\begin{aligned}
-H_0 &: \mu_s \leq \mu_f\\
-H_1 &: \mu_s > \mu_f
-\end{aligned}
+$$
+\begin{array}{ll}
+H_0: & \mu_s \leq \mu_f\\
+H_1: & \mu_s > \mu_f
+\end{array}
+$$
 
 Take $\alpha = 0.01$
 
@@ -126,11 +127,12 @@ Welles (minutes)| Atkins (minutes)
 2|4
 -|3
 
-\begin{aligned}
-H_0 &: \mu_W = \mu_A\\
-H_1 &: \mu_ W \neq \mu_A
+$$
+\begin{array}{ll}
+H_0:& \mu_W = \mu_A\\
+H_1:& \mu_ W \neq \mu_A
 \end{aligned}
-
+$$
 
 Take $\alpha = 0.01$
 
@@ -160,7 +162,7 @@ If it is not reasonable to assume the population standard deviations are equal, 
 
 The formula for the $t$ statistic is:
 
-$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{ \frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}\right)}} $$
+$$t = \frac{\overline{x}_1-\overline{x}_2}{\sqrt{ \frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}\right)}} $$
 
 The degrees of freedom statistic is found by:
 
