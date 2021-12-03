@@ -45,8 +45,8 @@ Semana | Fecha | Tema
 &nbsp; | Dic 09 | <font color="blue">Exposiciones</font> 
 8      | Dic 14 | <font color="blue">Exposiciones, continuación I</font> 
 &nbsp; | Dic 16  | <font color="blue">Examen II</font> 
-9      | &nbsp; |  &nbsp;
-&nbsp; | Feb 03 | &nbsp;
+9      | Dic 21 | &nbsp;
+&nbsp; | Dic 23 | &nbsp;
 10     | Feb 08 | &nbsp;
 &nbsp; | Feb 10 | &nbsp;
 11     | Feb 15 |  &nbsp;
