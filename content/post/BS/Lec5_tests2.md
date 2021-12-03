@@ -12,7 +12,7 @@ Let’s assume some information that is not usually available. Suppose that the 
 
 Suppose we select a random sample of 40 plumbers and a random sample of 35 electricians and compute the mean of each sample. Then, we determine the difference between the sample means. It is this difference between the sample means that holds our interest. If the populations have the same mean, then we would expect the differ- ence between the two sample means to be zero. If there is a difference between the population means, then we expect to find a difference between the sample means.
 
-The following table shows the result of selecting 20 different samples of 40 plumbers and 35 electricians, computing the mean of each sample, and finding the difference between the two sample means. In the first case, the sample of 40 plumbers has a mean of $29.80, and for the 35 electricians the mean is $28.76. The difference between the sample means is $1.04. This process was repeated 19 more times. Observe that in 17 of the 20 cases, the differences are positive because the mean of the plumb- ers is larger than the mean of the electricians. In two cases, the differences are negative because the mean of the electricians is larger than the mean of the plumbers. In one case, the means are equal.
+The following table shows the result of selecting 20 different samples of 40 plumbers and 35 electricians, computing the mean of each sample, and finding the difference between the two sample means. In the first case, the sample of 40 plumbers has a mean of USD 29.80, and for the 35 electricians the mean is USD 28.76. The difference between the sample means is USD 1.04. This process was repeated 19 more times. Observe that in 17 of the 20 cases, the differences are positive because the mean of the plumbers is larger than the mean of the electricians. In two cases, the differences are negative because the mean of the electricians is larger than the mean of the plumbers. In one case, the means are equal.
 
 
 |  Sample |  Plumbeers    | Electricians     |   Difference   |
@@ -47,4 +47,41 @@ $$\sigma^2_{\overline{x}_1-\overline{x}_2} = \frac{\sigma^2_1}{n_1} + \frac{\sig
 We can put this equation in a more usable form by taking the square root, so that we have the standard deviation or “standard error” of the distribution of differences. Finally, we standardize the distribution of the differences. The result is the following equation.
 
 $$z = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\frac{\sigma^2_1}{n_1} + \frac{\sigma^2_2}{n_2}}} $$
+
+The assumptions necessary for using this formula are:
++ The two populations follow normal distributions.
++ The two samples are unrelated, that is, independent.
++ The standard deviations for both populations are known.
+
+
+> Customers at the FoodTown Supermarket have a choice when paying for their groceries. They may check out and pay using the standard cashier-assisted checkout, or they may use the new Fast Lane procedure. In the standard procedure, a FoodTown employee scans each item and puts it on a short conveyor, where another employee puts it in a bag and then into the grocery cart. In the Fast Lane procedure, the customer scans each item, bags it, and places the bags in the cart him- or her- self. The Fast Lane procedure is designed to reduce the time a customer spends in the checkout line.
+> The Fast Lane facility was recently installed at the Byrne Road FoodTown location. The store manager would like to know if the mean checkout time using the standard checkout method is longer than using the Fast Lane. She gathered the following sample information. The time is measured from when the customer enters the line until all his or her bags are in the cart. Hence the time includes both waiting in line and checking out. What is the $p$-value?
+
+
+Customer Type | Sample Size | Sample Mean | Population Standard Deviation
+----|----|----|----
+Standard | 50 | 5.50 minutes | 0.40 minute
+Fast Lane | 100 |  5.30 minutes | 0.30 minute
+
+
+$$\begin{aligned}
+H_0 &: \mu_s \leq \mu_f\\
+H_1 &: \mu_s > \mu_f
+\end{aligned
+$$
+
+Take $\alpha = 0.01$
+```{r}
+z = (5.5-5.3)/sqrt(.4^2/50 + .3^2/100)
+# Punto crítico
+qnorm(.99)
+# p-valor
+1 - pnorm(z)
+```
+
+## Comparing population means with unknown population standard deviation
+
+In the previous section, we used the standard normal distribution and z as the test statistic to test a hypothesis that two population means from independent populations were equal. The hypothesis tests presumed that the populations were normally distributed and that we knew the population standard deviations. However, in most cases, we do not know the population standard deviations. We can overcome this problem, as we did in the one-sample case in the previous chapter, by substituting the sample standard deviation ($s$) for the population standard deviation ($\sigma$)
+
+
 
