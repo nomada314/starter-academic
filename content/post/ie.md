@@ -79,7 +79,7 @@ Semana | Fecha | Tema
 5      | Nov 24 | <font color="blue">Sesión preguntas</font>
 &nbsp; | Nov 26 | <font color="blue">Examen I</font>
 6      | Dec 01 | <font color="red">Permiso académico</font>
-&nbsp; | Dic 03 | Prueba de hipótesis para la media, continuación (L10-4) <br> Prueba de hipótesis para dos muestras (L11-1, L11-2)
+&nbsp; | Dic 03 | Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2)
 7      | Dic 08 |  <font color="red">Festivo</font>
 &nbsp; | Dic 10 | Análisis de varianza (L12-1, L12-2)
 8      | Dic 15 | Análisis de varianza, continuación (L12-3)
