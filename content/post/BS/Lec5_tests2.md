@@ -177,6 +177,12 @@ An independent random sample of 12 name brand towels absorbed the following amou
 
 Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
 
+\begin{aligned}
+H_0 &: \mu_S = \mu_B\\
+H_1 &: \mu_ S \neq \mu_B
+\end{aligned}
+
+
 ```{r}
 s = c(8, 8, 3, 1, 9, 7, 5, 5, 12)
 b = c(12, 11, 10, 6, 8, 9, 9, 10, 11, 9, 8, 10)
