@@ -12,7 +12,7 @@ Let’s assume some information that is not usually available. Suppose that the 
 
 Suppose we select a random sample of 40 plumbers and a random sample of 35 electricians and compute the mean of each sample. Then, we determine the difference between the sample means. It is this difference between the sample means that holds our interest. If the populations have the same mean, then we would expect the differ- ence between the two sample means to be zero. If there is a difference between the population means, then we expect to find a difference between the sample means.
 
-The following table shows the result of selecting 20 different samples of 40 plumbers and 35 electricians, computing the mean of each sample, and finding the difference:
+The following table shows the result of selecting 20 different samples of 40 plumbers and 35 electricians, computing the mean of each sample, and finding the difference between the two sample means. In the first case, the sample of 40 plumbers has a mean of $29.80, and for the 35 electricians the mean is $28.76. The difference between the sample means is $1.04. This process was repeated 19 more times. Observe that in 17 of the 20 cases, the differences are positive because the mean of the plumb- ers is larger than the mean of the electricians. In two cases, the differences are negative because the mean of the electricians is larger than the mean of the plumbers. In one case, the means are equal.
 
 
 |  Sample |  Plumbeers    | Electricians     |   Difference   |
@@ -37,3 +37,12 @@ The following table shows the result of selecting 20 different samples of 40 plu
 | 18| 29.14| 29.95| -0.81|
 | 19| 29.91| 28.75|  1.16|
 | 20| 28.74| 29.21| -0.47|
+
+
+Statistical theory shows that when we have independent populations, as in this case, the distribution of the differences has a variance (standard deviation squared) equal to the sum of the two individual variances. This means that we can add the variances of the two sampling distributions.
+
+$$\sigma^2_{\overline{x}_1-\overline{x}_2} = \frac{\sigma^2_1}{n_1} + \frac{\sigma^2_2}{n_2}$$
+
+
+
+
