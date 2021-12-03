@@ -1,6 +1,6 @@
 +++
 title = "Herramientas para el análisis estadístico de datos biológicos en R (Bajo revisión)"
-date = "2021-12-30"
+date = "2021-12-03"
 authors = ["López A.", "Rojas-Peña, M. L.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
@@ -15,9 +15,10 @@ draft = true
 image = "F416.png"
 caption = "Figura 4.16"
 +++
-
+<!--
 <center><img src="https://alexrojas.netlify.app/media/ProgCaratula.png" width="250">
 </center>
+-->
 
 ### Datos
 
