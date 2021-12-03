@@ -106,3 +106,23 @@ where:
 The value of $t$ is computed from the following equation.
 
 $$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\sigma^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
+
+There are three requirements or assumptions for the test.
+
+1. The sampled populations are approximately normally distributed.
+2. The sampled populations are independent.
+3. The standard deviations of the two populations are equal.
+
+
+> Owens Lawn Care Inc. manufactures and assembles lawnmowers that are shipped to dealers throughout the United States and Canada. Two different procedures have been proposed for mounting the engine on the frame of the lawnmower. The question is: Is there a difference in the mean time to mount the engines on the frames of the lawnmowers? The first procedure was developed by longtime Owens employee Herb Welles (designated as procedure W), and the other procedure was developed by Owens Vice President of Engineering William Atkins (designated as procedure A). To evaluate the two methods, we conduct a time and motion study. A sample of five employees is timed using the Welles method and six using the Atkins method. The results, in minutes, are shown below. Is there a difference in the mean mounting times? Use the .10 significance level.
+
+
+
+Welles (minutes)| Atkins (minutes)
+----|----
+2|3 
+4|7 
+9|5 
+3|8 
+2|4
+|3
