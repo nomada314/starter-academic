@@ -89,7 +89,7 @@ The final step in the hypothesis testing procedure is to interpret the results. 
 
 ##  Hypothesis testing for a population mean
 
-$$t = \frac{\overline{X} - \mu }{s/sqrt{n} }$$
+$$t = \frac{\overline{X} - \mu }{s/\sqrt{n} }$$
 
 > The McFarland Insurance Company Claims Department reports the mean cost to process a claim is $60. An industry comparison showed this amount to be larger than most other insurance companies, so the company instituted cost-cutting measures. To evaluate the effect of the cost-cutting measures, the supervisor of the Claims Department selected a random sample of 26 claims processed last month and recorded the cost to process each claim. The sample information is reported below.
 >  45 49 62 40 43 61 48 53 67 63 78 64 48 54 51 56 63 69 58 51 58 59 56 57 38 76
