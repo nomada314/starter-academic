@@ -44,5 +44,7 @@ Statistical theory shows that when we have independent populations, as in this c
 $$\sigma^2_{\overline{x}_1-\overline{x}_2} = \frac{\sigma^2_1}{n_1} + \frac{\sigma^2_2}{n_2}$$
 
 
+We can put this equation in a more usable form by taking the square root, so that we have the standard deviation or “standard error” of the distribution of differences. Finally, we standardize the distribution of the differences. The result is the following equation.
 
+$$z = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\frac{\sigma^2_1}{n_1} + \frac{\sigma^2_2}{n_2}}} $$
 
