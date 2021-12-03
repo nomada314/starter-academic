@@ -173,11 +173,11 @@ $$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $
 
 8 8 3 1 9 7 5 5 12
 
-An independent random sample of 12 name brand towels absorbed the following amounts of liquid in milliliters:
+> An independent random sample of 12 name brand towels absorbed the following amounts of liquid in milliliters:
 
 12 11 10 6 8 9 9 10 11 9 8 10
 
-Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
+> Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
 
 \begin{aligned}
 H_0 &: \mu_S = \mu_B\\
