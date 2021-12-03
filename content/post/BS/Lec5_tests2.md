@@ -162,7 +162,7 @@ If it is not reasonable to assume the population standard deviations are equal, 
 
 The formula for the $t$ statistic is:
 
-$$t = \frac{\overline{x}_1-\overline{x}_2}{\sqrt{ \frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}\right)}} $$
+$$t = \frac{\overline{x}_1-\overline{x}_2}{\sqrt{\frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}}} $$
 
 The degrees of freedom statistic is found by:
 
