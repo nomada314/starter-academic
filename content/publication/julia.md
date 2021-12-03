@@ -2,7 +2,7 @@
 title = "Julia"
 date = "2021-12-03"
 authors = ["admin"]
-publication_types = ["6"]
+publication_types = ["5"]
 abstract = ""
 image_preview = ""
 math = true
