@@ -99,5 +99,10 @@ The following formula is used to pool the sample standard deviations. Notice tha
 
 $$S^2_p = \frac{(n_1-1)S^2_1 +(n_2-1)S^2_2}{n_1+n_2-2}$$
 
+where:
++ $s^2_1$ is the variance (standard deviation squared) of the first sample. 
++ $s^2_2$ is the variance of the second sample.
 
+The value of $t$ is computed from the following equation.
 
+$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\sigma^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
