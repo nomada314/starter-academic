@@ -66,7 +66,7 @@ Fast Lane | 100 |  5.30 minutes | 0.30 minute
 $$
 \begin{array}{ll}
 H_0: & \mu_s \leq \mu_f\\
-H_1: & \mu_s > \mu_f
+H_1: & \mu_s > \mu_f\\
 \end{array}
 $$
 
@@ -130,8 +130,8 @@ Welles (minutes)| Atkins (minutes)
 $$
 \begin{array}{ll}
 H_0:& \mu_W = \mu_A\\
-H_1:& \mu_ W \neq \mu_A
-\end{aligned}
+H_1:& \mu_ W \neq \mu_A\\
+\end{array}
 $$
 
 Take $\alpha = 0.01$
@@ -179,11 +179,12 @@ $$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $
 
 > Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
 
-\begin{aligned}
+$$
+\begin{array}{ll}
 H_0 &: \mu_S = \mu_B\\
-H_1 &: \mu_ S \neq \mu_B
-\end{aligned}
-
+H_1 &: \mu_ S \neq \mu_B\\
+\end{array}
+$$
 
 ```{r}
 s = c(8, 8, 3, 1, 9, 7, 5, 5, 12)
