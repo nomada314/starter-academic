@@ -181,8 +181,8 @@ $$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $
 
 $$
 \begin{array}{ll}
-H_0 &: \mu_S = \mu_B\\
-H_1 &: \mu_ S \neq \mu_B\\
+H_0: & \mu_S = \mu_B\\
+H_1: & \mu_ S \neq \mu_B\\
 \end{array}
 $$
 
