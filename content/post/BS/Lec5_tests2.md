@@ -63,12 +63,8 @@ Customer Type | Sample Size | Sample Mean | Population Standard Deviation
 Standard | 50 | 5.50 minutes | 0.40 minute
 Fast Lane | 100 |  5.30 minutes | 0.30 minute
 
-$$
-\begin{array}{ll}
-H_0: & \mu_s \leq \mu_f\\
-H_1: & \mu_s > \mu_f\\
-\end{array}
-$$
+$$H_0:  \mu_s \leq \mu_f $$
+$$H_1:  \mu_s > \mu_f$$
 
 Take $\alpha = 0.01$
 
@@ -127,12 +123,8 @@ Welles (minutes)| Atkins (minutes)
 2|4
 -|3
 
-$$
-\begin{array}{ll}
-H_0:& \mu_W = \mu_A\\
-H_1:& \mu_ W \neq \mu_A\\
-\end{array}
-$$
+$$H_0: \mu_W = \mu_A$$
+$$H_1: \mu_ W \neq \mu_A$$
 
 Take $\alpha = 0.01$
 
@@ -179,12 +171,8 @@ $$\frac{ (s^2_1/n_1+s^2_2/n_2)^2}{(s^2_1/n_1)^2/(n_1-1)+(s^2_2/n_2)^2/(n_2-1)} $
 
 > Use the .10 significance level and test if there is a difference in the mean amount of liquid absorbed by the two types of paper towels.
 
-$$
-\begin{array}{ll}
-H_0: & \mu_S = \mu_B\\
-H_1: & \mu_ S \neq \mu_B\\
-\end{array}
-$$
+$$H_0: \mu_S = \mu_B$$
+$$H_1: \mu_ S \neq \mu_B$$
 
 ```{r}
 s = c(8, 8, 3, 1, 9, 7, 5, 5, 12)
