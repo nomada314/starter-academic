@@ -106,7 +106,7 @@ where:
 
 The value of $t$ is computed from the following equation.
 
-$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{\S^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
+$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{S^2_p \left(\frac{1}{n_1} + \frac{1}{n_2}\right)}} $$
 
 There are three requirements or assumptions for the test.
 
@@ -152,4 +152,14 @@ qt(c(.05,.95),n1+n2-2)
 2*pt(t, n1+n2-2)
 ```
 
+
+### Unequal Population Standard Deviations
+
+In the previous sections, it was necessary to assume that the populations had equal standard deviations. To put it another way, we did not know the population standard deviations, but we assumed they were equal. In many cases, this is a reasonable assumption, but what if it is not? In the next chapter, we present a formal method to test the assumption of equal variances. 
+
+If it is not reasonable to assume the population standard deviations are equal, the sample standard deviations, $s_1$ and $s_2$, are used in place of the respective population standard deviations. In addition, the degrees of freedom are adjusted downward by a rather complex approximation formula. The effect is to reduce the number of degrees of freedom in the test, which will require a larger value of the test statistic to reject the null hypothesis.
+
+The formula for the $t$ statistic is:
+
+$$t = \displaystyle\frac{\overline{x}_1-\overline{x}_2}{\displaystyle\sqrt{ \frac{S^2_1}{n_1} + \frac{S^2_2}{n_2}\right)}} $$
 
