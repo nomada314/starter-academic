@@ -13,14 +13,6 @@ image = "JuliaSet.png"
 caption = "Julia set"
 +++
 
-<!--
-<center><img src="https://alexrojas.netlify.app/media/ProgCaratula.png" width="250">
-  
-
-</center>
--->
-
-
 ## Código
 
 * Capítulo 1[.jl](https://alexrojas.netlify.com/code/Julia/JCap1.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap1.ipynb): Introducción 
@@ -33,6 +25,8 @@ caption = "Julia set"
 Figura  | Descripción
 :------ | :------
 ![](https://alexrojas.netlify.com/media/Julia/) | [`panda0.png`](https://alexrojas.netlify.com/media/Julia/): Figura 1.1: Imagen
+0 | 1 
+0 | 1
 
 
 ## Errata
