@@ -84,19 +84,19 @@ Semana | Fecha | Tema
 &nbsp; | Dic 10 | [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)
 8      | Dic 15 | Análisis de varianza, continuación (L12-3)
 &nbsp; | Dic 17 | <font color="blue">Examen II</font>
-9      | Dic 22 | Análisis de varianza, continuación (L12-4)
-&nbsp; | &nbsp; | &nbsp;
-10     | Feb 02 |  &nbsp;
-&nbsp; | Feb 04 | &nbsp;
-11     | Feb 09 | &nbsp;
-&nbsp; | Feb 11 | &nbsp;
-12     | Feb 16 |  &nbsp;
-&nbsp; | Feb 18 | &nbsp;
-13     | Feb 23 |  &nbsp;
-&nbsp; | Feb 25 | &nbsp;
-14     | Mar 02 |  &nbsp;
-&nbsp; | Mar 04 | &nbsp;
-15     | Mar 09 |  &nbsp;
-&nbsp; | Mar 11 | &nbsp;
-16     | Mar 16 |  &nbsp;
-&nbsp; | Mar 18 | &nbsp;
+9     | Feb 02 |  Análisis de varianza, continuación (L12-3)
+&nbsp; | Feb 04 | Análisis de varianza, continuación (L12-4)
+10     | Feb 09 | Análisis de varianza, continuación (L12-5)
+&nbsp; | Feb 11 | Correlación (L13-1, L13-2)
+11     | Feb 16 | Regresión Lineal Simple (L13-3)
+&nbsp; | Feb 18 | Regresión Lineal Simple (L13-4, L13-5)
+12     | Feb 23 | Regresión Lineal Simple (L13-6, L13-7)
+&nbsp; | Feb 25 | <font color="blue">Sesión preguntas</font>
+13     | Mar 02 | <font color="blue">Examen III</font>
+&nbsp; | Mar 04 | Regresión Lineal Múltiple (L14-1, L14-2)
+14     | Mar 09 | Regresión Lineal Múltiple (L14-3)
+&nbsp; | Mar 11 | Regresión Lineal Múltiple (L14-4)
+15     | Mar 16 | Regresión Lineal Múltiple (L14-5, L14-6)
+&nbsp; | Mar 18 | Regresión Lineal Múltiple (L14-7, L14-8)
+16     | Mar 23 | <font color="blue">Sesión preguntas</font>
+&nbsp; | Mar 25 | <font color="blue">Examen IV</font>
