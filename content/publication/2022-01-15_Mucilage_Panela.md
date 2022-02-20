@@ -1,6 +1,6 @@
 +++
 title = "Mucilage and cellulosic derivatives as clarifiers for the improvement of the non-centrifugal sugar production process"
-date = "2021-07-24"
+date = "2022-01-15"
 authors = ["Moreno, L.", "Medina, O.","admin"]
 publication_types = ["2"]
 publication = "Food Chemistry 366, 130657"
