@@ -1,6 +1,6 @@
 +++
-title = "Herramientas para el análisis estadístico de datos biológicos en R (Bajo revisión)"
-date = "2022-02-20"
+title = "Herramientas para el análisis estadístico de datos biológicos en R"
+date = "2022-03-30"
 authors = ["López A.", "Rojas-Peña, M. L.", "admin"]
 publication_types = ["5"]
 publication = "Editorial UPTC"
@@ -9,7 +9,7 @@ image_preview = ""
 math = true
 highlight = true
 tags = ["Biology","Inference","EDA","R"]
-abstract = "La planeación de estudios biológicos y recolección de datos en campo o laboratorio requieren esfuerzo y una gran cantidad de tiempo y dinero. Sin embargo, estos datos por sí solos no generan nuevo conocimiento y es fundamental manejarlos y analizarlos adecuadamente. Por esta razón, es necesario que estudiantes de biología y ciencias naturales tengan conocimientos básicos para ejecutar estas tareas y estén preparados para entender modelos estadísticos comúnmente empleados con datos biológicos. Este libro proporciona una guía para aprender a manejar datos, así como las herramientas de la estadística usadas en la práctica, minimizado los detalles de tópicos que consideramos no son fundamentales para estudiantes de pregrado. También incluimos el uso de simulaciones que nos permita entender y visualizar los resultados presentados, además de permitirle al estudiante mejorar sus habilidades básicas de programación."
+abstract = "Este libro busca ser una guía práctica que sirva a estudiantes de biología y ciencias naturales para aprender a manejar datos y entender los fundamentos de los modelos estadísticos empleados con frecuencia en su quehacer profesional. La decisión del material contenido en este libro la tomamos respondiendo a la pregunta: ¿qué herramientas y conceptos creemos que necesita saber alguien que estudia biología, para poder realizar su trabajo de grado de forma eficiente? Por lo tanto, hemos minimizado los detalles de tópicos que consideramos no son esenciales para estudiantes de pregrado y hemos omitido completamente cualquier demostración matemática. También hemos incluido simulaciones que ayudan a explicar y visualizar los resultados presentados, además de brindarle al estudiante la oportunidad de mejorar sus habilidades básicas de programación. Hemos incorporado una sección relativamente extensa donde ilustramos cómo crear gráficos en R, que son comúnmente usados en revistas científicas, con la calidad necesaria para reproducirlos en sus propios artículos científicos.  Por otro lado, el enfoque tradicional para aprender a tomar decisiones con base en evidencia estadística, parece un laberinto que el estudiante debe navegar con el fin de seleccionar el intervalo de confianza o la prueba de hipótesis correcta. Una vez encontrada la herramienta adecuada para inferir, el estudiante debe utilizar fórmulas, que aunque sencillas, en ocasiones dejan al estudiante sin entender la idea central de la inferencia estadística. Es por eso, que en este libro nos enfocamos en usar métodos de simulación, que en nuestra opinión permiten entender los conceptos básicos de una forma natural, además de evitar tener que preocuparnos por los requerimientos teóricos del enfoque tradicional."
 draft = false
 [header]
 image = ""
