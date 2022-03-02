@@ -94,7 +94,7 @@ Semana | Fecha | Tema
 &nbsp; | Feb 25 | <font color="blue">Sesión preguntas</font>
 13     | Mar 02 | <font color="blue">Examen III</font>
 &nbsp; | Mar 04 | Regresión Lineal Múltiple (L14-1, L14-2)
-14     | Mar 09 | Regresión Lineal Múltiple (L14-3)
+14     | Mar 09 | No hay clase. Capacitación jurado
 &nbsp; | Mar 11 | Regresión Lineal Múltiple (L14-4)
 15     | Mar 16 | Regresión Lineal Múltiple (L14-5, L14-6)
 &nbsp; | Mar 18 | Regresión Lineal Múltiple (L14-7, L14-8)
