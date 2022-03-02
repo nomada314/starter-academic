@@ -51,10 +51,10 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 ## Código
 
-* Capítulo 1[.R](https://alexrojas.netlify.com/code/Bio/Bcap1.py): Introducción 
-* Capítulo 2[.R](https://alexrojas.netlify.com/code/Bio/Bcap2.py) : Análisis Exploratorioo de Datos
-* Capítulo 3[.R](https://alexrojas.netlify.com/code/Bio/Bcap3.py) : Probabilidad
-* Capítulo 4[.R](https://alexrojas.netlify.com/code/Bio/Bcap4.py) : Inferencia
+* [Capítulo 1](https://alexrojas.netlify.com/code/Bio/HAEDBCap1.R): Introducción 
+* [Capítulo 2](https://alexrojas.netlify.com/code/Bio/HAEDBCap2.R) : Análisis Exploratorioo de Datos
+* [Capítulo 3](https://alexrojas.netlify.com/code/Bio/HAEDBCap3.R) : Probabilidad
+* [Capítulo 4](https://alexrojas.netlify.com/code/Bio/HAEDBCap4.R) : Inferencia
 
 ## Errata
 
