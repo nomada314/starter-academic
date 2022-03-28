@@ -1,7 +1,7 @@
 +++
 date      = 2021-06-09
 lastmod   = 2021-10-22
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Muestreo"
 math      = true
