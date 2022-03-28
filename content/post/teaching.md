@@ -1,16 +1,21 @@
 +++
 date      = 2020-09-28
-lastmod   = 2021-10-06
+lastmod   = 2022-03-28
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
 math      = true
 +++
 
+## Primer semestre 2022
+* Electiva I
+* Electiva VI
+* IE
+
 ## Segundo semestre 2021
-* [Muestreo](https://alexrojas.netlify.app/post/Sampling/)
-* [Procesos Estocásticos](https://alexrojas.netlify.app/post/SP/)
-* [Inferencia Estadística](https://alexrojas.netlify.app/post/ie/) para administración de empresas.
+* Muestreo
+* Procesos Estocásticos
+* Inferencia Estadística
 
 
 ## Primer semestre 2021
