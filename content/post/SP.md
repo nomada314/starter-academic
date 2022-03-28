@@ -1,7 +1,7 @@
 +++
 date      = 2021-10-28
 lastmod   = 2021-10-28
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Procesos Estocásticos"
 math      = true
