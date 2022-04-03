@@ -25,7 +25,7 @@ Por cita.
 Semana  | Fecha | Tópico
 --- | --- | ---
 1  | Abr 26 | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual), [spyder](https://www.spyder-ide.org), [nteract](https://nteract.io)
-&nbsp; | Abr 28 | Asignación y variables [LR 1.1]<br> Cálculos básicos [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) [LR 1.2]
+&nbsp; | Abr 28 | Asignación y variables <br> Cálculos básicos [ [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/), LR 1.1-2]
 2  | May 03 | Cálculos simbólicos [LR 1.3]<br> Contenedores básicos [LR 1.4]
 &nbsp; | May 05 | Contenedores básicos (continuación) <br> Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html), [LR 1.5]
 3  | May 10 | Control de flujo [PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/)<br> **Entrega Tarea # 1**
