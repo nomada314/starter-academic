@@ -24,7 +24,7 @@ Por cita.
 
 Semana  | Fecha | Tópico
 --- | --- | ---
-1  | Abr 26 | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual)
+1  | Abr 26 | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual), [spyder](https://www.spyder-ide.org), [nteract](https://nteract.io)
 &nbsp; | Abr 28 | Asignación y variables <br> Cálculos básicos [TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/) 
 2  | Nov 10 | Cálculos simbólicos <br> Contenedores básicos
 &nbsp; | **Nov 12 | Contenedores básicos (continuación) <br> Funciones: [PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html)
