@@ -1,5 +1,8 @@
 +++
-math = true
+date      = 2020-09-28
+lastmod   = 2022-04-03
+draft     = true
+math      = true
 +++
 
 Material taken from **Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education.**
