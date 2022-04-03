@@ -8,8 +8,8 @@ math      = true
 +++
 
 ## Primer semestre 2022
-* [Electiva I](https://alexrojas.netlify.app/publication/prog/)
-* [Electiva VI](https://alexrojas.netlify.app/publication/ad/)
+* [Electiva I](https://alexrojas.netlify.app/post/prog/)
+* [Electiva VI](https://alexrojas.netlify.app/post/ad/)
 * IE
 
 ## Segundo semestre 2021
