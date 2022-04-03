@@ -6,6 +6,7 @@ publication_types = ["5"]
 publication = "Editorial UPTC"
 publication_short = ""
 image_preview = ""
+doi = "10.19053/9789586606462"
 math = true
 highlight = true
 tags = ["Biology","Inference","EDA","R"]
