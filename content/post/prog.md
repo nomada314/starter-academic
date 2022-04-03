@@ -32,6 +32,7 @@ Semana  | Fecha | Tópico
 &nbsp; | May 12 | Control de flujo (continuación)
 4  | May 17 | Ciclos: [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/)<br> **Entrega Taller # 2**
 &nbsp; | May 19 | Ciclos, continuación 
+<!--
 5  | Feb 16 | Eliminación de ciclos
 &nbsp; | Feb 18 | Eliminación de ciclos (continuación) 
 6  | Feb 23 | Presentación de problemas
@@ -59,6 +60,7 @@ Semana  | Fecha | Tópico
 &nbsp; | May 06 | .
 16  | May 11 | **Presentación proyecto**
 &nbsp; | May 13 | **Presentación proyecto**
+-->
 
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
