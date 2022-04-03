@@ -46,8 +46,7 @@ Semana  | Fecha | Tópico
 &nbsp; | Mar 18 | Manejo de datos (continuación) 
 10  | Mar 23 | Manejo de datos (continuación) 
 &nbsp; | Mar 25 | Manejo de datos (continuación) 
-&nbsp;  | <font color="red">Mar 30</font> | <font color="red">Semana santa</font>
-&nbsp; | <font color="red">Abr 01</font> | <font color="red">Semana santa</font>
+&nbsp;  | <font color="red">Mar 30</font> | <font color="red">TBA</font>
 11  | Abr 06 | Manejo de datos (continuación) 
 &nbsp; | Abr 08 | Manejo de datos (continuación) 
 12  | Abr 13 | Manejo de datos (continuación) 
