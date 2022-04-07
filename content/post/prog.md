@@ -77,3 +77,26 @@ Semana  | Fecha | Tópico
   - [NumPy](https://www.numpy.org/)
 
   - [Scipy](https://www.scipy.org/)
+
+
+
+### Código
+
+
+## Abril 26
+
+#!python
+import math
+
+
+Volvemos 
+```python
+import math
+```
+
+## Abril 28
+
+```python
+import math
+math.
+```
