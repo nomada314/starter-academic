@@ -17,9 +17,10 @@ caption = "Julia set"
 +++
 
 
-<center><img src="https://alexrojas.netlify.app/media/ProgCaratula.png" width="250">
-
+<center><img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35d5bef9-medium.jpg" width="200">
 </center>
+
+[Más información](https://editorial.uptc.edu.co/gpd-introduccion-a-python-para-estudiantes-de-ciencias-9789586605304.html)
 
 
 ### Datos
