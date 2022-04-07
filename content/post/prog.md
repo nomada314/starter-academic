@@ -80,16 +80,11 @@ Semana  | Fecha | Tópico
 
 
 
-### Código
+### Código extra
 
 
 ## Abril 26
 
-#!python
-import math
-
-
-Volvemos 
 ```python
 import math
 ```
