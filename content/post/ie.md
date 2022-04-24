@@ -66,37 +66,38 @@ Por cita.
 
 ### Horario
 
+
 | Semana|Fecha      |Tema                                                                                                                                                                    |
 |------:|:----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1|2022-04-27 |Presentación del curso. [Métodos de muestreo](https://alexrojas.netlify.app/post/bs/lec1_muestreo/) (L08-1)                                                             |
-|      2|2022-04-29 |Error muestral (L08-2) <br> [Distribución muestral de la media](https://alexrojas.netlify.app/post/bs/lec2_clt/) (L08-3)<br> Teorema de límite central (L08-4)          |
-|      3|2022-05-04 |Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)                        |
-|      4|2022-05-06 |Intervalo de confianza para la proporción (L09-3)                                                                                                                       |
-|      5|2022-05-11 |Tamaño de muestra (L09-4)                                                                                                                                               |
-|      6|2022-05-13 |[Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2, L10-3)                                                                         |
-|      7|2022-05-18 |Prueba de hipótesis para la media (L10-4)                                                                                                                               |
-|      8|2022-05-20 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|      9|2022-05-25 |<font color="blue">Examen I</font>                                                                                                                                      |
-|     10|2022-05-27 |<font color="red">Permiso académico</font>                                                                                                                              |
-|     11|2022-06-01 |Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
-|     12|2022-06-03 |<font color="red">Festivo</font>                                                                                                                                        |
-|     13|2022-06-08 |[Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)                                                                                |
-|     14|2022-06-10 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
-|     15|2022-06-15 |<font color="blue">Examen II</font>                                                                                                                                     |
-|     16|2022-06-17 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
-|      1|2022-06-22 |Análisis de varianza, continuación (L12-4)                                                                                                                              |
-|      2|2022-06-24 |Análisis de varianza, continuación (L12-5)                                                                                                                              |
-|      3|2022-06-29 |Correlación (L13-1, L13-2)                                                                                                                                              |
-|      4|2022-07-01 |Regresión Lineal Simple (L13-3)                                                                                                                                         |
-|      5|2022-07-06 |Regresión Lineal Simple (L13-4, L13-5)                                                                                                                                  |
-|      6|2022-07-08 |Regresión Lineal Simple (L13-6, L13-7)                                                                                                                                  |
-|      7|2022-07-13 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|      8|2022-07-15 |<font color="blue">Examen III</font>                                                                                                                                    |
-|      9|2022-07-20 |Regresión Lineal Múltiple (L14-1, L14-2)                                                                                                                                |
-|     10|2022-07-22 |No hay clase. Capacitación jurado                                                                                                                                       |
-|     11|2022-07-27 |Regresión Lineal Múltiple (L14-4)                                                                                                                                       |
-|     12|2022-07-29 |Regresión Lineal Múltiple (L14-5, L14-6)                                                                                                                                |
-|     13|2022-08-03 |Regresión Lineal Múltiple (L14-7, L14-8)                                                                                                                                |
-|     14|2022-08-05 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|     15|2022-08-10 |<font color="blue">Examen IV</font>                                                                                                                                     |
+|      1|2022-04-27 |Presentación del curso                                                                                                                                                  |
+|      1|2022-04-29 |[Métodos de muestreo](https://alexrojas.netlify.app/post/bs/lec1_muestreo/) (L08-1)                                                                                     |
+|      2|2022-05-04 |Error muestral (L08-2) <br> [Distribución muestral de la media](https://alexrojas.netlify.app/post/bs/lec2_clt/) (L08-3)<br> Teorema de límite central (L08-4)          |
+|      2|2022-05-06 |Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)                        |
+|      3|2022-05-11 |Intervalo de confianza para la proporción (L09-3)                                                                                                                       |
+|      3|2022-05-13 |Tamaño de muestra (L09-4)                                                                                                                                               |
+|      4|2022-05-18 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
+|      4|2022-05-20 |<font color="blue">Examen I</font>                                                                                                                                      |
+|      5|2022-05-25 |[Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2, L10-3)                                                                         |
+|      5|2022-05-27 |Prueba de hipótesis para la media (L10-4)                                                                                                                               |
+|      6|2022-06-01 |Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
+|      6|2022-06-03 |                                                                                                                                                                        |
+|      7|2022-06-08 |[Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)                                                                                |
+|      7|2022-06-10 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
+|      8|2022-06-15 |<font color="blue">Examen II</font>                                                                                                                                     |
+|      8|2022-06-17 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
+|      9|2022-06-22 |Análisis de varianza, continuación (L12-4)                                                                                                                              |
+|      9|2022-06-24 |Análisis de varianza, continuación (L12-5)                                                                                                                              |
+|     10|2022-06-29 |                                                                                                                                                                        |
+|     10|2022-07-01 |                                                                                                                                                                        |
+|     11|2022-07-06 |Correlación (L13-1, L13-2)                                                                                                                                              |
+|     11|2022-07-08 |Regresión Lineal Simple (L13-3)                                                                                                                                         |
+|     12|2022-07-13 |Regresión Lineal Simple (L13-4, L13-5)                                                                                                                                  |
+|     12|2022-07-15 |Regresión Lineal Simple (L13-6, L13-7)                                                                                                                                  |
+|     13|2022-07-20 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
+|     13|2022-07-22 |<font color="blue">Examen III</font>                                                                                                                                    |
+|     14|2022-07-27 |Regresión Lineal Múltiple (L14-1, L14-2)                                                                                                                                |
+|     14|2022-07-29 |Regresión Lineal Múltiple (L14-4)                                                                                                                                       |
+|     15|2022-08-03 |Regresión Lineal Múltiple (L14-5, L14-6)                                                                                                                                |
+|     15|2022-08-05 |Regresión Lineal Múltiple (L14-7, L14-8)                                                                                                                                |
+|     16|2022-08-10 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
 |     16|2022-08-12 |<font color="blue">Examen IV</font>                                                                                                                                     |
