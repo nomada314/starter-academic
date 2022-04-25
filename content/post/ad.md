@@ -9,7 +9,7 @@ math      = true
 
 ### Libro guía:
 
-James, G.,  Witten, D., Hastie T., Tibshirani (2021) An Introduction to Statistical Learning. Second edition. DSpringer
+James, G.,  Witten, D., Hastie T., Tibshirani (2021) [An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf). Second edition. Springer
 
  
 ### Horas de tutoría: 
