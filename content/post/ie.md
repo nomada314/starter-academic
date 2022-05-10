@@ -71,17 +71,17 @@ Por cita.
 |1      |2022-04-27 |Presentación del curso                                                                                                                                                  |
 |&nbsp; |2022-04-29 |[Métodos de muestreo](https://alexrojas.netlify.app/post/bs/lec1_muestreo/) (L08-1)                                                                                     |
 |2      |2022-05-04 |Error muestral (L08-2) <br> [Distribución muestral de la media](https://alexrojas.netlify.app/post/bs/lec2_clt/) (L08-3)<br> Teorema de límite central (L08-4)          |
-|&nbsp; |2022-05-06 |Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)                        |
-|3      |2022-05-11 |Intervalo de confianza para la proporción (L09-3)                                                                                                                       |
-|&nbsp; |2022-05-13 |Tamaño de muestra (L09-4)                                                                                                                                               |
-|4      |2022-05-18 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|&nbsp; |2022-05-20 |<font color="blue">Examen I</font>                                                                                                                                      |
-|5      |2022-05-25 |[Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2, L10-3)                                                                         |
-|&nbsp; |2022-05-27 |Prueba de hipótesis para la media (L10-4)                                                                                                                               |
-|6      |2022-06-01 |Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
-|&nbsp; |2022-06-03 |TBA                                                                                                                                                                     |
-|7      |2022-06-08 |TBA                                                                                                                                                                     |
-|&nbsp; |2022-06-10 |TBA                                                                                                                                                                     |
+|&nbsp; |2022-05-06 |  Distribución muestral de la varianza muestral y de la proporción  |
+|3      |2022-05-11 | Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)  |
+|&nbsp; |2022-05-13 | Intervalo de confianza para la proporción (L09-3) |
+|4      |2022-05-18 |<font color="blue">Sesión preguntas</font>  |
+|&nbsp; |2022-05-20 |<font color="blue">Examen I</font>   |
+|5      |2022-05-25 |   |
+|&nbsp; |2022-05-27 | |
+|6      |2022-06-01 | Tamaño de muestra (L09-4) |
+|&nbsp; |2022-06-03 |[Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2, L10-3)      |
+|7      |2022-06-08 |Prueba de hipótesis para la media (L10-4)  |
+|&nbsp; |2022-06-10 |Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2)                                                                                                                                                                     |
 |8      |2022-06-15 |TBA                                                                                                                                                                     |
 |&nbsp; |2022-06-17 |TBA                                                                                                                                                                     |
 |9      |2022-06-22 |TBA                                                                                                                                                                     |
