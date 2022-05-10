@@ -22,10 +22,10 @@ Por cita.
 |Semana |Fecha      |Tema                   |
 |:------|:----------|:----------------------|
 |1      |2022-04-26 |Presentación del curso |
-|&nbsp; |2022-04-28 |                       |
-|2      |2022-05-03 |                       |
-|&nbsp; |2022-05-05 |                       |
-|3      |2022-05-10 |                       |
+|&nbsp; |2022-04-28 | Introducción a `R`    |
+|2      |2022-05-03 | Regresión Múltiple   |
+|&nbsp; |2022-05-05 | Diagramas de dispersión <br> Regresión lineal simple |
+|3      |2022-05-10 | Regresión Múltiple (continuación) |
 |&nbsp; |2022-05-12 |                       |
 |4      |2022-05-17 |                       |
 |&nbsp; |2022-05-19 |                       |
