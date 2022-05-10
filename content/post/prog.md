@@ -80,15 +80,9 @@ Por cita.
 ### Código extra
 
 
-## Abril 26
+## Mayo 
 
 ```python
 import math
 ```
 
-## Abril 28
-
-```python
-import math
-math.
-```
