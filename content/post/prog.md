@@ -75,6 +75,8 @@ Por cita.
 
   - [Scipy](https://www.scipy.org/)
 
+  - [VS Code](https://code.visualstudio.com/)
+
 
 
 ### Código extra
