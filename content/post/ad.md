@@ -26,7 +26,7 @@ Por cita.
 |2      |2022-05-03 | Regresión Múltiple   |
 |&nbsp; |2022-05-05 | Diagramas de dispersión <br> Regresión lineal simple |
 |3      |2022-05-10 | Regresión Múltiple (continuación) |
-|&nbsp; |2022-05-12 |                       |
+|&nbsp; |2022-05-12 | Regresión Múltiple (continuación) |
 |4      |2022-05-17 |                       |
 |&nbsp; |2022-05-19 |                       |
 |5      |2022-05-24 |                       |
