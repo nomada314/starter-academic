@@ -119,6 +119,6 @@ Figura  | Descripción
 
 ## Errata
 
-* **p.45**, *Ejercicio 1.4*. El exponente en la constante gravitacional de Newton es -11, no 11, es decir, $G = 6.6739\times 10^{-11}\, \mathrm{m}^3\, \mathrm{kg}^{-1}\,\mathrm{s}^{-2}$.
+* **p.45**, *Ejercicio 1.4*. El exponente en la constante gravitacional de Newton es -11, no 11. Es decir, $G = 6.6739\times 10^{-11}\, \mathrm{m}^3\, \mathrm{kg}^{-1}\,\mathrm{s}^{-2}$.
 
 
