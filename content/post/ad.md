@@ -28,11 +28,11 @@ Por cita.
 |3      |2022-05-10 | Regresión Múltiple (continuación) |
 |&nbsp; |2022-05-12 | Regresión Múltiple (continuación) |
 |4      |2022-05-17 |  **Permiso académico** |
-|&nbsp; |2022-05-19 |                       |
-|5      |2022-05-24 |                       |
-|&nbsp; |2022-05-26 |                       |
-|6      |2022-05-31 |                       |
-|&nbsp; |2022-06-02 |&nbsp;                 |
+|&nbsp; |2022-05-19 |  **Asamblea** |
+|5      |2022-05-24 | **Asamblea**  |
+|&nbsp; |2022-05-26 | **Asamblea**|
+|6      |2022-05-31 | Regresión Múltiple (continuación)  |
+|&nbsp; |2022-06-02 | Regresión logística |
 |7      |2022-06-07 |&nbsp;                 |
 |&nbsp; |2022-06-09 |&nbsp;                 |
 |8      |2022-06-14 |&nbsp;                 |
