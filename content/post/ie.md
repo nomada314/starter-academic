@@ -74,16 +74,16 @@ Por cita.
 |&nbsp; |2022-05-06 |  Distribución muestral de la varianza muestral y de la proporción  |
 |3      |2022-05-11 | Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)  |
 |&nbsp; |2022-05-13 | Intervalo de confianza para la proporción (L09-3) <br> Tamaño de muestra (L09-4)|
-|4      |2022-05-18 |<font color="blue">Sesión preguntas</font>  |
-|&nbsp; |2022-05-20 |<font color="blue">Examen I</font>   |
+|4      |2022-05-18 | Edificio bloqueado|
+|&nbsp; |2022-05-20 | <font color="blue">Sesión preguntas</font>  |
 |5      |2022-05-25 | [Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2)  |
-|&nbsp; |2022-05-27 | Pruebas de hipótesis (L10-3)|
-|6      |2022-06-01 | Prueba de hipótesis para la media (L10-4) |
-|&nbsp; |2022-06-03 |   |
-|7      |2022-06-08 |   |
-|&nbsp; |2022-06-10 |Prueba de hipótesis para la media, continuación (L10-4) <br> [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2)   |
-|8      |2022-06-15 |TBA  |
-|&nbsp; |2022-06-17 |TBA          |
+|&nbsp; |2022-05-27 | Prueba de hipótesis para la media (L10-3, L10-4) |
+|6      |2022-06-01 | [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
+|&nbsp; |2022-06-03 | <font color="blue">Examen I</font>  |
+|7      |2022-06-08 |  |
+|&nbsp; |2022-06-10 |  |
+|8      |2022-06-15 |<font color="blue">Sesión preguntas</font> |
+|&nbsp; |2022-06-17 |<font color="blue">Examen II</font>          |
 |9      |2022-06-22 |TBA          |
 |&nbsp; |2022-06-24 |TBA          |
 |10     |2022-06-29 |TBA          |
