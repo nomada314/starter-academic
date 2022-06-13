@@ -79,15 +79,15 @@ Por cita.
 |5      |2022-05-25 | [Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2)  |
 |&nbsp; |2022-05-27 | Prueba de hipótesis para la media (L10-3, L10-4) |
 |6      |2022-06-01 | [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
-|&nbsp; |2022-06-03 | <font color="blue">Examen I</font>  |
-|7      |2022-06-08 |  |
-|&nbsp; |2022-06-10 |  |
-|8      |2022-06-15 |<font color="blue">Sesión preguntas</font> |
-|&nbsp; |2022-06-17 |<font color="blue">Examen II</font>          |
-|9      |2022-06-22 |TBA          |
-|&nbsp; |2022-06-24 |TBA          |
-|10     |2022-06-29 |TBA          |
-|&nbsp; |2022-07-01 |TBA          |
+|&nbsp; |2022-06-03 | Asamblea |
+|7      |2022-06-08 | Comisión |
+|&nbsp; |2022-06-10 | Comisión |
+|8      |2022-06-15 | [Prueba de hipótesis para dos muestras (cntinuación)](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2)|
+|&nbsp; |2022-06-17 |<font color="blue">Examen I</font>    |
+|9      |2022-06-22 |  [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)       |
+|&nbsp; |2022-06-24 |  Análisis de varianza, continuación (L12-3)       |
+|10     |2022-06-29 | <font color="blue">Sesión preguntas</font>      |
+|&nbsp; |2022-07-01 | <font color="blue">Examen II</font>  |
 |11     |2022-07-06 |TBA          |
 |&nbsp; |2022-07-08 |TBA          |
 |12     |2022-07-13 |TBA          |
