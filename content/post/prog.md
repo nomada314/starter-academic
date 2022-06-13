@@ -38,7 +38,7 @@ Por cita.
 |6      |2022-05-31 | **Asamblea** |
 |&nbsp; |2022-06-02 | **Asamblea** |
 |7      |2022-06-07 | **Asamblea**|
-|&nbsp; |2022-06-09 | |
+|&nbsp; |2022-06-09 | **Asamblea**|
 |8      |2022-06-14 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2] |
 |&nbsp; |2022-06-16 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1]|
 |9      |2022-06-21 | Eliminación de ciclos [LR 4] <br> **Entrega Taller # 2** |
