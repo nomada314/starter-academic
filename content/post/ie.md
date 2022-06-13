@@ -82,7 +82,7 @@ Por cita.
 |&nbsp; |2022-06-03 | Asamblea |
 |7      |2022-06-08 | Comisión |
 |&nbsp; |2022-06-10 | Comisión |
-|8      |2022-06-15 | [Prueba de hipótesis para dos muestras (cntinuación)](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2)|
+|8      |2022-06-15 | Prueba de hipótesis para dos muestras (cntinuación) (L11-1, L11-2)|
 |&nbsp; |2022-06-17 |<font color="blue">Examen I</font>    |
 |9      |2022-06-22 |  [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)       |
 |&nbsp; |2022-06-24 |  Análisis de varianza, continuación (L12-3)       |
