@@ -35,16 +35,16 @@ Por cita.
 |&nbsp; |2022-05-19 | **Asamblea** |
 |5      |2022-05-24 | **Asamblea** |
 |&nbsp; |2022-05-26 | **Asamblea** |
-|6      |2022-05-31 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2] |
-|&nbsp; |2022-06-02 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1] |
-|7      |2022-06-07 | **Entrega Taller # 2**|
-|&nbsp; |2022-06-09 | Eliminación de ciclos [LR 4]|
-|8      |2022-06-14 | **Presentación proyectos** |
-|&nbsp; |2022-06-16 | **Presentación proyectos** (continuación) <br> **Entrega Taller # 3** |
-|9      |2022-06-21 | Eliminación de ciclos (continuación)  |
-|&nbsp; |2022-06-23 |&nbsp;  |
-|10     |2022-06-28 |&nbsp;  |
-|&nbsp; |2022-06-30 |&nbsp;                                                              |
+|6      |2022-05-31 | **Asamblea** |
+|&nbsp; |2022-06-02 | **Asamblea** |
+|7      |2022-06-07 | **Asamblea**|
+|&nbsp; |2022-06-09 | |
+|8      |2022-06-14 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2] |
+|&nbsp; |2022-06-16 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1]|
+|9      |2022-06-21 | Eliminación de ciclos [LR 4] <br> **Entrega Taller # 2** |
+|&nbsp; |2022-06-23 | Eliminación de ciclos (continuación)  |
+|10     |2022-06-28 | **Presentación proyectos**  <br> **Entrega Taller # 3**|
+|&nbsp; |2022-06-30 | **Presentación proyectos** (continuación) |
 |11     |2022-07-05 |&nbsp;                                                              |
 |&nbsp; |2022-07-07 |&nbsp;                                                              |
 |12     |2022-07-12 |&nbsp;                                                              |
