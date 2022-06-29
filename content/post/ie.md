@@ -84,21 +84,21 @@ Por cita.
 |&nbsp; |2022-06-10 | Comisión |
 |8      |2022-06-15 | Prueba de hipótesis para dos muestras (cntinuación) (L11-1, L11-2)|
 |&nbsp; |2022-06-17 |<font color="blue">Examen I</font>    |
-|9      |2022-06-22 |  [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)       |
-|&nbsp; |2022-06-24 |  Análisis de varianza, continuación (L12-3)       |
+|9      |2022-06-22 | Correlación (L13-1, L13-2)       |
+|&nbsp; |2022-06-24 | Regresión Lineal Simple (L13-3)  |
 |10     |2022-06-29 | <font color="blue">Sesión preguntas</font>      |
 |&nbsp; |2022-07-01 | <font color="blue">Examen II</font>  |
-|11     |2022-07-06 |TBA          |
-|&nbsp; |2022-07-08 |TBA          |
-|12     |2022-07-13 |TBA          |
-|&nbsp; |2022-07-15 |TBA          |
-|13     |2022-07-20 |TBA          |
-|&nbsp; |2022-07-22 |TBA          |
-|14     |2022-07-27 |TBA          |
-|&nbsp; |2022-07-29 |TBA          |
-|15     |2022-08-03 |TBA          |
-|&nbsp; |2022-08-05 |TBA          |
-|16     |2022-08-10 |TBA          |
+|11     |2022-07-06 | Regresión Lineal Simple (L13-4, L13-5)    |
+|&nbsp; |2022-07-08 | Regresión Lineal Simple (L13-6, L13-7)          |
+|12     |2022-07-13 | <font color="blue">Sesión preguntas</font> |
+|&nbsp; |2022-07-15 | <font color="blue">Examen III</font>     |
+|13     |2022-07-20 |  &nbsp;        |
+|&nbsp; |2022-07-22 | &nbsp;          |
+|14     |2022-07-27 | &nbsp;      |
+|&nbsp; |2022-07-29 | &nbsp;          |
+|15     |2022-08-03 |  &nbsp;         |
+|&nbsp; |2022-08-05 | [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)           |
+|16     |2022-08-10 |Análisis de varianza, continuación (L12-3)          |
 |&nbsp; |2022-08-12 |TBA          |
 
 <!--
@@ -111,9 +111,9 @@ Por cita.
 |     10|2022-06-29 |                                                                                                                                                                        |
 |     10|2022-07-01 |                                                                                                                                                                        |
 |     11|2022-07-06 |Correlación (L13-1, L13-2)                                                                                                                                              |
-|     11|2022-07-08 |Regresión Lineal Simple (L13-3)                                                                                                                                         |
-|     12|2022-07-13 |Regresión Lineal Simple (L13-4, L13-5)                                                                                                                                  |
-|     12|2022-07-15 |Regresión Lineal Simple (L13-6, L13-7)                                                                                                                                  |
+|     11|2022-07-08 |                                                                                                                                         |
+|     12|2022-07-13 |                                                                                                                                  |
+|     12|2022-07-15 |                                                                                                                                  |
 |     13|2022-07-20 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
 |     13|2022-07-22 |<font color="blue">Examen III</font>                                                                                                                                    |
 |     14|2022-07-27 |Regresión Lineal Múltiple (L14-1, L14-2)                                                                                                                                |
