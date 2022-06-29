@@ -41,22 +41,22 @@ Por cita.
 |&nbsp; |2022-06-09 | **Asamblea**|
 |8      |2022-06-14 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2] |
 |&nbsp; |2022-06-16 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1]|
-|9      |2022-06-21 | Eliminación de ciclos [LR 4] <br> **Entrega Taller # 2** |
-|&nbsp; |2022-06-23 | Eliminación de ciclos (continuación)  |
-|10     |2022-06-28 | **Presentación proyectos**  <br> **Entrega Taller # 3**|
-|&nbsp; |2022-06-30 | **Presentación proyectos** (continuación) |
-|11     |2022-07-05 |&nbsp;                                                              |
-|&nbsp; |2022-07-07 |&nbsp;                                                              |
-|12     |2022-07-12 |&nbsp;                                                              |
-|&nbsp; |2022-07-14 |&nbsp;                                                              |
-|13     |2022-07-19 |&nbsp;                                                              |
-|&nbsp; |2022-07-21 |&nbsp;                                                              |
-|14     |2022-07-26 |&nbsp;                                                              |
-|&nbsp; |2022-07-28 |&nbsp;                                                              |
-|15     |2022-08-02 |&nbsp;                                                              |
-|&nbsp; |2022-08-04 |&nbsp;                                                              |
-|16     |2022-08-09 |&nbsp;                                                              |
-|&nbsp; |2022-08-11 |&nbsp;                                                              |
+|9      |2022-06-21 | Ciclos (continuación) <br> **Entrega Taller # 2** |
+|&nbsp; |2022-06-23 | Ciclos (continuación) <br> **Entrega Taller # 3** |
+|10     |2022-06-28 | Eliminación de ciclos [LR 4] <br> **Presentación proyectos** |
+|&nbsp; |2022-06-30 | Eliminación de ciclos (continuación) |
+|11     |2022-07-05 | **Entrega Taller # 4**    |
+|&nbsp; |2022-07-07 |&nbsp;    |
+|12     |2022-07-12 |&nbsp;    |
+|&nbsp; |2022-07-14 |&nbsp;    |
+|13     |2022-07-19 |&nbsp;    |
+|&nbsp; |2022-07-21 |&nbsp;    |
+|14     |2022-07-26 |&nbsp;    |
+|&nbsp; |2022-07-28 |&nbsp;    |
+|15     |2022-08-02 |&nbsp;    |
+|&nbsp; |2022-08-04 |&nbsp;    |
+|16     |2022-08-09 |&nbsp;    |
+|&nbsp; |2022-08-11 |&nbsp;    |
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
 
