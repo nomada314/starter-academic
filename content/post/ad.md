@@ -37,11 +37,11 @@ Por cita.
 |&nbsp; |2022-06-09 | **Asamblea**|
 |8      |2022-06-14 | Regresión Múltiple (continuación)|
 |&nbsp; |2022-06-16 | Regresión logística |
-|9      |2022-06-21 |&nbsp;                 |
-|&nbsp; |2022-06-23 |&nbsp;                 |
-|10     |2022-06-28 |&nbsp;                 |
-|&nbsp; |2022-06-30 |&nbsp;                 |
-|11     |2022-07-05 |&nbsp;                 |
+|9      |2022-06-21 | Regresión logística (continuación), kNN  |
+|&nbsp; |2022-06-23 | kNN|
+|10     |2022-06-28 | Naive Bayes  |
+|&nbsp; |2022-06-30 | Discriminante Lineal |
+|11     |2022-07-05 | Discriminante cuadrático  |
 |&nbsp; |2022-07-07 |&nbsp;                 |
 |12     |2022-07-12 |&nbsp;                 |
 |&nbsp; |2022-07-14 |&nbsp;                 |
