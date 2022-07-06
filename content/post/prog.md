@@ -45,18 +45,18 @@ Por cita.
 |&nbsp; |2022-06-23 | Ciclos (continuación) <br> **Entrega Taller # 3** |
 |10     |2022-06-28 | Eliminación de ciclos [LR 4] <br> **Presentación proyectos** |
 |&nbsp; |2022-06-30 | Eliminación de ciclos (continuación) |
-|11     |2022-07-05 | **Entrega Taller # 4**    |
-|&nbsp; |2022-07-07 |&nbsp;    |
-|12     |2022-07-12 |&nbsp;    |
-|&nbsp; |2022-07-14 |&nbsp;    |
-|13     |2022-07-19 |&nbsp;    |
-|&nbsp; |2022-07-21 |&nbsp;    |
+|11     |2022-07-05 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 5**    |
+|&nbsp; |2022-07-07 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 4**    |
+|12     |2022-07-12 | Polinomios y álgebra lineal    |
+|&nbsp; |2022-07-14 | Manipulación de bases de datos **Entrega Taller # 6**    |
+|13     |2022-07-19 | Manipulación de bases de datos (continuación)    |
+|&nbsp; |2022-07-21 | **Entrega Taller # 7**     |
 |14     |2022-07-26 |&nbsp;    |
 |&nbsp; |2022-07-28 |&nbsp;    |
 |15     |2022-08-02 |&nbsp;    |
 |&nbsp; |2022-08-04 |&nbsp;    |
-|16     |2022-08-09 |&nbsp;    |
-|&nbsp; |2022-08-11 |&nbsp;    |
+|16     |2022-08-09 | Presentación proyectos    |
+|&nbsp; |2022-08-11 | Presentación proyectos    |
 
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
 
@@ -78,13 +78,4 @@ Por cita.
   - [VS Code](https://code.visualstudio.com/)
 
 
-
-### Código extra
-
-
-## Mayo 
-
-```python
-import math
-```
 
