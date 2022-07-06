@@ -82,7 +82,7 @@ Por cita.
 |&nbsp; |2022-06-03 | Asamblea |
 |7      |2022-06-08 | Comisión |
 |&nbsp; |2022-06-10 | Comisión |
-|8      |2022-06-15 | Prueba de hipótesis para dos muestras (cntinuación) (L11-1, L11-2)|
+|8      |2022-06-15 | Prueba de hipótesis para dos muestras (continuación) (L11-1, L11-2)|
 |&nbsp; |2022-06-17 |<font color="blue">Examen I</font>    |
 |9      |2022-06-22 | Correlación (L13-1, L13-2)       |
 |&nbsp; |2022-06-24 | Regresión Lineal Simple (L13-3)  |
@@ -92,14 +92,15 @@ Por cita.
 |&nbsp; |2022-07-08 | Regresión Lineal Simple (L13-6, L13-7)          |
 |12     |2022-07-13 | <font color="blue">Sesión preguntas</font> |
 |&nbsp; |2022-07-15 | <font color="blue">Examen III</font>     |
-|13     |2022-07-20 |  &nbsp;        |
-|&nbsp; |2022-07-22 | &nbsp;          |
-|14     |2022-07-27 | &nbsp;      |
-|&nbsp; |2022-07-29 | &nbsp;          |
-|15     |2022-08-03 |  &nbsp;         |
-|&nbsp; |2022-08-05 | [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)           |
-|16     |2022-08-10 |Análisis de varianza, continuación (L12-3)          |
-|&nbsp; |2022-08-12 |TBA          |
+|13     |2022-07-20 |  **Festivo**        |
+|&nbsp; |2022-07-22 | [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2) |
+|14     |2022-07-27 | Análisis de varianza, continuación (L12-3)    |
+|&nbsp; |2022-07-29 | Regresión Lineal Múltiple         |
+|15     |2022-08-03 | Regresión Lineal Múltiple  (continuación)        |
+|&nbsp; |2022-08-05 | Regresión Lineal Múltiple  (continuación)    |
+|16     |2022-08-10 |  <font color="blue">Sesión preguntas</font>        |
+|&nbsp; |2022-08-12 | <font color="blue">Examen IV</font>            |
+
 
 <!--
 7|2022-06-08 |[Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)                                                                                |
