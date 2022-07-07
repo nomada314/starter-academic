@@ -41,8 +41,11 @@ $$\text{Information gain}(S_i) = \text{Entropy of }D - \sum_{k=1}^m \frac{n_i}{n
 
 * Install and load the library `rpart`. Read about the `kyphosis` dataset . The task is to predict if kyphosis was present after the corrective spinal surgery. What is the response variable for this task? 
 
-* To grow a tree, use `arbol1 <- rpart(Kyphosis ~ Age + Number + Start,method="class", data=kyphosis)`
+* To grow a tree, use 
 
+```r
+arbol1 <- rpart(Kyphosis ~ Age + Number + Start,method="class", data=kyphosis)`
+```
 
 
 The following functions help us to examine the results.
@@ -66,4 +69,19 @@ par(xpd=NA)
 plot(fit)
 text(fit)
 ```
+
+* A patient who is 2 years old, has the fifth vertebrae involved for corrective surgery. According to the classification tree, would kyphosis would be present or absent after the operation?  
+
+* From the previous plot can you answer which terminal nodes are pure?
+
+* Execute the following code. Which nodes are pure? Write down the classification tree rules that end up in pure nodes and the class assigned to the observations in the pure nodes.
+
+
+```r
+plot(fit, uniform=TRUE, main="Classification Tree for Kyphosis")
+text(fit, use.n=TRUE)
+```
+
+* From this last tree, compute the confusion matrix of the training data by hand.
+
 
