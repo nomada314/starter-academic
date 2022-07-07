@@ -85,3 +85,23 @@ text(fit, use.n=TRUE)
 * From this last tree, compute the confusion matrix of the training data by hand.
 
 
+Prune back the tree to avoid overfitting the data. Typically, you will want to select a tree size that minimizes the cross-validated error, the `xerror` column printed by `printcp()`. 
+
+* Prune the tree to the desired size using
+
+```r
+prune(fit, cp= )
+```
+
+Specifically, use `printcp()` to examine the cross-validated error results, select the complexity parameter associated with minimum error, and place it into the `prune()` function. Alternatively, you can use this code fragment to automatically select the complexity parameter associated with the smallest cross-validated error:
+
+```r
+fit$cptable[which.min(fit$cptable[,"xerror"]),"CP"]
+```
+
+
+* Prune the full tree of the kyphosis dataset using  the complexity parameter associated with the smallest cross-validated error. How many terminal nodes does the pruned tree have?
+
+* Any of the terminal nodes in the pruned tree is a pure node?
+
+* Compute the misclassification error rate of the pruned tree.
