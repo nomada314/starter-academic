@@ -59,3 +59,11 @@ The following functions help us to examine the results.
 
 * Execute the first command of the previous table for your classification tree of the kyphosis dataset. From that output answer: what variables are actually used in the tree construction? And, what is the Root node error?
 
+* Execute the following code. How many terminal nodes does the full classification tree has?
+
+```r
+par(xpd=NA)
+plot(fit)
+text(fit)
+```
+
