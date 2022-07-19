@@ -93,9 +93,9 @@ Por cita.
 |12     |2022-07-13 | <font color="blue">Sesión preguntas</font> |
 |&nbsp; |2022-07-15 | <font color="blue">Examen III</font>     |
 |13     |2022-07-20 |  **Festivo**        |
-|&nbsp; |2022-07-22 | [Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2) |
-|14     |2022-07-27 | Análisis de varianza, continuación (L12-3)    |
-|&nbsp; |2022-07-29 | Regresión Lineal Múltiple         |
+|&nbsp; |2022-07-22 | Series de tiempo |
+|14     |2022-07-27 | Regresión Lineal Múltiple |
+|&nbsp; |2022-07-29 | Regresión Lineal Múltiple (continuación)        |
 |15     |2022-08-03 | Regresión Lineal Múltiple  (continuación)        |
 |&nbsp; |2022-08-05 | Regresión Lineal Múltiple  (continuación)    |
 |16     |2022-08-10 |  <font color="blue">Sesión preguntas</font>        |
