@@ -42,14 +42,14 @@ Por cita.
 |10     |2022-06-28 | Naive Bayes  |
 |&nbsp; |2022-06-30 | Discriminante Lineal |
 |11     |2022-07-05 | Discriminante cuadrático  |
-|&nbsp; |2022-07-07 |&nbsp;                 |
+|&nbsp; |2022-07-07 | Arboles de decisión     |
 |12     |2022-07-12 |&nbsp;                 |
-|&nbsp; |2022-07-14 |&nbsp;                 |
-|13     |2022-07-19 |&nbsp;                 |
-|&nbsp; |2022-07-21 |&nbsp;                 |
+|&nbsp; |2022-07-14 | *Random forests*                 |
+|13     |2022-07-19 | Permiso académico                 |
+|&nbsp; |2022-07-21 | GB                 |
 |14     |2022-07-26 |&nbsp;                 |
 |&nbsp; |2022-07-28 |&nbsp;                 |
 |15     |2022-08-02 |&nbsp;                 |
-|&nbsp; |2022-08-04 |&nbsp;                 |
-|16     |2022-08-09 |&nbsp;                 |
-|&nbsp; |2022-08-11 |&nbsp;                 |
+|&nbsp; |2022-08-04 | Presentación proyectos                 |
+|16     |2022-08-09 | Presentación proyectos                 |
+|&nbsp; |2022-08-11 | Presentación proyectos                 |
