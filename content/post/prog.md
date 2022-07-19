@@ -48,12 +48,12 @@ Por cita.
 |11     |2022-07-05 | Eliminación de ciclos (continuación) <br> **Entrega Taller # 5**    |
 |&nbsp; |2022-07-07 | Álgebra lineal, Polinomios <br> **Entrega Taller # 4**    |
 |12     |2022-07-12 | Presentaciones ejemplos seleccionados  |
-|&nbsp; |2022-07-14 | Manipulación de bases de datos <br> **Entrega Taller # 6**    |
-|13     |2022-07-19 | Manipulación de bases de datos (continuación)  |
-|&nbsp; |2022-07-21 | Manipulación de bases de datos (continuación) <br> **Entrega Taller # 7**     |
-|14     |2022-07-26 |&nbsp;     |
-|&nbsp; |2022-07-28 |&nbsp;    |
-|15     |2022-08-02 |&nbsp;    |
+|&nbsp; |2022-07-14 | Presentaciones ejemplos seleccionados (continuación) <br> **Entrega Taller # 6**    |
+|13     |2022-07-19 | Permiso académico  |
+|&nbsp; |2022-07-21 | Manipulación de bases de datos   |
+|14     |2022-07-26 | Manipulación de bases de datos (continuación)    |
+|&nbsp; |2022-07-28 | <br> **Entrega Taller # 7**    |
+|15     |2022-08-02 | Manipulación de bases de datos (continuación)  |
 |&nbsp; |2022-08-04 |&nbsp;    |
 |16     |2022-08-09 | Presentación proyectos    |
 |&nbsp; |2022-08-11 | Presentación proyectos    |
