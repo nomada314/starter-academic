@@ -22,6 +22,8 @@ caption = "Julia set"
 
 [Más información](https://editorial.uptc.edu.co/gpd-introduccion-a-python-para-estudiantes-de-ciencias-9789586605304.html)
 
+A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se presentan la versión a color para algunas de las figuras del libro. Finalmente, se encuentran los errrores encontrados.
+
 
 ### Datos
 
@@ -103,6 +105,29 @@ caption = "Julia set"
 * Capítulo 6[.py](https://alexrojas.netlify.com/code/Prog/PPCap6.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap6.ipynb): Computación científica 
 * Capítulo 7[.py](https://alexrojas.netlify.com/code/Prog/PPCap7.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap7.ipynb): Otras librerías de interés 
 
+Además del código original, a continuación actualizamos algunos de los bloques de código para que no haya problemas en versiones actuales de `Python`.
+
+```{python}
+# Código para generar la Figura 5.2. 
+# La función `sns.distplot()` ha sido cambiada por la función `sns.displot()`
+import seaborn as sns
+sns.displot(Audaz['velocidad'], kde=True) 
+```
+
+```{python}
+# Ejemplo 5.14
+# Para hacer la lectura sin que aparezcan mensajes, debemos asignar al 
+# argumento el valor `python`:
+
+ws1 = [pd.read_table('http://lib.stat.cmu.edu/datasets/wseries',\
+                     skiprows=34, nrows=23-2*(k==3),
+                     sep='\t\s\s|\s\s',\
+                     header=None, usecols=range(2*k,2*k+2),\
+                     names = ['Año','serie'], engine='python')\
+                     for k in range(4)]
+```
+
+
 ## Imágenes
 
 Figura  | Descripción
@@ -119,9 +144,16 @@ Figura  | Descripción
 
 ## Errata
 
+Capítulo I
+
 * **p.45**, *Ejercicio 1.4*. El exponente en la constante gravitacional de Newton es -11, no 11. Es decir, $G = 6.6739\times 10^{-11}\, \mathrm{m}^3\, \mathrm{kg}^{-1}\,\mathrm{s}^{-2}$.
 
+Capítulo IV
 * **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
+
+Capítulo V
+* **p. 175**,  *Ejemplo 5.7*. Debe ser ascención recta en lugar de ascención derecha.
+
 
 
 
