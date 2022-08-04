@@ -107,6 +107,8 @@ A continuación se encuentran los conjuntos de datos y el código  utilizados en
 
 Además del código original, a continuación actualizamos algunos de los bloques de código para que no haya problemas en versiones actuales de `Python`.
 
+### Capítulo V
+
 ```{python}
 # Código para generar la Figura 5.2. 
 # La función `sns.distplot()` ha sido cambiada por la función `sns.displot()`
@@ -152,7 +154,7 @@ Capítulo IV
 * **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
 
 Capítulo V
-* **p. 175**,  *Ejemplo 5.7*. Debe ser ascención recta en lugar de ascención derecha.
+* **p. 175**,  *Ejemplo 5.7*. Debe ser "ascención recta" en lugar de "ascención derecha".
 
 
 
