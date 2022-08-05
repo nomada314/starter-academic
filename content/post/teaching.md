@@ -13,9 +13,9 @@ math      = true
 * 
 
 ## Primer semestre 2022
-* [Electiva I: Programación](https://alexrojas.netlify.app/post/prog/)
-* [Electiva VI: Análisis de Datos](https://alexrojas.netlify.app/post/ad/)
-* [Inferencia Estadística](https://alexrojas.netlify.app/post/ie/)
+* Electiva I: Programación
+* Electiva VI: Análisis de Datos
+* Inferencia Estadística
 
 ## Segundo semestre 2021
 * Electiva II: Muestreo
