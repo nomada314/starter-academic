@@ -7,6 +7,11 @@ title     = "Teaching"
 math      = true
 +++
 
+## Segundo semestre 2022
+* [Inferencia Estadística](https://alexrojas.netlify.app/post/ie/)
+* 
+* 
+
 ## Primer semestre 2022
 * [Electiva I: Programación](https://alexrojas.netlify.app/post/prog/)
 * [Electiva VI: Análisis de Datos](https://alexrojas.netlify.app/post/ad/)
