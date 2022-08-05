@@ -1,7 +1,7 @@
 +++
 date      = 2022-07-07
 lastmod   = 2022-07-07
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Árboles de decisión"
 math      = true
