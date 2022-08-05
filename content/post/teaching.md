@@ -8,7 +8,7 @@ math      = true
 +++
 
 ## Segundo semestre 2022
-* [Inferencia Estadística](https://alexrojas.netlify.app/post/ie/)
+* 
 * 
 * 
 
