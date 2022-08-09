@@ -1,7 +1,7 @@
 +++
 date      = 2022-08-05
 lastmod   = 2022-08-05
-draft     = false
+draft     = true
 math      = true
 +++
 
