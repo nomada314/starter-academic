@@ -70,6 +70,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 51, Ejemplo 2.19: en la expansión de Maclaurin debe usarse $\lambda/n$ en lugar de $n/\lambda$.
 * p. 52, En la última línea debe incluirse "de variables aleatorias" entre las palabras "muestra" e "independiemnte". 
 * p. 57, Figura 2.5, la cantidad de muestras *bootstrap* son 10000, no 1000.
+* p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
 * p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$
 * p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$
 * p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R)
