@@ -62,8 +62,8 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 #### Capítulo II
 * p. 36, Segunda línea: vector de parámetros en lugar de vector de parámteros.
 * p. 37, Párrafo después de la Definición 2.1: En la cuarta línea debe ser cúal, en lugar de cuál.
-* p. 38, Ejemplo 2.5: en el último término en la segunda línea del cálculo de $\mathbb{E}[S^2]$ debe emplearse paréntesis cuadrados, $\mathbb{E}[\widebar{X}^2]$.
 * p. 37, Segundo párrafo después de la Definición 2.1: En la primera línea debe ser cómo, en lugar de como.
+* p. 38, Ejemplo 2.5: en el último término en la segunda línea del cálculo de $\mathbb{E}[S^2]$ debe emplearse paréntesis cuadrados, $\mathbb{E}[\overline{X}^2]$.
 * p. 40, En la última expresión para $\mathbb{V}_{\theta}(T(X))$ es un signo menos, en lugar de un signo más.
 * p. 46, En la última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326).
 * p. 50, En la última ecuación, en la indicadora debe cambiarse $t$ por $\tau$.
@@ -71,11 +71,13 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 52, En la última línea debe incluirse "de variables aleatorias" entre las palabras "muestra" e "independiemnte". 
 * p. 57, Figura 2.5, la cantidad de muestras *bootstrap* son 10000, no 1000.
 * p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
-* p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$
-* p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$
-* p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R)
-* p. 135, Ejemplo 2.72: El límite inferior de la segunda integral en la primera ecuación debe ser $-\infty$ en lugar de $\infty$. Además, el código calcula $\Pr(Z \geq 3)$, para que calcule $\Pr(Z \geq 3.5)$ se debe reemplazar la constante 3 por 3.5 en este código
-* p. 146, Ejercicio 2.2: $T(\mathbf{X})$ es $\frac{n+1}{2(n-1)\sqrt{3}}\cdot (X_{(n)}-X_{(1)})$
+* p. 75, Ecuación 2.8: el último término dentro del radical es positivo, no negativo.
+* p. 75, Figura 2.15, panel derecho: la figura presenta $-S(\theta)$, no $-S(\theta)$.
+* p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$.
+* p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$.
+* p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R).
+* p. 135, Ejemplo 2.72: El límite inferior de la segunda integral en la primera ecuación debe ser $-\infty$ en lugar de $\infty$. Además, el código calcula $\Pr(Z \geq 3)$, para que calcule $\Pr(Z \geq 3.5)$ se debe reemplazar la constante 3 por 3.5 en este código.
+* p. 146, Ejercicio 2.2: $T(\mathbf{X})$ es $\frac{n+1}{2(n-1)\sqrt{3}}\cdot (X_{(n)}-X_{(1)})$.
 
 #### Capítulo III
 * p. 154, segunda línea: debe decir "regla de decisión", no "regla decisión".
