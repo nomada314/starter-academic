@@ -73,6 +73,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
 * p. 75, Ecuación 2.8: el último término dentro del radical es positivo, no negativo.
 * p. 75, Figura 2.15, panel derecho: la figura presenta $-S(\theta)$, no $-S(\theta)$.
+* p. 77, Ejemplo 2.41: el factor inicial en la productoria en la función de log-verosimilitud es para $i = 1$. 
 * p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$.
 * p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$.
 * p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R).
