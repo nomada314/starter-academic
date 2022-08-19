@@ -48,11 +48,14 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 9, Ejemplo 1.2: En el cálculo de $f_{T,R}(t,r)$, en la primera igualdad el jacobiano es $r$, no $s$. En la tercera línea no es $y$, debe ser $r$. Es decir, $h(r) = \frac{\lambda^n}{\Gamma(n)}r^{n-1}e^{-\lambda r}I_{(0,\infty)}(r)$.
 * p. 13, Ejemplo 1.18, penúltima línea: debe ser "$(X_1,X_2)|T(\mathbf{X})$ toma valores $\ldots$" en lugar de "$\Pr((X_1,X_2)|T(\mathbf{X}))$ toma valores $\ldots$".
 * p. 20, A la función $c(\theta)$ falta dividirla por $\sigma$.
-* p. 21, Ejemplo 1.35: En el primer exponencial de la tercera línea hace falta un $-$, es decir, debe ser $\exp{\left(-\frac{n\mu^2}{2\sigma^2}\right)}$
+* p. 21, Ejemplo 1.35: En el primer exponencial de la tercera línea hace falta un $-$, es decir, debe ser $\exp{\left(-\frac{n\mu^2}{2\sigma^2}\right)}$.
 * p. 23, Figura 1.5: La leyenda está invertida.
+* p. 23, Párrafo antes del Teorema 1.6: debe ser "razonable".
 * p. 24, Ejemplo 1.38, Es asintótica en lugar de asimptótica.
 * p. 24, Figura 1.6: La leyenda está invertida.
-* p. 24, Sección 1.5, segunda línea: debe ser $X_1, \ldots, X_B$ en lugar de $X_1, \ldots, X_n$.
+* p. 24, Sección 1.5, segunda línea: debe ser distribuida $X_1, \ldots, X_B$ en lugar de distruida $X_1, \ldots, X_n$.
+* p. 31, Ejercicio 1.10: debe ser asintótica en lugar de asimptótica.
+* p. 32, Ejercicio 1.15:  $W = X + Y + Z$.
 
 #### Capítulo II
 * p. 36, segunda línea: vector de parámetros en lugar de vector de parámteros
