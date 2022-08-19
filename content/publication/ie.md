@@ -16,7 +16,7 @@ caption = "Figura 3.3."
 +++
 
 
-<center><img src="https://alexrojas.netlify.app/media/IEcaratula.png" width="250">
+<center><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b115ef50-medium.jpg" width="250">
   
 Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
 </center>
