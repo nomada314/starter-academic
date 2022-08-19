@@ -71,6 +71,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 52, En la última línea debe incluirse "de variables aleatorias" entre las palabras "muestra" e "independiemnte". 
 * p. 57, Figura 2.5, la cantidad de muestras *bootstrap* son 10000, no 1000.
 * p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
+* p. 70, Ejemplo 2.34, en la descripción del ejemplo los valores de $k$ y $r$ están invertidos. Es decir, de los $k$ animales en la segunda captura, $r$ están marcados. Además, el estimador de $N$ por máxima verosimilitud es $\lfloor\frac{tk}{r}\rfloor$.
 * p. 75, Ecuación 2.8: el último término dentro del radical es positivo, no negativo.
 * p. 75, Figura 2.15, panel derecho: la figura presenta $-S(\theta)$, no $-S(\theta)$.
 * p. 77, Ejemplo 2.41: el factor inicial en la productoria en la función de log-verosimilitud es para $i = 1$. 
