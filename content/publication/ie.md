@@ -43,6 +43,9 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 2, quinta línea, segundo párrafo: la función de probabilidad debe ser denotada por $f_{\mathbf{X}}(\mathbf{x}|\pmb{{\theta}})$, no por $f_{\mathbf{X}}(x|\pmb{{\theta}})$
 * p.3, Ejemplo 1.3: $g(\alpha,\beta) = \alpha/\beta$ en lugar de $g(\alpha,\beta) = \alpha\beta$
 * p. 5, Ecuación (1.3): la integración es con respecto a $u$, no $x$
+* p. 7, Primera ecuación: falta incluir que $r\in(0,2\sqrt{3}\sigma$
+* p. 7, Definición 1.3: es auxiliar, no auxilliar
+* p. 9, Ejemplo 1.2: En el cálculo de $f_{T,R}(t,r)$, en la primera igualdad el jacobiano es $r$, no $s$. En la tercera línea no es $y$, debe ser $r$. Es decir, $h(r) = \frac{\lambda^n}{\Gamma(n)}r^{n-1}e^{-\lambda r}I_{(0,\infty)}(r)$
 * p. 13, Ejemplo 1.18, penúltima línea: debe ser "$(X_1,X_2)|T(\mathbf{X})$ toma valores $\ldots$" en lugar de "$\Pr((X_1,X_2)|T(\mathbf{X}))$ toma valores $\ldots$".
 * p. 20, A la función $c(\theta)$ falta dividirla por $\sigma$.
 * p. 23, Figura 1.5: La leyenda está invertida, pero el título está bien.
