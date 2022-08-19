@@ -16,10 +16,14 @@ draft = false
 image = ""
 caption = ""
 +++
-<!--
-<center><img src="https://alexrojas.netlify.app/media/ProgCaratula.png" width="250">
+
+<center><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e120882d6-medium.jpg" width="200">
 </center>
--->
+
+[Más información](https://editorial.uptc.edu.co/gpd-herramientas-para-el-analisis-estadistico-de-datos-biologicos-en-r-9789586606462-62f2be2f3ddd8.html)
+
+A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se encuentran los errrores encontrados a la fecha.
+
 
 ### Datos
 
