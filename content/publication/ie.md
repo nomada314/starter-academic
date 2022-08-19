@@ -51,14 +51,18 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 21, Ejemplo 1.35: En el primer exponencial de la tercera línea hace falta un $-$, es decir, debe ser $\exp{\left(-\frac{n\mu^2}{2\sigma^2}\right)}$.
 * p. 23, Figura 1.5: La leyenda está invertida.
 * p. 23, Párrafo antes del Teorema 1.6: debe ser "razonable".
-* p. 24, Ejemplo 1.38, Es asintótica en lugar de asimptótica.
+* p. 24, Ejemplo 1.38: debe ser asintótica en lugar de asimptótica.
 * p. 24, Figura 1.6: La leyenda está invertida.
 * p. 24, Sección 1.5, segunda línea: debe ser distribuida $X_1, \ldots, X_B$ en lugar de distruida $X_1, \ldots, X_n$.
 * p. 31, Ejercicio 1.10: debe ser asintótica en lugar de asimptótica.
+* p. 32, Ejercicio 1.11: debe ser asintótica en lugar de asimptótica.
 * p. 32, Ejercicio 1.15:  $W = X + Y + Z$.
 
+
 #### Capítulo II
-* p. 36, segunda línea: vector de parámetros en lugar de vector de parámteros
+* p. 36, Segunda línea: vector de parámetros en lugar de vector de parámteros.
+* p. 37, Párrafo después de la Definición 2.1: En la cuarta línea debe ser cúal, en lugar de cuál.
+* p. 37, Segundo párrafo después de la Definición 2.1: En la primera línea debe ser cómo, en lugar de como.
 * p. 40, En la última expresión para $\mathbb{V}_{\theta}(T(X))$ es un signo menos, en lugar de un signo más.
 * p. 46, última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326)
 * p. 51, Ejemplo 2.19: en la expansión de Maclaurin debe usarse $\lambda/n$ en lugar de $n/\lambda$
