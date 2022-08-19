@@ -22,7 +22,7 @@ caption = "Julia set"
 
 [Más información](https://editorial.uptc.edu.co/gpd-introduccion-a-python-para-estudiantes-de-ciencias-9789586605304.html)
 
-A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se presentan la versión a color para algunas de las figuras del libro. Finalmente, se encuentran los errrores encontrados.
+A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se presentan la versión a color para algunas de las figuras del libro. Finalmente, se encuentran los errrores encontrados a la fecha.
 
 
 ### Datos
