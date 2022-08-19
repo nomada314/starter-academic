@@ -119,7 +119,7 @@ sns.displot(Audaz['velocidad'], kde=True)
 ```{python}
 # Ejemplo 5.14
 # Para hacer la lectura sin que aparezcan mensajes, debemos asignar al 
-# argumento el valor 'python':
+# argumento `engine` el valor 'python':
 ws1 = [pd.read_table('http://lib.stat.cmu.edu/datasets/wseries',\
                      skiprows=34, nrows=23-2*(k==3),
                      sep='\t\s\s|\s\s',\
