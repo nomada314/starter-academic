@@ -1,6 +1,6 @@
 +++
 date      = 2020-09-28
-lastmod   = 2022-04-24
+lastmod   = 2022-08-24
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
@@ -8,7 +8,7 @@ math      = true
 +++
 
 ## Segundo semestre 2022
-* 
+* Electiva I: [Programación](https://alexrojas.netlify.app/post/prog/)
 * 
 * 
 
