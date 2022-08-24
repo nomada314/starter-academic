@@ -35,10 +35,10 @@ Por cita.
 |&nbsp; |2022-09-22 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1] |
 |5      |2022-09-27 | Ciclos (continuación) <br> **Entrega Taller # 2** |
 |&nbsp; |2022-09-29 | Ciclos (continuación) <br> **Entrega Taller # 3** |
-|6      |2022-10-04 | **Asamblea** |
-|&nbsp; |2022-10-06 | **Asamblea** |
-|7      |2022-10-11 | **Asamblea**|
-|&nbsp; |2022-10-13 | **Asamblea**|
+|6      |2022-10-04 | &nbsp; |
+|&nbsp; |2022-10-06 | &nbsp; |
+|7      |2022-10-11 | &nbsp; |
+|&nbsp; |2022-10-13 | &nbsp; |
 |8      |2022-10-18 |  |
 |&nbsp; |2022-10-20 | |
 |9      |2022-10-25 |  |
