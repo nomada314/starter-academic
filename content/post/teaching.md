@@ -9,8 +9,8 @@ math      = true
 
 ## Segundo semestre 2022
 * Electiva I: [Programación](https://alexrojas.netlify.app/post/prog/)
-* 
-* 
+* [Estadística General](https://alexrojas.netlify.app/post/eg/)
+* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
 
 ## Primer semestre 2022
 * Electiva I: Programación
