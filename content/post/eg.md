@@ -1,7 +1,7 @@
 +++
 date      = 2021-06-09
-lastmod   = 2021-06-23
-draft     = true
+lastmod   = 2022-08-26
+draft     = false
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
 math      = true
@@ -9,13 +9,9 @@ math      = true
 
 ### Libro guía:
 
-Pishro-Nik, H. (2014) *Introduction to Probability, Statistics, and Random Processes*. Kappa Research, LLC. <br>
-Disponible *online* en la dirección: https://www.probabilitycourse.com
 
 ### Otras referencias:
 
-+ Bertsekas, D. P. y Tsitsklis, J. N. (2002). *Introduction to Probability*. Athena Scientific.
-+ Blanco, L. (2008). *Probabilidad*. Editorial UNAL.
 + Ross, S. M. (2014). *Introduction to Probability Models*. Academic press.
 
 ### Contenidos mínimos
@@ -31,10 +27,6 @@ Disponible *online* en la dirección: https://www.probabilitycourse.com
 Para el primer 50 se hará un examen con un peso del 50% y dos talleres con un peso del 40%. Para el segundo 50 se harán dos exámenes con un peso del 90%. El examen con mejor nota valdrá 50% y el otro 40%.
 
 El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
-
-### Enlace encuentros sincrónicos
-
-meet.google.com/int-sgza-foi
 
 
 ### Horas de oficina: 
@@ -94,3 +86,41 @@ Semana | Fecha | Tema
 &nbsp; | Oct 06 | <font color="red">Sesión de preguntas</font> 
 &nbsp; | Oct 08 | <font color="red">Cuarto examen</font> 
 
+
+
+<!--
+
+### Libro guía:
+
+Pishro-Nik, H. (2014) *Introduction to Probability, Statistics, and Random Processes*. Kappa Research, LLC. <br>
+Disponible *online* en la dirección: https://www.probabilitycourse.com
+
+### Otras referencias:
+
++ Bertsekas, D. P. y Tsitsklis, J. N. (2002). *Introduction to Probability*. Athena Scientific.
++ Blanco, L. (2008). *Probabilidad*. Editorial UNAL.
++ Ross, S. M. (2014). *Introduction to Probability Models*. Academic press.
+
+### Contenidos mínimos
+
++ **Unidad 1. Espacios muestrales y probabilidad.** Axiomas de probabilidad. Probabilidad condicional, teorema de la probabilidad total. Independencia. Conteo.
++ **Unidad 2. Variables aleatorias discretas.** Funciones de masa de probabilidad.  Valor esperado. 
++ **Unidad 3. Variables aleatorias continuas.** Funciones de densidad. Funciones de variables aleatorias. Funciones conjuntas. Sumas de variables aleatorias.
++ **Unidad 4. Convergencia**
++ **Unidad 5. Análisis Exploratorio de Datos**
+
+### Evaluación
+
+Para el primer 50 se hará un examen con un peso del 50% y dos talleres con un peso del 40%. Para el segundo 50 se harán dos exámenes con un peso del 90%. El examen con mejor nota valdrá 50% y el otro 40%.
+
+El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
+
+### Enlace encuentros sincrónicos
+
+meet.google.com/int-sgza-foi
+
+
+### Horas de oficina: 
+
+Por cita.
+-->
