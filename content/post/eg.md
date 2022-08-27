@@ -14,7 +14,9 @@ math      = true
 ### Otras referencias:
 
 + Leekley, R.M. (2010). *Applied Statistics for Business and Economics*. CRC Press.
-+ 
++ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
++ Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
+
 
 ### Contenidos mínimos
 
@@ -22,9 +24,7 @@ math      = true
 
 ### Evaluación
 
-Para el primer 50 se hará un examen con un peso del 50% y dos talleres con un peso del 40%. Para el segundo 50 se harán dos exámenes con un peso del 90%. El examen con mejor nota valdrá 50% y el otro 40%.
-
-El 10% restante corresponde a participación. Esta participación será evaluada de dos formas. La primera correponde a la participación haciendo preguntas y contestando preguntas durante la clase. La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
+Exámenes:  
 
 
 ### Horas de oficina: 
@@ -35,8 +35,8 @@ Por cita.
 
 Semana | Fecha | Tema
 ---| ---| ---
-1  | Jun 21 | Presentación del curso. <br> Axiomas de la probabilidad (1.3.1 - 1.3.3)
-&nbsp; | Jun 23 | Cálculo de probabilidades (1.3.3) <br> Modelos discretos (1.3.4)
+1  | Ago 31 | Presentación del curso. <br> Axiomas de la probabilidad (1.3.1 - 1.3.3)
+&nbsp; | Seo 02 | Cálculo de probabilidades (1.3.3) <br> Modelos discretos (1.3.4)
 &nbsp; | Jun 25 | Conteo (2.1)
 2  | Jun 28 | Sesión ejercicios
 &nbsp; | Jun 30 | Conteo (2.1), continuación
