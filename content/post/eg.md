@@ -9,18 +9,16 @@ math      = true
 
 ### Libro guía:
 
+Özdemir, D. (2014). *Applied Statistics for Economics and Business*. 2nda Edición. Springer.
 
 ### Otras referencias:
 
-+ Ross, S. M. (2014). *Introduction to Probability Models*. Academic press.
++ Leekley, R.M. (2010). *Applied Statistics for Business and Economics*. CRC Press.
++ 
 
 ### Contenidos mínimos
 
-+ **Unidad 1. Espacios muestrales y probabilidad.** Axiomas de probabilidad. Probabilidad condicional, teorema de la probabilidad total. Independencia. Conteo.
-+ **Unidad 2. Variables aleatorias discretas.** Funciones de masa de probabilidad.  Valor esperado. 
-+ **Unidad 3. Variables aleatorias continuas.** Funciones de densidad. Funciones de variables aleatorias. Funciones conjuntas. Sumas de variables aleatorias.
-+ **Unidad 4. Convergencia**
-+ **Unidad 5. Análisis Exploratorio de Datos**
++ s
 
 ### Evaluación
 
