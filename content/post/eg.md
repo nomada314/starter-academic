@@ -9,19 +9,17 @@ math      = true
 
 ### Libro guía:
 
-Özdemir, D. (2014). *Applied Statistics for Economics and Business*. 2nda Edición. Springer.
+Krauth, B. (2021). *Introductory Statistics for Economics*. Disponible en [bookdown.org](https://bookdown.org/bkrauth/BOOK/)
 
 ### Otras referencias:
 
++ Cleff, T. (2019). *Applied Statistics and Multivariate Data Analysis for Business and Economics*. Springer.
 + Leekley, R.M. (2010). *Applied Statistics for Business and Economics*. CRC Press.
 + Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
 + López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
++ Özdemir, D. (2014). *Applied Statistics for Economics and Business*. 2nda Edición. Springer. [Conjuntos de datos](https://link.springer.com/book/10.1007/978-3-319-26497-4)
 + Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
 
-
-### Evaluación
-
-Exámenes:  
 
 
 ### Horas de oficina: 
@@ -30,60 +28,30 @@ Por cita.
 
 ### Horario
 
-Semana | Fecha | Tema
----| ---| ---
-1  | Ago 31 | Presentación del curso. <br> Axiomas de la probabilidad (1.3.1 - 1.3.3)
-&nbsp; | Seo 02 | Cálculo de probabilidades (1.3.3) <br> Modelos discretos (1.3.4)
-&nbsp; | Jun 25 | Conteo (2.1)
-2  | Jun 28 | Sesión ejercicios
-&nbsp; | Jun 30 | Conteo (2.1), continuación
-&nbsp; | Jul 02 | Probabilidad condicional <br> Teorema de Bayes
-3  | Jul 05 | Festivo
-&nbsp; | Jul 07 | <font color="blue">Sesión de preguntas</font> 
-&nbsp; | Jul 09 | <font color="blue">Primer examen</font> 
-4  | Jul 12 | <font color="red">Paro</font> 
-&nbsp; | Jul 14 | <font color="red">Paro</font> 
-&nbsp; | Jul 16 | <font color="red">Paro</font> 
-5  | Jul 19 | <font color="red">Paro</font> 
-&nbsp; | Jul 21 | <font color="red">Paro</font> 
-&nbsp; | Jul 23 | <font color="red">Paro</font> 
-6  | Jul 26 | <font color="red">Paro</font> 
-&nbsp; | Jul 28 | <font color="red">Paro</font> 
-&nbsp; | Jul 30 | <font color="red">Paro</font> 
-7  | Aug 02 | <font color="red">Paro</font> 
-&nbsp; | Aug 04 | <font color="red">Paro</font> 
-&nbsp; | Aug 06 | <font color="red">Paro</font> 
-8  | Aug 09 | <font color="red">Paro</font> 
-&nbsp; | Aug 11 | Variables aleatorias <br> Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Función de distribución acumulada
-&nbsp; | Aug 13 | Valor esperado <br> Varianza
-9  | Aug 16 | Festivo
-&nbsp; | Aug 18 | Binomial, Poisson, Geométrica
-&nbsp; | Aug 20 | Binomial negativa, hipergeométrica
-10  | Aug 23 | Sesión ejercicios
-&nbsp; | Aug 25 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Aug 27 | <font color="red">Segundo examen</font> 
-11  | Aug 30 | Sesión ejercicios
-&nbsp; | Sep 01 | Variables aleatorias continuas
-&nbsp; | Sep 03 | Uniforme, exponencial y normal
-12  | Sep 06 | Sesión ejercicios
-&nbsp; | Sep 08 | Funciones de masa de probabilidad conjunta
-&nbsp; | Sep 10 | Funciones de densidad de probabilidad conjunta
-13  | Sep 13 | Sesión ejercicios
-&nbsp; | Sep 15 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Sep 17 | <font color="red">Tercer examen</font> 
-14  | Sep 20 | Sesión ejercicios
-&nbsp; | Sep 22 | Distribución normal bivariada
-&nbsp; | Sep 24 | Distribución de la suma, el mínimo y el máximo de variables aleatorias
-15  | Sep 27 | Sesión ejercicios
-&nbsp; | Sep 29 | Desigualdades de probabilidad
-&nbsp; | Oct 01 | Desigualdades de probabilidad, cont.
-16  | Oct 04 | &nbsp;
-&nbsp; | Oct 06 | <font color="red">Sesión de preguntas</font> 
-&nbsp; | Oct 08 | <font color="red">Cuarto examen</font> 
+Semana | Fecha | Tema |
+---| ---| --- |
+1  | Ago 31 | Presentación del curso. <br> Eventos [3.1] |
+&nbsp; | Seo 02 | Cálculo de probabilidades   [3.2] |
+2  | Sep 07 | Cálculo de probabilidades (cont.) [3.2] |
+&nbsp; | Sep 09 | Probabilidad condicional [3.3] |
+3  | Sep 14 | Probabilidad condicional (cont.) [3.3] |
+&nbsp; | Sep 16 | Variables aleatorias [4.1] |
+4  | Sep 21 | <font color="green">Sesión de preguntas</font>  |
+&nbsp; | Sep 23 | <font color="red">Examen I</font>  |
+5  | Sep 28 | Valores esperados y varianzas [4.2 - 4.3] |
+&nbsp; | Sep 30 | Distribuciones discretas [4.4] |
+6  | Oct 05 |  Distribuciones discretas (cont.) [4.4] |
+&nbsp; | Oct 07 | Distribuciones continuas [5.1-5.3] |
+7  | Oct 12 |  Distribuciones continuas (cont.) [5.4] |
+&nbsp; | Oct 14 | Distribuciones continuas (cont.) [5.1-5.3] |
+8  | Oct 19 |  <font color="green">Sesión de preguntas</font>  |
+&nbsp; | Oct 21 | <font color="red">Examen II</font> |
+
 
 
 
 <!--
+<font color="red">Sesión de preguntas</font> 
 
 ### Libro guía:
 
