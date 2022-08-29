@@ -15,12 +15,9 @@ math      = true
 
 + Leekley, R.M. (2010). *Applied Statistics for Business and Economics*. CRC Press.
 + Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
++ López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
 + Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
 
-
-### Contenidos mínimos
-
-+ s
 
 ### Evaluación
 
