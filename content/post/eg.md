@@ -30,12 +30,12 @@ Por cita.
 
 Semana | Fecha | Tema |
 ---| ---| --- |
-1  | Ago 31 | Presentación del curso. <br> Eventos [3.1] |
-&nbsp; | Seo 02 | Cálculo de probabilidades   [3.2] |
-2  | Sep 07 | Cálculo de probabilidades (cont.) [3.2] |
-&nbsp; | Sep 09 | Probabilidad condicional [3.3] |
-3  | Sep 14 | Probabilidad condicional (cont.) [3.3] |
-&nbsp; | Sep 16 | Variables aleatorias [4.1] |
+1  | Ago 31 | Presentación del curso. <br> [Eventos](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#outcomes-and-events) |
+&nbsp; | Seo 02 | [Cálculo de probabilidades](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#probabilities)  |
+2  | Sep 07 | Cálculo de probabilidades (cont.)  |
+&nbsp; | Sep 09 | [Probabilidad condicional](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#related-events) |
+3  | Sep 14 | Probabilidad condicional (cont.)  |
+&nbsp; | Sep 16 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
 4  | Sep 21 | <font color="green">Sesión de preguntas</font>  |
 &nbsp; | Sep 23 | <font color="red">Examen I</font>  |
 5  | Sep 28 | Valores esperados y varianzas [4.2 - 4.3] |
