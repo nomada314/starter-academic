@@ -1,6 +1,6 @@
 +++
 date      = 2020-09-28
-lastmod   = 2022-08-24
+lastmod   = 2022-08-29
 draft     = false
 tags      = ["Teaching", "Programming", "Python"]
 title     = "Electiva I"
@@ -29,20 +29,20 @@ Por cita.
 |&nbsp; |2022-09-01 | Asignación y variables <br> Cálculos básicos [[TP2](http://greenteapress.com/thinkpython2/html/thinkpython2003.html), [PSP3](https://problemsolvingwithpython.com/03-The-Python-REPL/03.00-Introduction/), LR 1.1-2]  |
 |2      |2022-09-06 | Contenedores básicos LR [1.4] |
 |&nbsp; |2022-09-08 | Arreglos Numpy |
-|3      |2022-09-13 | Funciones: [[PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html), LR 1.5] )|
-|&nbsp; |2022-09-15 | Visualización (LR 1.6) |
-|4      |2022-09-20 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2] |
-|&nbsp; |2022-09-22 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1] |
-|5      |2022-09-27 | Ciclos (continuación) |
-|&nbsp; |2022-09-29 | Ciclos (continuación) |
-|6      |2022-10-04 | &nbsp; |
-|&nbsp; |2022-10-06 | &nbsp; |
+|3      |2022-09-13 | &nbsp; |
+|&nbsp; |2022-09-15 | Funciones: [[PSP2](https://problemsolvingwithpython.com/07-Functions-and-Modules/07.00-Introduction/), [TP3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html), LR 1.5] ) |
+|4      |2022-09-20 | Visualización (LR 1.6) |
+|&nbsp; |2022-09-22 | Control de flujo [[PSP8](https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.00-Introduction/), LR 2]  |
+|5      |2022-09-27 |  |
+|&nbsp; |2022-09-29 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1] |
+|6      |2022-10-04 | Ciclos (continuación) |
+|&nbsp; |2022-10-06 | Ciclos (continuación) |
 |7      |2022-10-11 | &nbsp; |
 |&nbsp; |2022-10-13 | &nbsp; |
-|8      |2022-10-18 |  |
-|&nbsp; |2022-10-20 | |
-|9      |2022-10-25 |  |
-|&nbsp; |2022-10-27 |  |
+|8      |2022-10-18 | &nbsp; |
+|&nbsp; |2022-10-20 | &nbsp; |
+|9      |2022-10-25 | &nbsp; |
+|&nbsp; |2022-10-27 | &nbsp; |
 |10     |2022-11-01 | Eliminación de ciclos [LR 4]  |
 |&nbsp; |2022-11-03 | Eliminación de ciclos (continuación) |
 |11     |2022-11-08 | Eliminación de ciclos (continuación)  |
