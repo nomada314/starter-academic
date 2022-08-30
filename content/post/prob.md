@@ -26,7 +26,7 @@ Por cita.
 
 |Semana |Fecha      |Tema                                                                                                                                                                                                                            |
 |:------|:----------|:-------------------------------------------------------------------|
-|1      |2022-08-30 | Presentación del curso <br> [Anaconda](https://www.anaconda.com/products/individual), [VS Code](https://code.visualstudio.com/)  |
+|1      |2022-08-30 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
 |&nbsp; |2022-09-01 |  |
 |2      |2022-09-06 | |
 |&nbsp; |2022-09-08 |  |
