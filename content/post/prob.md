@@ -87,6 +87,15 @@ sns.histplot(data=rupture, x="mr", bins = range(5,75,5))
 # Obtener frecuencias utilizando histogram
 conteos, particion  = np.histogram(rupture.mr, bins = np.arange(5,75,5))
 pd.DataFrame({'intervalo': [str(i)+'-'+str(i+5) for i in particion[:-1]], 'Frec':conteos}).set_index('intervalo')
+
+# Frecuencias en A y B
+ruptureFrec['25-30':'45-50'].sum(axis=0)
+ruptureFrec['35-40':'55-60'].sum(axis=0)
+
+# AB
+ruptureFrec['35-40':'45-50'].sum(axis=0)/165
+# A+B
+ruptureFrec['25-30':'55-60'].sum(axis=0)/165
 ```
 
 
