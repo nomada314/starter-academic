@@ -27,7 +27,7 @@ Por cita.
 |Semana |Fecha      |Tema                                                                                                                                                                                                                            |
 |:------|:----------|:-------------------------------------------------------------------|
 |1      |2022-08-30 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
-|&nbsp; |2022-09-01 |  |
+|&nbsp; |2022-09-01 | Medidas de probabilidad [KR 2.2] <br> [rupture.csv](), [código]() |
 |2      |2022-09-06 | |
 |&nbsp; |2022-09-08 |  |
 |3      |2022-09-13 | &nbsp; |
