@@ -27,7 +27,7 @@ Por cita.
 |Semana |Fecha      |Tema                                                                                                                                                                                                                            |
 |:------|:----------|:-------------------------------------------------------------------|
 |1      |2022-08-30 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
-|&nbsp; |2022-09-01 | Medidas de probabilidad [KR 2.2] <br> [rupture.csv]() |
+|&nbsp; |2022-09-01 | Medidas de probabilidad [KR 2.2] <br> [rupture.csv](https://alexrojas.netlify.com/Data/Prob/rupture.csv) |
 |2      |2022-09-06 | |
 |&nbsp; |2022-09-08 |  |
 |3      |2022-09-13 | &nbsp; |
@@ -64,8 +64,29 @@ Por cita.
 
 ```{python}
 ## Código Sep 1, 2022
+import numpy as np
+import pandas as pd
+import seaborn as sns
 
+# Lectura de los datos
+rupture = pd.read_csv("https://alexrojas.netlify.com/Data/Prob/rupture.csv")
 
+# Histograma
+sns.histplot(data=rupture, x="mr")
+
+# Frecuencias en A y B
+
+A = rupture[(rupture.mr < 50)*(rupture.mr > 25)]
+B = rupture[(rupture.mr < 60)*(rupture.mr > 35)]
+A.shape
+B.shape
+
+# Histograma otra partición
+sns.histplot(data=rupture, x="mr", bins = range(5,75,5))
+
+# Obtener frecuencias utilizando histogram
+conteos, particion  = np.histogram(rupture.mr, bins = np.arange(5,75,5))
+pd.DataFrame({'intervalo': [str(i)+'-'+str(i+5) for i in particion[:-1]], 'Frec':conteos}).set_index('intervalo')
 ```
 
 
