@@ -31,8 +31,8 @@ Por cita.
 Semana | Fecha | Tema |
 ---| ---| --- |
 1  | Ago 31 | Presentación del curso. <br> [Eventos](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#outcomes-and-events) |
-&nbsp; | Seo 02 | [Cálculo de probabilidades](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#probabilities)  |
-2  | Sep 07 | Cálculo de probabilidades (cont.)  |
+&nbsp; | Seo 02 | Introducción a `R`  |
+2  | Sep 07 | [Cálculo de probabilidades](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#probabilities) |
 &nbsp; | Sep 09 | [Probabilidad condicional](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#related-events) |
 3  | Sep 14 | Probabilidad condicional (cont.)  |
 &nbsp; | Sep 16 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
@@ -47,6 +47,26 @@ Semana | Fecha | Tema |
 8  | Oct 19 |  <font color="green">Sesión de preguntas</font>  |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 
+
+```{r}
+# install.packages("readxl")
+# install.packages("tidyverse")
+
+library(readxl)
+library(tidyverse)
+
+# Lectura de la base de datos
+Can  = read_excel('CanEmpNov20.xlsx',1)
+
+# Cálculo de la proporción de desempleados por provincia
+Can = Can %>% mutate(PorcDesempleado = Unemployed/Population)
+
+# Cálculo de la población total y total de desempleados
+Can %>% summarise(Pob = sum(Population), Desempleo = sum(Unemployed))
+
+# Proporción de desempleados
+1735100/31275600
+```
 
 
 
