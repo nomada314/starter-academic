@@ -48,7 +48,7 @@ Semana | Fecha | Tema |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 
 
-### Código Septiembre 3
+### Código Septiembre 2
 
 ```{r}
 # install.packages("readxl")
