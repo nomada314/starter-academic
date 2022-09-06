@@ -67,6 +67,7 @@ Por cita.
 import numpy as np
 import pandas as pd
 import seaborn as sns
+from matplotlib import pyplot as plt
 
 # Lectura de los datos
 rupture = pd.read_csv("https://alexrojas.netlify.com/Data/Prob/rupture.csv")
