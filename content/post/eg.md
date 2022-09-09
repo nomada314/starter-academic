@@ -34,8 +34,8 @@ Semana | Fecha | Tema |
 &nbsp; | Seo 02 | Introducción a `R`  |
 2  | Sep 07 | [Cálculo de probabilidades](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#probabilities) |
 &nbsp; | Sep 09 | [Probabilidad condicional](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#related-events) |
-3  | Sep 14 | Probabilidad condicional (cont.)  |
-&nbsp; | Sep 16 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
+3  | Sep 14 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
+&nbsp; | Sep 16 | Variables aleatorias |
 4  | Sep 21 | <font color="green">Sesión de preguntas</font>  |
 &nbsp; | Sep 23 | <font color="red">Examen I</font>  |
 5  | Sep 28 | Valores esperados y varianzas [4.2 - 4.3] |
