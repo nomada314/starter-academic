@@ -120,6 +120,13 @@ ggplot(AlcPadre, aes(x = factor(fathalc, labels = c("No","Sí")), y = p, fill= a
   geom_bar(stat = "identity", position = "dodge2") +
   labs(x="Padre alcohólico", y="Frecuencia", fill = "Abuso de alcohol") +
   theme(legend.position = "bottom")
+  
+ggplot(AlcPadre, aes(x = factor(fathalc, labels = c("No","Sí")), y = p, fill= abuse)) +
+  geom_bar(stat = "identity", position = "dodge2") + 
+  scale_fill_manual(values=c("#003399", "#336600")) +
+  labs(x="Padre alcohólico", y="Frecuencia", fill = "Abuso de alcohol") +
+  theme(legend.position = "bottom")
+  
 ```
 
 ### Código Septiembre 2
