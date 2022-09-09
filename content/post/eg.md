@@ -70,6 +70,15 @@ Can %>% summarise(Pob = sum(Population), Desempleo = sum(Unemployed))
 1735100/31275600
 ```
 
+### Código Septiembre 9
+
+```{r}
+# install.packages("readxl")
+# install.packages("tidyverse")
+
+
+```
+
 
 
 <!--
