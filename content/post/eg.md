@@ -52,7 +52,13 @@ Semana | Fecha | Tema |
 ### Código Septiembre 9
 
 ```{r}
-# install.packages(c("wooldridge","knitr","kableExtra")
+
+## Si ya está instalada  la librería tidyverse:
+# install.packages(c("wooldridge","knitr","kableExtra"))
+
+## De otro modo:
+# install.packages(c("wooldridge","knitr","kableExtra","tidyverse"))
+
 
 library(tidyverse)
 library(knitr)
