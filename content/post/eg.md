@@ -48,6 +48,80 @@ Semana | Fecha | Tema |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 
 
+
+### Código Septiembre 9
+
+```{r}
+# install.packages(c("wooldridge","knitr","kableExtra")
+
+library(tidyverse)
+library(knitr)
+library(wooldridge)
+library(kableExtra)
+
+data(alcohol)
+
+alcohol$abuse = factor(alcohol$abuse, labels = c("No alcohólico","Alcohólico"))
+
+
+#  Tabla de frecuencias abuso de alcohol
+table(alcohol$abuse)
+
+
+# Diagrama de barras
+
+ggplot(alcohol, aes(x= abuse)) +
+  geom_bar() +
+  labs(x="Abuso de alcohol", y="Frecuencia")
+
+
+#  Tabla de frecuencias relativas abuso de alcohol
+prop.table(table(alcohol$abuse))
+
+tAlcohol = round(prop.table(table(alcohol$abuse)),3)
+
+
+## Tabla de contingencia abuso de alcohol vs padre alcohólico
+
+AlcPadre = table(alcohol$fathalc, alcohol$abuse)
+
+# Impresión en pantalla con diferentes formatos
+
+kable(AlcPadre, "pipe")
+
+prop.table(AlcPadre) %>%
+  kable("html", col.names = c("No", "Sí"), digits = 2) %>%
+  kable_styling("striped", full_width = F) %>%
+  add_header_above(c("","Abusa del alcohol"=2))
+
+
+## Diagrama de barras agrupadas
+
+
+AlcPadre = alcohol %>%
+  group_by(fathalc,abuse) %>%
+  summarize(f = n()/9822)
+
+
+AlcPadre = alcohol %>%
+  group_by(fathalc,abuse) %>%
+  summarize(f = n()) %>%
+  group_by(fathalc) %>%
+  summarize(abuse, p = f/sum(f))
+
+
+
+ggplot(AlcPadre, aes(x = factor(fathalc, labels = c("No","Sí")), y = p, fill= abuse)) +
+  geom_bar(stat = "identity", position = "dodge2") +
+  labs(x="Padre alcohólico", y="Frecuencia", fill = "Abuso de alcohol")
+
+
+ggplot(AlcPadre, aes(x = factor(fathalc, labels = c("No","Sí")), y = p, fill= abuse)) +
+  geom_bar(stat = "identity", position = "dodge2") +
+  labs(x="Padre alcohólico", y="Frecuencia", fill = "Abuso de alcohol") +
+  theme(legend.position = "bottom")
+```
+
 ### Código Septiembre 2
 
 ```{r}
@@ -69,16 +143,6 @@ Can %>% summarise(Pob = sum(Population), Desempleo = sum(Unemployed))
 # Proporción de desempleados
 1735100/31275600
 ```
-
-### Código Septiembre 9
-
-```{r}
-# install.packages("readxl")
-# install.packages("tidyverse")
-
-
-```
-
 
 
 <!--
