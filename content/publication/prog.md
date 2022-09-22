@@ -151,7 +151,7 @@ Capítulo I
 
 Capítulo IV
 * **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
-* **p.150**, *Ejemplo 4.20* En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{I}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
+* **p.150**, *Ejemplo 4.20* En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{O}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
 
 Capítulo V
 * **p. 175**,  *Ejemplo 5.7*. Debe ser "ascención recta" en lugar de "ascención derecha".
