@@ -24,10 +24,9 @@ $$p(x) = a_0 + a_1x + a_2x^2 +\ldots + a_{m-1}x^{m-1}+ x^m, $$
 la función recibe como argumento la lista o arreglo $[a_0, a_1,\ldots,a_{m-1},1]$ y reporta la matriz compañera de $p(x)$: 
 $$
 \begin{pmatrix}
-\mathbf{0}_{m} & -a_{0}\\
-\mathbf{I}_{m} & \mathbf{R}
+\mathbf{0}\\_{m} & -a_{0}\\
+\mathbf{I}\\_{m} & \mathbf{R}
 \end{pmatrix}
-_3
 $$
 donde $\mathbf{I}_m$ es la matriz identidad de tamaño $m\times m$, $\mathbf{0}_{m}$ es el vector de ceros de tamaño $1\times m$, y $\mathbf{R}$ es el vector $(-a_{1}, -a_{2}, \ldots, -a_{m-1} )^T$. En caso de que el coeficiente de $x^m$ sea diferente a 1, la función devuelve la matriz compañera del polinomio con coeficientes $[a_0/a_m, a_1/a_m,\ldots,a_{m-1}/a_m,1]$.
 
