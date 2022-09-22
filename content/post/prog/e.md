@@ -19,14 +19,33 @@ $$l_i(x)  = \prod_{j=0, j\neq i}^n \frac{x-x_j}{x_i-x_j}, \quad i = 0,1, \ldots,
 
 Implemente en `Python` la fórmula de Lagrange para $n =2$. Su función debe tres argumentos y llamerse `inter`. El primer argumento debe serl el valor de $x$ donde se quiere interpolar. El segundo argumento es un arreglo `numpy` con los valores en observados en $x$. El tercer argumento es un arreglo `numpy` con los valores en observados en $y$.
 
-3. Seleccione tres números en el intervalo $[1,5]$ al azar y almacenelos en el arreglo numpy `xObs`. Estos son sus valores observados para $x$ y evalue la función $f(x) = x^3 + x^2 -2$, empleando la función escrita en el numeral 1, para obtener los valores observados en $y$. Almacene estos valore en `yObs`. Genere una figura en la que aparezca la función $f(x) = x^3 + x^2 -2$ con dominio $[1,5]$. Adicione a esta figura los tres puntos observados. Y, finalemente, utilice la función para interpolar los valores de la función en los puntos 1.5, 2.5 y 4.5, y adicionelos en la figura. 
+3. Seleccione tres números en el intervalo $[1,15]$ al azar y almacenelos en el arreglo numpy `xObs`. Estos son sus valores observados para $x$ y evalue la función $f(x) = x^3 + x^2 -2$, empleando la función escrita en el numeral 1, para obtener los valores observados en $y$. Almacene estos valore en `yObs`. Genere una figura en la que aparezca la función $f(x) = x^3 + x^2 -2$ con dominio $[0,15]$. Adicione a esta figura los tres puntos observados. Y, finalemente, utilice la función para interpolar los valores de la función en los puntos 6, 7 y 8, y adicionelos en la figura. 
 
 4. Sea
 
 $$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}, \qquad n = 1,2,3,4,5.$$
 
-Grafique estas funciones en el intervalo $x\in [0,0.5]$, en una sola figura. Además, indique los valores mínimo y máximo en este intervalo para cada función.
+Grafique estas funciones en una sola figura, para $x\in [0,0.5]$. Además, indique los valores mínimo y máximo con un punto y una estrella, respectivamente, en este intervalo para cada función.
 
-5.
+5. Escriba una función en `Python` para que dada una lista con los coeficientes de un polinomio, retorne su matriz compañera.  Dado un polinomio
+
+$$p(x) = a_0 + a_1x + a_2x^2 +\ldots + a_{m-1}x^{m-1}+ x^m, $$
+
+la función recibe como argumento la lista o arreglo $[a_0, a_1,\ldots,a_{m-1},1]$ y reporta la matriz compañera de $p(x)$: 
+
+$$\mathbf{C}_p = \left(
+  \begin{array}{c|c}
+   \mathbf{0}_{m} &-a_{0}\\
+  \hline
+  \mathbf{I}_{m} & \mathbf{R}\\
+  \end{array}
+  \right),
+  $$
+
+donde $\mathbf{I}_m$ es la matriz identidad de tamaño $m\times m$, $\mathbf{0}_{m}$ es el vector de ceros de tamaño $1\times m$, y $\mathbf{R}$ es el vector $(-a_{1}, -a_{2}, \ldots, -a_{m-1} )^T$.
+
+En caso de que el coeficiente de $x^m$ sea diferente a 1, la función devuelve la matriz compañera del polinomio con coeficientes
+$[a_0/a_m, a_1/a_m,\ldots,a_{m-1}/a_m,1]$.
+
 
 
