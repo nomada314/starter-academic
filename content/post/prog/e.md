@@ -23,9 +23,9 @@ Implemente en `Python` la fórmula de Lagrange para $n =2$. Su función debe tre
 
 4. Sea
 
-$$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}, \qquad n = 1,2,3,4,5.$$
+$$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}.$$
 
-Grafique estas funciones en una sola figura, para $x\in [0,0.5]$. Además, indique los valores mínimo y máximo con un punto y una estrella, respectivamente, en este intervalo para cada función.
+Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$. 
 
 5. Escriba una función en `Python` para que dada una lista con los coeficientes de un polinomio, retorne su matriz compañera.  Dado un polinomio
 
