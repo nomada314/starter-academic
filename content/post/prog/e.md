@@ -28,5 +28,6 @@ $$\mathbf{C}_p =
 \mathbf{I}_{m} & \mathbf{R}
 \end{pmatrix}
 $$
+$\, $
 donde $\mathbf{I}_m$ es la matriz identidad de tamaño $m\times m$, $\mathbf{0}_{m}$ es el vector de ceros de tamaño $1\times m$, y $\mathbf{R}$ es el vector $(-a_{1}, -a_{2}, \ldots, -a_{m-1} )^T$. En caso de que el coeficiente de $x^m$ sea diferente a 1, la función devuelve la matriz compañera del polinomio con coeficientes $[a_0/a_m, a_1/a_m,\ldots,a_{m-1}/a_m,1]$.
 
