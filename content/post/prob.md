@@ -31,13 +31,13 @@ Por cita.
 |2      |2022-09-06 | Probabilidad condicional  |
 |&nbsp; |2022-09-08 | Ejercicios |
 |3      |2022-09-13 | Variables aleatorias |
-|&nbsp; |2022-09-15 |  |
+|&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
 |4      |2022-09-20 | **Sesión de preguntas** |
 |&nbsp; |2022-09-22 | **Examen I** |
-|5      |2022-09-27 |  |
-|&nbsp; |2022-09-29 | |
-|6      |2022-10-04 |  |
-|&nbsp; |2022-10-06 | |
+|5      |2022-09-27 | Algunas distribuciones discretas  |
+|&nbsp; |2022-09-29 | Algunas distribuciones discretas |
+|6      |2022-10-04 | Algunas distribuciones continuas  |
+|&nbsp; |2022-10-06 | Algunas distribuciones continuas |
 |7      |2022-10-11 | &nbsp; |
 |&nbsp; |2022-10-13 | &nbsp; |
 |8      |2022-10-18 | &nbsp; |
