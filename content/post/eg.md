@@ -36,11 +36,11 @@ Semana | Fecha | Tema |
 &nbsp; | Sep 09 | [Probabilidad condicional](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#related-events) |
 3  | Sep 14 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
 &nbsp; | Sep 16 | Variables aleatorias |
-4  | Sep 21 | <font color="green">Sesión de preguntas</font>  |
-&nbsp; | Sep 23 | <font color="red">Examen I</font>  |
-5  | Sep 28 | Valores esperados y varianzas [4.2 - 4.3] |
-&nbsp; | Sep 30 | Distribuciones discretas [4.4] |
-6  | Oct 05 |  Distribuciones discretas (cont.) [4.4] |
+4  | Sep 21 |  |
+&nbsp; | Sep 23 | <font color="green">Sesión de preguntas</font>  |
+5  | Sep 28 |  <font color="red">Examen I</font>  |
+&nbsp; | Sep 30 | Valores esperados y varianzas [4.2 - 4.3] |
+6  | Oct 05 |  Distribuciones discretas [4.4] |
 &nbsp; | Oct 07 | Distribuciones continuas [5.1-5.3] |
 7  | Oct 12 |  Distribuciones continuas (cont.) [5.4] |
 &nbsp; | Oct 14 | Distribuciones continuas (cont.) [5.1-5.3] |
