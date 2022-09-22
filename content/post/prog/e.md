@@ -1,7 +1,7 @@
 +++
-date      = 2022-09-22
-lastmod   = 2022-09-22
-draft     = true
+date      = 2021-09-22
+lastmod   = 2021-09-22
+draft     = false
 title     = "Examen I"
 math      = true
 +++
@@ -9,9 +9,9 @@ math      = true
 1. [5] Escriba una función en `Python` que calcule $f(x) = x^3 + x^2 -2$.
 2. Dado un conjunto de $n+1$ puntos $(x_0,y_0), \ldots,(x_{n},y_{n})$ se quiere estimar el valor de $y(x)$ encontrando una curva que pase por todos los $n+1$ puntos, es decir, se quiere llevar a cabo una interpolación. La forma más simple de interpolar es por medio de un polinomio de grado $n$. Para esto acudimos a la fórmula de Lagrange: 
 
-\begin{equation}
+$$
 P_n(x) = \sum_{i=0}^n y_i l_i(x),
-\end{equation}
+$$
 
 donde
 
