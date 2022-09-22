@@ -21,7 +21,12 @@ Implemente en `Python` la fórmula de Lagrange para $n =2$. Su función debe tre
 
 3. Seleccione tres números en el intervalo $[1,5]$ al azar y almacenelos en el arreglo numpy `xObs`. Estos son sus valores observados para $x$ y evalue la función $f(x) = x^3 + x^2 -2$, empleando la función escrita en el numeral 1, para obtener los valores observados en $y$. Almacene estos valore en `yObs`. Genere una figura en la que aparezca la función $f(x) = x^3 + x^2 -2$ con dominio $[1,5]$. Adicione a esta figura los tres puntos observados. Y, finalemente, utilice la función para interpolar los valores de la función en los puntos 1.5, 2.5 y 4.5, y adicionelos en la figura. 
 
-4.
+4. Sea
+
+$$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}, \qquad n = 1,2,3,4,5.$$
+
+Grafique estas funciones en el intervalo $x\in [0,0.5]$, en una sola figura. Además, indique los valores mínimo y máximo en este intervalo para cada función.
+
 5.
 
 
