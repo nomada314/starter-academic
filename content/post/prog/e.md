@@ -17,7 +17,7 @@ Implemente en `Python` la fórmula de Lagrange para $n =2$. Su función debe tre
 
 4. [30] Sea
 $$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}.$$
-Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$.  Para encontrar la derivada, debe emplear `sympy`.
+Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$.  Para encontrar la derivada, debe emplear `SymPy`.
 
 5. [35] Escriba una función en `Python` para que dada una lista con los coeficientes de un polinomio, retorne su matriz compañera.  Dado un polinomio
 $$p(x) = a_0 + a_1x + a_2x^2 +\ldots + a_{m-1}x^{m-1}+ x^m, $$
