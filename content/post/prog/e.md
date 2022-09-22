@@ -22,7 +22,8 @@ Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$.  Para en
 5. [35] Escriba una función en `Python` para que dada una lista con los coeficientes de un polinomio, retorne su matriz compañera.  Dado un polinomio
 $$p(x) = a_0 + a_1x + a_2x^2 +\ldots + a_{m-1}x^{m-1}+ x^m, $$
 la función recibe como argumento la lista o arreglo $[a_0, a_1,\ldots,a_{m-1},1]$ y reporta la matriz compañera de $p(x)$: 
-$$\mathbf{C}_p =
+
+$$\mathbf{C}\_p =
 \begin{pmatrix}
 \mathbf{0}_{m} & -a_{0}\\
 \mathbf{I}_{m} & \mathbf{R}
