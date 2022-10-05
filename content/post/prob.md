@@ -34,14 +34,14 @@ Por cita.
 |&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
 |4      |2022-09-20 | **Sesión de preguntas** |
 |&nbsp; |2022-09-22 | **Examen I** |
-|5      |2022-09-27 | Algunas distribuciones discretas  |
-|&nbsp; |2022-09-29 | Algunas distribuciones discretas |
-|6      |2022-10-04 | Algunas distribuciones continuas  |
-|&nbsp; |2022-10-06 | Algunas distribuciones continuas |
-|7      |2022-10-11 | &nbsp; |
-|&nbsp; |2022-10-13 | &nbsp; |
-|8      |2022-10-18 | &nbsp; |
-|&nbsp; |2022-10-20 | &nbsp; |
+|5      |2022-09-27 | Solución Examen I  |
+|&nbsp; |2022-09-29 | Bernoulli |
+|6      |2022-10-04 | Binomial, Poisson  |
+|&nbsp; |2022-10-06 | Ejercicios Binomial y Poisson |
+|7      |2022-10-11 | Uniforme, Exponencial |
+|&nbsp; |2022-10-13 | Gamma, Normal |
+|8      |2022-10-18 | **Sesión de preguntas** |
+|&nbsp; |2022-10-20 | **Examen II** |
 |9      |2022-10-25 | &nbsp; |
 |&nbsp; |2022-10-27 | &nbsp; |
 |10     |2022-11-01 |  |
