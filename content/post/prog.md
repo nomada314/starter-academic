@@ -37,24 +37,24 @@ Por cita.
 |&nbsp; |2022-09-29 | Ciclos: [ [PSP9](https://problemsolvingwithpython.com/09-Loops/09.00-Introduction/), LR 3.1] |
 |6      |2022-10-04 | Ciclos (continuación) |
 |&nbsp; |2022-10-06 | Ciclos (continuación) |
-|7      |2022-10-11 | Examen II |
-|&nbsp; |2022-10-13 | &nbsp; |
-|8      |2022-10-18 | &nbsp; |
-|&nbsp; |2022-10-20 | &nbsp; |
-|9      |2022-10-25 | &nbsp; |
+|7      |2022-10-11 | Eliminación ciclos [LR 4]|
+|&nbsp; |2022-10-13 | Eliminación ciclos (continuación) |
+|8      |2022-10-18 | Examen II |
+|&nbsp; |2022-10-20 | Presentaciones |
+|9      |2022-10-25 | Álgebra lineal, Polinomios  |
 |&nbsp; |2022-10-27 | &nbsp; |
-|10     |2022-11-01 | Eliminación de ciclos [LR 4]  |
-|&nbsp; |2022-11-03 | Eliminación de ciclos (continuación) |
-|11     |2022-11-08 | Eliminación de ciclos (continuación)  |
-|&nbsp; |2022-11-10 | Álgebra lineal, Polinomios   |
-|12     |2022-11-15 | Presentaciones ejemplos seleccionados  |
-|&nbsp; |2022-11-17 | Presentaciones ejemplos seleccionados (continuación)  |
-|13     |2022-11-22 | Permiso académico  |
-|&nbsp; |2022-11-24 | Manipulación de bases de datos   |
-|14     |2022-11-29 | Manipulación de bases de datos (continuación)    |
-|&nbsp; |2022-12-01 | <br> **Entrega Taller # 7**    |
-|15     |2022-12-06 | Manipulación de bases de datos (continuación)  |
-|&nbsp; |2022-12-08 |&nbsp;    |
+|10     |2022-11-01 | Manipulación de bases de datos   |
+|&nbsp; |2022-11-03 | &nbsp; |
+|11     |2022-11-08 | &nbsp; |
+|&nbsp; |2022-11-10 | &nbsp; |
+|12     |2022-11-15 | &nbsp; |
+|&nbsp; |2022-11-17 | &nbsp; |
+|13     |2022-11-22 | &nbsp; |
+|&nbsp; |2022-11-24 | &nbsp; |
+|14     |2022-11-29 | &nbsp; |
+|&nbsp; |2022-12-01 | &nbsp;    |
+|15     |2022-12-06 | &nbsp; |
+|&nbsp; |2022-12-08 | &nbsp;    |
 |16     |2022-12-13 | Presentación proyectos    |
 |&nbsp; |2022-12-15 | Presentación proyectos    |
 
