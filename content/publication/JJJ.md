@@ -1,6 +1,6 @@
 +++
-title = "Julia"
-date = "2022-10-10"
+title = "Julia, Julia, Julia"
+date = "2023-03-10"
 authors = ["admin"]
 publication_types = ["5"]
 abstract = ""
