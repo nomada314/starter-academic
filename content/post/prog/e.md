@@ -16,8 +16,8 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 6. Cree una lista llamada `orden`, donde almacenaremos $5$ enteros. Inicialice esta lista con el entero `0`, es decir, `orden = [0]`.
 7. [5] Al punto con la mínima coordenada en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
 8. [10] Repita 3 veces más numeral 7 de la siguiente manera. Para $i = 2,\ldots,4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`.
-9. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir $$c1 = \left(\begin{array}{cc} x_0 & y_0\\ x_1 & y_1\\\ldots\\x_5 & y_5\\\end{array}\right)$$
-10. [10] Calcule $$\frac12|S_1 - S_2|$$ donde $$S_1 = x_1y_2 + x_2y_3 + \cdots+ x_5y_1$$ y $$S_2 = y_1x_2 + y_2x_3 + \cdots + y_5x_1.$$
+9. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir $$c1 =\begin{pmatrix} x_0 & y_0\\ x_1 & y_1\\ x_5 & y_5\\ \end{pmatrix}$$
+10. [10] Con base en el arreglo `c1`, cree el arreglo `c2` con forma `(6,2)` donde las primeras 5 filas de `c2` son iguales a `c1` y la última fila es igual a la primera fila de `c1`. Sin utilizar ciclos, calcule $$\frac12|S_1 - S_2|$$ donde $$S_1 = x_1y_2 + x_2y_3 + \cdots+ x_5y_1$$ y $$S_2 = y_1x_2 + y_2x_3 + \cdots + y_5x_1.$$ **Ayuda:** considere la función `np.concatenate()`
 
 
 ```{python}
