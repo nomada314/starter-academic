@@ -39,10 +39,10 @@ Por cita.
 |6      |2022-10-04 | Binomial, Poisson  |
 |&nbsp; |2022-10-06 | Ejercicios Binomial y Poisson |
 |7      |2022-10-11 | Uniforme, Exponencial |
-|&nbsp; |2022-10-13 | Gamma, Normal |
+|&nbsp; |2022-10-13 | Normal |
 |8      |2022-10-18 | **Sesión de preguntas** |
 |&nbsp; |2022-10-20 | **Examen II** |
-|9      |2022-10-25 | &nbsp; |
+|9      |2022-10-25 | Solución Examen II |
 |&nbsp; |2022-10-27 | &nbsp; |
 |10     |2022-11-01 |  |
 |&nbsp; |2022-11-03 |  |
