@@ -1,32 +1,30 @@
 +++
 date      = 2022-10-17
 lastmod   = 2022-10-17
-draft     = true
+draft     = false
 title     = "Examen I- supletorio"
 math      = true
 +++
 
-1. [5] Escriba una función en `Python` que calcule $f(x) = x^3 + x^2 -2$.
-2. [15] Dado un conjunto de $n+1$ puntos $(x_0,y_0), \ldots,(x_{n},y_{n})$ se quiere estimar el valor de $y(x)$ encontrando una curva que pase por todos los $n+1$ puntos, es decir, se quiere llevar a cabo una interpolación. La forma más simple de interpolar es por medio de un polinomio de grado $n$. Para esto acudimos a la fórmula de Lagrange: 
-$$P_n(x) = \sum_{i=0}^n y_i l_i(x),$$
-donde
-$$l_i(x)  = \prod_{j=0, j\neq i}^n \frac{x-x_j}{x_i-x_j}, \quad i = 0,1, \ldots, n.$$
-Implemente en `Python` la fórmula de Lagrange para $n =2$. Su función debe tres argumentos y llamerse `inter`. El primer argumento debe serl el valor de $x$ donde se quiere interpolar. El segundo argumento es un arreglo `numpy` con los valores observados en $x$. El tercer argumento es un arreglo `numpy` con los valores en observados en $y$.
-
-3. [15] Seleccione tres números en el intervalo $[1,15]$ al azar y almacenelos en el arreglo numpy `xObs`. Estos son sus valores observados para $x$. Evalue la función $f(x) = x^3 + x^2 -2$, empleando la función escrita en el numeral 1, para obtener los valores observados en $y$. Almacene estos valores en `yObs`. Genere una figura en la que aparezca la función $f(x) = x^3 + x^2 -2$ con dominio $[0,15]$. Adicione a esta figura los tres puntos observados. Utilice la función para interpolar los valores de la función en los puntos $x= 6, 7, 8$, y adicionelos en la figura. 
-
-4. [30] Sea
-$$f_n(x) = x(1-x)\mbox{sen}{(n \pi x)}.$$
+1. Algunas compañías de tarjetas de crédito y varias oficinas de Gobierno usan el algoritmo de Luhn, o algoritmo de *módulo 10*, para distinguir entre números válidos y números con errores. Estos son los pasos para llevar a cabo la verificación: 
+* Invierta la secuencia de números,
+* para los números en las posiciones pares, aplique la siguiente función
+$$ g(x) = \left\{
+      \begin{array}{lcl}
+      2x &\quad& \mbox{si } x\leq 4\\
+      \\
+      2x+1 \text{ mod } 10 &\quad& \mbox{si } x>4\\
+      \end{array}
+      \right.
+$$
+y reemplace los valores originales por los valores obtenidos
+*  sume los dígitos de la secuencia
+*  si la suma módulo 10 es 0, el número es válido.
+Escriba una función codificando este algoritmo para un número digitado como una cadena de caracteres. Por ejemplo, para verificar el número 413587652, el argumento debe escribirse así `'413587652'`. Si la cadena de caracteres digitada contiene un número válido, su función debe imprimir "Número válido", de otra manera imprimer "Número no válido".
+2. [30] Sea
+$$f_n(x) = x(1-x^2)\mbox{sen}{(n \pi x)}.$$
 Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$.  Para encontrar la derivada, debe emplear `SymPy`.
 
-5. [35] Escriba una función en `Python` para que dada una lista con los coeficientes de un polinomio, retorne su matriz compañera.  Dado un polinomio
-$$p(x) = a_0 + a_1x + a_2x^2 +\ldots + a_{m-1}x^{m-1}+ x^m, $$
-la función recibe como argumento la lista o arreglo $[a_0, a_1,\ldots,a_{m-1},1]$ y reporta la matriz compañera de $p(x)$: 
-$$
-\begin{pmatrix}
-\mathbf{0}\_{m} & -a_{0}\\
-\mathbf{I}\_{m} & \mathbf{R} 
-\end{pmatrix}
-$$
-donde $\mathbf{I}_m$ es la matriz identidad de tamaño $m\times m$, $\mathbf{0}_{m}$ es el vector de ceros de tamaño $1\times m$, y $\mathbf{R}$ es el vector $(-a_{1}, -a_{2}, \ldots, -a_{m-1} )^T$. En caso de que el coeficiente de $x^m$ sea diferente a 1, la función devuelve la matriz compañera del polinomio con coeficientes $[a_0/a_m, a_1/a_m,\ldots,a_{m-1}/a_m,1]$.
-
+5. [35] La concentración de iones de hidrógeno de una solución de ácido, $[\mbox{H}^+]$, puede ser determinada mediante la siguiente aproximación iterativa
+$$[\mbox{H}^+]_{n+1} = \sqrt{K_a(c - [\mbox{H}^+]_{n})},$$
+donde $K_a$ es la constante de desasociación del ácido, y $c$ es su concentración, con $[\mbox{H}^+]_{0}=0$. Las iteraciones continúan hasta que $|[\mbox{H}^+]_{n+1} - [\mbox{H}^+]_{n}| < \delta$,  donde $\delta$ es un valor de tolerancia pequeño y predeterminado. Emplee este método para determinar la concentración de iones de hidrógeno de una solución de ácido acético con $c = 0.01$ M y $K_a=1.78\times 10^{-5}$. También calcule su pH, utilizando la siguiente fórmula: $pH = -\log_{10}{[\mbox{H}^+]}$.
