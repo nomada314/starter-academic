@@ -1,7 +1,7 @@
 +++
 date      = 2022-10-17
 lastmod   = 2022-10-17
-draft     = true
+draft     = false
 title     = "Examen II"
 math      = true
 +++
@@ -15,7 +15,7 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 4. [25] Defina una nueva función llamada `distNueva()` que calcule la "distancia" $d^{\star}$ para todos los puntos en un arreglo con forma `(n,2)`, con $$d^{\star}( (w_1,w_2) , (z_1,z_2)) = |w_1-z_1| + 2|w_2-z_2|.$$ Utilice su función para calcular la "distancia" $d^{\star}$ para los 5 puntos encontrados en el anterior numeral. <br> **Ayuda:** modifique solamente la cuarta línea de la función `distEuclidiana()`.
 5. Cree una lista llamada `orden`, donde almacenaremos $5$ enteros. Inicialice esta lista con el entero `0`, es decir, `orden = [0]`.
 6. [5] Al punto con la coordenada más pequeña en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
-7. [10] Repita 3 veces más numeral 6 de la siguiente manera. Para $i = 2,\ldots,4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`.
+7. [10] Repita 3 veces más numeral 6 de la siguiente manera. Para $i = 2,\ldots,4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`. Utilice un ciclo. <br> **Ayuda:** Puede hacer uso de `np.Inf` para reeplazar las distancias de los individuos que están incluidos en la lista `orden`
 8. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir,  <br> $$c1 = \begin{pmatrix}
 x_0 & y_0\\\
 x_1 & y_1\\\
