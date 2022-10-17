@@ -6,7 +6,7 @@ title     = "Examen II"
 math      = true
 +++
 
-Vamos a calcular el área de un polígono de dos maneras. Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy` con forma `(n,2)`. De ahora en adelante, nos referimos a los valores en la primera columna como las coordenadas en el eje $x$ y en la segunda columna como las coordenadas en el eje $y$.
+Vamos a calcular el área de un polígono de dos maneras. Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy` con forma `(n,2)`. De ahora en adelante, nos referimos a los valores en la primera columna como las coordenadas en el eje $x$ y en la segunda columna como las coordenadas en el eje $y$. Además, vamos a asumir, sin pérdida de generalidad, que el polígono se encuentra dentro de la región $[0,1]\times[0,1]$.
 
 
 1. <font color="red">[10]</font> Dado un arreglo con forma `(n,2)`, organizamos en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
@@ -18,15 +18,32 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 7. <font color="red">[10]</font> Repita 3 veces más el numeral 6 de la siguiente manera. Para $i = 2, 3, 4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`. **Utilice un ciclo.** <br> **Ayuda:** Puede hacer uso de `np.Inf` para reemplazar las distancias de los individuos que están incluidos en la lista `orden`, y así evitar incluir estos al calcular el individuo más cercano.
 8. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir,  <br> $$c1 = 
 \begin{pmatrix}
-x_0 & y_0\\
-x_1 & y_1\\
-x_2 & y_2\\
-x_3 & y_3\\
+x_0 & y_0\\\\
+x_1 & y_1\\\\
+x_2 & y_2\\\\
+x_3 & y_3\\\\
 x_4 & y_4 
 \end{pmatrix}
 $$
 9. <font color="red">[10]</font> Con base en el arreglo `c1`, cree el arreglo `c2` con forma `(6,2)` donde las primeras 5 filas de `c2` son iguales a `c1` y la última fila es igual a la primera fila de `c1`. Sin utilizar ciclos, calcule $$\frac12|S_1 - S_2|$$ donde $$S_1 = x_1y_2 + x_2y_3 + \cdots+ x_5y_1$$ y $$S_2 = y_1x_2 + y_2x_3 + \cdots + y_5x_1.$$ **Ayuda:** considere la función `np.concatenate()`
-10. <font color="blue">[20] Estos son puntos extra, luego solo inténtelo si tiene tiempo disponible.</font>  
+10. <font color="blue">[20] Estos son puntos extra, luego solo inténtelo si tiene tiempo disponible.</font>  Al ejecutar el siguiente código:
+```{python}
+from matplotlib.patches import Polygon
+p2 = Polygon(c1, True)
+fig = plt.figure()
+ax = fig.add_subplot(111)
+ax.add_patch(p2)
+plt.axis('off')
+```
+Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$ ( `mcC = np.random.rand(100000 ,2)` ). Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono. Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
+```{pythpn}
+import matplotlib.path as Cam
+p3 = Cam.Path(c1)
+dentro = p3.contains_points(mcC)
+```
+Así, el arreglo `dentro` contiene si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
+
+
 
 
 ```{python}
