@@ -9,7 +9,7 @@ math      = true
 1. [35] Algunas compañías de tarjetas de crédito y varias oficinas de Gobierno usan el algoritmo de Luhn, o algoritmo de *módulo 10*, para distinguir entre números válidos y números con errores. Estos son los pasos para llevar a cabo la verificación: 
 * Invierta la secuencia de números,
 * para los números en las posiciones pares, aplique la siguiente función
-$$ g(x) = \\left\{
+$$ g(x) = \\left\\{
       \begin{array}{lcl}
       2x &\quad& \mbox{si } x\leq 4\\
       \\
