@@ -23,7 +23,7 @@ y reemplace los valores originales por los valores obtenidos
 Escriba una función codificando este algoritmo para un número digitado como una cadena de caracteres. Por ejemplo, para verificar el número 413587652, el argumento debe escribirse así `'413587652'`. Si la cadena de caracteres digitada contiene un número válido, su función debe imprimir "Número válido", de otra manera imprimer "Número no válido".
 2. [30] Sea
 $$f_n(x) = x(1-x^2)\mbox{sen}{(n \pi x)}.$$
-Grafique $f_4(x)$ y $f'_4(x)/6$ en una sola figura para $x\in [0,0.5]$.  Para encontrar la derivada, debe emplear `SymPy`.
+Grafique $f_4(x)$ y $f'_4(x)/10$ en una sola figura para $x\in [0,0.4]$.  Para encontrar la derivada, debe emplear `SymPy`.
 
 5. [35] La concentración de iones de hidrógeno de una solución de ácido, $[\mbox{H}^+]$, puede ser determinada mediante la siguiente aproximación iterativa
 $$[\\mbox{H}^+]_{n+1} = \\sqrt{K_a(c - [\\mbox{H}^+]_{n})},$$
