@@ -17,6 +17,7 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 7. [5] Al punto con la mínima coordenada en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
 8. [10] Repita 3 veces más numeral 7 de la siguiente manera. Para $i = 2,\ldots,4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`.
 9. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir $$c1 = \left(\begin{array}{cc} x_0 & y_0\\ x_1 & y_1\\\ldots\\x_5 & y_5\\\end{array}\right)$$
+10. [10] Calcule $$\frac12|S_1 - S_2|$$ donde $$S_1 = x_1y_2 + x_2y_3 + \cdots+ x_5y_1$$ y $$S_2 = y_1x_2 + y_2x_3 + \cdots + y_5x_1.$$
 
 
 ```{python}
