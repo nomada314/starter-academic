@@ -11,12 +11,20 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 
 1. <font color="red">[10]</font> Dado un arreglo con forma `(n,2)`, organizamos en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
 2. <font color="red">[15]</font> Encuentre el punto medio para un arreglo con forma `(n,2)`. Es decir, encuentre $$p = \left(\frac1n\sum_{i=1}^n{x_i}, \frac1n\sum_{i=1}^n{y_i}\right).$$
-3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida al final de esta página, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`. 
-4. <font color="red">[25]</font> Defina una nueva función llamada `distNueva()` que calcule la *distancia* $d^{\star}$ para todos los puntos en un arreglo con forma `(n,2)`, con $$d^{\star}( (w_1,w_2) , (z_1,z_2)) = |w_1-z_1| + 2|w_2-z_2|.$$ Utilice su función para calcular la *distancia* $d^{\star}$ para los 5 puntos encontrados en el anterior numeral. <br> **Ayuda:** modifique solamente la cuarta línea de la función `distEuclidiana()`.
-5. Cree una lista llamada `orden`, donde almacenaremos $5$ enteros. Inicialice esta lista con el entero `0`, es decir, `orden = [0]`.
-6. <font color="red">[5]</font> Al punto con la coordenada más pequeña en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
-7. <font color="red">[10]</font> Repita 3 veces más el numeral 6 de la siguiente manera. Para $i = 2, 3, 4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`. **Utilice un ciclo.** <br> **Ayuda:** Puede hacer uso de `np.Inf` para reemplazar las distancias de los individuos que están incluidos en la lista `orden`, y así evitar incluir estos al calcular el individuo más cercano.
-8. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir,  <br> $$c1 = 
+3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`.
+```{python}
+def distEuclidiana(X):
+    n, p = X.shape
+    diferencias = X.reshape(n,1,p) - X
+    distancias = (diferencias**2).sum(axis=2)
+    np.fill_diagonal(distancias, np.Inf)
+    return distancias
+``` 
+5. <font color="red">[25]</font> Defina una nueva función llamada `distNueva()` que calcule la *distancia* $d^{\star}$ para todos los puntos en un arreglo con forma `(n,2)`, con $$d^{\star}( (w_1,w_2) , (z_1,z_2)) = |w_1-z_1| + 2|w_2-z_2|.$$ Utilice su función para calcular la *distancia* $d^{\star}$ para los 5 puntos encontrados en el anterior numeral. <br> **Ayuda:** modifique solamente la cuarta línea de la función `distEuclidiana()`.
+6. Cree una lista llamada `orden`, donde almacenaremos $5$ enteros. Inicialice esta lista con el entero `0`, es decir, `orden = [0]`.
+7. <font color="red">[5]</font> Al punto con la coordenada más pequeña en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
+8. <font color="red">[10]</font> Repita 3 veces más el numeral 6 de la siguiente manera. Para $i = 2, 3, 4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`. **Utilice un ciclo.** <br> **Ayuda:** Puede hacer uso de `np.Inf` para reemplazar las distancias de los individuos que están incluidos en la lista `orden`, y así evitar incluir estos al calcular el individuo más cercano.
+9. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir,  <br> $$c1 = 
 \begin{pmatrix}
 x_0 & y_0\\\\
 x_1 & y_1\\\\
@@ -35,23 +43,11 @@ ax = fig.add_subplot(111)
 ax.add_patch(p2)
 plt.axis('off')
 ```
-Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$ ( `mcC = np.random.rand(100000 ,2)` ). Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono. Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
+Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$. Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono: <br> <img src="https://alexrojas.netlify.app/media/Prog/P1.png" width="400"/>. Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
 ```{pythpn}
 import matplotlib.path as Cam
 p3 = Cam.Path(c1)
 dentro = p3.contains_points(mcC)
 ```
-Así, el arreglo `dentro` contiene si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
-
-
-
-
-```{python}
-def distEuclidiana(X):
-    n, p = X.shape
-    diferencias = X.reshape(n,1,p) - X
-    distancias = (diferencias**2).sum(axis=2)
-    np.fill_diagonal(distancias, np.Inf)
-    return distancias
-```
+donde `mcC` contiene las coordenadas. Así, el arreglo `dentro` contiene si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
 
