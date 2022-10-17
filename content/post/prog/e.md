@@ -11,7 +11,7 @@ Vamos a calcular el área de un polígono de dos maneras. Podemos representar un
 
 1. <font color="red">[10]</font> Dado un arreglo con forma `(n,2)`, organizamos en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
 2. <font color="red">[15]</font> Encuentre el punto medio para un arreglo con forma `(n,2)`. Es decir, encuentre $$p = \left(\frac1n\sum_{i=1}^n{x_i}, \frac1n\sum_{i=1}^n{y_i}\right).$$
-3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`.
+3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`. 
 ```{python}
 def distEuclidiana(X):
     n, p = X.shape
@@ -43,11 +43,11 @@ ax = fig.add_subplot(111)
 ax.add_patch(p2)
 plt.axis('off')
 ```
-Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$. Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono: <br> <img src="https://alexrojas.netlify.app/media/Prog/P1.png" width="400"/>. Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
+Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$. Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono: <br> <img src="https://alexrojas.netlify.app/media/Prog/P1.png" width="400"/> Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
 ```{pythpn}
 import matplotlib.path as Cam
 p3 = Cam.Path(c1)
 dentro = p3.contains_points(mcC)
 ```
-donde `mcC` contiene las coordenadas. Así, el arreglo `dentro` contiene si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
+donde `mcC` contiene las coordenadas. Así, el arreglo `dentro` almacena si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
 
