@@ -24,7 +24,7 @@ def distEuclidiana(X):
 6. Cree una lista llamada `orden`, donde almacenaremos $5$ enteros. Inicialice esta lista con el entero `0`, es decir, `orden = [0]`.
 7. <font color="red">[5]</font> Al punto con la coordenada más pequeña en el eje $y$ lo denotamos por $(x_0,y_0)$.  Encuentre el punto más cercano a $(x_0,y_0)$ utilizando la distancia $d^{\star}$, al cual denotamos como $(x_1,y_1)$, y añada a la lista `orden` la posición original de $(x_1,y_1)$. 
 8. <font color="red">[10]</font> Repita, por medio de ciclos, 3 veces más el numeral 6 de la siguiente manera. Para $i = 2, 3, 4$, encuentre el punto más cercano a $(x_{i-1},y_{i-1})$ sin considerar los puntos correspondientes a los índices incluidos en la lista llamada `orden`. <br> **Ayuda:** Puede hacer uso de `np.Inf` para reemplazar las distancias de los individuos que están incluidos en la lista `orden`, y así evitar incluir estos al calcular el individuo más cercano.
-9. Almacene en el arreglo `c1` las coordenadas de los cinco puntos más cercanos al centro en orden. Es decir,  <br> $$c1 = 
+9. Reorganice el arreglo `c1` utilizando la lista `orden`. De esta manera, las coordenadas de los cinco puntos más cercanos al centro quedan ordenadas por medio de la *distancia* $d^{\star}$: <br> $$c1 = 
 \begin{pmatrix}
 x_0 & y_0\\\\
 x_1 & y_1\\\\
