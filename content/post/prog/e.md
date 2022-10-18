@@ -43,11 +43,11 @@ ax = fig.add_subplot(111)
 ax.add_patch(p2)
 plt.axis('off')
 ```
-Aparece en pantalla un polígono pormado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$. Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono: <br> <img src="https://alexrojas.netlify.app/media/Prog/P1.png" width="400"/> Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
+Aparece en pantalla un polígono formado por las coordenadas almacenadas en `c1`.  Nos gustaría estimar el área de este polígono utilizando simulación. Para esto, genere `10000` números aleatorios distribuidos uniformemente en $[0,1]\times[0,1]$. Un valor estimado del área del polígono es la proporción de estos números aleatorios que están dentro del polígono: <br> <img src="https://alexrojas.netlify.app/media/Prog/P1.png" width="400"/> Para determinar si los puntos caen dentro del polígono podemos utilizar el código:
 ```{pythpn}
 import matplotlib.path as Cam
-p3 = Cam.Path(c1)
-dentro = p3.contains_points(mcC)
+p3 = Cam.Path(c1).                        # crear un objeto de tipo `Path
+dentro = p3.contains_points(mcC)          # Determina si el polígono contiene los puntos en mcC
 ```
 donde `mcC` contiene las coordenadas. Así, el arreglo `dentro` almacena si el polígono contiene a los puntos o no. Calcule la proporción y compárela con su resultado en el numeral 9.
 
