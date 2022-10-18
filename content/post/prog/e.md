@@ -6,7 +6,7 @@ title     = "Examen II"
 math      = true
 +++
 
-Vamos a calcular el área de un polígono de dos maneras. Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy` con forma `(n,2)`. De ahora en adelante, nos referimos a los valores en la primera columna como las coordenadas en el eje $x$ y en la segunda columna como las coordenadas en el eje $y$. Además, vamos a asumir, sin pérdida de generalidad, que el polígono se encuentra dentro de la región $[0,1]\times[0,1]$.
+Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy` con forma `(n,2)`. De ahora en adelante, nos referimos a los valores en la primera columna como las coordenadas en el eje $x$ y en la segunda columna como las coordenadas en el eje $y$. Además, vamos a asumir, sin pérdida de generalidad, que el polígono se encuentra dentro de la región $[0,1]\times[0,1]$.
 
 
 1. <font color="red">[10]</font> Dado un arreglo con forma `(n,2)`, organizamos en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
