@@ -11,7 +11,7 @@ Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy`
 
 1. <font color="red">[10]</font> Dado un arreglo llamado `coordenadas` con forma `(n,2)`, organizar en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
 2. <font color="red">[15]</font> Encuentre el punto medio para el arreglo `coordenadas`. Es decir, encuentre $$p = \left(\frac1n\sum_{i=1}^n{x_i}, \frac1n\sum_{i=1}^n{y_i}\right).$$
-3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`. 
+3. [25] De los $n$ puntos originales en `coordenadas`, elimine todos los puntos menos los **5** más distantes al punto medio. Guarde el resultado en el arreglo `c1`. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`. 
 ```{python}
 def distEuclidiana(X):
     n, p = X.shape
