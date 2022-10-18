@@ -9,7 +9,7 @@ math      = true
 Podemos representar un polígono con $n$ vértices utilizando un arreglo `NumPy` con forma `(n,2)`. De ahora en adelante, nos referimos a los valores en la primera columna como las coordenadas en el eje $x$ y en la segunda columna como las coordenadas en el eje $y$. Además, vamos a asumir, sin pérdida de generalidad, que el polígono se encuentra dentro de la región $[0,1]\times[0,1]$.
 
 
-1. <font color="red">[10]</font> Dado un arreglo con forma `(n,2)`, organizamos en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
+1. <font color="red">[10]</font> Dado un arreglo llamado `coordenadas` y con forma `(n,2)`, organizar en forma ascendente el arreglo utilizando las coordenadas en el eje $y$. <br> **Ayuda** considere el método `argsort()`.
 2. <font color="red">[15]</font> Encuentre el punto medio para un arreglo con forma `(n,2)`. Es decir, encuentre $$p = \left(\frac1n\sum_{i=1}^n{x_i}, \frac1n\sum_{i=1}^n{y_i}\right).$$
 3. [25] De los $n$ puntos originales, elimine todos menos los 5 puntos más distantes al punto medio. <br> **Ayuda:** una manera de hacerlo es utilizar la función `np.concatenate()` para combinar los puntos originales y el punto medio en un solo arreglo. Luego, utilizar la función `distEuclidiana()`, definida a continuación, para encontrar las distancias entro estos puntos. Finalmente, seleccionar los 5 puntos más lejano al punto medio (de nuevo, considerel método `.argsort()`. 
 ```{python}
