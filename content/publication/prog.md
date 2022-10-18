@@ -155,8 +155,8 @@ Figura  | Descripción
 
 #### Capítulo IV
 
-* **p.132**, *Ejemplo 4.17*, Segundo párrafo, décima línea. Debe ser "Aunque", no "Auqnue".
-* **p.150**, *Ejemplo 4.20* En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{O}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
+* **p.132**, *Ejemplo 4.17*, segundo párrafo, décima línea. Debe ser "Aunque", no "Auqnue".
+* **p.150**, *Ejemplo 4.20*. En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{0}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
 * **p.155**, *Figura 4.24*. La etiqueta en $x$ debe ser "Tiempo (min)", no "Tiempo (h)".
 * **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
 
