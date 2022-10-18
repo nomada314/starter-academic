@@ -145,15 +145,23 @@ Figura  | Descripción
 
 ## Errata
 
-Capítulo I
+#### Capítulo I
 
 * **p.45**, *Ejercicio 1.4*. El exponente en la constante gravitacional de Newton es -11, no 11. Es decir, $G = 6.6739\times 10^{-11}\, \mathrm{m}^3\, \mathrm{kg}^{-1}\,\mathrm{s}^{-2}$.
 
-Capítulo IV
-* **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
-* **p.150**, *Ejemplo 4.20* En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{O}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
+#### Capítulo III
 
-Capítulo V
+* **p.79**, primer párrafo, cuarta línea. sobra un "la" antes de "podemos".
+
+#### Capítulo IV
+
+* **p.132**, *Ejemplo 4.17*, Segundo párrafo, décima línea. Debe ser "Aunque", no "Auqnue".
+* **p.150**, *Ejemplo 4.20* En la definición de la matriz compañera $\mathbf{C}\_p$, en lugar de $\mathbf{I}\_m$ y $\mathbf{0}\_m$, debe ser $\mathbf{I}\_{m-1}$ y $\mathbf{0}\_{m-1}$, donde $\mathbf{I}\_{m-1}$ es la matriz identidad de tamaño $(m-1)\times(m-1)$, y $\mathbf{O}\_{m-1}$  es el vector de ceros de tamaño $m-1$.
+* **p.155**, *Figura 4.24*. La etiqueta en $x$ debe ser "Tiempo (min)", no "Tiempo (h)".
+* **p.158**, *Ejercicio 4.3*. Los valores de $x$ deben estar en el intervalo [0,0.5].
+
+#### Capítulo V
+
 * **p. 175**,  *Ejemplo 5.7*. Debe ser "ascención recta" en lugar de "ascención derecha".
 
 
