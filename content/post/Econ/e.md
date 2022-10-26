@@ -1,7 +1,7 @@
 +++
 date      = 2022-10-26
 lastmod   = 2022-10-26
-draft     = true
+draft     = false
 title     = "Examen II - supletorio"
 math      = true
 +++
