@@ -13,7 +13,7 @@ math      = true
 * between $ 74.57 and $ 94.57
 * more than $ 104.57
 * exactly $ 84.57
-* Find the value $c$ such that $\mathcal{P}(X< c) \approx .93$, where $X$ is the the charge for tax preparation by H&R Block, Inc.
+* Find the value $c$ such that $\Pr(X< c) \approx .93$, where $X$ is the the charge for tax preparation by H&R Block, Inc.
 3.
 4.
 5.
