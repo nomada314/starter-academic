@@ -21,5 +21,8 @@ math      = true
 * (3) For what number of miles does the probability become 80\% that a randomly selected pump will no longer be effective?
 * (8) The company would like to design a more durable pump so that no more than 2\% of original-equipment pumps are returned under free warranty, and the standard deviation continues to be 10,000 miles. What will the new average service life have to be in order for the new pump design to comply with the requirement?
 4. (20) Some companies "grade on a bell curve" to compare the performance of their managers and professional workers. This forces the use of some low performance ratings, so that not all workers are graded "above average." Until the threat of lawsuits forced a change, Ford Motor Company's "performance management process" assigned 16% A grades, 68% B grades, and 16% C grades to the company's 18,000 managers. Suppose that Ford's performance scores are "bell-shaped". One year, managers with scores less than 25 received C's and those with scores above 475 received A's. What are the mean and standard deviation of the scores?
-5.
+5. Sodium content (in milligrams) is measured for bags of potato chips sampled from a production line. The standard deviation of the sodium content measurement is $\sigma =  2\,$mg.  
+* (10) If the sodium content is measured 4 times and the mean $\bar X$ of the 4 measurements is recorded. What is the standard deviation of the mean?
+* (10) How many times must we repeat the measurement to reduce the standard error of $\bar X$ to 0.5?
+
 
