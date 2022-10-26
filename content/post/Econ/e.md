@@ -25,4 +25,5 @@ math      = true
 * (10) If the sodium content is measured 4 times and the mean $\bar X$ of the 4 measurements is recorded. What is the standard deviation of the mean?
 * (10) How many times must we repeat the measurement to reduce the standard deviation of $\bar X$ to 0.5?
 
+c
 
