@@ -43,13 +43,13 @@ Por cita.
 |8      |2022-10-18 | **Sesión de preguntas** |
 |&nbsp; |2022-10-20 | **Examen II** |
 |9      |2022-10-25 | Solución Examen II |
-|&nbsp; |2022-10-27 | &nbsp; |
-|10     |2022-11-01 |  |
-|&nbsp; |2022-11-03 |  |
-|11     |2022-11-08 |  |
-|&nbsp; |2022-11-10 |   |
-|12     |2022-11-15 |  |
-|&nbsp; |2022-11-17 |  |
+|&nbsp; |2022-10-27 | Semana de la Investigación |
+|10     |2022-11-01 | Diálogo Regional Vinculante |
+|&nbsp; |2022-11-03 | Análisis de datos exploratorio |
+|11     |2022-11-08 | Análisis de datos exploratorio, continuación |
+|&nbsp; |2022-11-10 | Análisis de datos exploratorio, continuación  |
+|12     |2022-11-15 | **Sesión de preguntas** |
+|&nbsp; |2022-11-17 | **Examen III** |
 |13     |2022-11-22 |  |
 |&nbsp; |2022-11-24 |  |
 |14     |2022-11-29 |  |
