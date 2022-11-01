@@ -47,9 +47,16 @@ Semana | Fecha | Tema |
 8  | Oct 19 |  <font color="green">Sesión de preguntas</font>  |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 9 | Oct 26 | Solución Examen II |
-&nbsp; | Oct 28 |  |
+&nbsp; | Oct 28 | Semana de la investigación |
 10 | Nov 02 | |
 &nbsp; | Nov 04 |  |
+11 | Nov 09 | |
+&nbsp; | Nov 11 |  |
+12 | Nov 16 | |
+&nbsp; | Nov 18 |  |
+13 | Nov 23 | |
+&nbsp; | Nov 25 |  |
+
 
 
 ### Código Septiembre 9
