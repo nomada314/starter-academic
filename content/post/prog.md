@@ -58,7 +58,6 @@ Por cita.
 |16     |2022-12-13 | Presentación proyectos    |
 |&nbsp; |2022-12-15 | Presentación proyectos    |
 
-Diálogo Regional Vinculante
 <!-- [Matplotlib](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/) -->
 
 
