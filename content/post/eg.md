@@ -48,12 +48,12 @@ Semana | Fecha | Tema |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 9 | Oct 26 | Solución Examen II |
 &nbsp; | Oct 28 | Semana de la investigación |
-10 | Nov 02 | |
-&nbsp; | Nov 04 |  |
-11 | Nov 09 | |
-&nbsp; | Nov 11 |  |
-12 | Nov 16 | |
-&nbsp; | Nov 18 |  |
+10 | Nov 02 | Análisis exploratorio de datos |
+&nbsp; | Nov 04 | Análisis exploratorio de datos, continuación |
+11 | Nov 09 | Análisis exploratorio de datos, continuación |
+&nbsp; | Nov 11 | Análisis exploratorio de datos, continuación |
+12 | Nov 16 | <font color="green">Sesión de preguntas</font> |
+&nbsp; | Nov 18 | <font color="red">Examen III</font> |
 13 | Nov 23 | |
 &nbsp; | Nov 25 |  |
 
