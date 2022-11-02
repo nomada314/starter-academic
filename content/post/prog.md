@@ -47,8 +47,8 @@ Por cita.
 |&nbsp; |2022-11-03 | Álgebra lineal, Polinomios |
 |11     |2022-11-08 | Manipulación de bases de datos |
 |&nbsp; |2022-11-10 | Manipulación de bases de datos (continuación) |
-|12     |2022-11-15 | Manipulación de bases de datos (continuación) |
-|&nbsp; |2022-11-17 | Manipulación de bases de datos (continuación) |
+|12     |2022-11-15 | Votación |
+|&nbsp; |2022-11-17 | Examen III |
 |13     |2022-11-22 | &nbsp; |
 |&nbsp; |2022-11-24 | &nbsp; |
 |14     |2022-11-29 | &nbsp; |
