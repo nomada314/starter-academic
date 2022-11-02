@@ -49,7 +49,7 @@ Semana | Fecha | Tema |
 9 | Oct 26 | Solución Examen II |
 &nbsp; | Oct 28 | Semana de la investigación |
 10 | Nov 02 | Análisis exploratorio de datos |
-&nbsp; | Nov 04 | Análisis exploratorio de datos, continuación |
+&nbsp; | Nov 04 | Capacitación jurado de votación |
 11 | Nov 09 | Análisis exploratorio de datos, continuación |
 &nbsp; | Nov 11 | Análisis exploratorio de datos, continuación |
 12 | Nov 16 | <font color="green">Sesión de preguntas</font> |
