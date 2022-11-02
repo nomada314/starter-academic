@@ -61,12 +61,6 @@ Semana | Fecha | Tema |
 
 ### Código Noviembre 2
 
-
-**CEO Salary and Return on Equity?**
-
-"For the population of chief executive officers, let y be annual salary (salary) in thousands of dol- lars. Thus, y 5 856.3 indicates an annual salary of $856,300, and y 5 1,452.6 indicates a salary of $1,452,600. Let x be the average return on equity (roe) for the CEO’s firm for the previous three years. (Return on equity is defined in terms of net income as a percentage of common equity.) For example, if roe 5 10, then average return on equity is 10%." Tomado de Wooldridge, J. M. (2020).
-
-
 ```{r}
 library(tidyverse)
 library(knitr)
