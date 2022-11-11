@@ -12,8 +12,8 @@ doi = "10.19053/9789586605304"
 highlight = true
 tags = ["Teaching", "Python", "Programming"]
 [header]
-image = "JuliaSet.png"
-caption = "Julia set"
+image = "Leopardo.png"
+caption = "Automata"
 +++
 
 
