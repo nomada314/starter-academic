@@ -1,6 +1,6 @@
 +++
 title = "Julia, Julia, Julia"
-date = "2023-03-10"
+date = "2023-11-10"
 authors = ["admin"]
 publication_types = ["5"]
 abstract = ""
