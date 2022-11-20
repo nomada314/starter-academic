@@ -28,7 +28,7 @@ caption = "Julia set"
 Figura  | Descripción
 :------ | :------
 ![]()
-<img src="https://alexrojas.netlify.com/media/Julia/panda0.jpg" alt="Conejo" width="150"/>| [`panda0.jpg`](https://alexrojas.netlify.com/media/Julia/panda0.png): Figura 1.1: Imagen representada en `Julia` como una matriz de tamaño 2000 $\times$ 2330 píxeles.
+<img src="https://alexrojas.netlify.com/media/Julia/panda0.jpg" alt="Conejo" width="200"/>| [`panda0.jpg`](https://alexrojas.netlify.com/media/Julia/panda0.png): Figura 1.1: Imagen representada en `Julia` como una matriz de tamaño 2000 $\times$ 2330 píxeles.
 ![](https://alexrojas.netlify.com/media/Julia/Julia_regresionLineal.gif) | Animación Figura 2.10: Diagrama de dispersión para cuatro conjuntos de datos aleatorios apartir del modelo de regresión cuadrática en el Ejemplo 2.15 
 ![](https://alexrojas.netlify.com/media/Julia/Julia_expx2Taylor.gif) | Animación creada con el Bloque de código 2.56
 ![](https://alexrojas.netlify.com/media/Julia/Julia_randsearch.gif) | Animación creada con el Bloque de código 2.57
