@@ -27,8 +27,8 @@ caption = "Julia set"
 
 Figura  | Descripción
 :------ | :------
-![](https://alexrojas.netlify.com/media/Julia/) | [`panda0.png`](https://alexrojas.netlify.com/media/Julia/): Figura 1.1: Imagen
-0 | 1 
+![](https://alexrojas.netlify.com/media/Julia/panda0.png) | [`panda0.png`](https://alexrojas.netlify.com/media/Julia/panda0.png): Figura 1.1: Imagen representada en `Julia` como una matriz de tamaño 2000 $\times$ 2330 píxeles.
+![](https://alexrojas.netlify.com/media/Julia/Julia_expx2Taylor.gif) | Animación Figura 2.10: Diagrama de dispersión para cuatro conjuntos de datos aleatorios apartir del modelo de regresión cuadrática en el Ejemplo 2.15 
 0 | 1
 
 
