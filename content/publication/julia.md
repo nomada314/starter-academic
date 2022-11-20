@@ -22,6 +22,12 @@ caption = "Julia set"
 * Capítulo 3[.jl](https://alexrojas.netlify.com/code/Julia/JCap3.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap3.ipynb): Bases de datos
 * Problema Central Capítulo III [.jl](https://alexrojas.netlify.com/code/Julia/JProbCentral3.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JProbCentral3.ipynb)
 
+## Datos
+
+* Codigos 
+* aqs sites
+* `abetoHabitad.csv`
+* 
 
 ## Animaciones e Imágenes
 
