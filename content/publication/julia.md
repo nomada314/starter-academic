@@ -1,6 +1,6 @@
 +++
 title = "Julia, Julia, Julia"
-date = "2022-11-10"
+date = "2022-11-20"
 authors = ["admin"]
 publication_types = ["5"]
 abstract = ""
@@ -13,6 +13,15 @@ image = "JuliaSet.png"
 caption = "Julia set"
 +++
 
+A continuación se encuentran los conjuntos de datos y el código utilizados en el libro. Además, se presentan tres animaciones creadas en el libro. Finalmente, se encuentran los errrores encontrados a la fecha.
+
+## Datos
+
+* Codigos 
+* aqs sites
+* `abetoHabitad.csv`
+* 
+
 ## Código
 
 * Capítulo 1[.jl](https://alexrojas.netlify.com/code/Julia/JCap1.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap1.ipynb): Introducción 
@@ -22,12 +31,6 @@ caption = "Julia set"
 * Capítulo 3[.jl](https://alexrojas.netlify.com/code/Julia/JCap3.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap3.ipynb): Bases de datos
 * Problema Central Capítulo III [.jl](https://alexrojas.netlify.com/code/Julia/JProbCentral3.py) [.ipynb](https://alexrojas.netlify.com/code/Julia/JProbCentral3.ipynb)
 
-## Datos
-
-* Codigos 
-* aqs sites
-* `abetoHabitad.csv`
-* 
 
 ## Animaciones e Imágenes
 
