@@ -21,7 +21,7 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 * [Abetos 66](https://alexrojas.netlify.com/Data/Julia/fir66.csv)
 * [AQS Sites](https://alexrojas.netlify.com/Data/Julia/aqs_sites.csv)
 * [Equipos Copa](https://alexrojas.netlify.com/Data/Julia/EquiposCopa.csv)
-* [Full25hdataset](https://alexrojas.netlify.com/Data/Julia/Full24hrdataset.csv)
+* [Full24hrdataset](https://alexrojas.netlify.com/Data/Julia/Full24hrdataset.csv)
 * [Habitad abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
 * [Paises](https://alexrojas.netlify.com/Data/Julia/Paises.txt)
 * [Penaltis](https://alexrojas.netlify.com/Data/Julia/shootouts.csv)
