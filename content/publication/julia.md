@@ -20,9 +20,10 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 * [Abetos 1](https://alexrojas.netlify.com/Data/Julia/fir1.csv)
 * [Abetos 66](https://alexrojas.netlify.com/Data/Julia/fir66.csv)
 * [AQS Sites](https://alexrojas.netlify.com/Data/Julia/aqs_sites.csv)
+* [Códigos](https://alexrojas.netlify.com/Data/Julia/Codigos.xlsx)
 * [Equipos Copa](https://alexrojas.netlify.com/Data/Julia/EquiposCopa.csv)
 * [Full24hrdataset](https://alexrojas.netlify.com/Data/Julia/Full24hrdataset.csv)
-* [Habitad abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
+* [Habitat abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
 * [Paises](https://alexrojas.netlify.com/Data/Julia/Paises.txt)
 * [Penaltis](https://alexrojas.netlify.com/Data/Julia/shootouts.csv)
 * [Precipitación Enero](https://alexrojas.netlify.com/Data/Julia/precipitacionEne.csv)
@@ -32,7 +33,7 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 * [Resultados hasta el 6 de febrero, 2022](https://alexrojas.netlify.com/Data/Julia/results.csv)
 * [Simulación neurona](https://alexrojas.netlify.com/Data/Julia/neuronaSim.csv)
 * [Valores $k$](https://alexrojas.netlify.com/Data/Julia/valoresK.csv)
-* Codigos 
+
 
 ## Código
 
