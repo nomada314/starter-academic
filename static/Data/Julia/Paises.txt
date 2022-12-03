@@ -1,0 +1,271 @@
+Pais Eliminar
+Abkhazia si
+Afghanistan
+Albania
+Alderney si
+Algeria
+"American Samoa"
+Andalusia si
+Andorra
+Angola
+Anguilla
+"Antigua and Barbuda"
+Argentina
+Armenia
+Artsakh si
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barawa si
+Barbados
+"Basque Country" si
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire si
+"Bosnia and Herzegovina"
+Botswana
+Brazil
+"British Virgin Islands"
+Brittany si
+Brunei
+Bulgaria
+"Burkina Faso"
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+"Canary Islands" si
+"Cape Verde"
+Cascadia si
+Catalonia si
+"Cayman Islands"
+"Central African Republic"
+Chad
+"Chagos Islands" si
+Chile
+"China PR"
+"Chinese Taipei"
+Colombia
+Comoros
+Congo
+"Cook Islands"
+Corsica si
+"Costa Rica"
+Crimea si
+Croatia
+Cuba
+Curaçao
+Cyprus
+"Czech Republic"
+Czechoslovakia
+Denmark
+Djibouti
+Dominica
+"Dominican Republic"
+"DR Congo"
+"East Timor"
+Ecuador
+Egypt
+"El Salvador"
+England
+"Equatorial Guinea"
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+"Faroe Islands"
+Fiji
+Finland
+France
+"French Guiana"
+Gabon
+Gagauzia si
+Galicia si
+Gambia
+Georgia
+"German DR"
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland si
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey si
+Guinea
+"Guinea-Bissau"
+Guyana
+Haiti
+Honduras
+"Hong Kong"
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+"Isle of Man" si
+Israel
+Italy
+"Ivory Coast"
+Jamaica
+Japan
+Jersey si
+Jordan
+Kazakhstan
+Kenya
+Kernow si
+Kiribati si
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Madrid si
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Martinique
+Mauritania
+Mauritius
+Mayotte si
+Mexico
+Micronesia si
+Moldova
+Monaco si
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+"New Caledonia"
+"New Zealand"
+Nicaragua
+Niger
+Nigeria
+Niue si
+"North Korea"
+"North Macedonia"
+"North Vietnam" si
+"Northern Cyprus" si
+"Northern Ireland"
+"Northern Mariana Islands"
+Norway
+Oman
+Orkney si
+Pakistan
+Palau si
+Palestine
+Panama
+"Papua New Guinea"
+Paraguay
+"Parishes of Jersey" si
+Peru
+Philippines
+Poland
+Portugal
+"Puerto Rico"
+Qatar
+"Republic of Ireland"
+Réunion
+Romania
+Russia
+Rwanda
+Saarland si
+"Saint Helena" si
+"Saint Kitts and Nevis"
+"Saint Lucia"
+"Saint Martin"
+"Saint Pierre and Miquelon" si
+"Saint Vincent and the Grenadines"
+Samoa
+"San Marino"
+"São Tomé and Príncipe"
+"Saudi Arabia"
+Scotland
+Senegal
+Serbia
+Seychelles
+"Shetland" si
+"Sierra Leone"
+Silesia si
+Singapore
+"Sint Maarten"
+Slovakia
+Slovenia
+"Solomon Islands"
+Somalia
+"South Africa"
+"South Korea"
+"South Sudan"
+Spain
+"Sri Lanka"
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Tahiti
+Tajikistan
+Tanzania
+Thailand
+Tibet si
+"Timor-Leste"
+Togo
+Tonga
+"Trinidad and Tobago"
+Tunisia
+Turkey
+Turkmenistan
+"Turks and Caicos Islands"
+Tuvalu si
+"U.S. Virgin Islands"
+Uganda
+Ukraine
+"United Arab Emirates"
+"United States"
+Uruguay
+Uzbekistan
+Vanuatu
+"Vatican City" si
+Venezuela
+Vietnam
+"Vietnam Republic"
+Wales
+"Wallis Islands and Futuna" si
+"Western Isles" si
+Yemen
+"Yemen DPR" si
+"Ynys Môn" si
+Yorkshire si
+Yugoslavia
+Zambia
+Zanzibar si
+Zimbabwe
