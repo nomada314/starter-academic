@@ -21,6 +21,7 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 * [AQS Sites](https://alexrojas.netlify.com/Data/Julia/aqs_sites.csv)
 * [Códigos](https://alexrojas.netlify.com/Data/Julia/Codigos.xlsx)
 * [C moschata](https://alexrojas.netlify.com/Data/Julia/Cmoschata.xlsx)
+* [Cuerpos celestes](https://alexrojas.netlify.com/Data/Julia/cuerpos.csv)
 * [Equipos Copa](https://alexrojas.netlify.com/Data/Julia/EquiposCopa.csv)
 * [Full24hrdataset](https://alexrojas.netlify.com/Data/Julia/Full24hrdataset.csv)
 * [Habitat abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
