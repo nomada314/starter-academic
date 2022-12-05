@@ -17,8 +17,7 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 
 ## Datos
 
-* [Abetos 1](https://alexrojas.netlify.com/Data/Julia/fir1.csv)
-* [Abetos 66](https://alexrojas.netlify.com/Data/Julia/fir66.csv)
+* [Abetos 1](https://alexrojas.netlify.com/Data/Julia/fir1.csv) $\ldots$ [Abetos 66](https://alexrojas.netlify.com/Data/Julia/fir66.csv)  (Todos los 66 archivos: [Abetos](https://alexrojas.netlify.com/Data/Julia/Fir1.zip) )
 * [AQS Sites](https://alexrojas.netlify.com/Data/Julia/aqs_sites.csv)
 * [Códigos](https://alexrojas.netlify.com/Data/Julia/Codigos.xlsx)
 * [Equipos Copa](https://alexrojas.netlify.com/Data/Julia/EquiposCopa.csv)
