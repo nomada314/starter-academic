@@ -25,7 +25,7 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 * [Habitat abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
 * [Paises](https://alexrojas.netlify.com/Data/Julia/Paises.txt)
 * [Penaltis](https://alexrojas.netlify.com/Data/Julia/shootouts.csv)
-* [Precipitación Enero](https://alexrojas.netlify.com/Data/Julia/precipitacionEne.csv) $\ldots$ [Precipitación Diciembre](https://alexrojas.netlify.com/Data/Julia/precipitacionDic.csv) (Todos los 12 archivos: [Precipitación](https://alexrojas.netlify.com/Data/Julia/Precipitacion.zip) )
+* [Precipitación Enero](https://alexrojas.netlify.com/Data/Julia/precipitacionEne.csv) $\ldots$ [Precipitación Diciembre](https://alexrojas.netlify.com/Data/Julia/precipitacionDic.csv) (Todos los 12 archivos: [Precipitación](https://alexrojas.netlify.com/Data/Julia/Precipitacion.zip))
 * [Ranking 06/2018](https://alexrojas.netlify.com/Data/Julia/Ranking062018.csv)
 * [Ranking 03/20/2022](https://alexrojas.netlify.com/Data/Julia/Ranking032022.csv)
 * [Resultados hasta el 6 de febrero, 2022](https://alexrojas.netlify.com/Data/Julia/results.csv)
