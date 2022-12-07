@@ -21,7 +21,7 @@ math      = true
 * (10) $\mu =10$, $\sigma = 5$, and $n = 18$ cases per batch
 * (10) $\mu = -4$, $\sigma = 2$, and $n = 12$ cases per batch
 6. Door Seam, a truck manufacturer, monitors the width of the door seam as vehicles come off its assembly line. The seam width is the distance between the edge of the door and the truck body, in inches. These data are 62 days of measurements of a passenger door seam, with 10 trucks measured each day. It has been claimed that the process has average width 0.275 with $\sigma = 0.1.131$.
-* If the seam widths at this assembly line are normally distributed, then what is the probability of finding a seam wider than 1/2 inch?
-* If the process is under control, what is the probability of finding the mean of a daily sample of 10 widths more than 3 standard errors away from $\mu = 0.275$?
+* (10) If the seam widths at this assembly line are normally distributed, then what is the probability of finding a seam wider than 1/2 inch?
+* (10) If the process is under control, what is the probability of finding the mean of a daily sample of 10 widths more than 3 standard errors away from $\mu = 0.275$?
 * If the process is under control, how does looking at both the X-bar and S-charts affect the chance for reaching an incorrect decision that the process is not in control, compared to looking at just the X-bar chart?
 
