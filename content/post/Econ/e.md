@@ -1,8 +1,8 @@
 +++
 date      = 2022-10-26
 lastmod   = 2022-10-26
-draft     = true
-title     = "Examen II - supletorio"
+draft     = false
+title     = "Taller"
 math      = true
 +++
 
@@ -24,6 +24,7 @@ math      = true
 5. Sodium content (in milligrams) is measured for bags of potato chips sampled from a production line. The standard deviation of the sodium content measurement is $\sigma =  2$mg.  
 * (10) If the sodium content is measured 4 times and the mean $\bar X$ of the 4 measurements is recorded. What is the standard deviation of the mean?
 * (10) How many times must we repeat the measurement to reduce the standard deviation of $\bar X$ to 0.5?
+6. Where should the control limits for an X-bar chart be placed if the design of the process sets $\alpha= 0.0027$ with the following parameters (assume that the sample size condition for control charts has been verified)?
 
-c
-
+* (10) $\mu =10$, $\sigma = 5$, and $n = 18$ cases per batch
+* (10) $\mu = -4$, σ = 2, and $n = 12$ cases per batch
