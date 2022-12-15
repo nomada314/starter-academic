@@ -1,7 +1,7 @@
 +++
 date      = 2022-10-26
 lastmod   = 2022-12-07
-draft     = false
+draft     = true
 title     = "Taller"
 math      = true
 +++
