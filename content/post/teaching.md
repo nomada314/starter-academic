@@ -7,6 +7,11 @@ title     = "Teaching"
 math      = true
 +++
 
+## Primer semestre 2023
+* Electiva I: [Programación]
+* Seminario II: [Seminario II]
+
+
 ## Segundo semestre 2022
 * Electiva I: [Programación](https://alexrojas.netlify.app/post/prog/)
 * [Estadística General](https://alexrojas.netlify.app/post/eg/)
