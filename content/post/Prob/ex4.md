@@ -1,7 +1,7 @@
 +++
 date      = 2022-12-15
 lastmod   = 2022-12-15
-draft     = false
+draft     = true
 title     = "Datos Examen IV"
 math      = true
 +++
