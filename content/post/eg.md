@@ -9,13 +9,12 @@ math      = true
 
 ### Libro guía:
 
-+ López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
-+ ss
+López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
 
 ### Otras referencias:
 
-XXX
-
++ 
++ 
 
 ### Horas de oficina: 
 
@@ -25,20 +24,12 @@ Por cita.
 
 Semana | Fecha | Tema |
 ---| ---| --- |
-1  | Ago 31 | Presentación del curso. <br> [Eventos](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#outcomes-and-events) |
-&nbsp; | Seo 02 | Introducción a `R`  |
-2  | Sep 07 | [Cálculo de probabilidades](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#probabilities) |
-&nbsp; | Sep 09 | [Probabilidad condicional](https://bookdown.org/bkrauth/BOOK/probability-and-random-events.html#related-events) |
-3  | Sep 14 | [Variables aleatorias](https://bookdown.org/bkrauth/BOOK/random-variables.html) |
-&nbsp; | Sep 16 | Variables aleatorias |
-4  | Sep 21 | Valores esperados y varianzas [4.2 - 4.3] |
-&nbsp; | Sep 23 | <font color="green">Sesión de preguntas</font>  |
-5  | Sep 28 |  <font color="red">Examen I</font>  |
-&nbsp; | Sep 30 | Solución Examen I |
-6  | Oct 05 |  Distribución Normal [5.4] |
-&nbsp; | Oct 07 | Acreditación matemáticas |
-7  | Oct 12 |  Distribución Normal (cont.) [5.4] |
-&nbsp; | Oct 14 | Correlación |
+1  | Feb 08 | Presentación del curso. |
+&nbsp; | Feb 10 | Introducción a `R`  |
+2  | Feb 15 | &nbsp;  |
+&nbsp; | Feb 17 | &nbsp; |
+
+<!--
 8  | Oct 19 |  <font color="green">Sesión de preguntas</font>  |
 &nbsp; | Oct 21 | <font color="red">Examen II</font> |
 9 | Oct 26 | Solución Examen II |
@@ -53,7 +44,7 @@ Semana | Fecha | Tema |
 &nbsp; | Nov 25 |  |
 
 
-<!--
+
 ### Código Noviembre 2
 
 ```{r}
