@@ -1,7 +1,7 @@
 +++
 date      = 2021-06-09
 lastmod   = 2023-02-03
-draft     = true
+draft     = false
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
 math      = true
