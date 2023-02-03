@@ -1,6 +1,6 @@
 +++
 date      = 2021-06-09
-lastmod   = 2022-08-26
+lastmod   = 2023-02-03
 draft     = true
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
@@ -9,17 +9,12 @@ math      = true
 
 ### Libro guía:
 
-Krauth, B. (2021). *Introductory Statistics for Economics*. Disponible en [bookdown.org](https://bookdown.org/bkrauth/BOOK/)
++ López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
++ ss
 
 ### Otras referencias:
 
-+ Cleff, T. (2019). *Applied Statistics and Multivariate Data Analysis for Business and Economics*. Springer.
-+ Leekley, R.M. (2010). *Applied Statistics for Business and Economics*. CRC Press.
-+ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
-+ López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
-+ Özdemir, D. (2014). *Applied Statistics for Economics and Business*. 2nda Edición. Springer. [Conjuntos de datos](https://link.springer.com/book/10.1007/978-3-319-26497-4)
-+ Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
-
+XXX
 
 
 ### Horas de oficina: 
@@ -58,7 +53,7 @@ Semana | Fecha | Tema |
 &nbsp; | Nov 25 |  |
 
 
-
+<!--
 ### Código Noviembre 2
 
 ```{r}
@@ -180,7 +175,7 @@ Can %>% summarise(Pob = sum(Population), Desempleo = sum(Unemployed))
 ```
 
 
-<!--
+
 <font color="red">Sesión de preguntas</font> 
 
 ### Libro guía:
