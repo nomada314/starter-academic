@@ -1,6 +1,6 @@
 +++
 date      = 2020-09-28
-lastmod   = 2022-08-24
+lastmod   = 2023-02-03
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
@@ -8,14 +8,15 @@ math      = true
 +++
 
 ## Primer semestre 2023
-* Electiva I: [Programación]
-* Seminario II: [Seminario II]
+* Cálculo I
+* [Estadística General](https://alexrojas.netlify.app/post/eg/)
+* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
 
 
 ## Segundo semestre 2022
-* Electiva I: [Programación](https://alexrojas.netlify.app/post/prog/)
-* [Estadística General](https://alexrojas.netlify.app/post/eg/)
-* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
+* Electiva I: Programación
+* Estadística General
+* Probabilidad y Estadística
 
 ## Primer semestre 2022
 * Electiva I: Programación
