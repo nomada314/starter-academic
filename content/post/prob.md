@@ -27,9 +27,12 @@ Por cita.
 |Semana |Fecha      |Tema                                                                                                                                                                                                                            |
 |:------|:----------|:-------------------------------------------------------------------|
 |1      |2022-08-30 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
-|&nbsp; |2022-09-01 | Medidas de probabilidad [KR 2.2] |
-|2      |2022-09-06 | Probabilidad condicional  |
-|&nbsp; |2022-09-08 | Ejercicios |
+|&nbsp; |2022-09-01 | &nbsp; |
+|2      |2022-09-06 | &nbsp;  |
+|&nbsp; |2022-09-08 | &nbsp; |
+
+
+<!--
 |3      |2022-09-13 | Variables aleatorias |
 |&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
 |4      |2022-09-20 | **Sesión de preguntas** |
@@ -98,5 +101,5 @@ ruptureFrec['35-40':'45-50'].sum(axis=0)/165
 # A+B
 ruptureFrec['25-30':'55-60'].sum(axis=0)/165
 ```
-
+-->
 
