@@ -7,9 +7,10 @@ title     = "Probabilidad y Estadística"
 math      = true
 +++
 
-### Libro guía:
+### Libros guía:
 
-Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. *Herramientas para el análisis estadístico de datos en R* Editorial UPTC.
++ Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
 
 
 ### Otras referencias:
@@ -24,12 +25,12 @@ Por cita.
 
 ### Horario
 
-|Semana |Fecha      |Tema                                                                                                                                                                                                                            |
+|Semana |Fecha      |Tema |                                                                        
 |:------|:----------|:-------------------------------------------------------------------|
-|1      |2022-08-30 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
-|&nbsp; |2022-09-01 | &nbsp; |
-|2      |2022-09-06 | &nbsp;  |
-|&nbsp; |2022-09-08 | &nbsp; |
+|1      |2023-02-07 | Presentación del curso <br>  Eventos aleatorios [KR 2.1] |
+|&nbsp; |2023-02-09 | Variables y datos.`R` y `R Studio` |
+|2      |2023-02-14 | &nbsp;  |
+|&nbsp; |2023-02-16 | &nbsp; |
 
 
 <!--
