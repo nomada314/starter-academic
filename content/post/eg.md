@@ -24,10 +24,18 @@ Por cita.
 
 Semana | Fecha | Tema |
 ---| ---| --- |
-1  | Feb 08 | Presentación del curso. |
-&nbsp; | Feb 10 | Introducción a `R`  |
-2  | Feb 15 | &nbsp;  |
-&nbsp; | Feb 17 | &nbsp; |
+1  | Feb 08 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] |
+&nbsp; | Feb 10 | Lectura de datos [1.3.1] |
+2  |  Feb 13 | Manipulación de datos [1.3.2]  |
+&nbsp; | Feb 15 | Manipulación de datos, continuación [1.3.2]  |
+&nbsp; | Feb 17 | Cálculo de estadísticas [1.3.3] |
+3  |  Feb 20 | Gráficas para una variable [2.1.1] |
+&nbsp; | Feb 22 | Gráficas para variables variable [2.1.2] |
+&nbsp; | Feb 24 | Transformaciones [2.2] |
+4  |  Feb 27 | Transformaciones, continuación [2.2] |
+&nbsp; | Mar 01 | Sesión de preguntas |
+&nbsp; | Mar 03 | Examen I |
+
 
 <!--
 8  | Oct 19 |  <font color="green">Sesión de preguntas</font>  |
