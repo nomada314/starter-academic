@@ -9,7 +9,7 @@ math      = true
 
 ### Libros guía:
 
-+ López, A., Rojas-Peña, M. L. & Rojas, A. L. *Herramientas para el análisis estadístico de datos en R* Editorial UPTC.
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. *Herramientas para el análisis estadístico de datos en R*. Editorial UPTC.
 + Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
 
 
