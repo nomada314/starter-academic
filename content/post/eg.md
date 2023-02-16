@@ -9,7 +9,7 @@ math      = true
 
 ### Libro guía:
 
-López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). *Herramientas para el análisis estadístico de datos biológicos en R*. Editorial UPTC.
+López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). [Herramientas para el análisis estadístico de datos biológicos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 
 ### Otras referencias:
 
