@@ -9,7 +9,7 @@ math      = true
 
 ### Libros guía:
 
-+ López, A., Rojas-Peña, M. L. & Rojas, A. L. *Herramientas para el análisis estadístico de datos en R*. Editorial UPTC.
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. [Herramientas para el análisis estadístico de datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 + Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
 
 
@@ -30,9 +30,9 @@ Semana | Fecha | Tema |
 1  | Feb 07 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] |
 &nbsp; | Feb 09 | Lectura de datos [1.3.1] |
 2  |  Feb 14 | Manipulación de datos [1.3.2]  |
-&nbsp; | Feb 16 | Cálculo de estadísticas [1.3.3] |
-3  |  Feb 21 | Gráficas para una variable [2.1.1] |
-&nbsp; | Feb 23 | Gráficas para variables variable [2.1.2] |
+&nbsp; | Feb 16 | Manipulación de datos, continuación [1.3.2]  |
+3  |  Feb 21 | Cálculo de estadísticas [1.3.3] |
+&nbsp; | Feb 23 | Gráficas para una variable [2.1.1] |
 4  |  Feb 28 | Sesión de preguntas |
 &nbsp; | Mar 02 |  Examen I  |
 &nbsp; | Mar 03 | &nbsp; |
