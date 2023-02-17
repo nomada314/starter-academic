@@ -38,6 +38,22 @@ Semana | Fecha | Tema |
 &nbsp; | Mar 03 | &nbsp; |
 
 
+
+## Ejercicio 
+
+Considere el archivo localizado en la siguiente dirección https://alexrojas.netlify.com/Data/Prog/gene_table.txt.  Este archivo contiene la siguiente información de genes en el genoma humano: símbolo, biotipo, cromosoma, hebra y número de transcripciones. Por ejemplo, el primer gen en el archivo tiene el símbolo `TSPAN6`, está localizado en la hebra `-` del cromosoma `X` y tiene 5 transcripciones. Además es un gen que codifica para proteína. El símbolo de cada gen sigue los estándares dados por el Comité para la Nomenclatura de Genes del Genoma Humano (HUGO Gene Nomenclature Committee, [HGNC](https://www.genenames.org/)).  Al digitar `TSPAN6` en el campo de búsqueda en la página en internet de este Comité, encontramos que el nombre es `tetraspanin 6` y su localización citogenética es `Xq22.1`, es decir, la posición `22.1` del brazo largo del cromosoma `X`. Al buscar este gen en la página: [https://www.ensembl.org/](https://www.ensembl.org/) y desplegar la tabla de transcripción podemos observar la lista de las 5 transcripciones.
+
+Realice la siguiente manipulación:
+
+* Importe el archivo `gene_table.txt`. Aunque este archivo tiene extensión `txt`, los valores son separados por comas. Además, note que el número de transcripciones es un número entero
+* Renombre las variables con nombres en castellano
+* Filtre únicamente los genes localizados en los cromosomas 2, 6 y X
+* Utilizando la función `tolower()`, pase el nombre de los genes de mayúsculas a minúsculas
+* Filtre los genes con biotipo igual a `lincRNA`
+
+
+
+
 <!--
 |3      |2022-09-13 | Variables aleatorias |
 |&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
