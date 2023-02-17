@@ -63,3 +63,10 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 ## Errata
 
+### Capítulo I
+
+* p. 10. Segundo párrafo después del código. En lugar de "El cuarto panel, el superior derecho,...", debe ser "El cuarto panel, el superior izquierdo,..."
+* p. 36. **Ejemplo 1.16**, última palabra de la tercera línea. En lugar de "contabilizando", debe ser "contabilizado".
+
+
+
