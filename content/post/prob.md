@@ -31,11 +31,17 @@ Semana | Fecha | Tema |
 &nbsp; | Feb 09 | Lectura de datos [1.3.1] |
 2  |  Feb 14 | Manipulación de datos [1.3.2]  |
 &nbsp; | Feb 16 | Manipulación de datos, continuación [1.3.2]  |
-3  |  Feb 21 | Cálculo de estadísticas [1.3.3] |
-&nbsp; | Feb 23 | Gráficas para una variable [2.1.1] |
-4  |  Feb 28 | Sesión de preguntas |
-&nbsp; | Mar 02 |  Examen I  |
-&nbsp; | Mar 03 | &nbsp; |
+3  |  Feb 21 | Manipulación de datos, continuación [1.3.2]  |
+&nbsp; | Feb 23 | Cálculo de estadísticas [1.3.3]  |
+4  |  Feb 28 | Gráficas para una variable [2.1.1] |
+&nbsp; | Mar 02 | Sesión de preguntas  |
+5 | Mar 07 |  Examen I |
+&nbsp; | Mar 09 | Permiso académico |
+6 | Mar 14 | Gráficas para dos variable [2.1.2]  |
+&nbsp; | Mar 16 | Gráficas para dos variable [2.1.2] |
+7 | Mar 21 | Examen II  |
+&nbsp; | Mar 23 | Gráficas para dos variable [2.1.2] |
+
 
 
 
