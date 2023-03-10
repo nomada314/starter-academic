@@ -49,7 +49,14 @@ Semana | Fecha | Tema |
 
 
 
-## Ejercicio 
+## Ejercicios
+
+### Marzo 10
+
+
+
+
+### Febrero 21
 
 Considere el archivo localizado en la siguiente dirección https://alexrojas.netlify.com/Data/Prog/gene_table.txt.  Este archivo contiene la siguiente información de genes en el genoma humano: símbolo, biotipo, cromosoma, hebra y número de transcripciones. Por ejemplo, el primer gen en el archivo tiene el símbolo `TSPAN6`, está localizado en la hebra `-` del cromosoma `X` y tiene 5 transcripciones. Además es un gen que codifica para proteína. El símbolo de cada gen sigue los estándares dados por el Comité para la Nomenclatura de Genes del Genoma Humano (HUGO Gene Nomenclature Committee, [HGNC](https://www.genenames.org/)).  Al digitar `TSPAN6` en el campo de búsqueda en la página en internet de este Comité, encontramos que el nombre es `tetraspanin 6` y su localización citogenética es `Xq22.1`, es decir, la posición `22.1` del brazo largo del cromosoma `X`. Al buscar este gen en la página: [https://www.ensembl.org/](https://www.ensembl.org/) y desplegar la tabla de transcripción podemos observar la lista de las 5 transcripciones.
 
