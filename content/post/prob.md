@@ -41,6 +41,10 @@ Semana | Fecha | Tema |
 &nbsp; | Mar 16 | Gráficas para dos variable [2.1.2] |
 7 | Mar 21 | Examen II  |
 &nbsp; | Mar 23 | Gráficas para dos variable [2.1.2] |
+8 | Mar 28 | Transformaciones [2.2] |
+&nbsp; | Mar 30 | Eventos y Probabilidad [3.1]  |
+9 | Abr 04 | Eventos y Probabilidad [3.1] |
+&nbsp; | Abr 06 | Probabilidad condicional  |
 
 
 
