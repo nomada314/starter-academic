@@ -53,6 +53,18 @@ Semana | Fecha | Tema |
 
 ### Marzo 10
 
+Lea el archivo `Propina.csv` ubicado en la página https://alexrojas.netlify.com/Data/Prob/Propina.csv
+
+1. Calcule el promedio, la desviación estándar, el mínimo y el máximo para la variable  `propina`.
+2. Calcule el rango intercuartílico para la variable `Total`.
+3. Cree la variable `porc` que corresponde al porcentaje de la cuenta total que corresponde a la propina. Grafique un histograma para la variable `porc`
+4. Cree la variable `PorPersona` que corresponde al total dividido por el número de personas. Calcule el mínimo valor de la variable `PorPersona` para cada día.
+5. Calcule el promedio, la desviación estándar, el mínimo y el máximo para la variable  `PorPersona` por `sexo`.
+6. Genere una tabla de contingencia para las variables `fumador` y `dia`
+7. Utilizando la tabla en el numeral anterior, calcule las proporciones relativas por `dia`. 
+8. ¿Cuál es el mejor día para ir a este restaurante, si se quieren evitar los fumadores?
+9. Calcule el cuantíl 75 del porcentaje de propina (`porc`) por `dia` y `tiempo`
+
 
 
 
