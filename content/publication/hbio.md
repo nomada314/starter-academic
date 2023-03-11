@@ -68,5 +68,14 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 * p. 10. Segundo párrafo después del código. En lugar de "El cuarto panel, el superior derecho,...", debe ser "El cuarto panel, el superior izquierdo,..."
 * p. 36. **Ejemplo 1.16**, última palabra de la tercera línea. En lugar de "contabilizando", debe ser "contabilizado".
 
+### Capítulo II
 
+* p. 56. Sexta línea. Debe ser "aumentamos", en lugar de "disminuimos". Es decir, si se quiere más transparecia, se debe disminuir el valor de `alpha`
+* p. 56. **Ejemplo 2.6**. Al definir la variable `Depredacion` del conjunto de datos `Fundulus`, se utilizaron las etiquetas `Si` y `No`. Pero, se debe usar `Sí` y `No` para que la Tabla 2.3 y las figuras 2.10, 2.11 y 2.12 tengan el nombre adecuado en las etiquetas. El siguiente es el código:
+```{r}
+Fundulus = data.frame(Infeccion = gl(3, 2, labels = etiquetas),
+                      Depredacion = gl(2, 1, 6, c('Sí', 'No')),
+                      Frec = c(1, 49, 10, 35, 37, 9))
+```
+* 
 
