@@ -138,7 +138,7 @@ ggplot(huevos, aes(x = Asymmetry)) +
 
 etiquetas = c('Sin', 'Ligera', 'Alta')
 Fundulus = data.frame(Infeccion = gl(3, 2, labels = etiquetas),
-                      Depredacion = gl(2, 1, 6, c('Si', 'No')),
+                      Depredacion = gl(2, 1, 6, c('Sí', 'No')),
                       Frec = c(1, 49, 10, 35, 37, 9))
 
 Fundulus = Fundulus %>% group_by(Infeccion) %>%
