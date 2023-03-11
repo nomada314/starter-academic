@@ -63,6 +63,8 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 ## Errata
 
+**Gracias** a Gustavo A. Reyes por encontrar varios de los errores descritos a continuación:
+
 ### Capítulo I
 
 * p. 10. Segundo párrafo después del código. En lugar de "El cuarto panel, el superior derecho,...", debe ser "El cuarto panel, el superior izquierdo,..."
