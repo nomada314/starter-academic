@@ -15,5 +15,3 @@ Importe los datos disponibles en https://alexrojas.netlify.com/Data/Prob/chicago
 5. [10] Cree un diagrama de dispersión de `seconds` versus `miles` sin considerar viajes de más de 7.68 millas y 1200 segundos. El color de los puntos esté dado por la variable `Tráfico` y el tamaño por la variable `speed`. 
 6. [10] Calcule el porcentaje del total que corresponde a la propina, nombre esta variable `prop`. Cree un diagrama de dispersión de `prop` vs. el logaritmo de `seconds`, sin considerar los recorridos en los que la propina fue `0`.
 7. [15] Cree un gráfico con el que se pueda concluir cuándo es más probable un tipo de pago, dado que no se dio propina.
-
-
