@@ -1,10 +1,11 @@
 +++
-date      = 2023-03-22
-lastmod   = 2023-03-22
+date      = 2023-03-21
+lastmod   = 2023-03-21
 draft     = false
 title     = "Examen II"
 math      = true
 +++
+
 
 Importe los datos disponibles en https://alexrojas.netlify.com/Data/Prob/chicago_taxi.txt
 
