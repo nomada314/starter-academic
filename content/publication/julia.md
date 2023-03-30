@@ -13,6 +13,9 @@ image = "JuliaSet.png"
 caption = "Julia set"
 +++
 
+<img src="https://simehbucket.s3.amazonaws.com/images/67b6592f0d1a969ddca933f67bc1ebd9-medium.jpg"  width="180"/>
+
+
 A continuación se encuentran los conjuntos de datos y el código utilizados en el libro. Además, se presentan tres animaciones creadas en el libro. Finalmente, se encuentran los errrores encontrados a la fecha.
 
 ## Datos
