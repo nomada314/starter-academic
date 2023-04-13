@@ -93,4 +93,13 @@ Fundulus = data.frame(Infeccion = gl(3, 2, labels = etiquetas),
 | Sí    | 4          | 166      | 170   |
 | Total | 1222       | 295      | 1517  |
 
+El valor predictivo positivo es entonces
+
+$$\text{PV}+ = \frac{166}{166 + 129} \approx 0.563,$$
+
+luego un individuo que obtenga un resultado positivo tiene una probabilidad del 0.563 de estar infectado por el VIH. Por otro lado, el valor predictivo negativo es 
+
+$$\text{PV}- = \frac{1218}{1218 + 4/} \approx 0.997,$$
+
+luego un individuo que obtenga un resultado negativo tiene una probabilidad del 0.997 de no estar infectado verdaderamente por el VIH.
 
