@@ -63,7 +63,7 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 ## Errata
 
-Gracias a **Gustavo A. Reyes** por encontrar varios de los errores descritos a continuación:
+Gracias a **Gustavo A. Reyes** por encontrar varios de los errores en los Capítulos I y II descritos a continuación:
 
 ### Capítulo I
 
