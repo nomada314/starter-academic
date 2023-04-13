@@ -99,7 +99,7 @@ $$\text{PV}+ = \frac{166}{166 + 129} \approx 0.563,$$
 
 luego un individuo que obtenga un resultado positivo tiene una probabilidad del 0.563 de estar infectado por el VIH. Por otro lado, el valor predictivo negativo es 
 
-$$\text{PV}- = \frac{1218}{1218 + 4/} \approx 0.997,$$
+$$\text{PV}- = \frac{1218}{1218 + 4} \approx 0.997,$$
 
 luego un individuo que obtenga un resultado negativo tiene una probabilidad del 0.997 de no estar infectado verdaderamente por el VIH.
 
