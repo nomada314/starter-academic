@@ -85,22 +85,12 @@ Fundulus = data.frame(Infeccion = gl(3, 2, labels = etiquetas),
 * p. 118. Después de la **Definición 3.3**, la frase "donde los símbolos + y - representan el resultado" está repetida.
 * p. 122. **Ejemplo 3.15** Los cálculos de los valores predictivos positivo y negativo están mal calculados. A continuación se muestra el cálculo correcto.  Para empezar, incluimos la tabla de contingencia para la condición verdadera y los posibles resultados de la prueba, como en la Tabla 3.4 del libro, para los datos de este ejemplo:
 
-```{latex}
-\begin{table}[!h]
-\label{Clasificación de 1517 individuos por infección por VIH y resultados de una prueba rápida para diagnosticar VIH . Datos obtenidos por  Gray *et al.* (2007).}
-\centering
-\begin{tabular}[t]{lccc}
-\toprule
- & \multicolumn{2}{c}{Resultado prueba rápida} & \\
-\cmidrule(l{3pt}r{3pt}){2-3}
-VIH  & Negativo & Positivo & Total\\
-\midrule
-No & 1218 & 129 & 1347\\
-Sí & 4 & 166 & 170\\
-\midrule
-Total   & 1222 & 295 & 1517\\
-\bottomrule
-\end{tabular}
-\end{table}
-```
+
+|       | Resultado  | prueba rápida  |
+|-------|------------|----------|
+| VIH   | Negativo   | Positivo | Total |
+| No    | 1218       | 129      | 1347  |
+| Sí    | 4          | 166      | 170   |
+| Total | 1222       | 295      | 1517  |
+
 
