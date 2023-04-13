@@ -86,8 +86,8 @@ Fundulus = data.frame(Infeccion = gl(3, 2, labels = etiquetas),
 * p. 122. **Ejemplo 3.15** Los cálculos de los valores predictivos positivo y negativo están mal calculados. A continuación se muestra el cálculo correcto.  Para empezar, incluimos la tabla de contingencia para la condición verdadera y los posibles resultados de la prueba, como en la Tabla 3.4 del libro, para los datos de este ejemplo:
 
 
-|       | Resultado  | prueba rápida  |
-|-------|------------|----------|
+|       | Resultado  | prueba rápida  |     |
+|:------|-----------:|---------:|---------:| 
 | VIH   | Negativo   | Positivo | Total |
 | No    | 1218       | 129      | 1347  |
 | Sí    | 4          | 166      | 170   |
