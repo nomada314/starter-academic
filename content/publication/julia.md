@@ -15,6 +15,7 @@ caption = "Julia set"
 
 <img src="https://simehbucket.s3.amazonaws.com/images/67b6592f0d1a969ddca933f67bc1ebd9-medium.jpg"  width="180"/>
 
+[Más información](https://editorial.uptc.edu.co/gpd-julia-julia-julia-9789586607179-64258db1189e2.html)
 
 A continuación se encuentran los conjuntos de datos y el código utilizados en el libro. Además, se presentan tres animaciones creadas en el libro. Finalmente, se encuentran los errrores encontrados a la fecha.
 
