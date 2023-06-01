@@ -1,7 +1,7 @@
 +++
 date      = 2021-06-09
 lastmod   = 2023-02-03
-draft     = false
+draft     = true
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
 math      = true
@@ -10,11 +10,6 @@ math      = true
 ### Libro guía:
 
 López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). [Herramientas para el análisis estadístico de datos biológicos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
-
-### Otras referencias:
-
-+ 
-+ 
 
 ### Horas de oficina: 
 
