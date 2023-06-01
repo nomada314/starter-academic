@@ -9,9 +9,8 @@ math      = true
 
 ## Primer semestre 2023
 * Cálculo I
-* [Estadística General](https://alexrojas.netlify.app/post/eg/)
-* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
-
+* Estadística General
+* Probabilidad y Estadística
 
 ## Segundo semestre 2022
 * Electiva I: Programación
