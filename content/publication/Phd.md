@@ -13,7 +13,7 @@ image = ""
 caption = ""
 +++
 
-<img src="https://simehbucket.s3.amazonaws.com/images/67b6592f0d1a969ddca933f67bc1ebd9-medium.jpg"  width="180"/>
+<img src="https://www.ecoeediciones.com/wp-content/uploads/2022/10/9789585033825-9789585033832-programacion-lineal-aplicada-3da-edicion.png"  width="180"/>
 
 [Más información](https://www.ecoeediciones.com/)
 
