@@ -29,81 +29,81 @@ A continuación se encuentran los conjuntos de datos y el código  utilizados en
 
 #### Capítulo 2
 
-* [LCT.txt](https://alexrojas.netlify.com/Data/Prog/LCT.txt): Ejemplo Sección 2.3
+* [LCT.txt](https://alexrojas.netlify.app/Data/Prog/LCT.txt): Ejemplo Sección 2.3
 
 #### Capítulo 3
 
-* [LCT.txt](https://alexrojas.netlify.com/Data/Prog/LCT.txt): Ejemplo 3.3, Ejercicio 3.8
-* [muon.txt](https://alexrojas.netlify.com/Data/Prog/muon.txt): Ejercicio 3.19
+* [LCT.txt](https://alexrojas.netlify.app/Data/Prog/LCT.txt): Ejemplo 3.3, Ejercicio 3.8
+* [muon.txt](https://alexrojas.netlify.app/Data/Prog/muon.txt): Ejercicio 3.19
 
 #### Capítulo 4
 
-* [PAM1.csv](https://alexrojas.netlify.com/Data/Prog/PAM1.csv): Ejercicio 4.19
+* [PAM1.csv](https://alexrojas.netlify.app/Data/Prog/PAM1.csv): Ejercicio 4.19
 
 
 #### Capítulo 5
 
-* [codigos.csv](https://alexrojas.netlify.com/Data/Prog/codigos.csv): Ejemplo 5.15
-* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt): Ejemplo 5.11
-* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv): Ejemplo 5.1
-* [FWF.dat](https://alexrojas.netlify.com/Data/Prog/FWF.dat): Ejemplo 5.5
-* [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 5.4
-* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
-* [montana.txt](https://alexrojas.netlify.com/Data/Prog/montana.txt): Ejercicios 5.9 y 5.10
-* [pulsar.txt](https://alexrojas.netlify.com/Data/Prog/pulsar.txt): Ejemplo 5.7, 5.10
-* [pinguinos.csv](https://alexrojas.netlify.com/Data/Prog/pinguinos.csv): Ejercicio 5.7
-* [PobTotal.csv](https://alexrojas.netlify.com/Data/Prog/PobTotal.csv): Ejemplo 5.15
-* [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejercicios 5.11 y 5.12
+* [codigos.csv](https://alexrojas.netlify.app/Data/Prog/codigos.csv): Ejemplo 5.15
+* [exon_table.txt](https://alexrojas.netlify.app/Data/Prog/exon_table.txt): Ejemplo 5.11
+* [factura.csv](https://alexrojas.netlify.app/Data/Prog/factura.csv): Ejemplo 5.1
+* [FWF.dat](https://alexrojas.netlify.app/Data/Prog/FWF.dat): Ejemplo 5.5
+* [Gasparini.csv](https://alexrojas.netlify.app/Data/Prog/Gasparini.csv): Ejemplo 5.4
+* [gene_table.txt](https://alexrojas.netlify.app/Data/Prog/gene_table.txt): Ejercicios 5.2, 5.3 y 5.4. 
+* [montana.txt](https://alexrojas.netlify.app/Data/Prog/montana.txt): Ejercicios 5.9 y 5.10
+* [pulsar.txt](https://alexrojas.netlify.app/Data/Prog/pulsar.txt): Ejemplo 5.7, 5.10
+* [pinguinos.csv](https://alexrojas.netlify.app/Data/Prog/pinguinos.csv): Ejercicio 5.7
+* [PobTotal.csv](https://alexrojas.netlify.app/Data/Prog/PobTotal.csv): Ejemplo 5.15
+* [zwicky.tab](https://alexrojas.netlify.app/Data/Prog/zwicky.tab) Ejercicios 5.11 y 5.12
 
 
 #### Problema "Correlación expresión genética"
 
-* [exon_table.txt](https://alexrojas.netlify.com/Data/Prog/exon_table.txt)
-* [expression_timeseries.txt](https://alexrojas.netlify.com/Data/Prog/expression_timeseries.txt)
-* [gene_table.txt](https://alexrojas.netlify.com/Data/Prog/gene_table.txt)
-* [transcript_table.txt](https://alexrojas.netlify.com/Data/Prog/transcript_table.txt)
+* [exon_table.txt](https://alexrojas.netlify.app/Data/Prog/exon_table.txt)
+* [expression_timeseries.txt](https://alexrojas.netlify.app/Data/Prog/expression_timeseries.txt)
+* [gene_table.txt](https://alexrojas.netlify.app/Data/Prog/gene_table.txt)
+* [transcript_table.txt](https://alexrojas.netlify.app/Data/Prog/transcript_table.txt)
 
 #### Problema "Patrones de compra"
 
-* [factura.csv](https://alexrojas.netlify.com/Data/Prog/factura.csv)
-* [productos.csv](https://alexrojas.netlify.com/Data/Prog/productos.csv)
-* [ventas.csv](https://alexrojas.netlify.com/Data/Prog/ventas.csv)
+* [factura.csv](https://alexrojas.netlify.app/Data/Prog/factura.csv)
+* [productos.csv](https://alexrojas.netlify.app/Data/Prog/productos.csv)
+* [ventas.csv](https://alexrojas.netlify.app/Data/Prog/ventas.csv)
 
 
 #### Capítulo 6
 
-* [Gasparini.csv](https://alexrojas.netlify.com/Data/Prog/Gasparini.csv): Ejemplo 6.2
-* [vmkmki.csv](https://alexrojas.netlify.com/Data/Prog/vmkmki.csv): Ejemplo 6.4
+* [Gasparini.csv](https://alexrojas.netlify.app/Data/Prog/Gasparini.csv): Ejemplo 6.2
+* [vmkmki.csv](https://alexrojas.netlify.app/Data/Prog/vmkmki.csv): Ejemplo 6.4
 
 
 #### Capítulo 7
 
-* [FGal.tbl](https://alexrojas.netlify.com/Data/Prog/FGal.tbl): Ejemplo 7.10
-* [NombresGal.tbl](https://alexrojas.netlify.com/Data/Prog/NombresGal.tbl): Ejemplo 7.10
-* [pinguinos.csv](https://alexrojas.netlify.com/Data/Prog/pinguinos.csv): Ejemplo 7.2
-* [zwicky.tab](https://alexrojas.netlify.com/Data/Prog/zwicky.tab) Ejemplo 7.5
+* [FGal.tbl](https://alexrojas.netlify.app/Data/Prog/FGal.tbl): Ejemplo 7.10
+* [NombresGal.tbl](https://alexrojas.netlify.app/Data/Prog/NombresGal.tbl): Ejemplo 7.10
+* [pinguinos.csv](https://alexrojas.netlify.app/Data/Prog/pinguinos.csv): Ejemplo 7.2
+* [zwicky.tab](https://alexrojas.netlify.app/Data/Prog/zwicky.tab) Ejemplo 7.5
 
 #### Problema "Comparación de las secuencias de nucleótidos para SARS-CoV, MERS-CoV, SARS-CoV2 y RaTG13"
 
-* [arbol.dnd](https://alexrojas.netlify.com/Data/Prog/arbol.dnd)
-* [MERS.fasta](https://alexrojas.netlify.com/Data/Prog/MERS.fasta)
-* [Murcielago.fasta](https://alexrojas.netlify.com/Data/Prog/Murcielago.fasta)
-* [SARS.fasta](https://alexrojas.netlify.com/Data/Prog/SARS.fasta)
-* [SARSCoV.fasta](https://alexrojas.netlify.com/Data/Prog/SARSCoV.fasta)
-* [SARS-CoV2Ant.gb](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Ant.gb)
-* [SARS-CoV2Col.fasta](https://alexrojas.netlify.com/Data/Prog/SARS-CoV2Col.fasta)
+* [arbol.dnd](https://alexrojas.netlify.app/Data/Prog/arbol.dnd)
+* [MERS.fasta](https://alexrojas.netlify.app/Data/Prog/MERS.fasta)
+* [Murcielago.fasta](https://alexrojas.netlify.app/Data/Prog/Murcielago.fasta)
+* [SARS.fasta](https://alexrojas.netlify.app/Data/Prog/SARS.fasta)
+* [SARSCoV.fasta](https://alexrojas.netlify.app/Data/Prog/SARSCoV.fasta)
+* [SARS-CoV2Ant.gb](https://alexrojas.netlify.app/Data/Prog/SARS-CoV2Ant.gb)
+* [SARS-CoV2Col.fasta](https://alexrojas.netlify.app/Data/Prog/SARS-CoV2Col.fasta)
 
 
 
 ## Código
 
-* Capítulo 1[.py](https://alexrojas.netlify.com/code/Prog/PPCap1.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap1.ipynb): Introducción 
-* Capítulo 2[.py](https://alexrojas.netlify.com/code/Prog/PPCap2.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap2.ipynb): Control de flujo 
-* Capítulo 3[.py](https://alexrojas.netlify.com/code/Prog/PPCap3.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap3.ipynb): Ciclos 
-* Capítulo 4[.py](https://alexrojas.netlify.com/code/Prog/PPCap4.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap4.ipynb): NumPy
-* Capítulo 5[.py](https://alexrojas.netlify.com/code/Prog/PPCap5.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap5.ipynb): Manipulación y visualización de datos
-* Capítulo 6[.py](https://alexrojas.netlify.com/code/Prog/PPCap6.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap6.ipynb): Computación científica 
-* Capítulo 7[.py](https://alexrojas.netlify.com/code/Prog/PPCap7.py) [.ipynb](https://alexrojas.netlify.com/code/Prog/PPCap7.ipynb): Otras librerías de interés 
+* Capítulo 1[.py](https://alexrojas.netlify.app/code/Prog/PPCap1.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap1.ipynb): Introducción 
+* Capítulo 2[.py](https://alexrojas.netlify.app/code/Prog/PPCap2.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap2.ipynb): Control de flujo 
+* Capítulo 3[.py](https://alexrojas.netlify.app/code/Prog/PPCap3.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap3.ipynb): Ciclos 
+* Capítulo 4[.py](https://alexrojas.netlify.app/code/Prog/PPCap4.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap4.ipynb): NumPy
+* Capítulo 5[.py](https://alexrojas.netlify.app/code/Prog/PPCap5.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap5.ipynb): Manipulación y visualización de datos
+* Capítulo 6[.py](https://alexrojas.netlify.app/code/Prog/PPCap6.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap6.ipynb): Computación científica 
+* Capítulo 7[.py](https://alexrojas.netlify.app/code/Prog/PPCap7.py) [.ipynb](https://alexrojas.netlify.app/code/Prog/PPCap7.ipynb): Otras librerías de interés 
 
 Además del código original, a continuación actualizamos algunos de los bloques de código para que no haya problemas en versiones actuales de `Python`.
 
@@ -133,14 +133,14 @@ ws1 = [pd.read_table('http://lib.stat.cmu.edu/datasets/wseries',\
 
 Figura  | Descripción
 :------ | :------
-![](https://alexrojas.netlify.com/media/Prog/CatedralGris.png) | [`catedralGris.png`](https://alexrojas.netlify.com/media/Prog/catedralGris.png): Figura 1.1: Imagen representada en Python como una matriz de tamaño 521 × 1275 píxeles.
-![](https://alexrojas.netlify.com/media/Prog/Catedral.jpg) | [`Catedral.jpg`](https://alexrojas.netlify.com/media/Prog/Catedral.jpg): Figura 1.1 a color  
-![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png) | [`catedralGrisBorrosa.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa.png): Figura 3.5: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1.  
-![](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png) | [`CatedralGrisBorrosa4.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisBorrosa4.png): Figura 3.6: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1 diez veces.
-![](https://alexrojas.netlify.com/media/Prog/catedralGrisFiltroAlto.png) | [`catedralGrisFiltroAlto.png`](https://alexrojas.netlify.com/media/Prog/catedralGrisFiltroAlto.png): Figura 3.7: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1 empleando el kernel en la Ecuación (3.7). 
-![](https://alexrojas.netlify.com/media/Prog/CircConc.jpg) | [`CircConc.jpg`](https://alexrojas.netlify.com/media/Prog/CircConc.jpg): Figura 6.2 a color 
-![](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg) | [`HCG_92.jpg`](https://alexrojas.netlify.com/media/Prog/HCG_92.jpg): Grupo de galaxies HCG_92. Figura 7.6 (a) a color
-![](https://alexrojas.netlify.com/media/Prog/ROSAT.png) | [`ROSAT.png`](https://alexrojas.netlify.com/media/Prog/ROSAT.png): Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat` (Versión a color de la Figura 7.8)
+![](https://alexrojas.netlify.app/media/Prog/CatedralGris.png) | [`catedralGris.png`](https://alexrojas.netlify.app/media/Prog/catedralGris.png): Figura 1.1: Imagen representada en Python como una matriz de tamaño 521 × 1275 píxeles.
+![](https://alexrojas.netlify.app/media/Prog/Catedral.jpg) | [`Catedral.jpg`](https://alexrojas.netlify.app/media/Prog/Catedral.jpg): Figura 1.1 a color  
+![](https://alexrojas.netlify.app/media/Prog/catedralGrisBorrosa.png) | [`catedralGrisBorrosa.png`](https://alexrojas.netlify.app/media/Prog/catedralGrisBorrosa.png): Figura 3.5: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1.  
+![](https://alexrojas.netlify.app/media/Prog/catedralGrisBorrosa4.png) | [`CatedralGrisBorrosa4.png`](https://alexrojas.netlify.app/media/Prog/catedralGrisBorrosa4.png): Figura 3.6: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1 diez veces.
+![](https://alexrojas.netlify.app/media/Prog/catedralGrisFiltroAlto.png) | [`catedralGrisFiltroAlto.png`](https://alexrojas.netlify.app/media/Prog/catedralGrisFiltroAlto.png): Figura 3.7: Imagen resultado de aplicar la función `ImagenBorrosa()` a la imagen en la Figura 1.1 empleando el kernel en la Ecuación (3.7). 
+![](https://alexrojas.netlify.app/media/Prog/CircConc.jpg) | [`CircConc.jpg`](https://alexrojas.netlify.app/media/Prog/CircConc.jpg): Figura 6.2 a color 
+![](https://alexrojas.netlify.app/media/Prog/HCG_92.jpg) | [`HCG_92.jpg`](https://alexrojas.netlify.app/media/Prog/HCG_92.jpg): Grupo de galaxies HCG_92. Figura 7.6 (a) a color
+![](https://alexrojas.netlify.app/media/Prog/ROSAT.png) | [`ROSAT.png`](https://alexrojas.netlify.app/media/Prog/ROSAT.png): Segundo plano difuso de rayos X suaves obtenido por ROSAT XRT/PSPC en la banda 3/4 keV usando la proyección `aitoff` y el mapa de color `plt.cm.gist_heat` (Versión a color de la Figura 7.8)
 
 
 ## Errata
