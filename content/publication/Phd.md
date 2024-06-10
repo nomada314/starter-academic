@@ -15,7 +15,7 @@ caption = ""
 
 <img src="https://www.ecoeediciones.com/wp-content/uploads/2023/11/9789585038226-9789585038233-python-para-las-humanidades-digitales-1ra-edicion.png"  width="180"/>
 
-[Más información](https://www.ecoeediciones.com/)
+[Más información](https://www.ecoeediciones.com/producto/python-para-las-humanidades-digitales-1ra-edicion/)
 
 ## Errata
 
