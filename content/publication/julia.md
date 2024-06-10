@@ -21,32 +21,32 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 
 ## Datos
 
-* Abetos [1](https://alexrojas.netlify.com/Data/Julia/fir1.csv) $\ldots$ [66](https://alexrojas.netlify.com/Data/Julia/fir66.csv)  (Todos los 66 archivos: [Abetos](https://alexrojas.netlify.com/Data/Julia/Fir1.zip))
-* [AQS Sites](https://alexrojas.netlify.com/Data/Julia/aqs_sites.csv)
-* [Códigos](https://alexrojas.netlify.com/Data/Julia/Codigos.xlsx)
-* [C moschata](https://alexrojas.netlify.com/Data/Julia/Cmoschata.xlsx)
-* [Cuerpos celestes](https://alexrojas.netlify.com/Data/Julia/cuerpos.csv)
-* [Equipos Copa](https://alexrojas.netlify.com/Data/Julia/EquiposCopa.csv)
-* [Full24hrdataset](https://alexrojas.netlify.com/Data/Julia/Full24hrdataset.csv)
-* [Habitat abetos](https://alexrojas.netlify.com/Data/Julia/abetoHabitat.csv)
-* [Paises](https://alexrojas.netlify.com/Data/Julia/Paises.txt)
-* [Penaltis](https://alexrojas.netlify.com/Data/Julia/shootouts.csv)
-* Precipitación [Enero](https://alexrojas.netlify.com/Data/Julia/precipitacionEne.csv) $\ldots$ [Diciembre](https://alexrojas.netlify.com/Data/Julia/precipitacionDic.csv) (Todos los 12 archivos: [Precipitación](https://alexrojas.netlify.com/Data/Julia/Precipitacion.zip))
-* [Ranking 06/2018](https://alexrojas.netlify.com/Data/Julia/Ranking062018.csv)
-* [Ranking 03/20/2022](https://alexrojas.netlify.com/Data/Julia/Ranking032022.csv)
-* [Resultados hasta el 6 de febrero, 2022](https://alexrojas.netlify.com/Data/Julia/results.csv)
-* [Simulación neurona](https://alexrojas.netlify.com/Data/Julia/neuronaSim.csv)
-* [Valores $k$](https://alexrojas.netlify.com/Data/Julia/valoresK.csv)
+* Abetos [1](https://alexrojas.netlify.app/Data/Julia/fir1.csv) $\ldots$ [66](https://alexrojas.netlify.app/Data/Julia/fir66.csv)  (Todos los 66 archivos: [Abetos](https://alexrojas.netlify.app/Data/Julia/Fir1.zip))
+* [AQS Sites](https://alexrojas.netlify.app/Data/Julia/aqs_sites.csv)
+* [Códigos](https://alexrojas.netlify.app/Data/Julia/Codigos.xlsx)
+* [C moschata](https://alexrojas.netlify.app/Data/Julia/Cmoschata.xlsx)
+* [Cuerpos celestes](https://alexrojas.netlify.app/Data/Julia/cuerpos.csv)
+* [Equipos Copa](https://alexrojas.netlify.app/Data/Julia/EquiposCopa.csv)
+* [Full24hrdataset](https://alexrojas.netlify.app/Data/Julia/Full24hrdataset.csv)
+* [Habitat abetos](https://alexrojas.netlify.app/Data/Julia/abetoHabitat.csv)
+* [Paises](https://alexrojas.netlify.app/Data/Julia/Paises.txt)
+* [Penaltis](https://alexrojas.netlify.app/Data/Julia/shootouts.csv)
+* Precipitación [Enero](https://alexrojas.netlify.app/Data/Julia/precipitacionEne.csv) $\ldots$ [Diciembre](https://alexrojas.netlify.app/Data/Julia/precipitacionDic.csv) (Todos los 12 archivos: [Precipitación](https://alexrojas.netlify.app/Data/Julia/Precipitacion.zip))
+* [Ranking 06/2018](https://alexrojas.netlify.app/Data/Julia/Ranking062018.csv)
+* [Ranking 03/20/2022](https://alexrojas.netlify.app/Data/Julia/Ranking032022.csv)
+* [Resultados hasta el 6 de febrero, 2022](https://alexrojas.netlify.app/Data/Julia/results.csv)
+* [Simulación neurona](https://alexrojas.netlify.app/Data/Julia/neuronaSim.csv)
+* [Valores $k$](https://alexrojas.netlify.app/Data/Julia/valoresK.csv)
 
 
 ## Código
 
-* Capítulo 1[.jl](https://alexrojas.netlify.com/code/Julia/JCap1.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap1.ipynb): Introducción 
-* Problema Central Capítulo I [.jl](https://alexrojas.netlify.com/code/Julia/JProbCentral1.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JProbCentral1.ipynb)
-* Capítulo 2[.jl](https://alexrojas.netlify.com/code/Julia/JCap2.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap2.ipynb): Funciones y Control de flujo 
-* Problema Central Capítulo II [.jl](https://alexrojas.netlify.com/code/Julia/JProbCentral2.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JProbCentral2.ipynb)
-* Capítulo 3[.jl](https://alexrojas.netlify.com/code/Julia/JCap3.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JCap3.ipynb): Bases de datos
-* Problema Central Capítulo III [.jl](https://alexrojas.netlify.com/code/Julia/JProbCentral3.jl) [.ipynb](https://alexrojas.netlify.com/code/Julia/JProbCentral3.ipynb)
+* Capítulo 1[.jl](https://alexrojas.netlify.app/code/Julia/JCap1.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap1.ipynb): Introducción 
+* Problema Central Capítulo I [.jl](https://alexrojas.netlify.app/code/Julia/JProbCentral1.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JProbCentral1.ipynb)
+* Capítulo 2[.jl](https://alexrojas.netlify.app/code/Julia/JCap2.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap2.ipynb): Funciones y Control de flujo 
+* Problema Central Capítulo II [.jl](https://alexrojas.netlify.app/code/Julia/JProbCentral2.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JProbCentral2.ipynb)
+* Capítulo 3[.jl](https://alexrojas.netlify.app/code/Julia/JCap3.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap3.ipynb): Bases de datos
+* Problema Central Capítulo III [.jl](https://alexrojas.netlify.app/code/Julia/JProbCentral3.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JProbCentral3.ipynb)
 
 
 ## Animaciones e Imágenes
@@ -54,10 +54,10 @@ A continuación se encuentran los conjuntos de datos y el código utilizados en 
 Figura  | Descripción
 :------ | :------
 ![]()
-<img src="https://alexrojas.netlify.com/media/Julia/panda0.jpg" alt="Conejo" width="200"/>| [`panda0.jpg`](https://alexrojas.netlify.com/media/Julia/panda0.png): Figura 1.1: Imagen representada en `Julia` como una matriz de tamaño 2000 $\times$ 2330 píxeles.
-![](https://alexrojas.netlify.com/media/Julia/Julia_regresionLineal.gif) | Animación Figura 2.10: Diagrama de dispersión para cuatro conjuntos de datos aleatorios apartir del modelo de regresión cuadrática en el Ejemplo 2.15 
-![](https://alexrojas.netlify.com/media/Julia/Julia_expx2Taylor.gif) | Animación creada con el Bloque de código 2.56
-![](https://alexrojas.netlify.com/media/Julia/Julia_randsearch.gif) | Animación creada con el Bloque de código 2.57
+<img src="https://alexrojas.netlify.app/media/Julia/panda0.jpg" alt="Conejo" width="200"/>| [`panda0.jpg`](https://alexrojas.netlify.app/media/Julia/panda0.png): Figura 1.1: Imagen representada en `Julia` como una matriz de tamaño 2000 $\times$ 2330 píxeles.
+![](https://alexrojas.netlify.app/media/Julia/Julia_regresionLineal.gif) | Animación Figura 2.10: Diagrama de dispersión para cuatro conjuntos de datos aleatorios apartir del modelo de regresión cuadrática en el Ejemplo 2.15 
+![](https://alexrojas.netlify.app/media/Julia/Julia_expx2Taylor.gif) | Animación creada con el Bloque de código 2.56
+![](https://alexrojas.netlify.app/media/Julia/Julia_randsearch.gif) | Animación creada con el Bloque de código 2.57
 
 
 
