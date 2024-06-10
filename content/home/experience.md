@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   company_url = "https://www.utrgv.edu/"
   location = "Edinburg, TX. USA"
   date_start = "2024-01-01"
-  date_end = "2024-12-31"
+  date_end = "2024-06-30"
   description = """"""
 
 [[experience]]
