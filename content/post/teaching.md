@@ -7,6 +7,11 @@ title     = "Teaching"
 math      = true
 +++
 
+## Segundo semestre 2024
+* 
+* 
+* 
+
 ## Primer semestre 2023
 * Cálculo I
 * Estadística General
