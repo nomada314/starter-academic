@@ -24,18 +24,18 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 
 ## Datos
 
-* [Precio acción simulado](https://alexrojas.netlify.com/Data/Inf/PrecioAccionSimulado.csv): Ejemplo 1.40
-* [Precipitación tormentas en verano](https://alexrojas.netlify.com/Data/Inf/LluviaIllinois.csv): Ejemplos 2.2, 2.22, 2.32, 2.40, 2.49, 4.20 y 4.22
-* [Goles de campo en la NFL 1995-96](https://alexrojas.netlify.com/Data/Inf/nflK.csv): Ejemplos 2.51 y 4.17
-* [Lesiones craneales en la NFL 2012-15](https://alexrojas.netlify.com/Data/Inf/NFL.csv): Ejemplo 2.63
-* [Verizon](https://alexrojas.netlify.com/Data/Inf/Verizon.csv): Ejemplo 3.17
+* [Precio acción simulado](https://alexrojas.netlify.app/Data/Inf/PrecioAccionSimulado.csv): Ejemplo 1.40
+* [Precipitación tormentas en verano](https://alexrojas.netlify.app/Data/Inf/LluviaIllinois.csv): Ejemplos 2.2, 2.22, 2.32, 2.40, 2.49, 4.20 y 4.22
+* [Goles de campo en la NFL 1995-96](https://alexrojas.netlify.app/Data/Inf/nflK.csv): Ejemplos 2.51 y 4.17
+* [Lesiones craneales en la NFL 2012-15](https://alexrojas.netlify.app/Data/Inf/NFL.csv): Ejemplo 2.63
+* [Verizon](https://alexrojas.netlify.app/Data/Inf/Verizon.csv): Ejemplo 3.17
 
 ## Código en R
 
-* [Capítulo 1.](https://alexrojas.netlify.com/code/Inf/Infcap1.R) Preliminares
-* [Capítulo 2.](https://alexrojas.netlify.com/code/Inf/Infcap2.R) Estimación puntual
-* [Capítulo 3.](https://alexrojas.netlify.com/code/Inf/Infcap3.R) Contraste de hipótesis
-* [Capítulo 4.](https://alexrojas.netlify.com/code/Inf/Infcap4.R) Estimación por regiones
+* [Capítulo 1.](https://alexrojas.netlify.app/code/Inf/Infcap1.R) Preliminares
+* [Capítulo 2.](https://alexrojas.netlify.app/code/Inf/Infcap2.R) Estimación puntual
+* [Capítulo 3.](https://alexrojas.netlify.app/code/Inf/Infcap3.R) Contraste de hipótesis
+* [Capítulo 4.](https://alexrojas.netlify.app/code/Inf/Infcap4.R) Estimación por regiones
 
 ## Errata
 
@@ -77,7 +77,7 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 77, Ejemplo 2.41: el factor inicial en la productoria en la función de log-verosimilitud es para $i = 1$. 
 * p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$.
 * p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$.
-* p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.com/code/Inf/Infcap2.R).
+* p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.app/code/Inf/Infcap2.R).
 * p. 135, Ejemplo 2.72: El límite inferior de la segunda integral en la primera ecuación debe ser $-\infty$ en lugar de $\infty$. Además, el código calcula $\Pr(Z \geq 3)$, para que calcule $\Pr(Z \geq 3.5)$ se debe reemplazar la constante 3 por 3.5 en este código.
 * p. 146, Ejercicio 2.2: $T(\mathbf{X})$ es $\frac{n+1}{2(n-1)\sqrt{3}}\cdot (X_{(n)}-X_{(1)})$.
 
