@@ -27,39 +27,39 @@ A continuación se encuentran los conjuntos de datos y el código  utilizados en
 
 ### Datos
 
-Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.com/Data/Bio/Datos.zip). 
+Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.app/Data/Bio/Datos.zip). 
 
-* [BRCA2.fa](https://alexrojas.netlify.com/Data/Bio/BRCA2.fa)
-* [Cadaver.txt](https://alexrojas.netlify.com/Data/Bio/Cadaver.txt)
-* [Camacho_ELEV.csv](https://alexrojas.netlify.com/Data/Bio/Camacho_ELEV.csv)
-* [Camacho_MEC.csv](https://alexrojas.netlify.com/Data/Bio/Camacho_MEC.csv)
-* [cangrejos.dat](https://alexrojas.netlify.com/Data/Bio/cangrejos.dat)
-* [CgariepinusGrupo.xlsx](https://alexrojas.netlify.com/Data/Bio/CgariepinusGrupo.xlsx)
-* [CgariepinusGrupoIndvidual.xlsx](https://alexrojas.netlify.com/Data/Bio/CgariepinusGrupoIndvidual.xlsx)
-* [CgariepinusIndividual.xlsx](https://alexrojas.netlify.com/Data/Bio/CgariepinusIndividual.xlsx)
-* [CraneoPCA.csv](https://alexrojas.netlify.com/Data/Bio/CraneoPCA.csv)
-* [Crecimiento.xlsx](https://alexrojas.netlify.com/Data/Bio/Crecimiento.xlsx)
-* [FungalFrequencyArea2.txt](https://alexrojas.netlify.com/Data/Bio/FungalFrequencyArea2.txt)
-* [GSE55282.xlsx](https://alexrojas.netlify.com/Data/Bio/GSE55282.xlsx)
-* [GSE55282Metadata.csv](https://alexrojas.netlify.com/Data/Bio/GSE55282Metadata.csv)
-* [GSE55282Metadata.xlsx](https://alexrojas.netlify.com/Data/Bio/GSE55282Metadata.xlsx)
-* [huevos.xlsx](https://alexrojas.netlify.com/Data/Bio/huevos.xlsx)
-* [Lobos.txt](https://alexrojas.netlify.com/Data/Bio/Lobos.txt)
-* [MoscaTel.csv](https://alexrojas.netlify.com/Data/Bio/MoscaTel.csv)
-* [Mutilacion.xlsx](https://alexrojas.netlify.com/Data/Bio/Mutilacion.xlsx)
-* [NONCODEv5_yeast.fa](https://alexrojas.netlify.com/Data/Bio/)
-* [Parasite.txt](https://alexrojas.netlify.com/Data/Bio/Parasite.txt)
-* [Peckoltia2015.xls](https://alexrojas.netlify.com/Data/Bio/Peckoltia2015.xls)
-* [Reguladores.csv](https://alexrojas.netlify.com/Data/Bio/Reguladores.csv)
-* [ReguladoresConteos.txt](https://alexrojas.netlify.com/Data/Bio/ReguladoresConteos.txt)
+* [BRCA2.fa](https://alexrojas.netlify.app/Data/Bio/BRCA2.fa)
+* [Cadaver.txt](https://alexrojas.netlify.app/Data/Bio/Cadaver.txt)
+* [Camacho_ELEV.csv](https://alexrojas.netlify.app/Data/Bio/Camacho_ELEV.csv)
+* [Camacho_MEC.csv](https://alexrojas.netlify.app/Data/Bio/Camacho_MEC.csv)
+* [cangrejos.dat](https://alexrojas.netlify.app/Data/Bio/cangrejos.dat)
+* [CgariepinusGrupo.xlsx](https://alexrojas.netlify.app/Data/Bio/CgariepinusGrupo.xlsx)
+* [CgariepinusGrupoIndvidual.xlsx](https://alexrojas.netlify.app/Data/Bio/CgariepinusGrupoIndvidual.xlsx)
+* [CgariepinusIndividual.xlsx](https://alexrojas.netlify.app/Data/Bio/CgariepinusIndividual.xlsx)
+* [CraneoPCA.csv](https://alexrojas.netlify.app/Data/Bio/CraneoPCA.csv)
+* [Crecimiento.xlsx](https://alexrojas.netlify.app/Data/Bio/Crecimiento.xlsx)
+* [FungalFrequencyArea2.txt](https://alexrojas.netlify.app/Data/Bio/FungalFrequencyArea2.txt)
+* [GSE55282.xlsx](https://alexrojas.netlify.app/Data/Bio/GSE55282.xlsx)
+* [GSE55282Metadata.csv](https://alexrojas.netlify.app/Data/Bio/GSE55282Metadata.csv)
+* [GSE55282Metadata.xlsx](https://alexrojas.netlify.app/Data/Bio/GSE55282Metadata.xlsx)
+* [huevos.xlsx](https://alexrojas.netlify.app/Data/Bio/huevos.xlsx)
+* [Lobos.txt](https://alexrojas.netlify.app/Data/Bio/Lobos.txt)
+* [MoscaTel.csv](https://alexrojas.netlify.app/Data/Bio/MoscaTel.csv)
+* [Mutilacion.xlsx](https://alexrojas.netlify.app/Data/Bio/Mutilacion.xlsx)
+* [NONCODEv5_yeast.fa](https://alexrojas.netlify.app/Data/Bio/)
+* [Parasite.txt](https://alexrojas.netlify.app/Data/Bio/Parasite.txt)
+* [Peckoltia2015.xls](https://alexrojas.netlify.app/Data/Bio/Peckoltia2015.xls)
+* [Reguladores.csv](https://alexrojas.netlify.app/Data/Bio/Reguladores.csv)
+* [ReguladoresConteos.txt](https://alexrojas.netlify.app/Data/Bio/ReguladoresConteos.txt)
 
 
 ## Código
 
-* [Capítulo 1](https://alexrojas.netlify.com/code/Bio/HAEDBCap1.R): Introducción 
-* [Capítulo 2](https://alexrojas.netlify.com/code/Bio/HAEDBCap2.R) : Análisis Exploratorioo de Datos
-* [Capítulo 3](https://alexrojas.netlify.com/code/Bio/HAEDBCap3.R) : Probabilidad
-* [Capítulo 4](https://alexrojas.netlify.com/code/Bio/HAEDBCap4.R) : Inferencia
+* [Capítulo 1](https://alexrojas.netlify.app/code/Bio/HAEDBCap1.R): Introducción 
+* [Capítulo 2](https://alexrojas.netlify.app/code/Bio/HAEDBCap2.R) : Análisis Exploratorioo de Datos
+* [Capítulo 3](https://alexrojas.netlify.app/code/Bio/HAEDBCap3.R) : Probabilidad
+* [Capítulo 4](https://alexrojas.netlify.app/code/Bio/HAEDBCap4.R) : Inferencia
 
 ## Errata
 
