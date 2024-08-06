@@ -41,6 +41,6 @@ Semana | Fecha | Tema
 &nbsp; | 09-03 | Expresiones algebraicas. Signos de agrupación. <br>Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 57 - 65.
 &nbsp; | 09-05 | Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
 4  | 09-09 | .
-&nbsp; | 09-10 | Repaso
+&nbsp; | 09-10 | Sesión de preguntas
 &nbsp; | 09-12 | **Primer examen**
 
