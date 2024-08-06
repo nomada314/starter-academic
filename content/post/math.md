@@ -17,7 +17,7 @@ Jueves 12:00 - 2:00 PM A505
 
 Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
 
-### Øtras referencias:
+### Otras referencias:
 
 * Spivak, M. (1970) Cálculo Infinitesimal. Editorial Reverté
 * Zalamea, F. (2007) Fundamentos de Matemáticas. Editorial UNal
