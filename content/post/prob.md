@@ -1,7 +1,7 @@
 +++
 date      = 2021-06-09
-lastmod   = 2023-02-03
-draft     = true
+lastmod   = 2024-08-06
+draft     = false
 tags      = ["Teaching", "Probability"]
 title     = "Probabilidad y Estadística"
 math      = true
@@ -9,9 +9,8 @@ math      = true
 
 ### Libros guía:
 
-+ López, A., Rojas-Peña, M. L. & Rojas, A. L. [Herramientas para el análisis estadístico de datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 + Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
-
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. [Herramientas para el análisis estadístico de datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 
 ### Otras referencias:
 
@@ -27,7 +26,7 @@ Por cita.
 
 Semana | Fecha | Tema |
 ---| ---| --- |
-1  | Feb 07 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] |
+1  | Ago 07 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] |
 &nbsp; | Feb 09 | Lectura de datos [1.3.1] |
 2  |  Feb 14 | Manipulación de datos [1.3.2]  |
 &nbsp; | Feb 16 | Manipulación de datos, continuación [1.3.2]  |
@@ -51,24 +50,10 @@ Semana | Fecha | Tema |
 
 ## Ejercicios
 
-### Marzo 10
+<!--
+### 
 
-Lea el archivo `Propina.csv` ubicado en la página https://alexrojas.netlify.com/Data/Prob/Propina.csv
-
-1. Calcule el promedio, la desviación estándar, el mínimo y el máximo para la variable  `propina`.
-2. Calcule el rango intercuartílico para la variable `Total`.
-3. Cree la variable `porc` que corresponde al porcentaje de la cuenta total que corresponde a la propina. Grafique un histograma para la variable `porc`
-4. Cree la variable `PorPersona` que corresponde al total dividido por el número de personas. Calcule el mínimo valor de la variable `PorPersona` para cada día.
-5. Calcule el promedio, la desviación estándar, el mínimo y el máximo para la variable  `PorPersona` por `sexo`.
-6. Genere una tabla de contingencia para las variables `fumador` y `dia`
-7. Utilizando la tabla en el numeral anterior, calcule las proporciones relativas por `dia`. 
-8. ¿Cuál es el mejor día para ir a este restaurante, si se quieren evitar los fumadores?
-9. Calcule el cuantíl 75 del porcentaje de propina (`porc`) por `dia` y `tiempo`
-
-
-
-
-### Febrero 21
+### 
 
 Considere el archivo localizado en la siguiente dirección https://alexrojas.netlify.com/Data/Prog/gene_table.txt.  Este archivo contiene la siguiente información de genes en el genoma humano: símbolo, biotipo, cromosoma, hebra y número de transcripciones. Por ejemplo, el primer gen en el archivo tiene el símbolo `TSPAN6`, está localizado en la hebra `-` del cromosoma `X` y tiene 5 transcripciones. Además es un gen que codifica para proteína. El símbolo de cada gen sigue los estándares dados por el Comité para la Nomenclatura de Genes del Genoma Humano (HUGO Gene Nomenclature Committee, [HGNC](https://www.genenames.org/)).  Al digitar `TSPAN6` en el campo de búsqueda en la página en internet de este Comité, encontramos que el nombre es `tetraspanin 6` y su localización citogenética es `Xq22.1`, es decir, la posición `22.1` del brazo largo del cromosoma `X`. Al buscar este gen en la página: [https://www.ensembl.org/](https://www.ensembl.org/) y desplegar la tabla de transcripción podemos observar la lista de las 5 transcripciones.
 
@@ -83,7 +68,7 @@ Realice la siguiente manipulación:
 
 
 
-<!--
+
 |3      |2022-09-13 | Variables aleatorias |
 |&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
 |4      |2022-09-20 | **Sesión de preguntas** |
