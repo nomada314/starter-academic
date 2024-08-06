@@ -8,9 +8,9 @@ math      = true
 +++
 
 ## Segundo semestre 2024
-* 
-* 
-* 
+* [Matemáticas Generales]
+* [Estadística General]
+* [Probabilidad y Estadística]
 
 ## Primer semestre 2023
 * Cálculo I
