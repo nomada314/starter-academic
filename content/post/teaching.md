@@ -10,7 +10,7 @@ math      = true
 ## Segundo semestre 2024
 * [Matemáticas Generales]
 * [Estadística General]
-* [Probabilidad y Estadística]
+* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
 
 ## Primer semestre 2023
 * Cálculo I
