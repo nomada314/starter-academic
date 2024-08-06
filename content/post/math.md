@@ -9,8 +9,7 @@ math      = true
 
 ### Libros guía:
 
-+ (**A**) Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
-+ (**S**) Spivak, M. (1978) Cálculo Infinitesimal. Editorial Reverté.
+Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
 
 ### Horas de oficina: 
 
@@ -23,7 +22,7 @@ Por cita.
 Semana | Fecha | Tema
 ---| ---| ---
 1  | 08-20 | Presentación del curso.
-&nbsp; | 08-22 | Sistemas numéricos <br> Operaciones binarias <br> Propiedades de los $\mathbb{R}$
+&nbsp; | 08-22 | Sistemas numéricos <br> Operaciones binarias <br> Propiedades de los $\mathbb{R}$ <br> *Lectura*: 33 - 45
 2  | 08-27 | .
 &nbsp; | 08-29 | 
 
