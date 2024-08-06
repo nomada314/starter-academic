@@ -28,14 +28,14 @@ Por cita.
 Semana | Fecha | Tema
 ---| ---| ---
 1  | 08-20 | Presentación del curso.
-&nbsp; | 08-22 | Sistemas numéricos. Operaciones binarias. Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: 33 - 45.
+&nbsp; | 08-22 | Sistemas numéricos. Operaciones binarias. Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
 2  | 08-26 | .
-&nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: 45 - 48.
-&nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. Plano cartesiano <br> **Lectura**: 48 - 53.
+&nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
+&nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. Plano cartesiano <br> **Lectura**: p. 48 - 53.
 3  | 09-02 | .
-&nbsp; | 09-03 | <br> **Lectura**: 45 - .
-&nbsp; | 09-05 | <br> **Lectura**: 45 - .
+&nbsp; | 09-03 | <br> **Lectura**: p. - .
+&nbsp; | 09-05 | <br> **Lectura**: p. - .
 4  | 09-09 | .
-&nbsp; | 09-10 | <br> **Lectura**: 45 - .
-&nbsp; | 09-12 | <br> **Lectura**: 45 - .
+&nbsp; | 09-10 | <br> **Lectura**: p. - .
+&nbsp; | 09-12 | <br> **Lectura**: p. - .
 
