@@ -8,7 +8,7 @@ math      = true
 +++
 
 ### Horario
-Martes 4:00 - 6:00 PM, A201
+Martes 4:00 - 6:00 PM, A201 <br>
 Jueves 4:00 - 6:00 PM, TBA 
 
 
