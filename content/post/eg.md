@@ -18,7 +18,8 @@ López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). [Herramientas para el anál
 
 ### Horas de oficina: 
 
-Por cita.
+Lunes 2:00 - 4:00 PM o por cita. <br>
+**Lugar**: La Colina Casa 2. 
 
 ### Agenda
 
