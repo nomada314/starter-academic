@@ -33,9 +33,9 @@ Semana | Fecha | Tema
 &nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
 &nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. Plano cartesiano <br> **Lectura**: p. 48 - 53.
 3  | 09-02 | .
-&nbsp; | 09-03 | <br> **Lectura**: p. - .
-&nbsp; | 09-05 | <br> **Lectura**: p. - .
+&nbsp; | 09-03 | Expresiones algebraicas. Signos de agrupación. Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 57 - 65.
+&nbsp; | 09-05 | Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
 4  | 09-09 | .
-&nbsp; | 09-10 | <br> **Lectura**: p. - .
-&nbsp; | 09-12 | <br> **Lectura**: p. - .
+&nbsp; | 09-10 | Repaso
+&nbsp; | 09-12 | **Primer examen**
 
