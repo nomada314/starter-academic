@@ -26,7 +26,7 @@ Por cita.
 ### Agenda
 
 Semana | Fecha | Tema
----| ---| ---
+---| --- | ----
 1  | 08-20 | Presentación del curso.
 &nbsp; | 08-22 | Sistemas numéricos. Operaciones binarias. Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
 2  | 08-26 | .
