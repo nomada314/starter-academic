@@ -1,6 +1,6 @@
 +++
 date      = 2021-06-09
-lastmod   = 2023-02-03
+lastmod   = 2024-08-06
 draft     = true
 tags      = ["Teaching", "Probability"]
 title     = "Estadística General"
