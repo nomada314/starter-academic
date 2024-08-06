@@ -7,44 +7,47 @@ title     = "Probabilidad y Estadística"
 math      = true
 +++
 
-### Libros guía:
+### Horario
+Martes 4:00 - 6:00 PM, A201
+Jueves 4:00 - 6:00 PM, TBA 
 
-+ Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
-+ López, A., Rojas-Peña, M. L. & Rojas, A. L. [Herramientas para el análisis estadístico de datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
+
+### Libro guía:
+
+Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
 
 ### Otras referencias:
 
 + Benjamin, J. R. & Cornell, C. A. (2014). *Probability, statistics, and decision for civil engineers.* Courier Corporation.
 + Berthouex, P.M. & Brown, L.C. (2002). *Statistics for Environmental Engineers.* Lewis Publishers.
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. [Herramientas para el análisis estadístico de datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 + Shaefer, S.J. & Theodore, L. (2007). *Probability and Statitsics Applications for Environmental Science*. CRC Press.
 
 ### Horas de oficina: 
 
-Por cita.
+Lunes 2:00 - 4:00 PM o por cita. <br>
+**Lugar**: La Colina Casa 2. 
 
-### Horario
+### Agenda
 
 Semana | Fecha | Tema |
----| ---| --- |
-1  | Ago 07 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] |
-&nbsp; | Feb 09 | Lectura de datos [1.3.1] |
-2  |  Feb 14 | Manipulación de datos [1.3.2]  |
-&nbsp; | Feb 16 | Manipulación de datos, continuación [1.3.2]  |
-3  |  Feb 21 | Manipulación de datos, continuación [1.3.2]  |
-&nbsp; | Feb 23 | Cálculo de estadísticas [1.3.3]  |
-4  |  Feb 28 | Gráficas para una variable [2.1.1] |
-&nbsp; | Mar 02 | Sesión de preguntas  |
-5 | Mar 07 |  Examen I |
-&nbsp; | Mar 09 | Permiso académico |
-6 | Mar 14 | Gráficas para dos variable [2.1.2]  |
-&nbsp; | Mar 16 | Gráficas para dos variable [2.1.2] |
-7 | Mar 21 | Examen II  |
-&nbsp; | Mar 23 | Gráficas para dos variable [2.1.2] |
-8 | Mar 28 | Transformaciones [2.2] |
-&nbsp; | Mar 30 | Eventos y Probabilidad [3.1]  |
-9 | Abr 04 | Eventos y Probabilidad [3.1] |
-&nbsp; | Abr 06 | Probabilidad condicional  |
-
+---| ---| ---- |
+1      | 08-20 | Presentación del curso |
+&nbsp; | 08-22 | Espacio muestral y eventos |
+2      | 08-27 | Probabilidad |
+&nbsp; | 08-29  | Probabilidad, cont. |
+3      | 09-03 | Probabilidad Condicional |
+&nbsp; | 09-05  | Independencia y regla de Bayes |
+4      | 09-10 | Sesión de preguntas |
+&nbsp; | 09-12  | **Primer Examen** |
+5      | 09-17 | Variables aleatorias |
+&nbsp; | 09-19 | Función de masa de probabilidad <br> Función de densidad de probabilidad |
+6      | 09-24 | Función de distribución y de fiabilidad |
+&nbsp; | 09-26 | Función cuantil |
+7      | 10-01 | Funciones de variables aleatorias |
+&nbsp; | 10-03 | Estadísticas de orden |
+8      | 10-08 | Sesión de preguntas |
+&nbsp; | 10-10  | **Segundo Examen** |
 
 
 
@@ -69,8 +72,6 @@ Realice la siguiente manipulación:
 
 
 
-|3      |2022-09-13 | Variables aleatorias |
-|&nbsp; |2022-09-15 | Función de masa de probabilidad <br> Función de densidad de probabilidad <br> Valor esperado |
 |4      |2022-09-20 | **Sesión de preguntas** |
 |&nbsp; |2022-09-22 | **Examen I** |
 |5      |2022-09-27 | Solución Examen I  |
