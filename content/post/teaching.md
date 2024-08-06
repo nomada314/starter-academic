@@ -8,7 +8,7 @@ math      = true
 +++
 
 ## Segundo semestre 2024
-* [Matemáticas Generales]
+* [Matemáticas Generales](https://alexrojas.netlify.app/post/math/)
 * [Estadística General](https://alexrojas.netlify.app/post/eg/)
 * [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
 
