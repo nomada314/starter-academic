@@ -9,9 +9,8 @@ math      = true
 
 ### Libros guía:
 
-+ (**A**) Allendofer, C.B. (2003). Mathematics for finance. An Introduction to Financial Engineering. Springer.
-+ (**S**)  Mathematical Interest Theory. Pearson Prentice Hall.
-
++ (**A**) Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
++ (**S**) Spivak, M. (1978) Cálculo Infinitesimal. Editorial Reverté.
 
 ### Horas de oficina: 
 
@@ -23,7 +22,9 @@ Por cita.
 
 Semana | Fecha | Tema
 ---| ---| ---
-1  | Jun 22 | Presentación del curso.
-&nbsp; | Jun 24 | Interés simple y compuesto (**FD** 1.4 - 1.7)
+1  | 08-20 | Presentación del curso.
+&nbsp; | 08-22 | Sistemas numéricos <br> Operaciones binarias <br> Propiedades de los $\mathbb{R}$
+2  | 08-27 | .
+&nbsp; | 08-29 | 
 
 
