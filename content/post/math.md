@@ -13,9 +13,14 @@ Lunes 4:00 - 5:00 PM. La Colina Casa 2  <br>
 Martes 12:00 - 2:00 PM A305 <br>
 Jueves 12:00 - 2:00 PM A505 
 
-### Libros guía:
+### Libro guía:
 
 Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
+
+### Øtras referencias:
+
+* Spivak, M. (1970) Cálculo Infinitesimal. Editorial Reverté
+* Zalamea, F. (2007) Fundamentos de Matemáticas. Editorial UNal
 
 ### Horas de oficina: 
 
