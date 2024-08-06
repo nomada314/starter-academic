@@ -9,8 +9,8 @@ math      = true
 
 ### Horario
 
-Lunes 4:00 - 5:00 PM. La Colina Casa 2 
-Martes 12:00 - 2:00 PM A305 
+Lunes 4:00 - 5:00 PM. La Colina Casa 2  <br>
+Martes 12:00 - 2:00 PM A305 <br>
 Jueves 12:00 - 2:00 PM A505 
 
 ### Libros guía:
