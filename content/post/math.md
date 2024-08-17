@@ -34,8 +34,8 @@ Lunes 2:00 - 4:00 PM o por cita. <br>
 Semana | Fecha | Tema
 ---| --- | ----
 1  | 08-20 | Presentación del curso.
-&nbsp; | 08-22 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
-2  | 08-26 | .
+&nbsp; | 08-22 | Examen de inglés. Revisar correo para saber el lugar y la hora.
+2  | 08-26 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
 &nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
 &nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 53.
 3  | 09-02 | .
