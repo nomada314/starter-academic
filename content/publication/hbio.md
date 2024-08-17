@@ -1,5 +1,5 @@
 +++
-title = "Herramientas para el análisis estadístico de datos biológicos en R"
+title = "Herramientas para el análisis estadístico de datos biológicos en `R`"
 date = "2022-04-21"
 authors = ["López A.", "Rojas-Peña, M. L.", "admin"]
 publication_types = ["5"]
@@ -23,7 +23,6 @@ caption = ""
 [Más información](https://editorial.uptc.edu.co/gpd-herramientas-para-el-analisis-estadistico-de-datos-biologicos-en-r-9789586606462-62f2be2f3ddd8.html)
 
 A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se encuentran los errrores encontrados a la fecha.
-
 
 ### Datos
 
