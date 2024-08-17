@@ -1,5 +1,5 @@
 +++
-title = "Herramientas para el análisis estadístico de datos biológicos en `R`"
+title = "Herramientas para el análisis estadístico de datos biológicos en R"
 date = "2022-04-21"
 authors = ["López A.", "Rojas-Peña, M. L.", "admin"]
 publication_types = ["5"]
