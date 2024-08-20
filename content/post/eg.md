@@ -10,16 +10,31 @@ math      = true
 ### Horario
 
 Lunes 8:00 - 10:00 AM. R315 <br>
-Martes 10:00 - 12:00 M. TBA <br>
+Martes 10:00 - 12:00 M. A204 <br>
 
 ### Libro guía:
 
 López, A., Rojas-Peña, M.L., & Rojas, A.L. (2022). [Herramientas para el análisis estadístico de datos biológicos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 
+### Otras referencias:
+
+* Devore, J (2005). Probabilidad y Estadística para Ingeniería y Ciencias. Sexta Edición. Editorial
+Thomson.
+* Ismay, C. & Kim A. Y. (2019) Statistical Inference via Data Science: A ModernDive into R and the Tidyverse.  Chapman and Hall [Página del libro](https://moderndive.com)
+* Whitlock, M. C. & Schluter, D (2015). The Analysis of Biological Data. W. H. Freeman.
+
 ### Horas de oficina: 
 
 Lunes 2:00 - 4:00 PM o por cita. <br>
 **Lugar**: La Colina Casa 2. 
+
+### Software
+
+Utilizaremos el lenguaje `R` y la interface `RStudio`. Estos *softwares* son de libre acceso y pueden descargarse de las páginas: 
+
+* [https://www.icesi.edu.co/CRAN/](https://www.icesi.edu.co/CRAN/)
+* [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+
 
 ### Agenda
 
