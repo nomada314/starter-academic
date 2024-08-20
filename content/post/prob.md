@@ -53,7 +53,19 @@ Semana | Fecha | Tema |
 
 
 
-## Ejercicios
+La nota final será obtenida así: 
+
+* Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
+* Segundo 50: dos exámenes con un peso del 50%, un taller (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
+
+. . .
+
+La participación será evaluada a través de la lectura previa del material, preguntas durante la clase y contestando preguntas. <br>
+
+. . . 
+
+Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Ingeniería *Civil*, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `Python` utilizado.
+
 
 <!--
 ### 
