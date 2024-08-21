@@ -89,8 +89,7 @@ min = 4
 max = 8
 ordenar = 'time'
 pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfile&nodata=404'
-pd.read_html(pagina)
-
+mag4a8 = pd.read_csv(pagina, skiprows=1)
 ```
 
 
