@@ -69,6 +69,29 @@ La participación será evaluada a través de la lectura previa del material, pr
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
 
 
+### Data sets
+
+
+#### Earthquakes with Strong-Motion Data in CESMD
+
+``Use the form below to build a URL to the CESMD Earthquake Strong-Motion-Data web service. Click the generated URL at the bottom of this page to retrieve earthquake parameters.``
+
+Por ejemplo:
+
+* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404)
+* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404)
+
+```{python}
+import pandas as pd
+
+base = 'https://www.strongmotioncenter.org/wserv/events/query?minmag='
+min = 4
+max = 8
+ordenar = 'time'
+pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfile&nodata=404'
+pd.read_html(pagina)
+
+```
 
 
 <!--
