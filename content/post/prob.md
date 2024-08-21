@@ -81,7 +81,7 @@ La nota final será obtenida así:
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
 * Segundo 50: dos exámenes con un peso del 50%, un taller (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
 
-### Data sets
+### Conjuntos de datos
 
 #### [Earthquakes with Strong-Motion Data in CESMD](https://www.strongmotioncenter.org/wserv/events/builder/)
 
