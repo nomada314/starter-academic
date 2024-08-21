@@ -47,7 +47,7 @@ Lunes 2:00 - 4:00 PM o por cita. <br>
 Semana | Fecha | Tema |
 ---| ---| ---- |
 1      | 08-20 | Presentación del curso |
-&nbsp; | 08 - 22 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `Python`. <br> Lectura de datos [1.3.1] |
+&nbsp; | 08 - 22 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `Python` [ipynb](https://alexrojas.netlify.app/post/Prob/Code/Intro.ipynb) [py](https://alexrojas.netlify.app/post/Prob/Code/Intro.py). <br> Lectura de datos [1.3.1] |
 2  |  08 - 27 | Manipulación de datos [1.3.2]  |
 &nbsp; | 08 - 29 | Cálculo de estadísticas [1.3.3] |
 3  |  09 - 03 | Gráficas para una variable [2.1.1] |
