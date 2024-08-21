@@ -29,6 +29,19 @@ Jueves 4:00 - 6:00 PM, TBA
 Lunes 2:00 - 4:00 PM o por cita. <br>
 **Lugar**: La Colina Casa 2. 
 
+### Contenidos temáticos mínimos
+
+* **Unidad 1. Manipulación de bases datos:** lectura, filtración de individuos y selección de variables.
+
+* **Unidad 2. Análisis exploratorio de datos:** estadísticas descriptivas, gráficos estadísticos.
+
+* **Unidad 3. Probabilidad:** Axiomas de probabilidad, reglas de probabilidad, probabilidad condicional.
+
+* **Unidad 4. Variables aleatorias:** Definición de variables aleatorias, valores esperados, distribuciones.
+
+* **Unidad 5. Estimación:** puntual e intervalo.
+
+
 ### Agenda
 
 Semana | Fecha | Tema |
@@ -67,6 +80,32 @@ La nota final será obtenida así:
 
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
 * Segundo 50: dos exámenes con un peso del 50%, un taller (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
+
+### Data sets
+
+#### Earthquakes with Strong-Motion Data in CESMD
+
+``Use the form below to build a URL to the CESMD Earthquake Strong-Motion-Data web service. Click the generated URL at the bottom of this page to retrieve earthquake parameters.``
+
+Por ejemplo:
+
+* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404)
+* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404)
+
+```{python}
+import pandas as pd
+
+base = 'https://www.strongmotioncenter.org/wserv/events/query?minmag='
+min = 4
+max = 8
+ordenar = 'time'
+pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfile&nodata=404'
+mag4a8 = pd.read_csv(pagina, skiprows=1)
+```
+
+#### XXX
+
+
 
 <!--
 ### 
