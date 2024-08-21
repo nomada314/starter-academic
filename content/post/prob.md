@@ -12,17 +12,16 @@ Martes 4:00 - 6:00 PM, A201 <br>
 Jueves 4:00 - 6:00 PM, TBA 
 
 
-### Libro guía:
+### Libros guía:
 
-Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
++ López, A., Rojas-Peña, M. L. & Rojas, A. L. (2022) [Herramientas para el Análisis Estadístico de Datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
++ Kottegoda, N. T. & Rosso, R. (2008). *Applied Statistics for Civil and Environmental Engineers*. Blackwell Publishing
 
 ### Otras referencias:
 
 + Benjamin, J. R. & Cornell, C. A. (2014). *Probability, statistics, and decision for civil engineers.* Courier Corporation.
 + Berthouex, P.M. & Brown, L.C. (2002). *Statistics for Environmental Engineers.* Lewis Publishers.
 + López, A. & Rojas, A. L. (2021) [Una Introducción a Python para Estudiantes de Ciencias](https://alexrojas.netlify.app/publication/prog/). Editorial UPTC.
-
-+ López, A., Rojas-Peña, M. L. & Rojas, A. L. (2022) [Herramientas para el Análisis Estadístico de Datos en R](https://alexrojas.netlify.app/publication/hbio/). Editorial UPTC.
 + Shaefer, S.J. & Theodore, L. (2007). *Probability and Statitsics Applications for Environmental Science*. CRC Press.
 
 ### Horas de oficina: 
