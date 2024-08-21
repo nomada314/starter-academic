@@ -7,10 +7,24 @@ title     = "Estadística General"
 math      = true
 +++
 
+
+## Contenidos temáticos mínimos
+
+* **Unidad 1. Manipulación de bases datos:** lectura, filtración de individuos y selección de variables.
+
+* **Unidad 2. Análisis exploratorio de datos:** estadísticas descriptivas, gráficos estadísticos.
+
+* **Unidad 3. Probabilidad:** Axiomas de probabilidad, reglas de probabilidad, probabilidad condicional.
+
+* **Unidad 4. Variables aleatorias:** Definición de variables aleatorias, valores esperados, distribuciones.
+
+
+
 ### Horario
 
 Lunes 8:00 - 10:00 AM. R315 <br>
 Martes 10:00 - 12:00 M. A204 <br>
+
 
 ### Libro guía:
 
@@ -49,17 +63,6 @@ Semana | Fecha | Tema |
 4  | 09 - 09 | Sesión de preguntas |
 &nbsp; | 09 - 10  | **Primer Examen** |
 
-
-<!--
-### Contenidos mínimos
-
-+ **Unidad 1. Espacios muestrales y probabilidad.** Axiomas de probabilidad. Probabilidad condicional, teorema de la probabilidad total. Independencia. Conteo.
-+ **Unidad 2. Variables aleatorias discretas.** Funciones de masa de probabilidad.  Valor esperado. 
-+ **Unidad 3. Variables aleatorias continuas.** Funciones de densidad. Funciones de variables aleatorias. Funciones conjuntas. Sumas de variables aleatorias.
-+ **Unidad 4. Convergencia**
-+ **Unidad 5. Análisis Exploratorio de Datos**
--->
-
 ### Evaluación
 
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
@@ -67,32 +70,6 @@ Semana | Fecha | Tema |
 
 La participación será evaluada a través de la lectura previa del material, preguntas durante la clase  y contestando preguntas. <br>
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
-
-
-### Data sets
-
-
-#### Earthquakes with Strong-Motion Data in CESMD
-
-``Use the form below to build a URL to the CESMD Earthquake Strong-Motion-Data web service. Click the generated URL at the bottom of this page to retrieve earthquake parameters.``
-
-Por ejemplo:
-
-* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=time&format=csvfile&nodata=404)
-* [https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404](https://www.strongmotioncenter.org/wserv/events/query?minmag=4&maxmag=10&orderby=magnitude-asc&format=csvfile&nodata=404)
-
-```{python}
-import pandas as pd
-
-base = 'https://www.strongmotioncenter.org/wserv/events/query?minmag='
-min = 4
-max = 8
-ordenar = 'time'
-pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfile&nodata=404'
-mag4a8 = pd.read_csv(pagina, skiprows=1)
-```
-
-#### XXX
 
 
 <!--
