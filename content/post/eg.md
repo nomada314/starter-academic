@@ -92,6 +92,8 @@ pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfi
 mag4a8 = pd.read_csv(pagina, skiprows=1)
 ```
 
+#### XXX
+
 
 <!--
 La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
