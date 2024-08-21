@@ -83,8 +83,7 @@ La nota final será obtenida así:
 
 ### Conjuntos de datos
 
-#### [Earthquakes with Strong-Motion Data in CESMD](https://www.strongmotioncenter.org/wserv/events/builder/)
-
+* [Earthquakes with Strong-Motion Data in CESMD](https://www.strongmotioncenter.org/wserv/events/builder/)
 
 Por ejemplo:
 
@@ -102,7 +101,7 @@ pagina = base + min  + '&maxmag=' + max + '&orderby=' + ordenar + '&format=csvfi
 mag4a8 = pd.read_csv(pagina, skiprows=1)
 ```
 
-#### National Highway Traffic Safety Administration
+* National Highway Traffic Safety Administration
 
 https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2022/National/
 
