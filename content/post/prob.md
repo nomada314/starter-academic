@@ -35,6 +35,16 @@ Lunes 2:00 - 4:00 PM o por cita. <br>
 Semana | Fecha | Tema |
 ---| ---| ---- |
 1      | 08-20 | Presentación del curso |
+&nbsp; | 08 - 22 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `Python`. Lectura de datos [1.3.1] |
+2  |  08 - 27 | Manipulación de datos [1.3.2]  |
+&nbsp; | 08 - 29 | Cálculo de estadísticas [1.3.3] |
+3  |  09 - 03 | Gráficas para una variable [2.1.1] |
+&nbsp; | 09 - 05 | Gráficas para variables variable [2.1.2] |
+4  | 09 - 10 | Sesión de preguntas |
+&nbsp; | 09 - 12  | **Primer Examen** |
+
+
+<!--
 &nbsp; | 08-22 | Espacio muestral y eventos |
 2      | 08-27 | Probabilidad |
 &nbsp; | 08-29  | Probabilidad, cont. |
@@ -50,22 +60,14 @@ Semana | Fecha | Tema |
 &nbsp; | 10-03 | Estadísticas de orden |
 8      | 10-08 | Sesión de preguntas |
 &nbsp; | 10-10  | **Segundo Examen** |
+-->
 
-
+## Evaluación
 
 La nota final será obtenida así: 
 
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
 * Segundo 50: dos exámenes con un peso del 50%, un taller (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
-
-. . .
-
-La participación será evaluada a través de la lectura previa del material, preguntas durante la clase y contestando preguntas. <br>
-
-. . . 
-
-Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Ingeniería *Civil*, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `Python` utilizado.
-
 
 <!--
 ### 
