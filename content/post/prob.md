@@ -83,9 +83,8 @@ La nota final será obtenida así:
 
 ### Data sets
 
-#### Earthquakes with Strong-Motion Data in CESMD
+#### [Earthquakes with Strong-Motion Data in CESMD](https://www.strongmotioncenter.org/wserv/events/builder/)
 
-``Use the form below to build a URL to the CESMD Earthquake Strong-Motion-Data web service. Click the generated URL at the bottom of this page to retrieve earthquake parameters.``
 
 Por ejemplo:
 
