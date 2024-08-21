@@ -41,9 +41,9 @@ Utilizaremos el lenguaje `R` y la interface `RStudio`. Estos *softwares* son de 
 Semana | Fecha | Tema |
 ---| ---| --- |
 1  | 08 - 19 | Festivo |
-&nbsp; | 08 - 20 | Presentación del curso <br> Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] Lectura de datos [1.3.1] |
-2  |  08 - 26 | Manipulación de datos [1.3.2]  |
-&nbsp; | 08 - 27 | Cálculo de estadísticas [1.3.3] |
+&nbsp; | 08 - 20 | Presentación del curso  |
+2  |  08 - 26 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] Lectura de datos [1.3.1]  |
+&nbsp; | 08 - 27 | Manipulación de datos [1.3.2] <br> Cálculo de estadísticas [1.3.3] |
 3  |  09 - 02 | Gráficas para una variable [2.1.1] |
 &nbsp; | 09 - 03 | Gráficas para variables variable [2.1.2] |
 4  | 09 - 09 | Sesión de preguntas |
