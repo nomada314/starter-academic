@@ -44,7 +44,7 @@ Lunes 2:00 - 4:00 PM o por cita. <br>
 
 ### Software
 
-Utilizaremos el lenguaje `R` y la interface `RStudio`. Estos *softwares* son de libre acceso y pueden descargarse de las páginas: 
+Utilizaremos el lenguaje `R` y la interface `RStudio`, estos son de libre acceso y pueden descargarse de las páginas: 
 
 * [https://www.icesi.edu.co/CRAN/](https://www.icesi.edu.co/CRAN/)
 * [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
