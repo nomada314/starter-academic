@@ -57,11 +57,23 @@ Semana | Fecha | Tema |
 1  | 08 - 19 | Festivo |
 &nbsp; | 08 - 20 | Presentación del curso  |
 2  |  08 - 26 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] <br> Lectura de datos [1.3.1]  |
-&nbsp; | 08 - 27 | Manipulación de datos [1.3.2] <br> Cálculo de estadísticas [1.3.3] |
-3  |  09 - 02 | Gráficas para una variable [2.1.1] |
+&nbsp; | 08 - 27 | Manipulación de datos [1.3.2]  |
+3  |  09 - 02 | Cálculo de estadísticas [1.3.3] <br> Gráficas para una variable [2.1.1] |
 &nbsp; | 09 - 03 | Gráficas para variables variable [2.1.2] |
-4  | 09 - 09 | Sesión de preguntas |
-&nbsp; | 09 - 10  | **Primer Examen** |
+4  | 09 - 09 | Transformaciones [2.2] |
+&nbsp; | 09 - 10  | PCA [2.3] <br> Entrega Taller 1 |
+5  | 09 - 16 | Sesión de preguntas |
+&nbsp; | 09 - 17  | **Primer Examen** |
+6  | 09 - 23 | TBA |
+&nbsp; | 09 - 24  | TBA |
+7  | 09 - 30 | TBA |
+&nbsp; | 10 - 01  | Entrega Taller 2 |
+8  | 10 - 07 | TBA |
+&nbsp; | 10 - 08  | TBA |
+
+
+
+
 
 ### Evaluación
 
@@ -70,6 +82,10 @@ Semana | Fecha | Tema |
 
 La participación será evaluada a través de la lectura previa del material, preguntas durante la clase  y contestando preguntas. <br>
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
+
+### Datos
+
+[wine.data](https://alexrojas.netlify.app/Data/EG/wine.data)
 
 
 <!--
