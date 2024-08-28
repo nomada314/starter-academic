@@ -37,9 +37,9 @@ Semana | Fecha | Tema
 &nbsp; | 08-22 | Examen de inglés. Revisar correo para saber el lugar y la hora.
 2  | 08-26 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
 &nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
-&nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 53.
-3  | 09-02 | .
-&nbsp; | 09-03 | Expresiones algebraicas. Signos de agrupación. <br>Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 57 - 65.
+&nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
+3  | 09-02 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
+&nbsp; | 09-03 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
 &nbsp; | 09-05 | Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
 4  | 09-09 | .
 &nbsp; | 09-10 | Sesión de preguntas
