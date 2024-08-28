@@ -73,7 +73,7 @@ np.sin(math.pi/4)
 # ### Lectura de datos
 
 # %%
-import polars as pl
+#import polars as pl
 import pandas as pd
 
 # %%
@@ -108,7 +108,7 @@ mag4a8 = pd.read_csv(pagina, skiprows=1)
 import geopandas as gpd
 
 # %%
-mag4a8g = gpd.GeoDataFrame(mag4a10, geometry=gpd.points_from_xy(mag4a8.Longitude, mag4a8.Latitude), crs="EPSG:4326")
+mag4a8g = gpd.GeoDataFrame(mag4a8, geometry=gpd.points_from_xy(mag4a8.Longitude, mag4a8.Latitude), crs="EPSG:4326")
 
 # %%
 mag4a8g
