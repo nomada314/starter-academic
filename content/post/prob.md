@@ -49,7 +49,7 @@ Semana | Fecha | Tema |
 1      | 08-20 | Presentación del curso |
 &nbsp; | 08 - 22 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `Python` [[ipynb]](https://alexrojas.netlify.app/code/Prob/Intro.ipynb) [[py]](https://alexrojas.netlify.app/code/Prob/Intro.py). <br> Lectura de datos [1.3.1] |
 2  |  08 - 27 | Lectura de datos, continuación <br> Manipulación de datos [1.3.2] [[ipynb]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-1.ipynb) [[py]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-1.py)  |
-&nbsp; | 08 - 29 | Manipulación de datos, continuación |
+&nbsp; | 08 - 29 | Manipulación de datos, continuación  [[ipynb]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-2.ipynb) [[py]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-2.py)|
 3  |  09 - 03 | Cálculo de estadísticas [1.3.3] <br> Gráficas para una variable [2.1.1] |
 &nbsp; | 09 - 05 | Gráficas para variables variable [2.1.2] |
 4  | 09 - 10 | Sesión de preguntas |
