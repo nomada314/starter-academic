@@ -99,13 +99,13 @@ Convertidores Código<br>
 45 y 46: 	202111916<br>
 47 y 48: 	202023982<br>
 
-1. ¿En qué coordenada se logró el máximo valor de potencía para cada convertidor?
-2. Para cada convertidor, calcule la mínima y máxima potencia y sus cuartiles.
-3. Grafique un diagrama de caja para cada uno de los convertidores por separado.
-4. Grafique un diagrama de caja para cada uno de los convertidores en el mismo gráfico.
-5. Calcule el porcentaje de la potencia total lograda por sus dos convertidores. Genere una tabla en la que se presenten la media y la desviación estándar para cada valor de `qW`. Note que `qW` toma valores $0.72, 0.73,\ldots, 0.88$. 
-7. Grafique un diagrama de dispersión del porcentaje calculado en el numeral anterior vs. `qW`. Describa el diagrama obtenido.
-8. Cree un diagrama de dispersión de las coordenadas de localización para sus dos convertidores. Identifique cada convertidor con un color diferente.
+1. [15] ¿En qué coordenada se logró el máximo valor de potencía para cada convertidor?
+2. [10] Para cada convertidor, calcule la mínima y máxima potencia y sus cuartiles.
+3. [10] Grafique un diagrama de caja para cada uno de los convertidores por separado.
+4. [20] Grafique un diagrama de caja para cada uno de los convertidores en el mismo gráfico.
+5. [20] Calcule el porcentaje de la potencia total lograda por sus dos convertidores. Genere una tabla en la que se presenten la media y la desviación estándar para cada valor de `qW`. Note que `qW` toma valores $0.72, 0.73,\ldots, 0.88$. 
+6. [10] Grafique un diagrama de dispersión del porcentaje calculado en el numeral anterior vs. `qW`. Describa el diagrama obtenido.
+7. [15] Cree un diagrama de dispersión de las coordenadas de localización para sus dos convertidores. Identifique cada convertidor con un color diferente.
 
 
 <!--
