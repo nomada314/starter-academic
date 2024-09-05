@@ -60,12 +60,12 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 * [Capítulo 3](https://alexrojas.netlify.app/code/Bio/HAEDBCap3.R) : Probabilidad
 * [Capítulo 4](https://alexrojas.netlify.app/code/Bio/HAEDBCap4.R) : Inferencia
 
-En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes códigos:
+En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes bloques de código:
 
 
 
 ```{r}
-## Prmier bloque de código p. 31
+# Prmier bloque de código p. 31
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
   pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
                 names_to = "variable", values_to = "value")_
@@ -80,6 +80,17 @@ Herradura %>% pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
   summarize(Promedio = mean(value), DesvEst = sd(value), Mediana = median(value))
 ```
 
+```{r}
+# Segundo bloque de código p. 38
+gariepinusIG %>%
+  drop_na(Cambio) %>%
+  group_by(Cambio, socialtrt) %>%
+  summarize(frec = n()) %>%
+  group_by(socialtrt) %>%
+  mutate(prop = frec/sum(frec)) %>%
+  select(-frec) %>%
+  pivot_wider(names_from = Cambio, values_from = prop)
+```
 
 ## Errata
 
