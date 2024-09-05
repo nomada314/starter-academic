@@ -64,10 +64,10 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes bloques de código:
 
 ```{r}
-# Prmier bloque de código p. 31
+# Primer bloque de código p. 31
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
   pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
-                names_to = "variable", values_to = "value")_
+                names_to = "variable", values_to = "value")
 ```
 
 
