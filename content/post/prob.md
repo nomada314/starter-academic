@@ -66,10 +66,10 @@ Semana | Fecha | Tema |
 
 **Fecha de entrega:** Septiembre 18 de 2024 <br>
 **Formato de entrega:** Documento impreso de máximo 6 páginas (3 hojas impresas por ambos lados) <br>
-**Problemas:**
+**Problemas:** Consideramos los datos del artículo Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner. "Optimisation of large wave farms using a multi-strategy evolutionary framework." In Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158. 2020.
 
-* Descargue el archivo `large-scale+wave+energy+farm.zip`  del siguiente enlace: [https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip](https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip).  Este archivo
-* Lea el archivo `.csv` en `Python`
+* Descargue el archivo `large-scale+wave+energy+farm.zip`  del siguiente enlace: [https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip](https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip).  
+* Lea el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, etc. Las siguientes 49 columnas corresponden a la energía generada 
 
 
 
