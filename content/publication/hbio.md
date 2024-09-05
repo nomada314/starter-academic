@@ -22,11 +22,12 @@ caption = ""
 
 [Más información](https://editorial.uptc.edu.co/gpd-herramientas-para-el-analisis-estadistico-de-datos-biologicos-en-r-9789586606462-62f2be2f3ddd8.html)
 
-A continuación se encuentran los conjuntos de datos y el código  utilizados en el libro. Además, se encuentran los errrores encontrados a la fecha.
+A continuación se encuentran los conjuntos de datos y el código utilizados en el libro. Además, se encuentran los errrores encontrados a la fecha.
 
 ### Datos
 
-Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.app/Data/Bio/Datos.zip). 
+Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netlify.app/Data/Bio/Datos.zip). Si solo se desea accesar un archivo en particular, se pueden accesar por su nombre. La dirección para cada uno de los siguientes archivos inicia con `https://alexrojas.netlify.app/Data/Bio/`.
+
 
 * [BRCA2.fa](https://alexrojas.netlify.app/Data/Bio/BRCA2.fa)
 * [Cadaver.txt](https://alexrojas.netlify.app/Data/Bio/Cadaver.txt)
@@ -62,8 +63,6 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes bloques de código:
 
-
-
 ```{r}
 # Prmier bloque de código p. 31
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
@@ -91,6 +90,11 @@ gariepinusIG %>%
   select(-frec) %>%
   pivot_wider(names_from = Cambio, values_from = prop)
 ```
+
+Finalmente, parte de los blques de código también se han escrito en `Python`:
+
+* [Capítulo 1](https://alexrojas.netlify.app/code/Bio/HAEDBCap1.ipynb): Introducción 
+* [Capítulo 2](https://alexrojas.netlify.app/code/Bio/HAEDBCap2.ipynb) : Análisis Exploratorioo de Datos
 
 ## Errata
 
