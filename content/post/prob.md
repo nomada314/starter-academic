@@ -66,16 +66,43 @@ Semana | Fecha | Tema |
 
 **Fecha de entrega:** Septiembre 18 de 2024 <br>
 **Formato de entrega:** Documento impreso de máximo 6 páginas (3 hojas impresas por ambos lados) <br>
-**Problemas:** Consideramos los datos del artículo Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner. "Optimisation of large wave farms using a multi-strategy evolutionary framework." In Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158. 2020.
+
+Consideramos los datos del artículo: "Optimisation of large wave farms using a multi-strategy evolutionary framework." escrito por Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner (2020) En Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158.
 
 * Descargue el archivo `large-scale+wave+energy+farm.zip`  del siguiente enlace: [https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip](https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip).  
 * Lea el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, etc. Las siguientes 49 columnas corresponden a la energía generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la energía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
 * Conteste las siguientes preguntas:
 
-1. dd
-2. sdd
+1. Encuentre
+2. 
+3. sdd
 
 
+ID Código
+2 	202320271 <br>
+4 	202320864<br>
+6 	202320141<br>
+8 	202320162<br>
+10 	202320263<br>
+12 	202023925<br>
+14	202320009<br>
+16 	202320210<br>
+18 	202310264<br>
+20 	202127201<br>
+22 	202312630<br>
+24 	202210745<br>
+26 	202320580<br>
+28 	202010606<br>
+30 	202021757<br>
+32 	202220410<br>
+34 	202320131<br>
+36 	202320189<br>
+38 	202310962<br>
+40 	202320321<br>
+42 	202212506<br>
+44 	202320378<br>
+46 	202111916<br>
+48 	202023982<br>
 
 
 
