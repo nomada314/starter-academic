@@ -74,30 +74,30 @@ Consideramos los datos del artículo: "Optimisation of large wave farms using a 
 * Conteste las siguientes preguntas para los convertidores asignados según su código:
 
 Convertidores Código<br>
-1 y 2 	202320271 <br>
-3 y 4 	202320864<br>
-5 y 6 	202320141<br>
-7 y 8 	202320162<br>
-9 y 10 	202320263<br>
-11 y 12 	202023925<br>
-13 y 14	202320009<br>
-15 y 16 	202320210<br>
-17 y 18 	202310264<br>
-19 y 20 	202127201<br>
-21 y 22 	202312630<br>
-23 y 24 	202210745<br>
-25 y 26 	202320580<br>
-27 y 28 	202010606<br>
-29 y 30 	202021757<br>
-31 y 32 	202220410<br>
-33 y 34 	202320131<br>
-35 y 36 	202320189<br>
-37 y 38 	202310962<br>
-39 y 40 	202320321<br>
-41 y 42 	202212506<br>
-43 y 44 	202320378<br>
-45 y 46 	202111916<br>
-47 y 48 	202023982<br>
+1 y 2: 	202320271 <br>
+3 y 4: 	202320864<br>
+5 y 6: 	202320141<br>
+7 y 8: 	202320162<br>
+9 y 10: 	202320263<br>
+11 y 12: 	202023925<br>
+13 y 14:	202320009<br>
+15 y 16: 	202320210<br>
+17 y 18: 	202310264<br>
+19 y 20: 	202127201<br>
+21 y 22: 	202312630<br>
+23 y 24: 	202210745<br>
+25 y 26: 	202320580<br>
+27 y 28: 	202010606<br>
+29 y 30: 	202021757<br>
+31 y 32: 	202220410<br>
+33 y 34: 	202320131<br>
+35 y 36: 	202320189<br>
+37 y 38: 	202310962<br>
+39 y 40: 	202320321<br>
+41 y 42: 	202212506<br>
+43 y 44: 	202320378<br>
+45 y 46: 	202111916<br>
+47 y 48: 	202023982<br>
 
 1. ¿En qué coordenada se logró el máximo valor de potencía para cada convertidor?
 2. Para cada convertidor, calcule la mínima y máxima potencia y sus cuartiles.
