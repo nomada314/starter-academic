@@ -66,14 +66,14 @@ En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería 
 #### Primer bloque de código p. 31
 ```{r}
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
-  pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
+  pivot_longer( cols = c(satelites, y, peso, ancho),
                 names_to = "variable", values_to = "value")
 ```
 
 
 #### Primer bloque de código p. 34
 ```{r}
-Herradura %>% pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
+Herradura %>% pivot_longer( cols = c(satelites, y, peso, ancho),
                    names_to = "VariablesNumericas") %>%
   group_by(VariablesNumericas) %>%
   summarize(Promedio = mean(value), DesvEst = sd(value), Mediana = median(value))
