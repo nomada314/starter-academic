@@ -69,7 +69,13 @@ Semana | Fecha | Tema |
 **Problemas:** Consideramos los datos del artículo Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner. "Optimisation of large wave farms using a multi-strategy evolutionary framework." In Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158. 2020.
 
 * Descargue el archivo `large-scale+wave+energy+farm.zip`  del siguiente enlace: [https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip](https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip).  
-* Lea el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, etc. Las siguientes 49 columnas corresponden a la energía generada 
+* Lea el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, etc. Las siguientes 49 columnas corresponden a la energía generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la energía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
+* Conteste las siguientes preguntas:
+
+1. dd
+2. sdd
+
+
 
 
 
