@@ -40,7 +40,7 @@ Semana | Fecha | Tema
 &nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
 3  | 09-02 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
 &nbsp; | 09-03 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
-&nbsp; | 09-05 | Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
+&nbsp; | 09-05 | <font color="#9900FF"> Ejercicios: </font> pág 77: 4. j, 4. m, 4. p , 5. d 5. h, 5. i 5 j. Pág 78: 6. j, 6. l <br> Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
 4  | 09-09 | .
 &nbsp; | 09-10 | Sesión de preguntas
 &nbsp; | 09-12 | **Primer examen**
