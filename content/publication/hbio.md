@@ -67,7 +67,7 @@ En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería 
 ```{r}
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
   pivot_longer( cols = c(satelites, y, peso, ancho),
-                names_to = "variable", values_to = "value")
+                names_to = "variable")
 ```
 
 
