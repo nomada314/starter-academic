@@ -60,6 +60,27 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 * [Capítulo 3](https://alexrojas.netlify.app/code/Bio/HAEDBCap3.R) : Probabilidad
 * [Capítulo 4](https://alexrojas.netlify.app/code/Bio/HAEDBCap4.R) : Inferencia
 
+En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes códigos:
+
+
+
+```{r}
+## Prmier bloque de código p. 31
+Sat10Largo = Sat10 %>% select(-color,-espina) %>%
+  pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
+                names_to = "variable", values_to = "value")_
+```
+
+
+```{r}
+# Primer bloque de código p. 34
+Herradura %>% pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
+                   names_to = "VariablesNumericas") %>%
+  group_by(VariablesNumericas) %>%
+  summarize(Promedio = mean(value), DesvEst = sd(value), Mediana = median(value))
+```
+
+
 ## Errata
 
 Gracias a **Gustavo A. Reyes** por encontrar varios de los errores en los Capítulos I y II descritos a continuación:
@@ -67,6 +88,7 @@ Gracias a **Gustavo A. Reyes** por encontrar varios de los errores en los Capít
 ### Capítulo I
 
 * p. 10. Segundo párrafo después del código. En lugar de "El cuarto panel, el superior derecho,...", debe ser "El cuarto panel, el superior izquierdo,..."
+* p. 25. Cuarta línea del segundo párrafo.  "individuos", no  "individuas"
 * p. 36. **Ejemplo 1.16**, última palabra de la tercera línea. En lugar de "contabilizando", debe ser "contabilizado".
 
 ### Capítulo II
