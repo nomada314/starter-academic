@@ -63,24 +63,24 @@ Todos los datos se encuentran en el archivo zip: [Datos](https://alexrojas.netli
 
 En lugar de la librería `reshape2`, se recomienda ahora el uso de la librería `tidyr`, como en los siguientes bloques de código:
 
+#### Primer bloque de código p. 31
 ```{r}
-# Primer bloque de código p. 31
 Sat10Largo = Sat10 %>% select(-color,-espina) %>%
   pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
                 names_to = "variable", values_to = "value")
 ```
 
 
+#### Primer bloque de código p. 34
 ```{r}
-# Primer bloque de código p. 34
 Herradura %>% pivot_longer( cols = c("satelites", "y", "peso", "ancho"),
                    names_to = "VariablesNumericas") %>%
   group_by(VariablesNumericas) %>%
   summarize(Promedio = mean(value), DesvEst = sd(value), Mediana = median(value))
 ```
 
+#### Segundo bloque de código p. 38
 ```{r}
-# Segundo bloque de código p. 38
 gariepinusIG %>%
   drop_na(Cambio) %>%
   group_by(Cambio, socialtrt) %>%
