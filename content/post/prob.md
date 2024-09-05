@@ -64,8 +64,8 @@ Semana | Fecha | Tema |
 
 #### Taller 1
 
-**Fecha de entrega:** Septiembre 18 de 2024 <br>
-**Formato de entrega:** Documento impreso de máximo 6 páginas (3 hojas impresas por ambos lados) <br>
+**Fecha de entrega:** Septiembre 18 de 2024, antes de las 2:00pm <br>
+**Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe enviarse utilizando el correo institucional.<br>
 
 Consideramos los datos del artículo: "Optimisation of large wave farms using a multi-strategy evolutionary framework." escrito por Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner (2020) En Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158.
 
