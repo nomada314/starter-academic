@@ -107,7 +107,7 @@ Convertidores Código<br>
 6. [10] Grafique un diagrama de dispersión del porcentaje calculado en el numeral anterior vs. `qW`. Describa el diagrama obtenido.
 7. [15] Cree un diagrama de dispersión de las coordenadas de localización para sus dos convertidores. Identifique cada convertidor con un color diferente.
 
-
+**NO es necesario incluir su código en el documento**
 <!--
 &nbsp; | 08-22 | Espacio muestral y eventos |
 2      | 08-27 | Probabilidad |
