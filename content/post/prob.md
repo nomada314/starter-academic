@@ -70,39 +70,42 @@ Semana | Fecha | Tema |
 Consideramos los datos del artículo: "Optimisation of large wave farms using a multi-strategy evolutionary framework." escrito por Neshat, Mehdi, Bradley Alexander, Nataliia Y. Sergiienko, and Markus Wagner (2020) En Proceedings of the 2020 Genetic and Evolutionary Computation Conference, pp. 1150-1158.
 
 * Descargue el archivo `large-scale+wave+energy+farm.zip`  del siguiente enlace: [https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip](https://archive.ics.uci.edu/static/public/882/large-scale+wave+energy+farm.zip).  
-* Lea el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, etc. Las siguientes 49 columnas corresponden a la energía generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la energía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
-* Conteste las siguientes preguntas para el convertidor asignado según su código:
+* Importe el archivo `WEC_Perth_49.csv` en `Python`. Este archivo tiene un total de 149 columnas y 36403 filas. Las primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, y así sucesivamente. Las siguientes 49 columnas corresponden a la potencia generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la potencía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
+* Conteste las siguientes preguntas para los convertidores asignados según su código:
 
-Convertidor Código<br>
-2 	202320271 <br>
-4 	202320864<br>
-6 	202320141<br>
-8 	202320162<br>
-10 	202320263<br>
-12 	202023925<br>
-14	202320009<br>
-16 	202320210<br>
-18 	202310264<br>
-20 	202127201<br>
-22 	202312630<br>
-24 	202210745<br>
-26 	202320580<br>
-28 	202010606<br>
-30 	202021757<br>
-32 	202220410<br>
-34 	202320131<br>
-36 	202320189<br>
-38 	202310962<br>
-40 	202320321<br>
-42 	202212506<br>
-44 	202320378<br>
-46 	202111916<br>
-48 	202023982<br>
+Convertidores Código<br>
+1 y 2 	202320271 <br>
+3 y 4 	202320864<br>
+5 y 6 	202320141<br>
+7 y 8 	202320162<br>
+9 y 10 	202320263<br>
+11 y 12 	202023925<br>
+13 y 14	202320009<br>
+15 y 16 	202320210<br>
+17 y 18 	202310264<br>
+19 y 20 	202127201<br>
+21 y 22 	202312630<br>
+23 y 24 	202210745<br>
+25 y 26 	202320580<br>
+27 y 28 	202010606<br>
+29 y 30 	202021757<br>
+31 y 32 	202220410<br>
+33 y 34 	202320131<br>
+35 y 36 	202320189<br>
+37 y 38 	202310962<br>
+39 y 40 	202320321<br>
+41 y 42 	202212506<br>
+43 y 44 	202320378<br>
+45 y 46 	202111916<br>
+47 y 48 	202023982<br>
 
-1. Encuentre
-2. 
-3. sdd
-
+1. ¿En qué coordenada se logró el máximo valor de potencía para cada convertidor?
+2. Para cada convertidor, calcule la mínima y máxima potencia y sus cuartiles.
+3. Grafique un diagrama de caja para cada uno de los convertidores por separado.
+4. Grafique un diagrama de caja para cada uno de los convertidores en el mismo gráfico.
+5. Calcule el porcentaje de la potencia total lograda por sus dos convertidores. Genere una tabla en la que se presenten la media y la desviación estándar para cada valor de `qW`. Note que `qW` toma valores $0.72, 0.73,\ldots, 0.88$. 
+7. Grafique un diagrama de dispersión del porcentaje calculado en el numeral anterior vs. `qW`. Describa el diagrama obtenido.
+8. Cree un diagrama de dispersión de las coordenadas de localización para sus dos convertidores. Identifique cada convertidor con un color diferente.
 
 
 <!--
