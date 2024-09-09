@@ -94,7 +94,7 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 **Fecha de entrega:** Septiembre 17 de 2024, antes de las 2:00pm <br>
 **Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe envíarse por moodle.<br>
 
-Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data), los cuales corresponden a 214 muestras de vidiro a las culaes se les revisó su índice de refracción  y contenido de 
+Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data), los cuales corresponden a 214 muestras de vidrio a las culaes se les revisó su índice de refracción  y contenido de 
 1. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
 2. Mg: Magnesium
 3. Al: Aluminum
@@ -113,12 +113,17 @@ La última columna corresponde a la clase de vidrio:
 + 6: tableware
 + 7: headlamps
 
-* Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, 
-*
-* s primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, y así sucesivamente. Las siguientes 49 columnas corresponden a la potencia generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la potencía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
 
+Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, la segunda columna corresponde al índice de refracción, las siguientes ocho al contenido de los elementos listados anterioremente y la clase de vidiro.
 
-
+1. [10] Calcule la media, la mediana, la desviación estándar y el rango intercuartílico para cada una de las variables continuas. Organice la información en una tabla cuyas filas corresponden a las variables
+2. [10] ¿Qué muestra tiene un contenido de Ba mayor a 0.5 y no es un vidrio de faro?
+3. [10] 
+4. [15]
+5. [15]
+6. [15]
+7. [15]
+8. [10]
 
 <!--
 La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
