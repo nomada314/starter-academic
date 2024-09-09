@@ -103,14 +103,15 @@ Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/
 6. Ca: Calcium
 7. Ba: Barium
 8. Fe: Iron
+
 La última columna corresponde a la clase de vidrio:
 
-1. building_windows_float_processed
-2. building_windows_non_float_processed
-3. vehicle_windows_float_processed
-5. containers
-6. tableware
-7. headlamps
++ 1: building_windows_float_processed
++ 2: building_windows_non_float_processed
++ 3: vehicle_windows_float_processed
++ 5: containers
++ 6: tableware
++ 7: headlamps
 
 * Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, 
 *
