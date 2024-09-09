@@ -60,8 +60,6 @@ Semana | Fecha | Tema |
 &nbsp; | 09 - 26  | TBA |
 
 
-### Talleres
-
 #### Taller 1
 
 **Fecha de entrega:** Septiembre 18 de 2024, antes de las 2:00pm <br>
