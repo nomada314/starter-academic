@@ -85,7 +85,7 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 
 ### Datos
 
-[wine.data](https://alexrojas.netlify.app/Data/EG/wine.data)
+[wine.data](https://alexrojas.netlify.app/Data/EG/wine.data) <br>
 [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data)
 
 
@@ -95,7 +95,7 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 **Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe envíarse por moodle.<br>
 
 Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data), los cuales corresponden a 214 muestras de vidrio a las culaes se les revisó su índice de refracción  y contenido de 
-1. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
+1. Na: Sodium (unit measurement: weight percent in corresponding oxide)
 2. Mg: Magnesium
 3. Al: Aluminum
 4. Si: Silicon
