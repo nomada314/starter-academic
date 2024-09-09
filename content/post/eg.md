@@ -58,14 +58,14 @@ Semana | Fecha | Tema |
 &nbsp; | 08 - 20 | Presentación del curso  |
 2  |  08 - 26 | Variables, datos y tipo de estudios [1.1, 1.2] <br> Introducción a `R` [1.3] <br> Lectura de datos [1.3.1]  |
 &nbsp; | 08 - 27 | Lectura de datos, continuación <br>Manipulación de datos [1.3.2]  |
-3  |  09 - 02 | Cálculo de estadísticas [1.3.3] <br> Gráficas para una variable [2.1.1] |
-&nbsp; | 09 - 03 | Gráficas para variables variable [2.1.2] |
-4  | 09 - 09 | Transformaciones [2.2] |
-&nbsp; | 09 - 10  | PCA [2.3] <br> Entrega Taller 1 |
-5  | 09 - 16 | Sesión de preguntas |
-&nbsp; | 09 - 17  | **Primer Examen** |
-6  | 09 - 23 | TBA |
-&nbsp; | 09 - 24  | TBA |
+3  |  09 - 02 | Cálculo de estadísticas [1.3.3]  |
+&nbsp; | 09 - 03 | Cálculo de estadísticas, continuación |
+4  | 09 - 09 | Gráficas para una variable [2.1.1] |
+&nbsp; | 09 - 10  | Gráficas para variables variable [2.1.2] |
+5  | 09 - 16 | Transformaciones [2.2] |
+&nbsp; | 09 - 17  | PCA [2.3] <br> Entrega Taller 1 |
+6  | 09 - 23 | Sesión de preguntas |
+&nbsp; | 09 - 24  | **Primer Examen** |
 7  | 09 - 30 | TBA |
 &nbsp; | 10 - 01  | Entrega Taller 2 |
 8  | 10 - 07 | TBA |
@@ -86,6 +86,12 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 ### Datos
 
 [wine.data](https://alexrojas.netlify.app/Data/EG/wine.data)
+[glass.data](https://alexrojas.netlify.app/Data/EG/glass.data)
+
+
+### Taller
+
+
 
 
 <!--
