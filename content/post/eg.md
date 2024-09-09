@@ -92,7 +92,7 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 ### Taller
 
 **Fecha de entrega:** Septiembre 17 de 2024, antes de las 2:00pm <br>
-**Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe envíarse por moodle.<br>
+**Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe envíarse por moodle y no debe incluirse código, a menos que sea indicado<br>
 
 Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data), los cuales corresponden a 214 muestras de vidrio a las culaes se les revisó su índice de refracción  y contenido de 
 1. Na: Sodium (unit measurement: weight percent in corresponding oxide)
@@ -114,17 +114,18 @@ La última columna corresponde a la clase de vidrio:
 + 7: headlamps
 
 
-Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, la segunda columna corresponde al índice de refracción, las siguientes ocho al contenido de los elementos listados anterioremente y la clase de vidiro.
+Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, la segunda columna corresponde al índice de refracción, las siguientes ocho al contenido de los elementos listados anterioremente y, finalemente, la clase de vidiro.
 
 1. [10] Calcule la media, la mediana, la desviación estándar y el rango intercuartílico para cada una de las variables continuas. Organice la información en una tabla cuyas filas corresponden a las variables
-2. [10] ¿Qué muestra tiene un contenido de Ba mayor a 0.5 y no es un vidrio de faro?
-3. [10] 
-4. [15]
-5. [15]
-6. [15]
-7. [15]
-8. [10]
+2. [10] ¿Qué muestra tiene un contenido de Ba mayor a 0.5 y no es un vidrio de faro? **Incluya el código utilizado** 
+3. [15] Encuentre las muestras de vidrio tales que `Al <1` y el índice de refracción se encuentra en el intervalo $(1.525, 1530)$. ¿Pertenecen todas al mismo tipo de vidrio? **Incluya el código utilizado**
+4. [10] Adicione al conjunto de datos las variables: `C5` y `C7`. Donde la variables `C5` toma el valor  `1` cuando `Al > 1.421`, `Mg > 2.259` y `Na < 13.5` y `0` en otro caso. Por su lado, la variable `C7` toma el valor `1` cuando `Ba > 0.335`. **Incluya el código utilizado** 
+5. [20] Cree un diagrama de barras agrupadas mostrando el porcentaje de observaciones que toman el valor `1` y `0` para `C6`, para cada uno de los tipos de vidrios. ¿Qué puede concluir de este gráfico? Repita para `C7`
+6. [15] Cree un solo gráfico en el que sea fácilmente identificable el tipo de vidrio con mayor y menor índice de refracción. **Incluya el código utilizado** 
+7. [10] Cree un diagrama de dispersión de índice de refracción vs. `Al`. ¿Qué puede concluir con base en este diagrama?
+8. [10] ¿Para cuál tipo de vidrio ninguna de las muestras contiene `Fe`? **Incluya el código utilizado** 
 
+   
 <!--
 La segunda corresponde a un trabajo que hará cada estudiante individualmente el lunes anterior a cada examen. Este trabajo consiste en crear una pregunta de selección múltiple del material a evaluar en el examen. Toda las entregas deben hacerse a tiempo, ya que no se aceptará material después de la hora de entrega establecida. Además, se debe entregar un archivo en formato markdown. **NO** se aceptan archivos en ningún otro formato.
 -->
