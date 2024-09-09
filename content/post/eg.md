@@ -91,6 +91,31 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 
 ### Taller
 
+**Fecha de entrega:** Septiembre 17 de 2024, antes de las 2:00pm <br>
+**Formato de entrega:** Documento en formato `pdf` de máximo 6 páginas. Debe envíarse por moodle.<br>
+
+Consideramos los datos en el archivo [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data), los cuales corresponden a 214 muestras de vidiro a las culaes se les revisó su índice de refracción  y contenido de 
+1. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
+2. Mg: Magnesium
+3. Al: Aluminum
+4. Si: Silicon
+5. K: Potassium
+6. Ca: Calcium
+7. Ba: Barium
+8. Fe: Iron
+La última columna corresponde a la clase de vidrio:
+
+1. building_windows_float_processed
+2. building_windows_non_float_processed
+3. vehicle_windows_float_processed
+5. containers
+6. tableware
+7. headlamps
+
+* Descargue el archivo  e importelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, 
+*
+* s primeras 98 columnas correspondes a las coordenadas de localización $(x,y)$  para 49 convertidores de energía de olas. Las primeras dos columnas, `X1` y `Y1`, corresponden al primer convertidor, la tercera y cuarta columnas, `X2` y `Y2`, corresponden al segundo convertidor, y así sucesivamente. Las siguientes 49 columnas corresponden a la potencia generada por cada una de los convertidores. Por ejemplo, `Power1` tiene información de la potencía producida por el convertidor No 1. La penúltima columna `qW` es el valor del factor de calidad. La última columna corresponde al total de energía producida por los 49 convertidores.
+
 
 
 
