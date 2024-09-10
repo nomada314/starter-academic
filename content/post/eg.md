@@ -114,7 +114,7 @@ La última columna corresponde a la clase de vidrio:
 + 7: headlamps
 
 
-Descargue el archivo  e impórtelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, la segunda columna corresponde al índice de refracción, las siguientes ocho al contenido de los elementos listados anterioremente y, finalemente, la clase de vidiro.
+Descargue el archivo  e impórtelo. Este archivo tiene un total de 11 columnas y 214 filas. La primera fila es un identificador, la segunda columna corresponde al índice de refracción, las siguientes ocho al contenido de los elementos listados anterioremente y, finalmente, la clase de vidiro.
 
 1. [10] Calcule la media, la mediana, la desviación estándar y el rango intercuartílico para cada una de las variables continuas. Organice la información en una tabla cuyas filas corresponden a las variables
 2. [10] ¿Qué muestra tiene un contenido de Ba mayor a 0.5 y no es un vidrio de faro? **Incluya el código utilizado** 
