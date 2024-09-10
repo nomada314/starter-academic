@@ -61,7 +61,7 @@ Semana | Fecha | Tema |
 3  |  09 - 02 | Cálculo de estadísticas [1.3.3]  |
 &nbsp; | 09 - 03 | Cálculo de estadísticas, continuación |
 4  | 09 - 09 | Gráficas para una variable [2.1.1] |
-&nbsp; | 09 - 10  | Gráficas para variables variable [2.1.2] |
+&nbsp; | 09 - 10  | Gráficas para varias variables [2.1.2] |
 5  | 09 - 16 | Transformaciones [2.2] |
 &nbsp; | 09 - 17  | PCA [2.3] <br> Entrega Taller 1 |
 6  | 09 - 23 | Sesión de preguntas |
