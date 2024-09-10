@@ -52,7 +52,7 @@ Semana | Fecha | Tema |
 &nbsp; | 08 - 29 | Manipulación de datos, continuación  [[ipynb]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-2.ipynb) [[py]](https://alexrojas.netlify.app/code/Prob/Sec-1-3-2.py)|
 3  |  09 - 03 | Cálculo de estadísticas [1.3.3]  [[ipynb]](https://alexrojas.netlify.app/code/Prob/0903CalculoDeEstadisticas.ipynb) [[py]](https://alexrojas.netlify.app/code/Prob/0903CalculoDeEstadisticas.py)|
 &nbsp; | 09 - 05 |  |
-4  | 09 - 10 | Gráficas para una variable [2.1.1] <br> Gráficas para varias variables [2.1.2] |
+4  | 09 - 10 | Gráficas para una variable [2.1.1] [[ipynb]](https://alexrojas.netlify.app/code/Prob/Sec-2-1-1.ipynb)<br> Gráficas para varias variables [2.1.2] [[ipynb]](https://alexrojas.netlify.app/code/Prob/Sec-2-1-2.ipynb)|
 &nbsp; | 09 - 12  |  Gráficas para varias variables, continuación. <br> Transformaciones [2.2] |
 5  | 09 - 17 | Sesión de preguntas |
 &nbsp; | 09 - 19  | **Primer Examen** |
