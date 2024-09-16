@@ -45,10 +45,13 @@ Semana | Fecha | Tema
 &nbsp; | 09-10 | Exponentes y radicales <br> **Lectura**: p. 81 - 98.
 &nbsp; | 09-12 | Exponentes y radicales, continuación.
 5  | 09-16 | .
-&nbsp; | 09-17 | Sesión de preguntas
-&nbsp; | 09-19 | **Primer examen**
-6  | 09-23 | .
-&nbsp; | 09-24 | Ecuaciones
-&nbsp; | 09-26 | Ecuaciones
+&nbsp; | 09-17 | Ecuaciones <br> **Lectura**: p. 99 - 117.
+&nbsp; | 09-19 | Sesión de preguntas
+6  | 09-23 | **Entrega Taller 1** 
+&nbsp; | 09-24 | **Primer examen**
+&nbsp; | 09-26 | Presentaciones
+7  | 09-30 | Presentaciones
+&nbsp; | 10-01 | Presentaciones
+&nbsp; | 10-03 | Presentaciones
 
 
