@@ -24,11 +24,13 @@ m['suelo'] = m['suelo'].cat.rename_categories({1.0: "Seco-arenoso", 2.0: "Seco-h
 
 
 Conteste las siguientes preguntas:
-1. [15] El coeficiente de variación se una medida de dispersión invariante a la escala de medición y  está definido como $$\rm{CV} = \frac{s}{\bar{X}},$$ donde $\bar{X}$  es la media muestral y $s$ es la desviación estándar muestral. Calcule y escriba en la hoja de respuestas el coeficiente de variación de la variable $V$ para cada tipo de mina. ¿Cuál es el tipo de mina con mayor variación en el voltaje detectado con el sensor?
-2. [10] Elabore un gráfico en el que en el eje $x$ se presente el tipo de suelo y en el eje $y$ la distribución del voltaje. Escriba en su hoja de respuestas los tipos de suelos para los cuales hay observaciones atípicas.  **Cuando termine llame al instructor**
-3. [15] Grafique un diagrama de cajas del voltaje para cada tipo de mina, solo con las mediciones hechas para el tipo de suelo `Seco-humus`. Con base en este gráfico, ¿para qué tipo de mina el voltaje promedio es más grande que el resto de minas? **Cuando termine llame al instructor**
-4. [20] A continuación se presenta la Figura 4 del artículo fuente de los datos. Cree esta gráfica donde cada línea conecta el voltaje medio por tipo de mina para los 6 tipos de suelo. Los valores del voltaje en el conjunto de datos han sido modificados; así que, su gráfica será diferente a la presentada acá.<br> ![Figure 4](https://alexrojas.netlify.app/media/prob/MinesPaperFigure4.png) 
-5. [10] Repita el numeral anterior, para la Figura 5 del artículo: <br> ![Figure 5](https://alexrojas.netlify.app/media/prob/MinesPaperFigure5.png)
+1. [10] Grafique un diagrama de barras para el tipo de mina.  **Cuando termine llame al instructor**
+3. [15] El coeficiente de variación se una medida de dispersión invariante a la escala de medición y  está definido como $$\rm{CV} = \frac{s}{\bar{X}},$$ donde $\bar{X}$  es la media muestral y $s$ es la desviación estándar muestral. Calcule y escriba en la hoja de respuestas el coeficiente de variación de la variable $V$ para cada tipo de mina. ¿Cuál es el tipo de mina con mayor variación en el voltaje detectado con el sensor?
+4. [10] Encuentre el rango intercuartílico de la variable $V$ para cada tipo de suelo.
+5. [10] Elabore un gráfico en el que en el eje $x$ se presente el tipo de suelo y en el eje $y$ la distribución del voltaje. Escriba en su hoja de respuestas los tipos de suelos para los cuales hay observaciones atípicas.  **Cuando termine llame al instructor**
+6. [15] Grafique un diagrama de cajas del voltaje para cada tipo de mina, solo con las mediciones hechas para el tipo de suelo `Seco-humus`. Con base en este gráfico, ¿para qué tipo de mina el voltaje promedio es más grande que el resto de minas? **Cuando termine llame al instructor**
+7. [20] A continuación se presenta la Figura 4 del artículo fuente de los datos. Cree esta gráfica donde cada línea conecta el voltaje medio por tipo de mina para los 6 tipos de suelo. Los valores del voltaje en el conjunto de datos han sido modificados; así que, su gráfica será diferente a la presentada acá.<br> ![Figure 4](https://alexrojas.netlify.app/media/prob/MinesPaperFigure4.png) 
+8. [10] Repita el numeral anterior, para la Figura 5 del artículo: <br> ![Figure 5](https://alexrojas.netlify.app/media/prob/MinesPaperFigure5.png)
 
 
 Referencia: Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Passive mine detection and classification method based on hybrid model. IEEE Access, 6, 47870-47888. https://ieeexplore.ieee.org/document/8443331/
