@@ -28,6 +28,6 @@ Conteste las siguientes preguntas:
 2. [10] Elabore un gráfico en el que en el eje $x$ se presente el tipo de suelo y en el eje $y$ la distribución del voltaje. Escriba en su hoja de respuestas los tipos de suelos para los cuales hay observaciones atípicas.  **Cuando termine llame al instructor**
 3. [15] Grafique un diagrama de cajas del voltaje para cada tipo de mina, solo con las mediciones hechas para el tipo de suelo `Seco-humus`. Con base en este gráfico, ¿para qué tipo de mina el voltaje promedio es más grande que el resto de minas? **Cuando termine llame al instructor**
 4. [15] A continuación se presenta la Figura 4 del artículo fuente de los datos. Cree esta gráfica donde cada línea conecta el voltaje media por tipo de mina para los 6 tipos de suelo. Los valores del voltaje en el conjunto de datos han sido modificados; así que, su gráfica será diferente a la presentada acá. ![](https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/8274985/8443331/yilma4-2866538-large.gif)
-
+5. [10] Repita el numeral anterior, para la Figura 5 del artículo: ![](https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/8274985/8443331/yilma5-2866538-large.gif)
 
 Referencia: Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Passive mine detection and classification method based on hybrid model. IEEE Access, 6, 47870-47888.
