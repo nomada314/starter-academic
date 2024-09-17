@@ -125,7 +125,7 @@ Descargue el archivo  e impórtelo. Este archivo tiene un total de 11 columnas y
 2. [10] ¿Qué muestra tiene un contenido de Ba mayor a 0.5 y no es un vidrio de faro? **Incluya el código utilizado** 
 3. [15] Encuentre las muestras de vidrio tales que `Al <1` y el índice de refracción se encuentra en el intervalo $(1.525, 1530)$. ¿Pertenecen todas al mismo tipo de vidrio? **Incluya el código utilizado**
 4. [10] Adicione al conjunto de datos las variables: `C5` y `C7`. Donde la variables `C5` toma el valor  `1` cuando `Ba < 0.3349`, `Al > 1.421`, `Mg > 2.259` y `Na < 13.5` y `0` en otro caso. Por su lado, la variable `C7` toma el valor `1` cuando `Ba > 0.335`. **Incluya el código utilizado** 
-5. [20] Cree un diagrama de barras agrupadas mostrando el porcentaje de observaciones que toman el valor `1` y `0` para `C6`, para cada uno de los tipos de vidrios. ¿Qué puede concluir de este gráfico? Repita para `C7`
+5. [20] Cree un diagrama de barras agrupadas mostrando el porcentaje de observaciones que toman el valor `1` y `0` para `C5`, para cada uno de los tipos de vidrios. ¿Qué puede concluir de este gráfico? Repita para `C7`
 6. [15] Cree un solo gráfico en el que sea fácilmente identificable el tipo de vidrio con mayor y menor índice de refracción. **Incluya el código utilizado** 
 7. [10] Cree un diagrama de dispersión de índice de refracción vs. `Al`. ¿Qué puede concluir con base en este diagrama?
 8. [10] ¿Para cuál tipo de vidrio ninguna de las muestras contiene `Fe`? **Incluya el código utilizado** 
