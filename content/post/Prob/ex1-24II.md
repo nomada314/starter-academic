@@ -1,7 +1,7 @@
 +++
 date      = 2024-09-17
 lastmod   = 2024-09-17
-draft     = false
+draft     = true
 title     = "Examen I"
 math      = true
 +++
