@@ -31,4 +31,4 @@ Conteste las siguientes preguntas:
 5. [10] Repita el numeral anterior, para la Figura 5 del artículo: <br> ![Figure 5](https://alexrojas.netlify.app/media/prob/MinesPaperFigure5.png)
 
 
-Referencia: Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Passive mine detection and classification method based on hybrid model. IEEE Access, 6, 47870-47888.
+Referencia: Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Passive mine detection and classification method based on hybrid model. IEEE Access, 6, 47870-47888. https://ieeexplore.ieee.org/document/8443331/
