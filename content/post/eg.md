@@ -93,7 +93,7 @@ Para la presentación, cada estudiante buscará una artículo científico, en cu
 [wine.data](https://alexrojas.netlify.app/Data/EG/wine.data) <br>
 [glass.data](https://alexrojas.netlify.app/Data/EG/glass.data)
 
-
+<!--
 ### Taller
 
 **Fecha de entrega:** Septiembre 17 de 2024, antes de las 2:00pm <br>
@@ -129,6 +129,7 @@ Descargue el archivo  e impórtelo. Este archivo tiene un total de 11 columnas y
 6. [15] Cree un solo gráfico en el que sea fácilmente identificable el tipo de vidrio con mayor y menor índice de refracción. **Incluya el código utilizado** 
 7. [10] Cree un diagrama de dispersión de índice de refracción vs. `Al`. ¿Qué puede concluir con base en este diagrama?
 8. [10] ¿Para cuál tipo de vidrio ninguna de las muestras contiene `Fe`? **Incluya el código utilizado** 
+-->
 
    
 <!--
