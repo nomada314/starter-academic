@@ -25,17 +25,8 @@ m['suelo'] = m['suelo'].cat.rename_categories({1.0: "Seco-arenoso", 2.0: "Seco-h
 
 Conteste las siguientes preguntas:
 1. [15] El coeficiente de variación se una medida de dispersión invariante a la escala de medición y  está definido como $$\rm{CV} = \frac{s}{\widebar{X}},$$ donde $\widebar{X}$  es la media muestral y $s$ es la desviación estándar muestral. Calcule y escriba en la hoja de respuestas el coeficiente de variación de la variable $V$ para cada tipo de mina. ¿Cuál es el tipo de mina con mayor variación en el voltaje detectado con el sensor?
-2.
-3.   
-4. [10]
+2. [10] Elabore un gráfico en el que en el eje $x$ se presente el tipo de suelo y en el eje $y$ la distribución del voltaje. Escriba en su hoja de respuestas los tipos de suelos para los cuales hay observaciones atípicas.  **Cuando termine llame al instructor**
+3. [15] Grafique un diagrama de cajas del voltaje para cada tipo de mina, solo con las mediciones hechas para el tipo de suelo `Seco-humus`. Con base en este gráfico, ¿para qué tipo de mina el voltaje promedio es más grande que el resto de minas? **Cuando termine llame al instructor**
+4. [15] A continuación se presenta la Figura 4 del artículo fuente de los datos. Geenere esta gráfica. Los valores del voltaje en el conjunto de datos han sido modificados; así que, los valores 
 5. 
-6. [10] ¿Qué porcentaje de pasajeros sobrevivieron por sexo? Explique en palabras que concluye apartir de estos porcentajes.
-7. [5] ¿Cuál es la edad promedio de los pasajeros hombres que sobrevivieron?
-8. [20] En una tabla de contingencias escriba la proporción de sobrevivencia por clase. 
-9. [20] En una tabla de contingencias escriba el número de sobrevivientes por puerto de abordaje. ¿En qué puerto embarcaron la mayoría de personas que no sobrevivieron?
-10. [10] Calcule la variable `TamanoFamilia`, la cual consiste en sumar el número de hermanos, padres, parejas e hijos. 
-11. [10] Calcule la vatiable `TamFam`, la cual toma un valor `soltero` si `TamanoFamilia` toma el valor 1,  `pequeña` si `TamanoFamilia` toma los valores 2, 4 o 4, y `grande` en otro caso.
-12. [10] ¿Para que tamaño de familia la proporción de sobrevivencia es mayor? Utilice la variable `TamFam`
-13. [10] ¿Cuál es el promedio y la desviación estándar de edad por tamaño de familia?
-
 Referencia: Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Passive mine detection and classification method based on hybrid model. IEEE Access, 6, 47870-47888.
