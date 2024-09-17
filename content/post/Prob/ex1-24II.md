@@ -24,7 +24,7 @@ m['suelo'] = m['suelo'].cat.rename_categories({1.0: "Seco-arenoso", 2.0: "Seco-h
 
 
 Conteste las siguientes preguntas:
-1. [15] El coeficiente de variación se una medida de dispersión invariante a la escala de medición y  está definido como $$\rm{CV} = \frac{s}{\widebar{X}},$$ donde $\widebar{X}$  es la media muestral y $s$ es la desviación estándar muestral. Calcule y escriba en la hoja de respuestas el coeficiente de variación de la variable $V$ para cada tipo de mina. ¿Cuál es el tipo de mina con mayor variación en el voltaje detectado con el sensor?
+1. [15] El coeficiente de variación se una medida de dispersión invariante a la escala de medición y  está definido como $$\rm{CV} = \frac{s}{\bar{X}},$$ donde $\bar{X}$  es la media muestral y $s$ es la desviación estándar muestral. Calcule y escriba en la hoja de respuestas el coeficiente de variación de la variable $V$ para cada tipo de mina. ¿Cuál es el tipo de mina con mayor variación en el voltaje detectado con el sensor?
 2. [10] Elabore un gráfico en el que en el eje $x$ se presente el tipo de suelo y en el eje $y$ la distribución del voltaje. Escriba en su hoja de respuestas los tipos de suelos para los cuales hay observaciones atípicas.  **Cuando termine llame al instructor**
 3. [15] Grafique un diagrama de cajas del voltaje para cada tipo de mina, solo con las mediciones hechas para el tipo de suelo `Seco-humus`. Con base en este gráfico, ¿para qué tipo de mina el voltaje promedio es más grande que el resto de minas? **Cuando termine llame al instructor**
 4. [15] A continuación se presenta la Figura 4 del artículo fuente de los datos. Geenere esta gráfica. Los valores del voltaje en el conjunto de datos han sido modificados; así que, los valores 
