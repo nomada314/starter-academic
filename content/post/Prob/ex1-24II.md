@@ -1,6 +1,6 @@
 +++
-date      = 2024-09-16
-lastmod   = 2024-09-16
+date      = 2024-09-19
+lastmod   = 2024-09-19
 draft     = true
 title     = "Examen I"
 math      = true
