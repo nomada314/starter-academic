@@ -7,7 +7,7 @@ math      = true
 +++
 
 
-Lea la hoja de cálculo `Normalized_Data` en el archivo `minas.xls` ubicado en la página https://alexrojas.netlify.com/Data/Prob/mines.xls
+Lea la hoja de cálculo `Normalized_Data` en el archivo `minas.xls` ubicado en la página https://alexrojas.netlify.app/Data/Prob/minas.xls
 
 Este conjunto de datos fue donado por Yilmaz, C., Kahraman, H. T., & Söyler, S. (2018). Para seis diferentes tipos de suelo y diferente clases de minas, se midió, utilizando un sensor *fluxgate*, el voltaje debido a la distorción magnética a diferentes alturas del suelo. Las columnas en el conjunto de datos son $V$: voltaje, $H$: altura del sensor sobre el suelo, $S$: tipo de suelo y $M$: tipo de mina.  Los tipos de minas son: `1`: no mina, `2`: anti-tanque, `3`: anti-personal, `4`: "trampa cazabobos" anti-personal , `5`: M14 anti-personal. Los tipos de suelos son `0`: arenoso seco, `0.2`: humus seco, `0.4`: con cal seco, `0.6`: arenoso húmedo, `0.8`: humus húmedo, `1.0`: con cal húmedo. 
 
