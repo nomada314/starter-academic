@@ -56,14 +56,16 @@ Semana | Fecha | Tema |
 &nbsp; | 09 - 12  |  Gráficas para varias variables, continuación. <br> Transformaciones [2.2] |
 5  | 09 - 17 | Sesión de preguntas |
 &nbsp; | 09 - 19  | **Primer Examen** |
-6  | 09 - 24 | Probabilidad [3.1] |
-&nbsp; | 09 - 26  | Probabilidad condicional [3.2]|
-7  | 10 - 01 | Presentaciones |
+6  | 09 - 24 | Revisión examen |
+&nbsp; | 09 - 26  | Probabilidad [3.1] |
+7  | 10 - 01 | Probabilidad condicional [3.2] <br> Presentaciones |
 &nbsp; | 10 - 03  | Presentaciones |
 8  | 10 - 08 | Presentaciones |
 &nbsp; | 10 - 10  | Presentaciones |
 9  | 10 - 15 | TBA |
 &nbsp; | 10 - 17  | TBA |
+10  | 10 - 22 | TBA |
+&nbsp; | 10 - 24  | TBA |
 
 
 #### Taller 1
