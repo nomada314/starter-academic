@@ -58,7 +58,7 @@ Semana | Fecha | Tema |
 &nbsp; | 09 - 19  | **Primer Examen** |
 6  | 09 - 24 | Revisión examen |
 &nbsp; | 09 - 26  | Probabilidad [3.1] |
-7  | 10 - 01 | Probabilidad condicional [3.2] <br> Presentaciones |
+7  | 10 - 01 | Probabilídad condicional [3.2] <br> Presentaciones |
 &nbsp; | 10 - 03  | Presentaciones |
 8  | 10 - 08 | Presentaciones |
 &nbsp; | 10 - 10  | Presentaciones |
