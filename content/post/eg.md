@@ -67,9 +67,9 @@ Semana | Fecha | Tema |
 6  | 09 - 23 | Sesión de preguntas |
 &nbsp; | 09 - 24  | **Primer Examen** |
 7  | 09 - 30 | Presentaciones |
-&nbsp; | 10 - 01  | Presentaciones <br> Entrega Taller 2|
+&nbsp; | 10 - 01  | Presentaciones|
 8  | 10 - 07 | Presentaciones |
-&nbsp; | 10 - 08  | Presentaciones |
+&nbsp; | 10 - 08  | Presentaciones <br> Entrega Taller 2 |
 9  | 10 - 14 | Festivo |
 &nbsp; | 10 - 15  | Probabilidad condicional [3.2]|
 10  | 10 - 21 | Modelos de probabilidad [3.3] |
