@@ -53,5 +53,8 @@ Semana | Fecha | Tema
 7  | 09-30 | Presentaciones
 &nbsp; | 10-01 | Presentaciones
 &nbsp; | 10-03 | Presentaciones
+8  | 01-07 | .
+&nbsp; | 10-08 | Presentaciones
+&nbsp; | 10-10 | Presentaciones
 
 
