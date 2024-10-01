@@ -50,7 +50,7 @@ Semana | Fecha | Tema
 6  | 09-23 | **Entrega Taller 1** 
 &nbsp; | 09-24 | **Primer examen**
 &nbsp; | 09-26 | Presentaciones
-7  | 09-30 | Presentaciones
+7  | 09-30 | .
 &nbsp; | 10-01 | Presentaciones
 &nbsp; | 10-03 | Presentaciones
 8  | 01-07 | .
