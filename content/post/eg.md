@@ -63,19 +63,21 @@ Semana | Fecha | Tema |
 4  | 09 - 09 | Gráficas para una variable [2.1.1] |
 &nbsp; | 09 - 10  | Gráficas para varias variables [2.1.2] <br> Transformaciones [2.2] |
 5  | 09 - 16 | Eventos y probabilidad [3.1] |
-&nbsp; | 09 - 17  |  Probabilidad, continuación <br> Entrega Taller 1 |
+&nbsp; | 09 - 17  |  Probabilidad condicional [3.2] <br> Entrega Taller 1 |
 6  | 09 - 23 | Sesión de preguntas |
 &nbsp; | 09 - 24  | **Primer Examen** |
 7  | 09 - 30 | Presentaciones |
 &nbsp; | 10 - 01  | Presentaciones|
 8  | 10 - 07 | Presentaciones |
-&nbsp; | 10 - 08  | Presentaciones <br> Entrega Taller 2 |
+&nbsp; | 10 - 08  | Presentaciones <br> Modelos de probabilidad [3.3] <br> Entrega Taller 2 |
 9  | 10 - 14 | Festivo |
-&nbsp; | 10 - 15  | Probabilidad condicional [3.2]|
-10  | 10 - 21 | Modelos de probabilidad [3.3] |
+&nbsp; | 10 - 15  | Modelos de probabilidad, continuación|
+10  | 10 - 21 | Modelos de probabilidad, continuación |
 &nbsp; | 10 - 22  | Modelos de probabilidad, continuación |
-11  | 10 - 28 | Modelos de probabilidad, continuación |
-&nbsp; | 10 - 29  | Modelos de probabilidad, continuación |
+11  | 10 - 28 | TBA |
+&nbsp; | 10 - 29  | TBA |
+12  | 11 - 05 | TBA |
+&nbsp; | 11 - 06  | TBA |
 
 
 
