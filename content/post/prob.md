@@ -60,12 +60,16 @@ Semana | Fecha | Tema |
 &nbsp; | 09 - 26  | Probabilidad [3.1] |
 7  | 10 - 01 | Probabilídad condicional [3.2] <br> Presentaciones |
 &nbsp; | 10 - 03  | Presentaciones |
-8  | 10 - 08 | Presentaciones |
-&nbsp; | 10 - 10  | Presentaciones |
-9  | 10 - 15 | TBA |
-&nbsp; | 10 - 17  | TBA |
+8  | 10 - 08 | Asamblea |
+&nbsp; | 10 - 10  | Asamblea |
+9  | 10 - 15 | Presentaciones |
+&nbsp; | 10 - 17  | Presentaciones |
 10  | 10 - 22 | TBA |
 &nbsp; | 10 - 24  | TBA |
+11  | 10 - 29 | TBA |
+&nbsp; | 10 - 31  | TBA |
+12  | 11 - 05 | TBA |
+&nbsp; | 11 - 07  | TBA |
 
 
 #### Taller 1
