@@ -49,12 +49,24 @@ Semana | Fecha | Tema
 &nbsp; | 09-19 | Sesión de preguntas
 6  | 09-23 | **Entrega Taller 1** 
 &nbsp; | 09-24 | **Primer examen**
-&nbsp; | 09-26 | Presentaciones
+&nbsp; | 09-26 | Polinomios y funciones polinomiales <br> **Lectura**: p. 136 - 154.
 7  | 09-30 | .
 &nbsp; | 10-01 | Presentaciones
 &nbsp; | 10-03 | Presentaciones
-8  | 01-07 | .
+8  | 10-07 | .
 &nbsp; | 10-08 | Presentaciones
-&nbsp; | 10-10 | Presentaciones
+&nbsp; | 10-10 | Inecuaciones <br> **Lectura**: p. 155 - 174.
+9  | 10-07 | Festivo
+&nbsp; | 10-15 | Inecuaciones, continuación
+&nbsp; | 10-17 | 
+10  | 10-14 | .
+&nbsp; | 10-22 | .
+&nbsp; | 10-24 | .
+11  | 10-21 | .
+&nbsp; | 10-29 | .
+&nbsp; | 10-31 | .
+12  | 10-28 | .
+&nbsp; | 11-05 | .
+&nbsp; | 11-07 | .
 
 
