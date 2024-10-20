@@ -61,10 +61,10 @@ Semana | Fecha | Tema
 &nbsp; | 10-17 | Inecuaciones, continuación
 10  | 10-21 | .
 &nbsp; | 10-22 | Matrices  <br> **Lectura**: p. 175 - 199.
-&nbsp; | 10-24 | Matrices, continuación. **Entrega Taller III**
+&nbsp; | 10-24 | Matrices, continuación.<br> **Entrega Taller III**
 11  | 10-28 | .
 &nbsp; | 10-29 | Matrices, continuación. 
-&nbsp; | 10-31 | Sesión de preguntas <br>**Entrega Taller IV**
+&nbsp; | 10-31 | Sesión de preguntas <br> **Entrega Taller IV**
 12  | 11-04 | Festivo
 &nbsp; | 11-05 | **Examen II**
 &nbsp; | 11-07 | Funciones <br> **Lectura**: p. 201 - 222.
