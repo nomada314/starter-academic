@@ -80,8 +80,6 @@ Semana | Fecha | Tema |
 &nbsp; | 11 - 06  | TBA |
 
 
-
-
 ### Evaluación
 
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
