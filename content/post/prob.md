@@ -65,11 +65,20 @@ Semana | Fecha | Tema |
 9  | 10 - 15 | Presentaciones |
 &nbsp; | 10 - 17  | Presentaciones <br> Probabilídad condicional, continuación|
 10  | 10 - 22 | Probabilídad condicional, continuación |
-&nbsp; | 10 - 24  | **Entrega Taller II**|
-11  | 10 - 29 | Modelos de probabilidad [3.3] |
+&nbsp; | 10 - 24  | Modelos de probabilidad [3.3] <br> **Entrega Taller II**|
+11  | 10 - 29 | Modelos de probabilidad, continuación |
 &nbsp; | 10 - 31  | Modelos de probabilidad, continuación |
 12  | 11 - 05 | Sesión de preguntas |
 &nbsp; | 11 - 07  | **Examen II** |
+13   | 11-12 | Estimación puntual |
+&nbsp; | 11-14 | Intervalos de confianza |
+14  | 11-19 | Intervalos de confianza, continuación |
+&nbsp; | 11-21 | Pruebas de hipótesis |
+15  | 11-26 | Pruebas de hipótesis, continuación |
+&nbsp; | 11-28 | Pruebas de hipótesis, continuación <br>**Entrega Taller VI** |
+16  | 12-03 | Sesión de preguntas |
+&nbsp; | 12-05 | **Examen III** |
+
 
 <!--
 #### Taller 1
