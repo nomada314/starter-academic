@@ -63,15 +63,15 @@ Semana | Fecha | Tema |
 8  | 10 - 08 | Asamblea |
 &nbsp; | 10 - 10  | Asamblea |
 9  | 10 - 15 | Presentaciones |
-&nbsp; | 10 - 17  | Presentaciones |
-10  | 10 - 22 | TBA |
-&nbsp; | 10 - 24  | TBA |
-11  | 10 - 29 | TBA |
-&nbsp; | 10 - 31  | TBA |
-12  | 11 - 05 | TBA |
-&nbsp; | 11 - 07  | TBA |
+&nbsp; | 10 - 17  | Presentaciones <br> Probabilídad condicional, continuación|
+10  | 10 - 22 | Probabilídad condicional, continuación |
+&nbsp; | 10 - 24  | **Entrega Taller II**|
+11  | 10 - 29 | Modelos de probabilidad [3.3] |
+&nbsp; | 10 - 31  | Modelos de probabilidad, continuación |
+12  | 11 - 05 | Sesión de preguntas |
+&nbsp; | 11 - 07  | **Examen II** |
 
-
+<!--
 #### Taller 1
 
 **Fecha de entrega:** Septiembre 18 de 2024, antes de las 2:00pm <br>
@@ -118,6 +118,8 @@ Convertidores Código<br>
 7. [15] Cree un diagrama de dispersión de las coordenadas de localización para sus dos convertidores. Identifique cada convertidor con un color diferente.
 
 **NO es necesario incluir su código en el documento**
+-->
+
 <!--
 &nbsp; | 08-22 | Espacio muestral y eventos |
 2      | 08-27 | Probabilidad |
