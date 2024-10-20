@@ -56,17 +56,28 @@ Semana | Fecha | Tema
 8  | 10-07 | .
 &nbsp; | 10-08 | Presentaciones
 &nbsp; | 10-10 | Inecuaciones <br> **Lectura**: p. 155 - 174.
-9  | 10-07 | Festivo
+9  | 10-14 | Festivo
 &nbsp; | 10-15 | Inecuaciones, continuación
-&nbsp; | 10-17 | 
-10  | 10-14 | .
-&nbsp; | 10-22 | .
-&nbsp; | 10-24 | .
-11  | 10-21 | .
-&nbsp; | 10-29 | .
-&nbsp; | 10-31 | .
-12  | 10-28 | .
-&nbsp; | 11-05 | .
-&nbsp; | 11-07 | .
-
+&nbsp; | 10-17 | Inecuaciones, continuación
+10  | 10-21 | .
+&nbsp; | 10-22 | Matrices  <br> **Lectura**: p. 175 - 199.
+&nbsp; | 10-24 | Matrices, continuación. **Entrega Taller III**
+11  | 10-28 | .
+&nbsp; | 10-29 | Matrices, continuación. 
+&nbsp; | 10-31 | Sesión de preguntas <br>**Entrega Taller IV**
+12  | 11-04 | Festivo
+&nbsp; | 11-05 | **Examen II**
+&nbsp; | 11-07 | Funciones <br> **Lectura**: p. 201 - 222.
+13  | 11-11 | Festivo
+&nbsp; | 11-12 | Funciones, continuación
+&nbsp; | 11-14 | Funciones, continuación
+14  | 11-18 | .
+&nbsp; | 11-19 | Funciones exponenciales y logaritmicas<br> **Lectura**: p. 223 - 237. <br> <br>**Entrega Taller V**
+&nbsp; | 11-21 | Funciones exponenciales y logaritmicas, continuación
+15  | 11-25 | .
+&nbsp; | 11-26 | Funciones exponenciales y logaritmicas, continuación
+&nbsp; | 11-28 | <br>**Entrega Taller VI**
+16  | 12-02 | .
+&nbsp; | 12-03 | Sesión de preguntas
+&nbsp; | 12-05 | **Examen III**
 
