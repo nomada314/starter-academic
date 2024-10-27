@@ -74,10 +74,18 @@ Semana | Fecha | Tema |
 &nbsp; | 10 - 15  | Modelos de probabilidad, continuación|
 10  | 10 - 21 | Modelos de probabilidad, continuación |
 &nbsp; | 10 - 22  | Modelos de probabilidad, continuación |
-11  | 10 - 28 | TBA |
-&nbsp; | 10 - 29  | TBA |
-12  | 11 - 05 | TBA |
-&nbsp; | 11 - 06  | TBA |
+11  | 10 - 28 | Introducción Inferencia [4] <br> Entrega Taller 3|
+&nbsp; | 10 - 29  | Máxima Verosimilitud [4.1] |
+12  | 11 - 04 | Festivo |
+&nbsp; | 11 - 05  | TBA |
+13  | 11 - 11 | Festivo |
+&nbsp; | 11 - 12  | TBA |
+14  | 11 - 18 | Festivo |
+&nbsp; | 11 - 19  | TBA |
+15  | 11 - 25 | Festivo |
+&nbsp; | 11 - 26  | TBA |
+16  | 12 - 02 | Sesión de preguntas |
+&nbsp; | 12 - 03  | **Examen IV** |
 
 
 ### Evaluación
