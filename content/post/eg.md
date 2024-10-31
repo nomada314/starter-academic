@@ -77,9 +77,10 @@ Semana | Fecha | Tema |
 11  | 10 - 28 | Introducción Inferencia [4] <br> Entrega Taller 3|
 &nbsp; | 10 - 29  | Máxima Verosimilitud [4.1] <br> Intervalos de confianza [4.2] |
 12  | 11 - 04 | Festivo |
-&nbsp; | 11 - 05  | **Examen III** <br> Entrega Taller 4 |
+&nbsp; | 11 - 05  |  Intervalos de confianza [4.2] |
+&nbsp; | 11 - 08  |  Entrega Taller 4 |
 13  | 11 - 11 | Festivo |
-&nbsp; | 11 - 12  | Intervalos de confianza, continuación |
+&nbsp; | 11 - 12  | **Examen III** |
 14  | 11 - 18 | Intervalos de confianza, continuación |
 &nbsp; | 11 - 19  | Pruebas de hipótesis [4.3] <br> Entrega Taller 5|
 15  | 11 - 25 | Pruebas de hipótesis, continuación |
