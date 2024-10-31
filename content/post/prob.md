@@ -68,7 +68,7 @@ Semana | Fecha | Tema |
 &nbsp; | 10 - 24  | Modelos de probabilidad [3.3] <br> **Entrega Taller II**|
 11  | 10 - 29 | Modelos de probabilidad, continuación |
 &nbsp; | 10 - 31  | Modelos de probabilidad, continuación |
-12  | 11 - 05 | Sesión de preguntas |
+12  | 11 - 05 | Sesión de preguntas <br> **Entrega Taller III**|
 &nbsp; | 11 - 07  | **Examen II** |
 13   | 11-12 | Estimación puntual |
 &nbsp; | 11-14 | Intervalos de confianza |
