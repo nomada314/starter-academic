@@ -64,12 +64,12 @@ Semana | Fecha | Tema
 &nbsp; | 10-24 | Matrices, continuación.<br> **Entrega Taller III**
 11  | 10-28 | .
 &nbsp; | 10-29 | Matrices, continuación. 
-&nbsp; | 10-31 | Sesión de preguntas <br> **Entrega Taller IV**
+&nbsp; | 10-31 | Matrices, continuación. <br> **Entrega Taller IV** 
 12  | 11-04 | Festivo
-&nbsp; | 11-05 | **Examen II**
-&nbsp; | 11-07 | Funciones <br> **Lectura**: p. 201 - 222.
+&nbsp; | 11-05 | Sesión de preguntas
+&nbsp; | 11-07 | **Examen II**
 13  | 11-11 | Festivo
-&nbsp; | 11-12 | Funciones, continuación
+&nbsp; | 11-12 | Funciones <br> **Lectura**: p. 201 - 222.
 &nbsp; | 11-14 | Funciones, continuación
 14  | 11-18 | .
 &nbsp; | 11-19 | Funciones exponenciales y logaritmicas<br> **Lectura**: p. 223 - 237. <br> <br>**Entrega Taller V**
