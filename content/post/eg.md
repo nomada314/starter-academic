@@ -80,13 +80,13 @@ Semana | Fecha | Tema |
 &nbsp; | 11 - 05  |  Intervalos de confianza [4.2] |
 &nbsp; | 11 - 08  |  Entrega Taller 4 |
 13  | 11 - 11 | Festivo |
-&nbsp; | 11 - 12  | **Examen III** |
+&nbsp; | 11 - 12  | **Segundo Examen** <br> [PONDICE.XLS](https://alexrojas.netlify.app/Data/EG/PONDICE.XLS)<br> [TILLRATIO.XLS](https://alexrojas.netlify.app/Data/EG/TILLRATIO.XLS)<br> [WINE40.XLS](https://alexrojas.netlify.app/Data/EG/WINE40.XLS)|
 14  | 11 - 18 | Intervalos de confianza, continuación |
 &nbsp; | 11 - 19  | Pruebas de hipótesis [4.3] <br> Entrega Taller 5|
 15  | 11 - 25 | Pruebas de hipótesis, continuación |
 &nbsp; | 11 - 26  | Pruebas de hipótesis, continuación |
 16  | 12 - 02 | Sesión de preguntas |
-&nbsp; | 12 - 03  | **Examen IV** |
+&nbsp; | 12 - 03  | **Tercer Examen** |
 
 
 ### Evaluación
@@ -96,11 +96,6 @@ Semana | Fecha | Tema |
 
 La participación será evaluada a través de la lectura previa del material, preguntas durante la clase  y contestando preguntas. <br>
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
-
-### Datos
-
-[wine.data](https://alexrojas.netlify.app/Data/EG/wine.data) <br>
-[glass.data](https://alexrojas.netlify.app/Data/EG/glass.data)
 
 <!--
 ### Taller
