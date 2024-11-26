@@ -152,8 +152,26 @@ Convertidores Código<br>
 La nota final será obtenida así: 
 
 * Primer 50: un examen (30%), dos talleres (30%), presentación (30%) y participación (10%). 
-* Segundo 50: dos exámenes con un peso del 50%, un taller (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
+* Segundo 50: dos exámenes con un peso del 50%, talleres (30%). El examen con mejor nota valdrá 35% y el otro 15%. Participación (20%).
 
+
+### Ejercicios
+
+Chemists at Kyushu University examined the linear relationship between maximum absorption rate $Y$ (in nanomoles) and the Hammett substituent constant $x$ for metacyclophane compounds. The data for variants of two compounds are given in the `ORGCHEM.XLS` file. The variants of compound 1 are labeled 1a, 1b, 1d, 1e,1f, 1g, and 1h; the variants of compound 2 are 2a, 2b, 2c, and 2d.
+
+1. Plot the data. Use two different plotting symbols for the two compunds. What do you observe?
+2. Using only the data for compound 1, fit the model $E(Y) = \beta_0 +\beta_1 x$.
+3. Assess the adequacy of the model. Use $\alpha = 0.01$.
+4. Repeat 2 and 3 using only the data for compound 2.
+
+
+High-resolution images of lapetus, one of Saturn's largest moons, were obtained by the Cassini spacecraft and analyzed by NASA. Using widebands filters, the rations of ultraviolet to green and infrared to green wavelengths were measured at 24 moon locations. Acoording to the researchers, "the data's linear trend suggests mixing of two end members: Cassini Regio with a red spectrum and the south polar region with a flat spectrum"
+
+1. Plot the data. Use different plotting symbols for the regions. What do you observe?
+2. Conduct a simple linear regression analysis of the data. Do the results support the researchers' statement?
+
+
+<!--
 ### Conjuntos de datos
 
 * [Earthquakes with Strong-Motion Data in CESMD](https://www.strongmotioncenter.org/wserv/events/builder/)
@@ -177,6 +195,7 @@ mag4a8 = pd.read_csv(pagina, skiprows=1)
 * National Highway Traffic Safety Administration
 
 https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2022/National/
+-->
 
 <!--
 ### 
