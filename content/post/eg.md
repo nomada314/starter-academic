@@ -84,7 +84,7 @@ Semana | Fecha | Tema |
 14  | 11 - 18 | Intervalos de confianza, continuación |
 &nbsp; | 11 - 19  | Pruebas de hipótesis [4.3] <br> Entrega Taller 5|
 15  | 11 - 25 | Regresión lineal |
-&nbsp; | 11 - 26  | Regresión lineal, continuación <br>[ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
+&nbsp; | 11 - 26  | Regresión lineal, continuación <br>[ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/SATMOON.XLS)<br>[SATMOON.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
 16  | 12 - 02 | Sesión de preguntas<br> Entrega Taller 6 |
 &nbsp; | 12 - 03  | **Tercer Examen** |
 
@@ -103,7 +103,8 @@ Chemists at Kyushu University examined the linear relationship between maximum a
 
 1. Plot the data. Use two different plotting symbols for the two compunds. What do you observe?
 2. Using only the data for compound 1, fit the model $E(Y) = \beta_0 +\beta_1 x$.
-3. Assess the adequacy of the model. Use $\alpha = 0.01$
+3. Assess the adequacy of the model. Use $\alpha = 0.01$.
+4. Repeat 2 and 3 using only the data for compound 2.
 
 
 High-resolution images of lapetus, one of Saturn's largest moons, were obtained by the Cassini spacecraft and analyzed by NASA. Using widebands filters, the rations of ultraviolet to green and infrared to green wavelengths were measured at 24 moon locations. Acoording to the researchers, "the data's linear trend suggests mixing of two end members: Cassini Regio with a red spectrum and the south polar region with a flat spectrum"
