@@ -74,9 +74,9 @@ Semana | Fecha | Tema |
 &nbsp; | 11-14 | Intervalos de confianza |
 14  | 11-19 | Intervalos de confianza, continuación |
 &nbsp; | 11-21 | Pruebas de hipótesis |
-15  | 11-26 | Pruebas de hipótesis, continuación |
-&nbsp; | 11-28 | Pruebas de hipótesis, continuación <br>**Entrega Taller VI** |
-16  | 12-03 | Sesión de preguntas |
+15  | 11-26 | Regresión lineal <br>[ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/SATMOON.XLS)<br>[SATMOON.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS) |
+&nbsp; | 11-28 | Regresión lineal, continuación |
+16  | 12-03 | Sesión de preguntas <br>**Entrega Taller VI**|
 &nbsp; | 12-05 | **Examen III** |
 
 
