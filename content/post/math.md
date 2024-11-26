@@ -75,9 +75,9 @@ Semana | Fecha | Tema
 &nbsp; | 11-19 | Funciones exponenciales y logaritmicas<br> **Lectura**: p. 223 - 237. <br> <br>**Entrega Taller V**
 &nbsp; | 11-21 | Funciones exponenciales y logaritmicas, continuación
 15  | 11-25 | .
-&nbsp; | 11-26 | Funciones exponenciales y logaritmicas, continuación
-&nbsp; | 11-28 | <br>**Entrega Taller VI**
+&nbsp; | 11-26 | Elipse, hipérbola
+&nbsp; | 11-28 | Parábola
 16  | 12-02 | .
-&nbsp; | 12-03 | Sesión de preguntas
+&nbsp; | 12-03 | Sesión de preguntas <br>**Entrega Taller VI**
 &nbsp; | 12-05 | **Examen III**
 
