@@ -84,7 +84,7 @@ Semana | Fecha | Tema |
 14  | 11 - 18 | Intervalos de confianza, continuación |
 &nbsp; | 11 - 19  | Pruebas de hipótesis [4.3] <br> Entrega Taller 5|
 15  | 11 - 25 | Regresión lineal |
-&nbsp; | 11 - 26  | Regresión lineal, continuación [ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
+&nbsp; | 11 - 26  | Regresión lineal, continuación <br>[ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
 16  | 12 - 02 | Sesión de preguntas<br> Entrega Taller 6 |
 &nbsp; | 12 - 03  | **Tercer Examen** |
 
@@ -96,6 +96,15 @@ Semana | Fecha | Tema |
 
 La participación será evaluada a través de la lectura previa del material, preguntas durante la clase  y contestando preguntas. <br>
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
+
+### Ejercicios
+
+Chemists at Kyushu University examined the linear relationship between maximum absorption rate $Y$ (in nanomoles) and the Hammett substituent constant $x$ for metacyclophane compounds. The data for variants of two compounds are given in the `ORGCHEM.XLS` file. The variants of compound 1 are labeled 1a, 1b, 1d, 1e,1f, 1g, and 1h; the variants of compound 2 are 2a, 2b, 2c, and 2d.
+
+1. Plot the data. Use two different plotting symbols for the two compunds. What do you observe?
+2. Using only the data for compound 1, fit the model $E(Y) = \beta_0 +\beta_1 x$.
+3. Assess the adequacy of the model. Use $\alpha = 0.01$
+
 
 <!--
 ### Taller
