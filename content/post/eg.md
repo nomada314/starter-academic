@@ -106,6 +106,11 @@ Chemists at Kyushu University examined the linear relationship between maximum a
 3. Assess the adequacy of the model. Use $\alpha = 0.01$
 
 
+High-resolution images of lapetus, one of Saturn's largest moons, were obtained by the Cassini spacecraft and analyzed by NASA. Using widebands filters, the rations of ultraviolet to green and infrared to green wavelengths were measured at 24 moon locations. Acoording to the researchers, "the data's linear trend suggests mixing of two end members: Cassini Regio with a red spectrum and the south polar region with a flat spectrum"
+
+1. Plot the data. Use different plotting symbols for the regions. What do you observe?
+2. Conduct a simple linear regression analysis of the data. Do the results support the researchers' statement?
+
 <!--
 ### Taller
 
