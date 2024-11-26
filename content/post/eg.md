@@ -83,9 +83,9 @@ Semana | Fecha | Tema |
 &nbsp; | 11 - 12  | **Segundo Examen** <br> [PONDICE.XLS](https://alexrojas.netlify.app/Data/EG/PONDICE.XLS)<br> [TILLRATIO.XLS](https://alexrojas.netlify.app/Data/EG/TILLRATIO.XLS)<br> [WINE40.XLS](https://alexrojas.netlify.app/Data/EG/WINE40.XLS)|
 14  | 11 - 18 | Intervalos de confianza, continuación |
 &nbsp; | 11 - 19  | Pruebas de hipótesis [4.3] <br> Entrega Taller 5|
-15  | 11 - 25 | Pruebas de hipótesis, continuación |
-&nbsp; | 11 - 26  | Pruebas de hipótesis, continuación |
-16  | 12 - 02 | Sesión de preguntas |
+15  | 11 - 25 | Regresión lineal |
+&nbsp; | 11 - 26  | Regresión lineal, continuación [ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
+16  | 12 - 02 | Sesión de preguntas<br> Entrega Taller 6 |
 &nbsp; | 12 - 03  | **Tercer Examen** |
 
 
