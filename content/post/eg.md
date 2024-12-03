@@ -86,7 +86,7 @@ Semana | Fecha | Tema |
 15  | 11 - 25 | Regresión lineal |
 &nbsp; | 11 - 26  | Regresión lineal, continuación <br>[ORGCHEM.XLS](https://alexrojas.netlify.app/Data/EG/SATMOON.XLS)<br>[SATMOON.XLS](https://alexrojas.netlify.app/Data/EG/ORGCHEM.XLS)|
 16  | 12 - 02 | Sesión de preguntas<br> Entrega Taller 6 |
-&nbsp; | 12 - 03  | **Tercer Examen** |
+&nbsp; | 12 - 03  | **Tercer Examen** <br>[radio.csv](https://alexrojas.netlify.app/Data/EG/radio.csv)<br>[cohete.csv](https://alexrojas.netlify.app/Data/EG/cohete.csv)|
 
 
 ### Evaluación
