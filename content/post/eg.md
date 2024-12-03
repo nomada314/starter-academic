@@ -97,6 +97,8 @@ Semana | Fecha | Tema |
 La participación será evaluada a través de la lectura previa del material, preguntas durante la clase  y contestando preguntas. <br>
 Para la presentación, cada estudiante buscará una artículo científico, en cualquier área de Química, en el cual los datos estén disponibles en internet o en el mismo artículo y replicará las gráficas y análisis básicos hechos en este. Se debe entregar el código en `R` utilizado.
 
+
+<!--
 ### Ejercicios
 
 Chemists at Kyushu University examined the linear relationship between maximum absorption rate $Y$ (in nanomoles) and the Hammett substituent constant $x$ for metacyclophane compounds. The data for variants of two compounds are given in the `ORGCHEM.XLS` file. The variants of compound 1 are labeled 1a, 1b, 1d, 1e,1f, 1g, and 1h; the variants of compound 2 are 2a, 2b, 2c, and 2d.
@@ -111,6 +113,7 @@ High-resolution images of lapetus, one of Saturn's largest moons, were obtained 
 
 1. Plot the data. Use different plotting symbols for the regions. What do you observe?
 2. Conduct a simple linear regression analysis of the data. Do the results support the researchers' statement?
+-->
 
 <!--
 ### Taller
