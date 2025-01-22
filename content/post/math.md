@@ -19,11 +19,11 @@ Viernes 10:00 - 12:00 M. TBA
 
 ### Otras referencias:
 
-* Falduto, V., Gross, R., Lippman, D., Rasmussen, M., Norwood, R., Belloit, N., Whipple, H., Magnier, J. y Fernandez, C. (2024) [College Algebra](https://openstax.org/details/books/college-algebra-2e/). OpenStax 
-* Gustafson, D. y Hughes, J. (2023) College Algebra. Cengage
-* Hirsch, L.  y Goodman, A. (2006) Understanding elementary algebra with geometry.  A course for college students. Thomson
+* Falduto, V., Gross, R., Lippman, D., Rasmussen, M., Norwood, R., Belloit, N., Whipple, H., Magnier, J. & Fernandez, C. (2024) [College Algebra](https://openstax.org/details/books/college-algebra-2e/). OpenStax 
+* Gustafson, D. & Hughes, J. (2023) College Algebra. Cengage
+* Hirsch, L.  & Goodman, A. (2006) Understanding elementary algebra with geometry.  A course for college students. Thomson
 * Spivak, M. (1970) Cálculo Infinitesimal. Editorial Reverté
-* Stewart, J., Redlin, L. y Watson, S. (2024) College Algebra. Cengage
+* Stewart, J., Redlin, L. & Watson, S. (2024) College Algebra. Cengage
 * Zalamea, F. (2007) Fundamentos de Matemáticas. Editorial UNal
 
 ### Horas de oficina: 
