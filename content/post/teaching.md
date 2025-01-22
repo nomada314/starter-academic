@@ -9,10 +9,10 @@ math      = true
 
 ## Primer semestre 2025
 
-* Matemáticas Generales (https://alexrojas.netlify.app/post/math/)
-* Geometría Elemental (https://alexrojas.netlify.app/post/geo/)
-* Bases de Datos (https://alexrojas.netlify.app/post/DB/)
-* Teoría de Probabilidad (https://alexrojas.netlify.app/post/ProbTeo/)
+* [Matemáticas Generales](https://alexrojas.netlify.app/post/math/)
+* [Geometría Elemental](https://alexrojas.netlify.app/post/geo/)
+* [Bases de Datos](https://alexrojas.netlify.app/post/DB/)
+* [Teoría de Probabilidad](https://alexrojas.netlify.app/post/ProbTeo/)
 
 ## Segundo semestre 2024
 * Matemáticas Generales
