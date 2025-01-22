@@ -1,6 +1,6 @@
 +++
 date      = 2020-09-28
-lastmod   = 2023-02-03
+lastmod   = 2025-01-22
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
@@ -9,14 +9,15 @@ math      = true
 
 ## Primer semestre 2025
 
-*
-*
-*
+* Matemáticas Generales (https://alexrojas.netlify.app/post/math/)
+* Geometría Elemental (https://alexrojas.netlify.app/post/geo/)
+* Bases de Datos (https://alexrojas.netlify.app/post/DB/)
+* Teoría de Probabilidad (https://alexrojas.netlify.app/post/ProbTeo/)
 
 ## Segundo semestre 2024
 * Matemáticas Generales
 * Estadística General
-* [Probabilidad y Estadística](https://alexrojas.netlify.app/post/prob/)
+* Probabilidad y Estadística
 
 ## Primer semestre 2023
 * Cálculo I
