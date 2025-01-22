@@ -1,7 +1,7 @@
 +++
 date      = 2024-08-06
-lastmod   = 2024-08-06
-draft     = true
+lastmod   = 2025-01-22
+draft     = false
 tags      = ["Teaching"]
 title     = "Matemáticas Generales"
 math      = true
@@ -9,75 +9,58 @@ math      = true
 
 ### Horario
 
-Lunes 4:00 - 5:00 PM. La Colina Casa 2  <br>
-Martes 12:00 - 2:00 PM. A305 <br>
-Jueves 12:00 - 2:00 PM. A505 
+Lunes 10:00 - 11:00 AM. TBA <br>
+Miércoles 10:00 - 12:00 M. TBA <br>
+Viernes 10:00 - 12:00 M. TBA
 
 ### Libro guía:
 
-Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
+ Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
 
 ### Otras referencias:
 
+* Falduto, V., Gross, R., Lippman, D., Rasmussen, M., Norwood, R., Belloit, N., Whipple, H., Magnier, J. y Fernandez, C. (2024) [College Algebra](https://openstax.org/details/books/college-algebra-2e/). OpenStax 
+* Gustafson, D. y Hughes, J. (2023) College Algebra. Cengage
+* Hirsch, L.  y Goodman, A. (2006) Understanding elementary algebra with geometry.  A course for college students. Thomson
 * Spivak, M. (1970) Cálculo Infinitesimal. Editorial Reverté
+* Stewart, J., Redlin, L. y Watson, S. (2024) College Algebra. Cengage
 * Zalamea, F. (2007) Fundamentos de Matemáticas. Editorial UNal
 
 ### Horas de oficina: 
 
-Lunes 2:00 - 4:00 PM o por cita. <br>
+TBA 2:00 - 4:00 PM o por cita. <br>
 **Lugar**: La Colina Casa 2. 
 
 ### Evaluación
+
+
 
 ### Agenda
 
 Semana | Fecha | Tema
 ---| --- | ----
-1  | 08-20 | Presentación del curso.
-&nbsp; | 08-22 | Examen de inglés. Revisar correo para saber el lugar y la hora.
-2  | 08-26 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
-&nbsp; | 08-27 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
-&nbsp; | 08-29 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
-3  | 09-02 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
-&nbsp; | 09-03 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
-&nbsp; | 09-05 | <font color="#9900FF"> Ejercicios: </font> <br>**pág 77:** 4. j, 4. m, 4. p , 5. d 5. h, 5. i 5 j. <br> **Pág 78:** 6. j, 6. l <br> Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
-4  | 09-09 | Revisión Ejercicios asignados.
-&nbsp; | 09-10 | Exponentes y radicales <br> **Lectura**: p. 81 - 98.
-&nbsp; | 09-12 | Exponentes y radicales, continuación.
-5  | 09-16 | .
-&nbsp; | 09-17 | Ecuaciones <br> **Lectura**: p. 99 - 117.
-&nbsp; | 09-19 | Sesión de preguntas
-6  | 09-23 | **Entrega Taller 1** 
-&nbsp; | 09-24 | **Primer examen**
-&nbsp; | 09-26 | Polinomios y funciones polinomiales <br> **Lectura**: p. 136 - 154.
-7  | 09-30 | .
-&nbsp; | 10-01 | Presentaciones
-&nbsp; | 10-03 | Presentaciones
-8  | 10-07 | .
-&nbsp; | 10-08 | Presentaciones
-&nbsp; | 10-10 | Inecuaciones <br> **Lectura**: p. 155 - 174.
-9  | 10-14 | Festivo
-&nbsp; | 10-15 | Inecuaciones, continuación
-&nbsp; | 10-17 | Inecuaciones, continuación
-10  | 10-21 | .
-&nbsp; | 10-22 | Matrices  <br> **Lectura**: p. 175 - 199.
-&nbsp; | 10-24 | Matrices, continuación.<br> **Entrega Taller III**
-11  | 10-28 | .
-&nbsp; | 10-29 | Matrices, continuación. 
-&nbsp; | 10-31 | Matrices, continuación. <br> **Entrega Taller IV** 
-12  | 11-04 | Festivo
-&nbsp; | 11-05 | Sesión de preguntas
-&nbsp; | 11-07 | **Examen II**
-13  | 11-11 | Festivo
-&nbsp; | 11-12 | Funciones <br> **Lectura**: p. 201 - 222.
-&nbsp; | 11-14 | Funciones, continuación
-14  | 11-18 | .
-&nbsp; | 11-19 | Funciones exponenciales y logaritmicas<br> **Lectura**: p. 223 - 237. <br> <br>**Entrega Taller V**
-&nbsp; | 11-21 | Funciones exponenciales y logaritmicas, continuación
-15  | 11-25 | .
-&nbsp; | 11-26 | Elipse, hipérbola
-&nbsp; | 11-28 | Parábola
-16  | 12-02 | .
-&nbsp; | 12-03 | Sesión de preguntas <br>**Entrega Taller VI**
-&nbsp; | 12-05 | **Examen III**
+1      | 02-10 | Presentación del curso.
+&nbsp; | 02-12 | 
+&nbsp; | 02-14 | 
+2      | 02-17 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
+&nbsp; | 02-19 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
+&nbsp; | 02-21 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
+3      | 02-24 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
+&nbsp; | 02-26 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
+&nbsp; | 02-28 | <font color="#9900FF"> Ejercicios: </font> <br>**pág 77:** 4. j, 4. m, 4. p , 5. d 5. h, 5. i 5 j. <br> **Pág 78:** 6. j, 6. l <br> Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
+4      | 03-03 | Revisión Ejercicios asignados.
+&nbsp; | 03-05 | Exponentes y radicales <br> **Lectura**: p. 81 - 98.
+&nbsp; | 03-07 | Exponentes y radicales, continuación.
+5      | 03-10 | .
+&nbsp; | 03-12 | Ecuaciones <br> **Lectura**: p. 99 - 117.
+&nbsp; | 03-14 | Sesión de preguntas
+6      | 03-17 | **Entrega Taller 1** 
+&nbsp; | 03-19 | **Primer examen**
+&nbsp; | 03-21 | Polinomios y funciones polinomiales <br> **Lectura**: p. 136 - 154.
+7      | 03-24 | .
+&nbsp; | 03-26 | Presentaciones
+&nbsp; | 03-28 | Presentaciones
+8      | 03-31 | .
+&nbsp; | 04-02 | Presentaciones
+&nbsp; | 04-04 | Inecuaciones <br> **Lectura**: p. 155 - 174.
 
