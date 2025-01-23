@@ -47,8 +47,8 @@ Semana | Fecha | Tema
 &nbsp; | 02-12 | Números reales, exponentes, radicales <br> **Lectura**: [Sec 1.1, 1.2 y 1.3](https://openstax.org/books/college-algebra-2e/pages/1-1-real-numbers-algebra-essentials).
 &nbsp; | 02-14 | Polinomios <br> **Lectura**: [Sec 1.4 y 1.5](https://openstax.org/books/college-algebra-2e/pages/1-4-polynomials).
 2      | 02-17 | Expresiones racionales <br> **Lectura**: [Sec 1.6](https://openstax.org/books/college-algebra-2e/pages/1-6-rational-expressions). <br> **Entrega Taller 1** 
-&nbsp; | 02-19 | . <br> **Lectura**: Sec 
-&nbsp; | 02-21 | . <br> **Lectura**: Sec 
+&nbsp; | 02-19 | Ecuación lineal en una variable. <br> **Lectura**: [Sec 2.1, 2.2 y 2.3](https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs) 
+&nbsp; | 02-21 | Ecuación cuadrática. <br> **Lectura**: [Sec 2.4, 2.5](https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers)
 3      | 02-24 | . <br> **Lectura**: Sec <br> **Entrega Taller 2**
 &nbsp; | 02-26 | . <br> **Lectura**: Sec 
 &nbsp; | 02-28 | . <br> **Lectura**: Sec 
