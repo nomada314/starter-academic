@@ -21,7 +21,7 @@ a
 
 ### Horas de oficina: 
 
-TBA 2:00 - 4:00 PM o por cita. <br>
+Lunes 8:00 - 10:00 AM o por cita. <br>
 **Lugar**: La Colina Casa 2. 
 
 ### Evaluación
