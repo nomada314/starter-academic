@@ -35,7 +35,7 @@ Lunes 8:00 - 10:00 AM o por cita. <br>
 
 Para cada uno de los dos cincuenta: 
 
-+ 2 Parciales 60 %. El parcial con mejor nota tiene un peso de 40 % y el otro del 20 %.
++ Dos parciales 60 %. El parcial con mejor nota tiene un peso de 40 % y el otro de 20 %.
 + Talleres 20 %
 + Participación 20 %
 
@@ -44,9 +44,9 @@ Para cada uno de los dos cincuenta:
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-10 | Presentación del curso.
-&nbsp; | 02-12 | Números reales, exponentes, radicales <br> **Lectura**: Sec 1.1, 1.2 y 1.3.
-&nbsp; | 02-14 | Polinomios <br> **Lectura**: Sec 1.4 y 1.5.
-2      | 02-17 | Expresiones racionales <br> **Lectura**: Sec 1.6. <br> **Entrega Taller 1** 
+&nbsp; | 02-12 | Números reales, exponentes, radicales <br> **Lectura**: [Sec 1.1, 1.2 y 1.3](https://openstax.org/books/college-algebra-2e/pages/1-1-real-numbers-algebra-essentials).
+&nbsp; | 02-14 | Polinomios <br> **Lectura**: [Sec 1.4 y 1.5](https://openstax.org/books/college-algebra-2e/pages/1-4-polynomials).
+2      | 02-17 | Expresiones racionales <br> **Lectura**: [Sec 1.6](https://openstax.org/books/college-algebra-2e/pages/1-6-rational-expressions). <br> **Entrega Taller 1** 
 &nbsp; | 02-19 | . <br> **Lectura**: Sec 
 &nbsp; | 02-21 | . <br> **Lectura**: Sec 
 3      | 02-24 | . <br> **Lectura**: Sec <br> **Entrega Taller 2**
