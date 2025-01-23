@@ -15,11 +15,11 @@ Viernes 10:00 - 12:00 M. TBA
 
 ### Libro guía:
 
- Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
+Abramson, J., Falduto, V., Gross, R., Lippman, D., Rasmussen, M., Norwood, R., Belloit, N., Whipple, H., Magnier, J. & Fernandez, C. (2024) [College Algebra](https://openstax.org/details/books/college-algebra-2e/). OpenStax 
 
 ### Otras referencias:
 
-* Falduto, V., Gross, R., Lippman, D., Rasmussen, M., Norwood, R., Belloit, N., Whipple, H., Magnier, J. & Fernandez, C. (2024) [College Algebra](https://openstax.org/details/books/college-algebra-2e/). OpenStax 
+* Allendoefer, C.B. & Oakley, C.O. (1990). Fundamentos de Matemáticas Universitarias. McGraw-Hill.
 * Gustafson, D. & Hughes, J. (2023) College Algebra. Cengage
 * Hirsch, L.  & Goodman, A. (2006) Understanding elementary algebra with geometry.  A course for college students. Thomson
 * Spivak, M. (1970) Cálculo Infinitesimal. Editorial Reverté
@@ -28,39 +28,45 @@ Viernes 10:00 - 12:00 M. TBA
 
 ### Horas de oficina: 
 
-TBA 2:00 - 4:00 PM o por cita. <br>
+Lunes 8:00 - 10:00 AM o por cita. <br>
 **Lugar**: La Colina Casa 2. 
 
 ### Evaluación
 
+Para cada uno de los dos cincuenta: 
 
++ 2 Parciales 60 %. El parcial con mejor nota tiene un peso de 40 % y el otro del 20 %.
++ Talleres 20 %
++ Participación 20 %
 
 ### Agenda
 
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-10 | Presentación del curso.
-&nbsp; | 02-12 | 
-&nbsp; | 02-14 | 
-2      | 02-17 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
-&nbsp; | 02-19 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
-&nbsp; | 02-21 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
-3      | 02-24 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
-&nbsp; | 02-26 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
-&nbsp; | 02-28 | <font color="#9900FF"> Ejercicios: </font> <br>**pág 77:** 4. j, 4. m, 4. p , 5. d 5. h, 5. i 5 j. <br> **Pág 78:** 6. j, 6. l <br> Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
-4      | 03-03 | Revisión Ejercicios asignados.
-&nbsp; | 03-05 | Exponentes y radicales <br> **Lectura**: p. 81 - 98.
-&nbsp; | 03-07 | Exponentes y radicales, continuación.
-5      | 03-10 | .
-&nbsp; | 03-12 | Ecuaciones <br> **Lectura**: p. 99 - 117.
-&nbsp; | 03-14 | Sesión de preguntas
-6      | 03-17 | **Entrega Taller 1** 
-&nbsp; | 03-19 | **Primer examen**
-&nbsp; | 03-21 | Polinomios y funciones polinomiales <br> **Lectura**: p. 136 - 154.
-7      | 03-24 | .
-&nbsp; | 03-26 | Presentaciones
-&nbsp; | 03-28 | Presentaciones
-8      | 03-31 | .
-&nbsp; | 04-02 | Presentaciones
-&nbsp; | 04-04 | Inecuaciones <br> **Lectura**: p. 155 - 174.
+&nbsp; | 02-12 | Números reales, exponentes, radicales <br> **Lectura**: Sec 1.1, 1.2 y 1.3.
+&nbsp; | 02-14 | Polinomios <br> **Lectura**: Sec 1.4 y 1.5.
+2      | 02-17 | Expresiones racionales <br> **Lectura**: Sec 1.6. <br> **Entrega Taller 1** 
+&nbsp; | 02-19 | . <br> **Lectura**: Sec 
+&nbsp; | 02-21 | . <br> **Lectura**: Sec 
+3      | 02-24 | . <br> **Lectura**: Sec <br> **Entrega Taller 2**
+&nbsp; | 02-26 | . <br> **Lectura**: Sec 
+&nbsp; | 02-28 | . <br> **Lectura**: Sec 
+4      | 03-03 | . <br> **Lectura**: Sec <br> **Entrega Taller 3**
+&nbsp; | 03-05 | **Sesión de repaso**
+&nbsp; | 03-07 | **Primer examen**
+5      | 03-10 | . <br> **Lectura**: Sec 
+&nbsp; | 03-12 | . <br> **Lectura**: Sec 
+&nbsp; | 03-14 | . <br> **Lectura**: Sec 
+6      | 03-17 | . <br> **Lectura**: Sec 
+&nbsp; | 03-19 | . <br> **Lectura**: Sec 
+&nbsp; | 03-21 | . <br> **Lectura**: Sec 
+7      | 03-24 | **Festivo**
+&nbsp; | 03-26 | . <br> **Lectura**: Sec 
+&nbsp; | 03-28 | . <br> **Lectura**: Sec 
+8      | 03-31 | . <br> **Lectura**: Sec 
+&nbsp; | 04-02 | . <br> **Lectura**: Sec 
+&nbsp; | 04-04 | . <br> **Lectura**: Sec 
+
+
 
