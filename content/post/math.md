@@ -39,6 +39,8 @@ Para cada uno de los dos cincuenta:
 + Talleres 20 %
 + Participación 20 %
 
+La lectura indicada para cada clase es obligatoria y será considerada participación. Además, se espera que cada estudiante haga un resumen de los resultados más importantes. Este resumen, puede ser solicitado por el instructor e, igualmente, hace parte de la participación.
+
 ### Agenda
 
 Semana | Fecha | Tema
