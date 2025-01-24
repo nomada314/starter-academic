@@ -13,13 +13,22 @@ L-V 7:00 - 8:00 AM. TBA <br>
 
 ### Libro guía:
 
-Alexander, D.C. & Koeberlein, G. M. (2020) Elementary Geometry for College Students. Cengage
+Alexander, D.C. & Koeberlein, G. M. (2020) Elementary Geometry for College Students. Cengage.
 
 <img src="https://www.cengage.com/covers/imageServlet?catalog=cengage&productISBN13=9781337614085&image_type=LRGFC"  width="180"/>
 
 ### Otras referencias:
 
-* 
+* Campos A. (1994) Axiomática y Geometría desde Euclides hasta Gilbert y Bourbaki. Editorial Unal.
+* Clemens, S. (1998) Fundamentos de Geometría. Pearson.
+* Guerrero A. (1994) Introducción a la lógica y geometría griegas anteriores a Euclides. Editorial Unal.
+* Guerrero A. (2006) Geometría. Desarrollo axiomático. Eco Ediciones.
+* Hilberth D. (1981) Introducción a la matemátaica moderna. Limusa.
+* Hilberth D. (2002) Geometría Universitaria. Thomson.
+* Howard E. (1989) Estudio de las geometrías. UTHEA.
+* Martin I. (2002) Geometría en el plano y en el espacio. Notas de clase. Editorial Unal.
+* Moise, E. (1998) Elementos de Geometría Superior. Addison Wesley.
+
 
 ### Horas de oficina: 
 
@@ -31,7 +40,7 @@ Lunes 8:00 - 10:00 AM o por cita. <br>
 Para cada uno de los dos cincuenta: 
 
 + Dos parciales 60 %. El parcial con mejor nota tiene un peso de 40 % y el otro de 20 %.
-+ Exposición ejercicio 20 %
++ Exposición ejercicios 20 %
 + Participación 20 %
 
 
@@ -40,35 +49,15 @@ Para cada uno de los dos cincuenta:
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-10 | Presentación del curso.
-&nbsp; | 02-11 | . <br> **Lectura** Sec .
-&nbsp; | 02-12 | . <br> **Lectura** Sec .
-&nbsp; | 02-13 | . <br> **Lectura** Sec .
-&nbsp; | 02-14 | . <br> **Lectura** Sec .
-2      | 02-17 | . <br> **Lectura** Sec .
-&nbsp; | 02-18 | . <br> **Lectura** Sec .
-&nbsp; | 02-19 | . <br> **Lectura** Sec .
-&nbsp; | 02-20 | . <br> **Lectura** Sec .
-&nbsp; | 02-21 | . <br> **Lectura** Sec .
-3      | 02-24 | . <br> **Lectura** Sec .
-&nbsp; | 02-25 | . <br> **Lectura** Sec .
-&nbsp; | 02-26 | . <br> **Lectura** Sec .
-&nbsp; | 02-27 | . <br> **Lectura** Sec .
-&nbsp; | 02-28 | . <br> **Lectura** Sec .
-4      | 03-03 | . <br> **Lectura** Sec .
-&nbsp; | 03-04 | . <br> **Lectura** Sec .
-&nbsp; | 03-05 | **Sesión de preguntas**
+&nbsp; | 02-11 al 02-14 | Relaciones lineales y angulares <br> **Lectura** Cap. 1.
+2      | 02-17 al 02-21 | Rectas paralelas <br> **Lectura** Secciones 2.1 - 2.4.
+3      | 02-24 al 02-28 | Rectas paralelas, continuación <br> **Lectura** Secciones 2.5 - 2.6.
+4      | 03-03 al 03-05 | Presentación ejercicios, capítulos 1 y 2.
 &nbsp; | 03-06 | **Primer examen**
 &nbsp; | 03-07 | **Primer examen**
-5      | 03-10 | . <br> **Lectura** Sec . 
-&nbsp; | 03-12 | . <br> **Lectura** Sec .
-&nbsp; | 03-14 | . <br> **Lectura** Sec .
-6      | 03-17 | . <br> **Lectura** Sec . 
-&nbsp; | 03-19 | . <br> **Lectura** Sec .
-&nbsp; | 03-21 | . <br> **Lectura** Sec .
-7      | 03-24 | . <br> **Lectura** Sec .
-&nbsp; | 03-26 | . <br> **Lectura** Sec .
-&nbsp; | 03-28 | . <br> **Lectura** Sec .
-8      | 03-31 | . <br> **Lectura** Sec .
-&nbsp; | 04-02 | . <br> **Lectura** Sec .
+5      | 03-10 al 03-14 | Triángulos <br> **Lectura** Seccionen 3.1 - 3.3. 
+6      | 03-17 al 03-21 | Triángulos, continuación <br> **Lectura** Seccionen 3.4 - 3.5. 
+7      | 03-24 al 03-28 | Cuadriláteros <br> **Lectura** Secciones 4.1 - 4.3.
+8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3 y 4.
 &nbsp; | 04-04 | **Segundo examen**
 
