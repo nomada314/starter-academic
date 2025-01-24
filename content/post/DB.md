@@ -9,21 +9,20 @@ math      = true
 
 ### Horario
 
-Miércoles 10:00 - 12:00 M. TBA <br>
-Viernes 10:00 - 12:00 M. TBA
+Martes 2:00 - 4:00 P.M. TBA <br>
+Jueves 8:00 - 10:00 A.M. TBA
 
 ### Libro guía:
 
-hh
+Ullman, J.D. & Widom, J. (2007) [A First Course in Database Systems](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-database-systems-a/P200000003302/9780136006374). Pearson
 
 ### Otras referencias:
 
-* a
-* b
+* Rockoff, L. (2021) The Language of SQL. Addison-Wesley
 
 ### Horas de oficina: 
 
-TBA 2:00 - 4:00 PM o por cita. <br>
+Lunes 8:00 - 10:00 A.M. o por cita. <br>
 **Lugar**: La Colina Casa 2. 
 
 ### Evaluación
@@ -34,28 +33,20 @@ TBA 2:00 - 4:00 PM o por cita. <br>
 
 Semana | Fecha | Tema
 ---| --- | ----
-1      | 02-10 | Presentación del curso.
-&nbsp; | 02-12 | 
-&nbsp; | 02-14 | 
-2      | 02-17 | Sistemas numéricos. Operaciones binarias. <br> Propiedades de los números reales ($\mathbb{R}$) <br> **Lectura**: p. 33 - 45.
-&nbsp; | 02-19 | Teoremas sobre los números reales ($\mathbb{R}$). Los números enteros ($\mathbb{Z}$) <br> **Lectura**: p. 45 - 48.
-&nbsp; | 02-21 | Representación gráfica de los números reales. Valor absoluto. <br>Plano cartesiano <br> **Lectura**: p. 48 - 55.
-3      | 02-24 | Expresiones algebraicas. Signos de agrupación <br> **Lectura**: p. 57 - 60.
-&nbsp; | 02-26 | Operaciones con expresiones algebraicas. Productos notables<br> **Lectura**: p. 61 - 65.
-&nbsp; | 02-28 | <font color="#9900FF"> Ejercicios: </font> <br>**pág 77:** 4. j, 4. m, 4. p , 5. d 5. h, 5. i 5 j. <br> **Pág 78:** 6. j, 6. l <br> Factorización. División. Fracciones algebraicas <br> **Lectura**: p. 65 - 76.
-4      | 03-03 | Revisión Ejercicios asignados.
-&nbsp; | 03-05 | Exponentes y radicales <br> **Lectura**: p. 81 - 98.
-&nbsp; | 03-07 | Exponentes y radicales, continuación.
-5      | 03-10 | .
-&nbsp; | 03-12 | Ecuaciones <br> **Lectura**: p. 99 - 117.
-&nbsp; | 03-14 | Sesión de preguntas
-6      | 03-17 | **Entrega Taller 1** 
-&nbsp; | 03-19 | **Primer examen**
-&nbsp; | 03-21 | Polinomios y funciones polinomiales <br> **Lectura**: p. 136 - 154.
-7      | 03-24 | .
-&nbsp; | 03-26 | Presentaciones
-&nbsp; | 03-28 | Presentaciones
-8      | 03-31 | .
-&nbsp; | 04-02 | Presentaciones
-&nbsp; | 04-04 | Inecuaciones <br> **Lectura**: p. 155 - 174.
+1      | 02-11 | Presentación del curso.
+&nbsp; | 02-13 | .
+2      | 02-18 | .
+&nbsp; | 02-20 | .
+3      | 02-25 | .
+&nbsp; | 02-27 | .
+4      | 03-04 | .
+&nbsp; | 03-06 | .
+5      | 03-11 | .
+&nbsp; | 03-13 | .
+6      | 03-18 | .
+&nbsp; | 03-20 | .
+7      | 03-25 | .
+&nbsp; | 03-27 | .
+8      | 04-01 | .
+&nbsp; | 04-03 | .
 
