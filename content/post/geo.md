@@ -49,15 +49,15 @@ Para cada uno de los dos cincuenta:
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-10 | Presentación del curso.
-&nbsp; | 02-11 al 02-14 | Relaciones lineales y angulares <br> **Lectura** Cap. 1.
-2      | 02-17 al 02-21 | Rectas paralelas <br> **Lectura** Secciones 2.1 - 2.4.
-3      | 02-24 al 02-28 | Rectas paralelas, continuación <br> **Lectura** Secciones 2.5 - 2.6.
+&nbsp; | 02-11 al 02-14 | Relaciones lineales y angulares <br> **Lectura:** Cap. 1.
+2      | 02-17 al 02-21 | Rectas paralelas <br> **Lectura:** Secciones 2.1 - 2.4.
+3      | 02-24 al 02-28 | Rectas paralelas, continuación <br> **Lectura:** Secciones 2.5 - 2.6.
 4      | 03-03 al 03-05 | Presentación ejercicios, capítulos 1 y 2.
 &nbsp; | 03-06 | **Primer examen**
 &nbsp; | 03-07 | **Primer examen**
 5      | 03-10 al 03-14 | Triángulos <br> **Lectura** Seccionen 3.1 - 3.3. 
-6      | 03-17 al 03-21 | Triángulos, continuación <br> **Lectura** Seccionen 3.4 - 3.5. 
-7      | 03-24 al 03-28 | Cuadriláteros <br> **Lectura** Secciones 4.1 - 4.3.
+6      | 03-17 al 03-21 | Triángulos, continuación <br> **Lectura:** Seccionen 3.4 - 3.5. 
+7      | 03-24 al 03-28 | Cuadriláteros <br> **Lectura:** Secciones 4.1 - 4.3.
 8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3 y 4.
 &nbsp; | 04-04 | **Segundo examen**
 
