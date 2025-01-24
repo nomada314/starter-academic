@@ -13,7 +13,9 @@ L-V 7:00 - 8:00 AM. TBA <br>
 
 ### Libro guía:
 
-a
+Alexander, D.C. & Koeberlein, G. M. (2020) Elementary Geometry for College Students. Cengage
+
+[](https://www.cengage.com/covers/imageServlet?catalog=cengage&productISBN13=9781337614085&image_type=LRGFC)
 
 ### Otras referencias:
 
