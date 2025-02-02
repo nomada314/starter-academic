@@ -14,7 +14,7 @@ Jueves 2:00 - 4:00 P.M. TBA
 
 ### Libro guía:
 
-Shum, K. (2023) *Measure-Theoretic Probability*. Birkhaüser
+Resnick, S. I. (2005) *A Probability Path*. Birkhaüser
 
 ### Otras referencias:
 
