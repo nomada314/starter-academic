@@ -28,8 +28,17 @@ Lunes 8:00 - 10:00 A.M. o por cita. <br>
 
 ### Evaluación
 
-TBA
+Para cada uno de los dos cincuenta: 
 
++ Dos parciales 60 %. 
++ Exposición ejercicios 20 %
++ Participación 20 %
+
+Para notar:
+
+El parcial con mejor calificación tiene un peso de 40 % y el otro de 20 %. Por ejemplo, si se obtiene 3.8 y 4.2, la nota de parciales es $\frac{0.4\cdot 4.2 + 0.2\cdot 3.8}{0.6}  = \frac{61}{15} = 4.0\bar{6}.$
+
+La lectura indicada para cada clase es obligatoria y será considerada participación. Además, se espera que cada estudiante haga un resumen de los resultados más importantes. Este resumen puede ser solicitado por el instructor y también hace parte de la participación.
 
 ### Agenda
 
