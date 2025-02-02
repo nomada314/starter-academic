@@ -36,7 +36,7 @@ TBA
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-10 | Presentación del curso.
-&nbsp; | 02-13 | . 
+&nbsp; | 02-13 | Límites de conjuntos, $\sigma$-álgebra. <br> **Lectura:** 1.1 - 1.5.
 2      | 02-17 | .
 &nbsp; | 02-20 | .
 3      | 02-24 | .
