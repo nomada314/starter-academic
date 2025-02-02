@@ -14,7 +14,7 @@ Jueves 8:00 - 10:00 A.M. TBA
 
 ### Libro guía:
 
-Ullman, J.D. & Widom, J. (2007) [A First Course in Database Systems](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-database-systems-a/P200000003302/9780136006374). Pearson
+Ullman, J.D. & Widom, J. (2007) *[A First Course in Database Systems](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-database-systems-a/P200000003302/9780136006374)*. Pearson
 
 ### Otras referencias:
 
