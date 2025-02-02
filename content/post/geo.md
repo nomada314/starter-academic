@@ -13,21 +13,21 @@ L-V 7:00 - 8:00 AM. TBA <br>
 
 ### Libro guía:
 
-Alexander, D.C. & Koeberlein, G. M. (2020) [Elementary Geometry for College Students](https://faculty.cengage.com/works/9781337614085). Cengage.
+Alexander, D.C. & Koeberlein, G. M. (2020) *[Elementary Geometry for College Students](https://faculty.cengage.com/works/9781337614085)*. Cengage.
 
 <img src="https://www.cengage.com/covers/imageServlet?catalog=cengage&productISBN13=9781337614085&image_type=LRGFC"  width="180"/>
 
 ### Otras referencias:
 
-* Campos A. (1994) Axiomática y Geometría desde Euclides hasta Gilbert y Bourbaki. Editorial Unal.
-* Clemens, S. (1998) Fundamentos de Geometría. Pearson.
-* Guerrero A. (1994) Introducción a la lógica y geometría griegas anteriores a Euclides. Editorial Unal.
-* Guerrero A. (2006) Geometría. Desarrollo axiomático. Eco Ediciones.
-* Hilberth D. (1981) Introducción a la matemátaica moderna. Limusa.
-* Hilberth D. (2002) Geometría Universitaria. Thomson.
-* Howard E. (1989) Estudio de las geometrías. UTHEA.
-* Martin I. (2002) Geometría en el plano y en el espacio. Notas de clase. Editorial Unal.
-* Moise, E. (1998) Elementos de Geometría Superior. Addison Wesley.
+* Campos A. (1994) *Axiomática y Geometría desde Euclides hasta Gilbert y Bourbaki.* Editorial Unal.
+* Clemens, S. (1998) *Fundamentos de Geometría*. Pearson.
+* Guerrero A. (1994) *Introducción a la lógica y geometría griegas anteriores a Euclides*. Editorial Unal.
+* Guerrero A. (2006) *Geometría. Desarrollo axiomático*. Eco Ediciones.
+* Hilberth D. (1981) *Introducción a la matemátaica moderna*. Limusa.
+* Hilberth D. (2002) *Geometría Universitaria*. Thomson.
+* Howard E. (1989) *Estudio de las geometrías*. UTHEA.
+* Martin I. (2002) *Geometría en el plano y en el espacio. Notas de clase*. Editorial Unal.
+* Moise, E. (1998) *Elementos de Geometría Superior*. Addison Wesley.
 
 
 ### Horas de oficina: 
@@ -39,7 +39,7 @@ Lunes 8:00 - 10:00 AM o por cita. <br>
 
 Para cada uno de los dos cincuenta: 
 
-+ Dos parciales 60 %. El parcial con mejor nota tiene un peso de 40 % y el otro de 20 %.
++ Dos parciales 60 %. 
 + Exposición ejercicios 20 %
 + Participación 20 %
 
