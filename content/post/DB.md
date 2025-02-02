@@ -18,7 +18,7 @@ Ullman, J.D. & Widom, J. (2007) *[A First Course in Database Systems](https://ww
 
 ### Otras referencias:
 
-* Rockoff, L. (2021) The Language of SQL. Addison-Wesley
+* Rockoff, L. (2021) *The Language of SQL*. Addison-Wesley
 
 ### Horas de oficina: 
 
