@@ -18,8 +18,8 @@ Shum, K. (2023) *Measure-Theoretic Probability*. Birkhaüser
 
 ### Otras referencias:
 
-* Jacod, D. & Protter, P. (2002) Probability Essentials. Springer
-* Durret, R. (2019) Probability: Theory and examples. Cambridge University Press
+* Jacod, D. & Protter, P. (2002) *Probability Essentials*. Springer
+* Durret, R. (2019) *Probability: Theory and examples*. Cambridge University Press
 
 ### Horas de oficina: 
 
