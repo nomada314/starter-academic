@@ -1,6 +1,6 @@
 +++
 date      = 2025-01-22
-lastmod   = 2025-01-22
+lastmod   = 2025-02-03
 draft     = false
 tags      = ["Teaching"]
 title     = "Teoría de Probabilidad"
@@ -9,8 +9,8 @@ math      = true
 
 ### Horario
 
-Lunes 2:00 - 4:00 P.M. TBA <br>
-Jueves 2:00 - 4:00 P.M. TBA
+Lunes 2:00 - 4:00 P.M. A-106 <br>
+Jueves 2:00 - 4:00 P.M. A-202
 
 ### Libro guía:
 
