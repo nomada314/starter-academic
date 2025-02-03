@@ -1,6 +1,6 @@
 +++
 date      = 2024-08-06
-lastmod   = 2025-01-22
+lastmod   = 2025-02-03
 draft     = false
 tags      = ["Teaching"]
 title     = "Matemáticas Generales"
@@ -9,9 +9,9 @@ math      = true
 
 ### Horario
 
-Lunes 10:00 - 11:00 AM. TBA <br>
-Miércoles 10:00 - 12:00 M. TBA <br>
-Viernes 10:00 - 12:00 M. TBA
+Lunes 10:00 - 11:00 AM. A-106 <br>
+Miércoles 10:00 - 12:00 M. A-106 <br>
+Viernes 10:00 - 12:00 M. R-302
 
 ### Libro guía:
 
