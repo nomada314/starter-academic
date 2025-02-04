@@ -20,4 +20,27 @@ caption = ""
 ## Errata
 
 
+### Capítulo 1
+
+* p. 8. Séptima línea, sobra un espacio en el texto "simples ,".
+* p. 10. Última línea del segundo párrafo, la palabra "Figura" está repetida.
+  
+### Capítulo 2
+
+* p. 33. En la descripción de la Figura 2.3, justo antes del Bloque de código 2.15, se utilizaron colores. Pero, en el libro impreso, se empleó una escala de grises. Por esta razón, se incluye esta figura más abajo.
+* p. 50. Ejercicio 2.3, debe ser `'2345'` en lugar de `"2345'`.
+* p. 50. Ejercicio 2.4, tercera línea. La secuencia debe ser `'. -..- .. - --- ... ---'` en lugar de `': -..- .. - --- ... ---'`
+* p. 50. Ejercicio 2.6, cuarta línea. En lugar de "directorio" es "diccionario".
+
+La mayoría de figuras en el libro tenían colores originalmente y estos fueron empleados en su descripción. Por esta razón, se incluyen a continuación: 
+
+Figura 2.2
+<img src="https://alexrojas.netlify.app/media/pyH/espaciosCol.png"  width="180"/>
+
+Figura 2.3
+<img src="https://alexrojas.netlify.app/media/pyH/espaciosCol.png"  width="180"/>
+
+
+
+
 
