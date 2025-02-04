@@ -9,9 +9,9 @@ math      = true
 
 ### Horario
 
-Lunes 10:00 - 11:00 AM. A-106 <br>
-Miércoles 10:00 - 12:00 M. A-106 <br>
-Viernes 10:00 - 12:00 M. R-302
+Lunes 10:00 - 11:00 AM. A106 <br>
+Miércoles 10:00 - 12:00 M. A106 <br>
+Viernes 10:00 - 12:00 M. R302
 
 ### Libro guía:
 
