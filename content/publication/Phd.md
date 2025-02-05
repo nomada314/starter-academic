@@ -35,10 +35,10 @@ caption = ""
 La mayoría de figuras en el libro tenían colores originalmente y estos fueron empleados en su descripción. Por esta razón, se incluyen a continuación: 
 
 Figura 2.2
-<img src="https://alexrojas.netlify.app/media/pyH/espaciosCol.png"  width="180"/>
+<img src="https://alexrojas.netlify.app/media/pyH/espaciosCol.png"  width="300"/>
 
 Figura 2.3
-<img src="https://alexrojas.netlify.app/media/pyH/espaciosCol.png"  width="180"/>
+<img src="https://alexrojas.netlify.app/media/pyH/rangeCol.png"  width="300"/>
 
 
 
