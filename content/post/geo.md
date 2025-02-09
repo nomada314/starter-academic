@@ -10,10 +10,7 @@ math      = true
 ### Horario
 
 L-V 7:00 - 8:00 AM. <br>
-L: R 104.<br>
-M, J: R 202.<br>
-Mc: R 201.<br>
-V: R 211.<br>
+L: R 104. M, J: R 202. Mc: R 201. V: R 211.
 
 ### Libro guía:
 
