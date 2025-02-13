@@ -27,6 +27,8 @@ Lunes 8:00 - 10:00 A.M. o por cita. <br>
 
 ### Evaluación
 
+Proyectos (2): 80 %
+Participación: 20 %
 
 
 ### Agenda
@@ -34,9 +36,9 @@ Lunes 8:00 - 10:00 A.M. o por cita. <br>
 Semana | Fecha | Tema
 ---| --- | ----
 1      | 02-11 | Presentación del curso.
-&nbsp; | 02-13 | .
-2      | 02-18 | .
-&nbsp; | 02-20 | .
+&nbsp; | 02-13 | Modelos de datos <br> **Lectura**: 2.1 y 2.2 (págs. 14 -- 25) 
+2      | 02-18 | Álgebra relacional <br> **Lectura**: 2.3 y 2.4 (págs. 25 -- 55) 
+&nbsp; | 02-20 | Teoría de diseño <br> **Lectura**: 2.5, 3.1 y 3.2 (págs. 56 -- 81) 
 3      | 02-25 | .
 &nbsp; | 02-27 | .
 4      | 03-04 | .
