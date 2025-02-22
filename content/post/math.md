@@ -58,10 +58,10 @@ Semana | Fecha | Tema
 2      | 02-17 | Expresiones racionales <br> **Lectura**: [Sec 1.6](https://openstax.org/books/college-algebra-2e/pages/1-6-rational-expressions). <br> **Entrega Taller 1** 
 &nbsp; | 02-19 | Ecuación lineal en una variable. <br> **Lectura**: [Sec 2.1, 2.2 y 2.3](https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs) 
 &nbsp; | 02-21 | Ecuación cuadrática. <br> **Lectura**: [Sec 2.4, 2.5](https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers)
-3      | 02-24 | . <br> **Lectura**: Sec <br> **Entrega Taller 2**
-&nbsp; | 02-26 | . <br> **Lectura**: Sec 
-&nbsp; | 02-28 | . <br> **Lectura**: Sec 
-4      | 03-03 | . <br> **Lectura**: Sec <br> **Entrega Taller 3**
+3      | 02-24 | Otros tipos de ecuaciones <br> **Lectura**: [Sec 2.6](https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations)<br> **Entrega Taller 2**
+&nbsp; | 02-26 | Desigualdades <br> **Lectura**: [Sec 2.7](https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities)
+&nbsp; | 02-28 | Funciones <br> **Lectura**: [Sec 3.1](https://openstax.org/books/college-algebra-2e/pages/3-1-functions-and-function-notation) 
+4      | 03-03 | Dominio y rango <br> **Lectura**: [Sec 3.2](https://openstax.org/books/college-algebra-2e/pages/3-2-domain-and-range) <br> **Entrega Taller 3**
 &nbsp; | 03-05 | **Sesión de repaso**
 &nbsp; | 03-07 | **Primer examen**
 5      | 03-10 | . <br> **Lectura**: Sec 
