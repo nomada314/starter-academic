@@ -47,17 +47,19 @@ Semana | Fecha | Tema
 1      | 02-10 | Presentación del curso.
 &nbsp; | 02-13 | Límites de conjuntos, $\sigma$-álgebra. <br> **Lectura:** 1.1 - 1.5.
 2      | 02-17 | Conjuntos de Borel. <br> **Lectura:** 1.6 - 1.8.
-&nbsp; | 02-20 | Espacios de probabilídad. <br> **Lectura:** 2.1 - 2.2.
-3      | 02-24 | Construcción de espacios de probabilídad. . <br> **Lectura:** 2.4.
-&nbsp; | 02-27 | Exposición ejercicios
+&nbsp; | 02-20 | Espacios de probabilídad. <br> **Lectura:** 2.1.
+3      | 02-24 | Sistemas $\pi$ y $\lambda$ <br> **Lectura:** 2.2.
+&nbsp; | 02-27 | Construcción de espacios de probabilídad.<br> **Lectura:** 2.3 - 2.4.
 4      | 03-03 | Exposición ejercicios
-&nbsp; | 03-06 | **Primer examen**
-5      | 03-10 | Construcción de medidas. . <br> **Lectura:** 2.5.
-&nbsp; | 03-13 | .
+&nbsp; | 03-06 | Exposición ejercicios
+5      | 03-10 | **Primer examen**
+&nbsp; | 03-13 | Construcción de medidas.<br> **Lectura:** 2.5.
 6      | 03-17 | .
 &nbsp; | 03-20 | .
 7      | 03-24 | .
 &nbsp; | 03-27 | Exposición ejercicios
 8      | 03-31 | Exposición ejercicios
 &nbsp; | 04-03 | **Segundo examen**
+9      | 04-07 | .
+&nbsp; | 04-10 | .
 
