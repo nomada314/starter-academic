@@ -49,6 +49,6 @@ Semana | Fecha | Tema
 &nbsp; | 03-20 | .
 7      | 03-25 | .
 &nbsp; | 03-27 | .
-8      | 04-01 | .
-&nbsp; | 04-03 | .
+8      | 04-01 | Presentación proyecto I
+&nbsp; | 04-03 | Presentación proyecto I, continuación
 
