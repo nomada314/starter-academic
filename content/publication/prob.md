@@ -24,8 +24,9 @@ A continuación se encuentra el código utilizados en el libro en `Julia`, `Pyth
 ## Código
 
 * Capítulo 1[.jl](https://alexrojas.netlify.app/code/Julia/JCap1.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap1.ipynb): Introducción 
-* Capítulo 2[.jl](https://alexrojas.netlify.app/code/Julia/JCap2.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap2.ipynb): Funciones y Control de flujo 
-* Capítulo 3[.jl](https://alexrojas.netlify.app/code/Julia/JCap3.jl) [.ipynb](https://alexrojas.netlify.app/code/Julia/JCap3.ipynb): Bases de datos
+
+## Errata
+
 
 
 
