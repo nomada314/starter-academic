@@ -58,9 +58,9 @@ Semana | Fecha | Tema
 1      | 02-10 | Presentación del curso.
 &nbsp; | 02-11 al 02-14 | Relaciones lineales y angulares <br> **Lectura:** Cap. 1.
 2      | 02-17 al 02-21 | Rectas paralelas <br> **Lectura:** Secciones 2.1 - 2.4.
-3      | 02-24 al 02-27 | Polígonos, simetría <br> **Lectura:** Secciones 2.5 - 2.6.
-&nbsp; | 02-28 | Presentación ejercicios 8 al 15, capítulo 1.
-4      | 03-03 al 03-05 | Presentación ejercicios, capítulos 1 y 2.
+3      | 02-24 al 02-26 | Polígonos, simetría <br> **Lectura:** Secciones 2.5 - 2.6.
+&nbsp; | 02-27 al 02-28 | Presentación ejercicios capítulos 1 y 2.
+4      | 03-03 al 03-05 | Presentación ejercicios, capítulos 1 y 2, continuación.
 &nbsp; | 03-06 | **Primer examen**
 &nbsp; | 03-07 | **Primer examen**
 5      | 03-10 al 03-14 | Triángulos <br> **Lectura** Seccionen 3.1 - 3.3. 
