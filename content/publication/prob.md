@@ -27,8 +27,3 @@ A continuación se encuentra el código utilizados en el libro en `Julia`, `Pyth
 
 ## Errata
 
-
-
-
-## Errata
-
