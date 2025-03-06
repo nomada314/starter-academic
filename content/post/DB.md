@@ -111,5 +111,27 @@ order by Total
 ```
 
 
+```
+select COUNT(*)
+FROM (
+  select o.ORD_NUM as "Orden",
+       o.AGENT_CODE as "Agente",
+       o.ADVANCE_AMOUNT as "Avance",
+       o.ORD_AMOUNT as "Total" 
+  from ORDERS as o
+  where o.ORD_AMOUNT*0.2 > o.ADVANCE_AMOUNT
+);
+```
+
+
+```
+select o.ORD_NUM as "Orden",
+       o.AGENT_CODE as "Agente",
+       o.ADVANCE_AMOUNT as "Avance",
+       o.ORD_AMOUNT as "Total" 
+from ORDERS as o
+where Avance between Total*0.21 and Total*0.39 
+order by Total
+```
 
 
