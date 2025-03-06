@@ -64,18 +64,18 @@ Semana | Fecha | Tema
 4      | 03-03 | Dominio y rango <br> **Lectura**: [Sec 3.2](https://openstax.org/books/college-algebra-2e/pages/3-2-domain-and-range) <br> **Entrega Taller 3**
 &nbsp; | 03-05 | **Sesión de repaso**
 &nbsp; | 03-07 | **Primer examen**
-5      | 03-10 | . <br> **Lectura**: Sec 
-&nbsp; | 03-12 | . <br> **Lectura**: Sec 
-&nbsp; | 03-14 | . <br> **Lectura**: Sec 
-6      | 03-17 | . <br> **Lectura**: Sec 
-&nbsp; | 03-19 | . <br> **Lectura**: Sec 
-&nbsp; | 03-21 | . <br> **Lectura**: Sec 
+5      | 03-10 | Tasas de cambio. <br> **Lectura**: [Sec 3.3](https://openstax.org/books/college-algebra-2e/pages/3-3-rates-of-change-and-behavior-of-graphs)
+&nbsp; | 03-12 | Composición de funciones. <br> **Lectura**: [Sec 3.4](https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions) 
+&nbsp; | 03-14 | Función inversa. <br> **Lectura**: [Sec 3.7](https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions)
+6      | 03-17 | Funciones lineales. <br> **Lectura**: [Sec 4.1](https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions) 
+&nbsp; | 03-19 | Funciones lineales, continuación. <br> **Lectura**: [Sec 4.2](https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions) 
+&nbsp; | 03-21 | Funciones cuadráticas. <br> **Lectura**: [Sec 5.1](https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions) 
 7      | 03-24 | **Festivo**
 &nbsp; | 03-26 | . <br> **Lectura**: Sec 
 &nbsp; | 03-28 | . <br> **Lectura**: Sec 
 8      | 03-31 | . <br> **Lectura**: Sec 
-&nbsp; | 04-02 | . <br> **Lectura**: Sec 
-&nbsp; | 04-04 | . <br> **Lectura**: Sec 
+&nbsp; | 04-02 | **Sesión de repaso**
+&nbsp; | 04-04 | **Segundo examen**
 
 
 
