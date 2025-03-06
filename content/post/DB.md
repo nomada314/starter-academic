@@ -55,13 +55,61 @@ Semana | Fecha | Tema
 
 https://sqlime.org/
 
+Cargar [Ventas.db]('DB/Ventas.db')
+
 ```
 select * from AGENTS
 ```
 
-
 ```
 select a.WORKING_AREA, a.AGENT_NAME from AGENTS as a
 ```
+
+```
+select distinct o.AGENT_CODE from ORDERS as o
+```
+
+```
+select a.AGENT_NAME as "Nombre", a.WORKING_AREA as "Ciudad" from AGENTS as a
+```
+
+```
+select a.AGENT_NAME as "Nombre", a.WORKING_AREA as "Ciudad" from AGENTS as a
+```
+
+```
+select a.AGENT_NAME as "Nombre",
+        a.WORKING_AREA as "Ciudad",
+        a.COMMISSION as "Comisión",
+        (12*a.COMMISSION + .1) as "Comisión anual"
+from AGENTS as a
+```
+
+```
+select o.ORD_NUM as "Orden",
+       o.AGENT_CODE as "Agente",
+       o.ADVANCE_AMOUNT as "Avance",
+       o.ORD_AMOUNT as "Total" 
+from ORDERS as o
+where o.ORD_AMOUNT*0.2 > o.ADVANCE_AMOUNT
+```
+
+```
+select distinct o.AGENT_CODE as "Agente", o.ord_amount as "Total"
+from ORDERS as o
+where Agente='A002'
+```
+
+```
+select o.ORD_NUM as "Orden",
+       o.AGENT_CODE as "Agente",
+       o.ADVANCE_AMOUNT as "Avance",
+       o.ORD_AMOUNT as "Total" 
+from ORDERS as o
+where o.ORD_AMOUNT*0.2 > o.ADVANCE_AMOUNT
+order by Total
+```
+
+
 
 
