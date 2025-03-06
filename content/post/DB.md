@@ -55,7 +55,7 @@ Semana | Fecha | Tema
 
 https://sqlime.org/
 
-Cargar [Ventas.db]('DB/Ventas.db')
+Cargar [Ventas.db](https://alexrojas.netlify.app/post/DB/Ventas.db)
 
 ```
 select * from AGENTS
