@@ -1,6 +1,6 @@
 +++
 date      = 2025-01-22
-lastmod   = 2025-01-22
+lastmod   = 2025-03-05
 draft     = false
 tags      = ["Teaching"]
 title     = "Bases de datos"
@@ -51,4 +51,17 @@ Semana | Fecha | Tema
 &nbsp; | 03-27 | .
 8      | 04-01 | Presentación proyecto I
 &nbsp; | 04-03 | Presentación proyecto I, continuación
+
+
+https://sqlime.org/
+
+```
+select * from AGENTS
+```
+
+
+```
+select a.WORKING_AREA, a.AGENT_NAME from AGENTS as a
+```
+
 
