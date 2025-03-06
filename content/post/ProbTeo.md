@@ -50,11 +50,11 @@ Semana | Fecha | Tema
 &nbsp; | 02-20 | Espacios de probabilídad. <br> **Lectura:** 2.1.
 3      | 02-24 | Sistemas $\pi$ y $\lambda$ <br> **Lectura:** 2.2.
 &nbsp; | 02-27 | Construcción de espacios de probabilídad.<br> **Lectura:** 2.3 - 2.4.
-4      | 03-03 | Exposición ejercicios
-&nbsp; | 03-06 | Exposición ejercicios
-5      | 03-10 | **Primer examen**
-&nbsp; | 03-13 | Construcción de medidas.<br> **Lectura:** 2.5.
-6      | 03-17 | .
+4      | 03-03 | Construcción de medidas.<br> **Lectura:** 2.5.
+&nbsp; | 03-06 | Variables aleatorias.<br> **Lectura:** 3.1.
+5      | 03-10 | Exposición ejercicios
+&nbsp; | 03-13 | Exposición ejercicios
+6      | 03-17 | **Primer examen**
 &nbsp; | 03-20 | .
 7      | 03-24 | .
 &nbsp; | 03-27 | Exposición ejercicios
