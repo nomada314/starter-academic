@@ -52,6 +52,7 @@ Semana | Fecha | Tema
 8      | 04-01 | Presentación proyecto I
 &nbsp; | 04-03 | Presentación proyecto I, continuación
 
+### Código 03-07
 
 https://sqlime.org/
 
@@ -132,6 +133,36 @@ select o.ORD_NUM as "Orden",
 from ORDERS as o
 where Avance between Total*0.21 and Total*0.39 
 order by Total
+```
+
+
+### Código 03-11
+
+https://dbdiagram.io/
+
+```
+Table Stars {
+  name varchar [primary key]
+  address varchar
+}
+
+Table Movie {
+  title varchar [pk] 
+  year integer [pk]
+  length integer
+  genre varchar
+}
+
+Table Studios {
+  name varchar [primary key]
+  address varchar
+}
+
+
+Ref "Starts-in": Stars.name <> Movie.title
+
+Ref Owns:  Studios.name < Movie.title
+
 ```
 
 
