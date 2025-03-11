@@ -44,7 +44,7 @@ Semana | Fecha | Tema
 4      | 03-04 | Teoría de diseño <br> **Lectura**: 3.1 y 3.2 (págs. 63 -- 81) 
 &nbsp; | 03-06 | Teoría de diseño, continuación <br> **Lectura**: 3.3 y 3.4 (págs. 81 -- 97) 
 5      | 03-11 | E/R <br> **Lectura**: 4.1 - 4.3  
-&nbsp; | 03-13 | .
+&nbsp; | 03-13 | E/R, continuación <br> **Lectura**: 4.4 - 4.10  
 6      | 03-18 | .
 &nbsp; | 03-20 | .
 7      | 03-25 | .
