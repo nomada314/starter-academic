@@ -64,12 +64,12 @@ Semana | Fecha | Tema
 &nbsp; | 03-06 | **Primer examen**
 &nbsp; | 03-07 | **Primer examen**
 5      | 03-10 | Revisión examen. 
-&nbsp; | 03-11 al 03-14 | Triángulos <br> **Lectura** Secciones 3.1 - 3.3. 
-6      | 03-17 al 03-21 | Triángulos, continuación <br> **Lectura:** Secciones 3.4 - 3.5. 
-7      | 03-24 al 03-28 | Cuadriláteros <br> **Lectura:** Secciones 4.1 - 4.3.
-8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3 y 4.
+&nbsp; | 03-11 al 03-14 | Triángulos <br> **Lectura** Secciones 3.1 - 3.5. 
+6      | 03-17 al 03-21 | Cuadriláteros <br> **Lectura:** Secciones 4.1 - 4.4. 
+7      | 03-25 al 03-28 | Triángulos similares <br> **Lectura:** Secciones 5.1 - 5.6. 
+8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3, 4 y 5.
 &nbsp; | 04-03 | **Segundo examen**
-9      | 04-07 al 04-11 | xxx <br> **Lectura** Secciones 5.1 - 5.3. 
+9      | 04-07 al 04-11 | xxx <br> **Lectura** Secciones . 
 10     | 04-21 al 04-25 | xxx <br> **Lectura** Secciones . 
 11     | 04-28 al 05-02 | xxx <br> **Lectura** Secciones . 
 12     | 05-05 al 05-09 | xxx <br> **Lectura** Secciones . 
