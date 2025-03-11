@@ -165,4 +165,5 @@ Ref Owns:  Studios.name < Movie.title
 
 ```
 
+![](http://infolab.stanford.edu/~ullman/fcdb/sevls/er_big.png)
 
