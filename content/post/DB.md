@@ -165,5 +165,5 @@ Ref Owns:  Studios.name < Movie.title
 
 ```
 
-<img src='http://infolab.stanford.edu/~ullman/fcdb/sevls/er_big.png' width=500>
+<img src='http://infolab.stanford.edu/~ullman/fcdb/sevls/er_big.png' width=700>
 
