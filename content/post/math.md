@@ -65,7 +65,7 @@ Semana | Fecha | Tema
 &nbsp; | 03-05 | **Sesión de repaso**
 &nbsp; | 03-07 | **Primer examen**
 5      | 03-10 | Tasas de cambio. <br> **Lectura**: [Sec 3.3](https://openstax.org/books/college-algebra-2e/pages/3-3-rates-of-change-and-behavior-of-graphs)
-&nbsp; | 03-12 | Composición de funciones. <br> **Lectura**: [Sec 3.4](https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions) 
+&nbsp; | 03-12 | Composición de funciones. <br> **Lectura**: [Sec 3.4-3.6](https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions) 
 &nbsp; | 03-14 | Función inversa. <br> **Lectura**: [Sec 3.7](https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions)
 6      | 03-17 | Funciones lineales. <br> **Lectura**: [Sec 4.1](https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions) 
 &nbsp; | 03-19 | Funciones lineales, continuación. <br> **Lectura**: [Sec 4.2](https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions) 
