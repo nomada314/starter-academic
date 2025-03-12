@@ -1,6 +1,6 @@
 +++
 title = "Introducción al Cálculo de Probabilidades para Estudiantes de Ingeniería"
-date = "2025-02-11"
+date = "2025-04-10"
 authors = ["admin"]
 publication_types = ["5"]
 abstract = ""
