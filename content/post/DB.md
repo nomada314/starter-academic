@@ -169,4 +169,10 @@ Ref Owns:  Studios.name < Movie.title
 
 <img src="http://infolab.stanford.edu/~ullman/fcdb/hernandez/ERdiagram.jpg" width=700>
 
+### 03-13
+
+
+<img src="https://alexrojas.netlify.app/img/Ch.png" width=700>
+
+
 
