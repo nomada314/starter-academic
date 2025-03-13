@@ -56,7 +56,7 @@ Semana | Fecha | Tema
 
 https://sqlime.org/
 
-Cargar [Ventas.db](https://alexrojas.netlify.app/post/DB/Ventas.db)
+Cargar [Ventas.db](https://alexrojas.netlify.app/Data/DB/Ventas.db)
 
 ```
 select * from AGENTS
@@ -174,6 +174,6 @@ Ref Owns:  Studios.name < Movie.title
 
 <img src="https://alexrojas.netlify.app/media/DB/Ch.png" width=800>
 
-
+[Chinook.db](https://alexrojas.netlify.app/Data/DB/Chinook.db)
 
 
