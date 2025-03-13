@@ -172,7 +172,8 @@ Ref Owns:  Studios.name < Movie.title
 ### 03-13
 
 
-<img src="https://alexrojas.netlify.app/img/Ch.png" width=700>
+<img src="https://alexrojas.netlify.app/media/DB/Ch.png" width=800>
+
 
 
 
