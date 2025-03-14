@@ -22,7 +22,6 @@ bio: My main interest is the conservation of Andean forest.
 
 interests:
 - Andean Forest
-- Applied Statistics
 
 education:
   courses:
