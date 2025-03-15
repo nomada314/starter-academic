@@ -63,19 +63,22 @@ Semana | Fecha | Tema
 &nbsp; | 02-28 | Funciones <br> **Lectura**: [Sec 3.1](https://openstax.org/books/college-algebra-2e/pages/3-1-functions-and-function-notation) 
 4      | 03-03 | Dominio y rango <br> **Lectura**: [Sec 3.2](https://openstax.org/books/college-algebra-2e/pages/3-2-domain-and-range) <br> **Entrega Taller 3**
 &nbsp; | 03-05 | **Sesión de repaso**
-&nbsp; | 03-07 | **Primer examen**
+&nbsp; | 03-07 | **Primer examen** Capítulos 1 y 2
 5      | 03-10 | Tasas de cambio. <br> **Lectura**: [Sec 3.3](https://openstax.org/books/college-algebra-2e/pages/3-3-rates-of-change-and-behavior-of-graphs)
 &nbsp; | 03-12 | Composición de funciones. <br> **Lectura**: [Sec 3.4-3.6](https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions) 
 &nbsp; | 03-14 | Función inversa. <br> **Lectura**: [Sec 3.7](https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions)
-6      | 03-17 | Funciones lineales. <br> **Lectura**: [Sec 4.1](https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions) 
-&nbsp; | 03-19 | Funciones lineales, continuación. <br> **Lectura**: [Sec 4.2](https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions) 
-&nbsp; | 03-21 | Funciones cuadráticas. <br> **Lectura**: [Sec 5.1](https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions) 
+6      | 03-17 | Funciones lineales. <br> **Lectura**: [Sec 4.1 - 4.2](https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions) 
+&nbsp; | 03-19 | Funciones cuadráticas. <br> **Lectura**: [Sec 5.1](https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions) 
+&nbsp; | 03-21 | Funciones polinomiales. <br> **Lectura**: [Sec 5.2 y 5.2](https://openstax.org/books/college-algebra-2e/pages/5-2-power-functions-and-polynomial-functions) 
 7      | 03-24 | **Festivo**
-&nbsp; | 03-26 | . <br> **Lectura**: Sec 
-&nbsp; | 03-28 | . <br> **Lectura**: Sec 
+&nbsp; | 03-26 | División de polinomios. <br> **Lectura**: [Sec 5.4](https://openstax.org/books/college-algebra-2e/pages/5-4-dividing-polynomials) 
+&nbsp; | 03-28 | Raíces de funciones polinomiales. <br> **Lectura**: [Sec 5.5](https://openstax.org/books/college-algebra-2e/pages/5-5-zeros-of-polynomial-functions) 
 8      | 03-31 | . <br> **Lectura**: Sec 
 &nbsp; | 04-02 | **Sesión de repaso**
-&nbsp; | 04-04 | **Segundo examen**
+&nbsp; | 04-04 | **Segundo examen** Capítulos 3, 4 y 5.
+9      | 04-07 | . <br> **Lectura**: Sec 
+&nbsp; | 04-09 | . <br> **Lectura**: Sec 
+&nbsp; | 04-11 | . <br> **Lectura**: Sec 
 
 
 
