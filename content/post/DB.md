@@ -45,9 +45,9 @@ Semana | Fecha | Tema
 &nbsp; | 03-06 | Teoría de diseño, continuación <br> **Lectura**: 3.3 y 3.4 (págs. 81 -- 97) 
 5      | 03-11 | E/R <br> **Lectura**: 4.1 - 4.3  
 &nbsp; | 03-13 | E/R, continuación <br> **Lectura**: 4.4 - 4.10  
-6      | 03-18 | .
-&nbsp; | 03-20 | .
-7      | 03-25 | .
+6      | 03-18 | Día cívico <br> **Lectura**: 7.1 - 7.3
+&nbsp; | 03-20 | SQL <br> **Lectura**: 7.4 - 7.5
+7      | 03-25 | SQL, continuación <br> **Lectura**: 7.6
 &nbsp; | 03-27 | .
 8      | 04-01 | Presentación proyecto I
 &nbsp; | 04-03 | Presentación proyecto I, continuación
