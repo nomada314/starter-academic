@@ -69,9 +69,9 @@ Semana | Fecha | Tema
 7      | 03-25 al 03-28 | Triángulos similares <br> **Lectura:** Secciones 5.1 - 5.6. 
 8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3, 4 y 5.
 &nbsp; | 04-03 | **Segundo examen**
-9      | 04-07 al 04-11 | xxx <br> **Lectura** Secciones . 
-10     | 04-21 al 04-25 | xxx <br> **Lectura** Secciones . 
-11     | 04-28 al 05-02 | xxx <br> **Lectura** Secciones . 
-12     | 05-05 al 05-09 | xxx <br> **Lectura** Secciones . 
+9      | 04-07 al 04-11 |  <br> **Lectura** Secciones . 
+10     | 04-21 al 04-25 |  <br> **Lectura** Secciones . 
+11     | 04-28 al 05-02 |  <br> **Lectura** Secciones . 
+12     | 05-05 al 05-09 |  <br> **Lectura** Secciones . 
 
 
