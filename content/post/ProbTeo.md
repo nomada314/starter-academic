@@ -55,11 +55,13 @@ Semana | Fecha | Tema
 5      | 03-10 | Exposición ejercicios
 &nbsp; | 03-13 | Exposición ejercicios
 6      | 03-17 | **Primer examen**
-&nbsp; | 03-20 | .
-7      | 03-24 | .
-&nbsp; | 03-27 | Exposición ejercicios
-8      | 03-31 | Exposición ejercicios
-&nbsp; | 04-03 | **Segundo examen**
-9      | 04-07 | .
-&nbsp; | 04-10 | .
+&nbsp; | 03-20 | $\sigma$-álgebras generados por mapeos.<br> **Lectura:** 3.2 - 3.3.
+7      | 03-24 | Festivo
+&nbsp; | 03-27 | Permiso académico
+8      | 03-31 | Variables aleatorias independientes.<br> **Lectura:** 4.1 - 4.3.
+&nbsp; | 04-03 | Borel-Cantelli lemma.<br> **Lectura:** 4.4 - 4.5.
+9      | 04-07 | Exposición ejercicios
+&nbsp; | 04-10 | Exposición ejercicios
+10     | 04-21 | 
+&nbsp; | 04-24 | **Segundo examen**
 
