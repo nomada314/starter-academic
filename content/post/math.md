@@ -71,9 +71,9 @@ Semana | Fecha | Tema
 &nbsp; | 03-19 | Funciones cuadráticas. <br> **Lectura**: [Sec 5.1](https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions) 
 &nbsp; | 03-21 | Funciones polinomiales. <br> **Lectura**: [Sec 5.2 y 5.2](https://openstax.org/books/college-algebra-2e/pages/5-2-power-functions-and-polynomial-functions) 
 7      | 03-24 | **Festivo**
-&nbsp; | 03-26 | División de polinomios. <br> **Lectura**: [Sec 5.4](https://openstax.org/books/college-algebra-2e/pages/5-4-dividing-polynomials) 
-&nbsp; | 03-28 | Raíces de funciones polinomiales. <br> **Lectura**: [Sec 5.5](https://openstax.org/books/college-algebra-2e/pages/5-5-zeros-of-polynomial-functions) 
-8      | 03-31 | . <br> **Lectura**: Sec 
+&nbsp; | 03-26 | División de polinomios. Raíces de funciones polinomiales <br> **Lectura**: [Sec 5.4-5.5](https://openstax.org/books/college-algebra-2e/pages/5-4-dividing-polynomials) 
+&nbsp; | 03-28 | Funciones racionales. <br> **Lectura**: [Sec 5.6-5.7](https://openstax.org/books/college-algebra-2e/pages/5-6-rational-functions) 
+8      | 03-31 | Modelamiento usando variación. <br> **Lectura**: [Sec 5.8](https://openstax.org/books/college-algebra-2e/pages/5-8-modeling-using-variation) 
 &nbsp; | 04-02 | **Sesión de repaso**
 &nbsp; | 04-04 | **Segundo examen** Capítulos 3, 4 y 5.
 9      | 04-07 | . <br> **Lectura**: Sec 
