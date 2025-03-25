@@ -66,7 +66,7 @@ Semana | Fecha | Tema
 5      | 03-10 | Revisión examen. 
 &nbsp; | 03-11 al 03-14 | Triángulos <br> **Lectura** Secciones 3.1 - 3.5. 
 6      | 03-17 al 03-21 | Cuadriláteros <br> **Lectura:** Secciones 4.1 - 4.4. 
-7      | 03-25 al 03-28 | Triángulos similares <br> **Lectura:** Secciones 5.1 - 5.6. 
+7      | 03-25 al 03-28 | Triángulos semejantes <br> **Lectura:** Secciones 5.1 - 5.6. 
 8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3, 4 y 5.
 &nbsp; | 04-03 | **Segundo examen**
 9      | 04-07 al 04-11 |  <br> **Lectura** Secciones . 
