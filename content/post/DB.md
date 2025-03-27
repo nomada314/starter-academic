@@ -176,4 +176,19 @@ Ref Owns:  Studios.name < Movie.title
 
 [Chinook.db](https://alexrojas.netlify.app/Data/DB/Chinook.db)
 
+### 03-25
+
+```
+select Name
+from Playlist, (
+  select Id, max(conteos)
+  from (
+    select PlaylistId Id, count(*) conteos
+    from PlaylistTrack
+    group by PlaylistId
+    )
+  )
+where PlaylistId = Id
+```
+
 
