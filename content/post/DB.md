@@ -48,9 +48,27 @@ Semana | Fecha | Tema
 6      | 03-18 | Día cívico <br> **Lectura**: 6.1 - 6.3
 &nbsp; | 03-20 | SQL <br> **Lectura**: 6.4 - 6.5
 7      | 03-25 | SQL, continuación <br> **Lectura**: 6.6
-&nbsp; | 03-27 | .
-8      | 04-01 | Presentación proyecto I
-&nbsp; | 04-03 | Presentación proyecto I, continuación
+&nbsp; | 03-25 | SQL, continuación
+8      | 04-01 | SQL, continuación
+&nbsp; | 04-03 | SQL, continuación
+9      | 04-08 | Presentación proyecto I
+&nbsp; | 04-10 | Presentación proyecto I, continuación
+10     | 04-22 | Pandas
+&nbsp; | 04-24 | Pandas, continuación
+11     | 04-29 | .
+&nbsp; | 05-01 | .
+12     | 05-06 | .
+&nbsp; | 05-08 | .
+13     | 05-13 | .
+&nbsp; | 05-15 | .
+14     | 05-20 | .
+&nbsp; | 05-22 | .
+15     | 05-27 | .
+&nbsp; | 05-29 | .
+16     | 06-03 | .
+&nbsp; | 06-09 | .
+
+
 
 ### Código 03-07
 
