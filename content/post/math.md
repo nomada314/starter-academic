@@ -76,9 +76,9 @@ Semana | Fecha | Tema
 8      | 03-31 | Modelamiento usando variación. <br> **Lectura**: [Sec 5.8](https://openstax.org/books/college-algebra-2e/pages/5-8-modeling-using-variation) 
 &nbsp; | 04-02 | **Sesión de repaso**
 &nbsp; | 04-04 | **Segundo examen** Capítulos 3, 4 y 5.
-9      | 04-07 | . <br> **Lectura**: Sec 
-&nbsp; | 04-09 | . <br> **Lectura**: Sec 
-&nbsp; | 04-11 | . <br> **Lectura**: Sec 
+9      | 04-07 | Solución segundo examen
+&nbsp; | 04-09 | Funciónes exponenciales. <br> **Lectura**: [Sec 6.1 y 6.2](https://openstax.org/books/college-algebra-2e/pages/6-1-exponential-functions)
+&nbsp; | 04-11 | Funciónes logaritmicas. <br> **Lectura**: [Sec  6.3 - 6.5](https://openstax.org/books/college-algebra-2e/pages/6-6-exponential-and-logarithmic-equations)
 
 
 
