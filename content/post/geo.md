@@ -62,16 +62,20 @@ Semana | Fecha | Tema
 &nbsp; | 02-27 al 02-28 | Presentación ejercicios capítulos 1 y 2.
 4      | 03-03 al 03-05 | Presentación ejercicios, capítulos 1 y 2, continuación.
 &nbsp; | 03-06 | **Primer examen**
-&nbsp; | 03-07 | **Primer examen**
 5      | 03-10 | Revisión examen. 
 &nbsp; | 03-11 al 03-14 | Triángulos <br> **Lectura** Secciones 3.1 - 3.5. 
 6      | 03-17 al 03-21 | Cuadriláteros <br> **Lectura:** Secciones 4.1 - 4.4. 
 7      | 03-25 al 03-28 | Triángulos semejantes <br> **Lectura:** Secciones 5.1 - 5.6. 
 8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3, 4 y 5.
 &nbsp; | 04-03 | **Segundo examen**
-9      | 04-07 al 04-11 |  <br> **Lectura** Secciones . 
-10     | 04-21 al 04-25 |  <br> **Lectura** Secciones . 
-11     | 04-28 al 05-02 |  <br> **Lectura** Secciones . 
-12     | 05-05 al 05-09 |  <br> **Lectura** Secciones . 
-
+9      | 04-07 al 04-11 | Círculos <br> **Lectura** Secciones 6.1 - 6.4. 
+10     | 04-21 al 04-25 | <br> **Lectura** Secciones . 
+11     | 04-28 al 05-02 | <br> **Lectura** Secciones . 
+12     | 05-05 al 05-07 |  Presentación ejercicios, capítulos 3, 4 y 5.
+&nbsp; | 05-08 | **Tercer examen**
+13     | 05-12 al 05-16 |  <br> **Lectura** Secciones . 
+14     | 05-19 al 05-23 |  <br> **Lectura** Secciones . 
+15     | 05-26 al 05-30 |  Introducción a la triginometría<br> **Lectura** Capítulo 11 
+16     | 06-03 al 06-04 |  Presentación ejercicios, capítulos XXX.
+&nbsp; | 06-06 | **Cuarto examen**
 
