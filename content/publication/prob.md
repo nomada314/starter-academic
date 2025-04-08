@@ -7,7 +7,7 @@ abstract = "El propósito de este libro es servir de texto guía en cursos de pr
 image_preview = ""
 math = true
 highlight = true
-url_pdf= ""
+url_pdf= "https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/view/XXX/XXX/XXXX"
 tags = ["Teaching", "Julia", "Probability"]
 [header]
 image = ""
