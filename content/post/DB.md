@@ -218,6 +218,12 @@ https://dbdiagram.io/d/TEJIDOS-67f5360e4f7afba184cdc847
 Leidy:
 [Diagrama](https://alexrojas.netlify.app/media/DB/DISTRIBUIDORA.pdf)
 
+Ivan:
+<img src="https://alexrojas.netlify.app/media/DB/Pinturas.png" width=800>
+
+
+
+
 
 
 
