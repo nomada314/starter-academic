@@ -209,4 +209,12 @@ from Playlist, (
 where PlaylistId = Id
 ```
 
+### 04-10
+
+Karen:
+https://dbdiagram.io/d/TEJIDOS-67f5360e4f7afba184cdc847
+
+
+
+
 
