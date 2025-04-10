@@ -224,6 +224,10 @@ Ivan:
 Adrian:
 <img src="https://alexrojas.netlify.app/media/DB/Universidad.jpg" width=800>
 
+Daniel:
+[Diagrama](https://alexrojas.netlify.app/media/DB/Pdf_Diagrama.pdf)
+
+
 
 
 
