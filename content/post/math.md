@@ -79,8 +79,14 @@ Semana | Fecha | Tema
 9      | 04-07 | Solución segundo examen
 &nbsp; | 04-09 | Funciones exponenciales y logaritmicas. <br> **Lectura**: [Sec 6.1, 6.2,](https://openstax.org/books/college-algebra-2e/pages/6-1-exponential-functions) [6.3, 6.4 y 6.5](https://openstax.org/books/college-algebra-2e/pages/6-6-exponential-and-logarithmic-equations)
 &nbsp; | 04-11 | Ecuaciones exponenciales y logaritmicas  <br> **Lectura**: [Sec 6.6 y 6.7](https://openstax.org/books/college-algebra-2e/pages/6-6-exponential-and-logarithmic-equations)
-10     | 04-21 | .
-&nbsp; | 04-23 | .
-&nbsp; | 04-25 | .
+10     | 04-21 | Sistemas de ecuaciones: dos ecuaciones. <br> **Lectura**: [7.1](https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables)
+&nbsp; | 04-23 | Sistemas de ecuaciones: tres ecuaciones. <br> **Lectura**: [7.2](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables)
+&nbsp; | 04-25 | Sistemas de ecuaciones no lineales: dos ecuaciones. <br> **Lectura**: [7.3](https://openstax.org/books/college-algebra-2e/pages/7-3-systems-of-nonlinear-equations-and-inequalities-two-variables)
+11     | 04-28 | .
+&nbsp; | 04-30 | .
+&nbsp; | 05-01 | .
+12     | 05-05 | .
+&nbsp; | 05-07 | **Sesión de repaso**
+&nbsp; | 05-09 | **Tercer examen** Capítulos 6 y 7
 
 
