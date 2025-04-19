@@ -62,6 +62,11 @@ Semana | Fecha | Tema
 &nbsp; | 04-03 | Borel-Cantelli lemma.<br> **Lectura:** 4.4 - 4.5.
 9      | 04-07 | Exposición ejercicios
 &nbsp; | 04-10 | Exposición ejercicios
-10     | 04-21 | .
-&nbsp; | 04-24 | .
+10     | 04-21 | Integración<br> **Lectura:** 5.1 - 5.2. 
+&nbsp; | 04-24 | Límites e integrales
+11     | 04-28 | .
+&nbsp; | 05-01 | Festivo
+12     | 04-28 | .
+&nbsp; | 05-01 | **Examen**
+
 
