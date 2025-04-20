@@ -24,7 +24,8 @@ A continuación se encuentra el código utilizados en el libro en `Julia`, `Pyth
 
 ## Código
 
-* Capítulo 1 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap1.ipynb): Introducción 
+* Capítulo 1 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap1.ipynb): Preliminares
+* Capítulo 2 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap2.ipynb): Elementos básicos de probabilidad 
 
 ## Errata
 
