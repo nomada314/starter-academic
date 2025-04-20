@@ -25,7 +25,10 @@ A continuación se encuentra el código utilizados en el libro en `Julia`, `Pyth
 ## Código
 
 * Capítulo 1 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap1.ipynb): Preliminares
-* Capítulo 2 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap2.ipynb): Elementos básicos de probabilidad 
+* Capítulo 2 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap2.ipynb): Elementos básicos de probabilidad
+* Capítulo 3 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap3.ipynb): Variables aleatorias y distribuciones
+* Capítulo 4 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap4.ipynb): Esperanza matemática
+* Capítulo 5 [.ipynb](https://alexrojas.netlify.app/code/prob/probCap5.ipynb): Distribuciones especiales
 
 ## Errata
 
