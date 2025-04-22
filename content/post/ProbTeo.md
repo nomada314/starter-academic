@@ -66,7 +66,16 @@ Semana | Fecha | Tema
 &nbsp; | 04-24 | Límites e integrales
 11     | 04-28 | .
 &nbsp; | 05-01 | Festivo
-12     | 04-28 | .
-&nbsp; | 05-01 | **Examen**
+12     | 05-05 | .
+&nbsp; | 05-08 | **Examen**
+13     | 05-12 | .
+&nbsp; | 05-15 | .
+14     | 05-19 | .
+&nbsp; | 05-22 | .
+15     | 05-26 | .
+&nbsp; | 05-29 | .
+15     | 06-02 | .
+&nbsp; | 06-05 | .
+
 
 
