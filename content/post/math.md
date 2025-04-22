@@ -87,19 +87,19 @@ Semana | Fecha | Tema
 &nbsp; | 05-02 | Ejercicios
 12     | 05-05 | .
 &nbsp; | 05-07 | **Sesión de repaso**
-&nbsp; | 05-09 | **Tercer examen** Capítulos 6, 7.1 a 7.4
+&nbsp; | 05-09 | **Tercer examen** Capítulos 6, Secciones 7.1 a 7.4
 13     | 05-12 | .
 &nbsp; | 05-14 | .
 &nbsp; | 05-16 | .
 14     | 05-19 | .
 &nbsp; | 05-21 | .
 &nbsp; | 05-23 | .
-15     | 05-28 | .
+15     | 05-26 | .
+&nbsp; | 05-28 | .
 &nbsp; | 05-30 | .
-&nbsp; | 06-01 | .
-16     | 06-04 | .
-&nbsp; | 06-06 | .
-&nbsp; | 06-08 | .
+16     | 06-02 | Festivo
+&nbsp; | 06-04 | **Sesión de repaso**
+&nbsp; | 06-06 | **Cuarto examen** Capítulos 7, 8 y 9
 
 
 
