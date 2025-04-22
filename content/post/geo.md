@@ -69,13 +69,13 @@ Semana | Fecha | Tema
 8      | 03-31 al 04-02 | Presentación ejercicios, capítulos 3, 4 y 5.
 &nbsp; | 04-03 | **Segundo examen**
 9      | 04-07 al 04-11 | Círculos <br> **Lectura** Secciones 6.1 - 6.4. 
-10     | 04-21 al 04-25 | <br> **Lectura** Secciones . 
-11     | 04-28 al 05-02 | <br> **Lectura** Secciones . 
-12     | 05-05 al 05-07 |  Presentación ejercicios, capítulos 3, 4 y 5.
+10     | 04-21 al 04-25 | Círculos, continuación. <br> Locus <br> **Lectura** Secciones 7.1 - 7.3. 
+11     | 04-28 al 05-02 | Áreas de polígonos y círculos <br> **Lectura** Secciones 8.1 - 8.5. 
+12     | 05-05 al 05-07 | Presentación ejercicios, capítulos 6, 7 y 8.
 &nbsp; | 05-08 | **Tercer examen**
-13     | 05-12 al 05-16 |  <br> **Lectura** Secciones . 
+13     | 05-12 al 05-16 |  Superficies y sólidos<br> **Lectura** Secciones 9.1-9.4. 
 14     | 05-19 al 05-23 |  <br> **Lectura** Secciones . 
 15     | 05-26 al 05-30 |  Introducción a la triginometría<br> **Lectura** Capítulo 11 
-16     | 06-03 al 06-04 |  Presentación ejercicios, capítulos XXX.
+16     | 06-03 al 06-04 |  Presentación ejercicios, capítulos 9, 10 y 11.
 &nbsp; | 06-06 | **Cuarto examen**
 
