@@ -35,7 +35,7 @@ A continuación se encuentra el código utilizados en el libro en `Julia`, `Pyth
 
 ### Capítulo 1.
 
-p. 30: Nota "</> Ib()". Debe ser `Ib(0)` y `Ib(0.25)` en lugar de `Ia(0)` y `Ia(0.25)`, respectivamente.
+p. 30: Nota "</> `Ib()`". Debe ser `Ib(0)` y `Ib(0.25)` en lugar de `Ia(0)` y `Ia(0.25)`, respectivamente.
 
 ### Capítulo 4. 
 
