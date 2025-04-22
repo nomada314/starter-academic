@@ -74,7 +74,7 @@ Semana | Fecha | Tema
 &nbsp; | 05-22 | .
 15     | 05-26 | .
 &nbsp; | 05-29 | .
-15     | 06-02 | .
+15     | 06-02 | Festivo
 &nbsp; | 06-05 | .
 
 
