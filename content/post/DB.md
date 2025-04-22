@@ -53,8 +53,8 @@ Semana | Fecha | Tema
 &nbsp; | 04-03 | SQL, continuación
 9      | 04-08 | Presentación proyecto I
 &nbsp; | 04-10 | Presentación proyecto I, continuación
-10     | 04-22 | Pandas
-&nbsp; | 04-24 | Pandas, continuación
+10     | 04-22 | `pandas`
+&nbsp; | 04-24 | `pandas`, continuación
 11     | 04-29 | .
 &nbsp; | 05-01 | .
 12     | 05-06 | .
