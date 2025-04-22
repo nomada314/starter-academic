@@ -64,9 +64,9 @@ Semana | Fecha | Tema
 14     | 05-20 | .
 &nbsp; | 05-22 | .
 15     | 05-27 | .
-&nbsp; | 05-29 | .
-16     | 06-03 | .
-&nbsp; | 06-09 | .
+&nbsp; | 05-29 | Presentación proyecto II
+16     | 06-03 | Presentación proyecto II, continuación
+&nbsp; | 06-09 | Presentación proyecto II, continuación
 
 
 
