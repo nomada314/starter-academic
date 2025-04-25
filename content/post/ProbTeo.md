@@ -63,12 +63,12 @@ Semana | Fecha | Tema
 9      | 04-07 | Exposición ejercicios
 &nbsp; | 04-10 | Exposición ejercicios
 10     | 04-21 | Integración<br> **Lectura:** 5.1 - 5.2. 
-&nbsp; | 04-24 | Límites e integrales
-11     | 04-28 | .
+&nbsp; | 04-24 | Límites e integrales<br> **Lectura:** 5.3. 
+11     | 04-28 | Teorema de transformación`<br> Integral de Lebesgue vs integral de Riemann <br> **Lectura:** 5.4- 5.5. 
 &nbsp; | 05-01 | Festivo
-12     | 05-05 | .
-&nbsp; | 05-08 | **Examen**
-13     | 05-12 | .
+12     | 05-05 | Exposición ejercicios
+&nbsp; | 05-08 | Exposición ejercicios
+13     | 05-12 | **Examen**
 &nbsp; | 05-15 | .
 14     | 05-19 | .
 &nbsp; | 05-22 | .
