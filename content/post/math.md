@@ -82,20 +82,20 @@ Semana | Fecha | Tema
 10     | 04-21 | Sistemas de ecuaciones: dos ecuaciones. <br> **Lectura**: [7.1](https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables)
 &nbsp; | 04-23 | Sistemas de ecuaciones: tres ecuaciones. <br> Sistemas de ecuaciones no lineales: dos ecuaciones. <br> **Lectura**: [7.2](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) y [7.3](https://openstax.org/books/college-algebra-2e/pages/7-3-systems-of-nonlinear-equations-and-inequalities-two-variables)
 &nbsp; | 04-25 | Fracciones parciales. <br> **Lectura**: [7.4](https://openstax.org/books/college-algebra-2e/pages/7-4-partial-fractions)
-11     | 04-28 | .
-&nbsp; | 04-30 | Matrices. <br> **Lectura**: [7.5](https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations)
+11     | 04-28 | Matrices. <br> **Lectura**: [7.5](https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations)
+&nbsp; | 04-30 | Conferencia
 &nbsp; | 05-02 | Ejercicios
-12     | 05-05 | .
+12     | 05-05 | Eliminación Gaussiana. <br> **Lecxtura**: [7.5](https://openstax.org/books/college-algebra-2e/pages/7-6-solving-systems-with-gaussian-elimination)
 &nbsp; | 05-07 | **Sesión de repaso**
-&nbsp; | 05-09 | **Tercer examen** Capítulos 6, Secciones 7.1 a 7.4
-13     | 05-12 | .
-&nbsp; | 05-14 | .
-&nbsp; | 05-16 | .
-14     | 05-19 | .
-&nbsp; | 05-21 | .
-&nbsp; | 05-23 | .
-15     | 05-26 | .
-&nbsp; | 05-28 | .
+&nbsp; | 05-09 | **Tercer examen** Capítulos 6, Secciones 7.1 a 7.5
+13     | 05-12 | Solución examen
+&nbsp; | 05-14 | Inversas y regla de Cramer. <br> **Lectura:** [7.6 y 7.7](https://openstax.org/books/college-algebra-2e/pages/7-7-solving-systems-with-inverses)
+&nbsp; | 05-16 | Ellipse e hipérbola. <br> **Lectura:** [8.1 y 8.2](https://openstax.org/books/college-algebra-2e/pages/8-1-the-ellipse)
+14     | 05-19 | Parábola. <br> **Lectura:** [8.3](https://openstax.org/books/college-algebra-2e/pages/8-3-the-parabola)
+&nbsp; | 05-21 | Secuencias. <br> **Lectura:** [9.1](https://openstax.org/books/college-algebra-2e/pages/9-1-sequences-and-their-notations)
+&nbsp; | 05-23 | Secuencias aritméticas y geométricas. <br> **Lectura:** [9.2 y 9.3](https://openstax.org/books/college-algebra-2e/pages/9-2-arithmetic-sequences)
+15     | 05-26 | Series. <br> **Lectura:** [9.4](https://openstax.org/books/college-algebra-2e/pages/9-4-series-and-their-notations)
+&nbsp; | 05-28 | Principios de conteo. <br> **Lectura:** [9.5](https://openstax.org/books/college-algebra-2e/pages/9-5-counting-principles)
 &nbsp; | 05-30 | .
 16     | 06-02 | Festivo
 &nbsp; | 06-04 | **Sesión de repaso**
