@@ -55,8 +55,8 @@ Semana | Fecha | Tema
 &nbsp; | 04-10 | Presentación proyecto I, continuación
 10     | 04-22 | `pandas`
 &nbsp; | 04-24 | `pandas`, continuación
-11     | 04-29 | .
-&nbsp; | 05-01 | .
+11     | 04-29 | `pandas`, continuación
+&nbsp; | 05-01 | Festivo
 12     | 05-06 | .
 &nbsp; | 05-08 | .
 13     | 05-13 | .
