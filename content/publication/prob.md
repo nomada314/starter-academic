@@ -7,7 +7,7 @@ abstract = "El propósito de este libro es servir de texto guía en cursos de pr
 image_preview = ""
 math = true
 highlight = true
-url_pdf= "https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/view/481/XXX/XXXX"
+url_pdf= "https://simehbucket.s3.amazonaws.com/miscfiles/introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria_tnyo9b36.pdf"
 doi='10.19053/uptc.9789586609449'
 tags = ["Teaching", "Julia", "Probability"]
 [header]
@@ -16,10 +16,10 @@ caption = ""
 +++
 
 
-<img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_481_466_coverImage_es_ES_t.png"  width="180"/>
+<img src="https://simehbucket.s3.amazonaws.com/images/415ebe2115322046c17eea718237c3c6-medium.jpg"  width="180"/>
 
 
-[Más información](https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/book/481)
+[Más información](https://editorial.uptc.edu.co/gpd-introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria-9789586609449-680d0a2fc352d.html)
 
 A continuación se encuentra el código utilizados en el libro en `Julia`, `Python` y `R`  Finalmente, se encuentran los errrores encontrados a la fecha.
 
