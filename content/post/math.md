@@ -85,11 +85,11 @@ Semana | Fecha | Tema
 11     | 04-28 | Matrices. <br> **Lectura**: [7.5](https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations)
 &nbsp; | 04-30 | Conferencia
 &nbsp; | 05-02 | Ejercicios
-12     | 05-05 | Eliminación Gaussiana. <br> **Lecxtura**: [7.5](https://openstax.org/books/college-algebra-2e/pages/7-6-solving-systems-with-gaussian-elimination)
+12     | 05-05 | Eliminación Gaussiana e inversas. <br> **Lectura**: [7.5 y 7.6](https://openstax.org/books/college-algebra-2e/pages/7-6-solving-systems-with-gaussian-elimination)
 &nbsp; | 05-07 | **Sesión de repaso**
-&nbsp; | 05-09 | **Tercer examen** Capítulos 6, Secciones 7.1 a 7.5
+&nbsp; | 05-09 | **Tercer examen** Capítulos 6, Secciones 7.1 a 7.6
 13     | 05-12 | Solución examen
-&nbsp; | 05-14 | Inversas y regla de Cramer. <br> **Lectura:** [7.6 y 7.7](https://openstax.org/books/college-algebra-2e/pages/7-7-solving-systems-with-inverses)
+&nbsp; | 05-14 | Regla de Cramer. <br> **Lectura:** [7.7](https://openstax.org/books/college-algebra-2e/pages/7-7-solving-systems-with-inverses)
 &nbsp; | 05-16 | Ellipse e hipérbola. <br> **Lectura:** [8.1 y 8.2](https://openstax.org/books/college-algebra-2e/pages/8-1-the-ellipse)
 14     | 05-19 | Parábola. <br> **Lectura:** [8.3](https://openstax.org/books/college-algebra-2e/pages/8-3-the-parabola)
 &nbsp; | 05-21 | Secuencias. <br> **Lectura:** [9.1](https://openstax.org/books/college-algebra-2e/pages/9-1-sequences-and-their-notations)
