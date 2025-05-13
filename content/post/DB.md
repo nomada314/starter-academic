@@ -12,9 +12,13 @@ math      = true
 Martes 2:00 - 4:00 P.M. TBA <br>
 Jueves 8:00 - 10:00 A.M. TBA
 
-### Libro guía:
+### Libros guía:
 
 Ullman, J.D. & Widom, J. (2007) *[A First Course in Database Systems](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-database-systems-a/P200000003302/9780136006374)*. Pearson
+
+
+Bradshaw, S., Brazil, E. & Chodorow, K. *MongoDB The Definitive Guide*. O'Reilly.
+
 
 ### Otras referencias:
 
@@ -57,11 +61,11 @@ Semana | Fecha | Tema
 &nbsp; | 04-24 | `pandas`, continuación
 11     | 04-29 | `pandas`, continuación
 &nbsp; | 05-01 | Festivo
-12     | 05-06 | .
-&nbsp; | 05-08 | .
-13     | 05-13 | .
-&nbsp; | 05-15 | .
-14     | 05-20 | .
+12     | 05-06 | `pandas`, continuación
+&nbsp; | 05-08 | MongoDB <br> **Capítulos**: 2 y 3
+13     | 05-13 | MongoDB <br> **Capítulo**: 4
+&nbsp; | 05-15 | MongoDB <br> **Capítulo**: 5
+14     | 05-20 | MongoDB <br> **Capítulo**: 6
 &nbsp; | 05-22 | .
 15     | 05-27 | .
 &nbsp; | 05-29 | Presentación proyecto II
