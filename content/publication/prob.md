@@ -21,7 +21,7 @@ caption = ""
 
 [Más información](https://editorial.uptc.edu.co/gpd-introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria-9789586609449-680d0a2fc352d.html)
 
-A continuación se encuentra el código utilizados en el libro en `Julia` (Próximamente en `Python` y `R` ).  Finalmente, se encuentran los errrores encontrados a la fecha.
+<!--A continuación se encuentra el código utilizados en el libro en `Julia` (Próximamente en `Python` y `R` ).  Finalmente, se encuentran los errrores encontrados a la fecha.-->
 
 ## Código
 
