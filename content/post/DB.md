@@ -258,6 +258,53 @@ matRH.pop(0)
 
 ```
 
+```{python}
+def eliminarBordes(texto, frase):
+    f1Ocurrencia = texto.find(frase) + len(frase)
+    i2Ocurrencia = texto.find(frase, f1Ocurrencia)
+    if i2Ocurrencia == -1:
+        i2Ocurrencia = len(texto)
+    return(texto[f1Ocurrencia:i2Ocurrencia])
+
+def infoArt(r):
+    titulo = eliminarBordes(r,'"')
+    revista = eliminarBordes(r,'@@ ')
+    inicio = r.find('ISSN:')
+    issn = r[(inicio + 6):(inicio + 15)]
+    inicio = r.find('DOI:')
+    agno = r[(inicio-6):(inicio-2)]
+    inicio = r.find('ed: ')
+    final = r.find('v.')
+    editorial = r[(inicio+4):(final-1)]
+    final = r.find('"')
+    autores = r[:(final-2) ]
+    inicio = r.find('. En: ')
+    final = r.find('@@')
+    pais = r[(inicio+6):final]
+    nAutores = len(autores.split(','))
+    return (issn, agno, revista, editorial, pais,titulo, autores, nAutores)
+
+def obtenerArticulos(rh):
+    base = 'https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh='
+    cv = base + rh
+    with urllib.request.urlopen(cv) as respuestaURL:
+        cvSoup = BeautifulSoup(respuestaURL)
+    info = cvSoup.find_all("table", {"style": "border:#999 1px solid"})
+    articulos = [tabla.find_all("blockquote") for tabla in info[1:] if tabla.h3.text=='Artículos']
+    if len(articulos) > 0:
+      articulos = [articulo.text for articulo in articulos[0] ]
+      articulos = [articulo.replace('\xa0\r\n', '@@') for articulo in articulos ]
+      articulos = [' '.join(articulo.split()) for articulo in articulos]
+      articulos = [articulo.replace('""','"') for articulo in articulos]
+      artModificado = [infoArt(articulo) for articulo in articulos]
+      artCvLAC = pd.DataFrame(artModificado, columns = ['issn', 'agno', 'revista', 'editorial', 'pais', 'titulo', 'autores','n'])
+      artCvLAC = artCvLAC.sort_values(by=['agno'])
+    else:
+      artCvLAC = None
+    return artCvLAC
+
+
+```
 
 
 
