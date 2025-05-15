@@ -306,7 +306,9 @@ def obtenerArticulos(rh):
 
 ```
 
-
+```{python}
+matArt = [obtenerArticulos(m) for m in matRH ]
+```
 
 
 
