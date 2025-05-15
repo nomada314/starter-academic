@@ -231,7 +231,32 @@ Adrian:
 Daniel:
 [Diagrama](https://alexrojas.netlify.app/media/DB/Pdf_Diagrama.pdf)
 
+### 05-15
 
+```{python}
+import urllib
+import pandas as pd
+from bs4 import BeautifulSoup
+
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+mat = 'https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_ciencias/preg/cie_52322_t/03_docth.html'
+
+with urllib.request.urlopen(mat) as respuestaURL:
+     matSoup = BeautifulSoup(respuestaURL)
+
+matRH = matSoup.find_all("<span><b>Autores</b></span><br/>")
+
+
+matRH = [m['href'][-10:] for m in matRH]
+
+matRH[11] = '0000548618'
+
+matRH.pop(0)
+
+```
 
 
 
