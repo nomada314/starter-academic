@@ -247,7 +247,7 @@ mat = 'https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultade
 with urllib.request.urlopen(mat) as respuestaURL:
      matSoup = BeautifulSoup(respuestaURL)
 
-matRH = matSoup.find_all("<span><b>Autores</b></span><br/>")
+matRH = matSoup.find_all("a","{"title":"CvLAC"})
 
 
 matRH = [m['href'][-10:] for m in matRH]
