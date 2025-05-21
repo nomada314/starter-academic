@@ -320,15 +320,20 @@ def getInfo(d):
   citacion = l.find("div",{"class":"col-md-12 ui-cite item-citation"}).find("p")
   titulo = citacion.find("i").text
   autores = [m.find("p").text for m in l.find_all("div",{"class":"sa-panel-heading3"})]
+  palabras = [x.text for x in l.findAll('a', href=lambda x: x and x.startswith('/catalogsearch/advanced/result/?products_keywords='))]
+  doi = [x['href'] for x in l.findAll('a', href=lambda x: x and x.startswith('https://doi.org/'))][0]
   metaData = l.find_all("div",{"class":"product-info-metadata"})
-  #doi = [m.find("a")['href'] for m in metaData if isinstance(m.find("a"),NoneType)] 
   mdNombres = [[f.text for f in x.find_all("strong") if f.text!="DOI:"] for x in metaData]
   mdValor = [[f.text for f in x.find_all("span")] for x in metaData]
   mD = [dict(zip(i,j)) for i,j in zip(mdNombres,mdValor)]
-  d = {"titulo":titulo, "autores":autores,"resumen":resumen,"meta":mD}
-  #, "doi":doi
+  ISBN = [x['ISBN-13:'] for x in mD]
+  año = int(mD[0]['Fecha de publicación:'])
+  try:
+    precio = [float(x['Precio: '][5:])*1000 for x in mD]
+  except:
+    precio = [0]
+  d = {"titulo":titulo, "autores":autores,"doi":doi,"ISBN":ISBN, "Año":año, "Precio":precio, "resumen":resumen, "palabras":palabras}
   return d
-
 ```
 
 
