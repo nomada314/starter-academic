@@ -9,8 +9,7 @@ math      = true
 
 ## Segundo semestre 2025
 
-* [Programación](https://alexrojas.netlify.app/post/Prog/)
-*
+* [Programación](https://alexrojas.netlify.app/post/prog/)
 *
 *
 
