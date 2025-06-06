@@ -1,7 +1,7 @@
 +++
 date      = 2025-01-22
 lastmod   = 2025-01-22
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Geometría Elemental"
 math      = true
