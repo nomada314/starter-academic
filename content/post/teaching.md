@@ -7,12 +7,19 @@ title     = "Teaching"
 math      = true
 +++
 
+## Segundo semestre 2025
+
+* [Programación](https://alexrojas.netlify.app/post/Prog/)
+*
+*
+*
+
 ## Primer semestre 2025
 
-* [Matemáticas Generales](https://alexrojas.netlify.app/post/math/)
-* [Geometría Elemental](https://alexrojas.netlify.app/post/geo/)
-* [Bases de Datos](https://alexrojas.netlify.app/post/DB/)
-* [Teoría de Probabilidad](https://alexrojas.netlify.app/post/ProbTeo/)
+* Matemáticas Generales
+* Geometría Elemental
+* Bases de Datos
+* Teoría de Probabilidad
 
 ## Segundo semestre 2024
 * Matemáticas Generales
