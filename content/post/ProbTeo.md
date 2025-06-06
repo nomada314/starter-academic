@@ -1,7 +1,7 @@
 +++
 date      = 2025-01-22
 lastmod   = 2025-02-03
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Teoría de Probabilidad"
 math      = true
