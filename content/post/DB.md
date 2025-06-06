@@ -1,7 +1,7 @@
 +++
 date      = 2025-01-22
 lastmod   = 2025-03-05
-draft     = false
+draft     = true
 tags      = ["Teaching"]
 title     = "Bases de datos"
 math      = true
