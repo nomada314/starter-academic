@@ -10,8 +10,8 @@ math      = true
 ## Segundo semestre 2025
 
 * [Programación](https://alexrojas.netlify.app/post/prog/)
-*
-*
+* [Inteligencia Artificial](https://alexrojas.netlify.app/post/ai/)
+* [Estadística Inferencial](https://alexrojas.netlify.app/post/ai/)
 
 ## Primer semestre 2025
 
