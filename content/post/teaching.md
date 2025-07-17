@@ -11,7 +11,7 @@ math      = true
 
 * [Programación](https://alexrojas.netlify.app/post/prog/)
 * [Inteligencia Artificial](https://alexrojas.netlify.app/post/ai/)
-* [Estadística Inferencial](https://alexrojas.netlify.app/post/ai/)
+* [Estadística Inferencial](https://alexrojas.netlify.app/post/ie/)
 
 ## Primer semestre 2025
 
