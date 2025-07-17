@@ -1,7 +1,7 @@
 +++
 date      = 2020-09-28
-lastmod   = 2022-08-29
-draft     = true
+lastmod   = 2025-07-16
+draft     = false
 tags      = ["Teaching", "Programming", "Python"]
 title     = "Electiva I"
 math      = true
