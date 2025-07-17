@@ -1,6 +1,6 @@
 +++
 date      = 2020-10-27
-lastmod   = 2022-04-24
+lastmod   = 2025-07-16
 draft     = true
 tags      = ["Teaching", "Inference"]
 title     = "Estadística Inferencial"
@@ -11,7 +11,7 @@ La inferencia juega un papel importante en el ámbito empresarial y social dando
 
 ### Justificación
 
-La asignatura de Estadística Inferencial le aporta al estudiante y futuro profesional un conocimiento teórico- práctico que le permite obtener inferencias, utilizando varios métodos, a partir de los datos muestrales, por otra parte las bases teóricas que se desarrollan en este curso, le permiten abordar y resolver un gran número de problemas de investigación de interés en su área, para obtener conclusiones y dar recomendaciones para la toma de decisiones en un caso dado y evaluar la exactitud de dicha inferencia, puesto que al tomar una decisión se desea conocer la posibilidad de que tal decisión sea correcta en el campo de los negocios; además los temas abordados le permiten al estudiante avanzar en otras asignaturas propias de su disciplina.
+La asignatura de Estadística Inferencial le aporta al estudiante y futuro profesional un conocimiento teórico-práctico que le permite obtener inferencias, utilizando varios métodos, a partir de los datos muestrales, por otra parte las bases teóricas que se desarrollan en este curso, le permiten abordar y resolver un gran número de problemas de investigación de interés en su área, para obtener conclusiones y dar recomendaciones para la toma de decisiones en un caso dado y evaluar la exactitud de dicha inferencia, puesto que al tomar una decisión se desea conocer la posibilidad de que tal decisión sea correcta en el campo de los negocios; además los temas abordados le permiten al estudiante avanzar en otras asignaturas propias de su disciplina.
 
 
 ### Competencias
@@ -47,18 +47,14 @@ La nota para cada corte se calculará con los siguientes pesos: 40% para tallere
 
 ### Libro guía:
 
-Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
++ López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
 
 ### Otras referencias:
 
 + Levine, D., Krehbiel, T., y Berenson, M. (2014), Estadística para administración, México: Pearson Educación.
-+ López A. y Rojas A. L. (2020) [Una Introducción Concisa a la Inferencia Estadística](https://alexrojas.netlify.app/publication/ie/). Editorial UPTC.
++ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
 + Mendenhall, W., Beaver, R., & Beaver, B., (2010), Introducción a la probabilidad y la estadística, México DF, México: Cengage Learning Editores S.A., 10a Edición.
 + Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
-
-### Enlace tutorías sincrónicas
-
-TBA
 
 ### Horas de oficina: 
 
@@ -67,60 +63,15 @@ Por cita.
 ### Horario
 
 |Semana |Fecha      |Tema                                                                                                                                                                    |
-|:------|:----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|1      |2022-04-27 |Presentación del curso                                                                                                                                                  |
-|&nbsp; |2022-04-29 |[Métodos de muestreo](https://alexrojas.netlify.app/post/bs/lec1_muestreo/) (L08-1)                                                                                     |
-|2      |2022-05-04 |Error muestral (L08-2) <br> [Distribución muestral de la media](https://alexrojas.netlify.app/post/bs/lec2_clt/) (L08-3)<br> Teorema de límite central (L08-4)          |
-|&nbsp; |2022-05-06 |  Distribución muestral de la varianza muestral y de la proporción  |
-|3      |2022-05-11 | Estimador puntual para la media (L09-1)<br>[Intervalo de confianza para la media](https://alexrojas.netlify.app/post/bs/lec3_intervals/) (L09-2)  |
-|&nbsp; |2022-05-13 | Intervalo de confianza para la proporción (L09-3) <br> Tamaño de muestra (L09-4)|
-|4      |2022-05-18 | Edificio bloqueado|
-|&nbsp; |2022-05-20 | <font color="blue">Sesión preguntas</font>  |
-|5      |2022-05-25 | [Pruebas de hipótesis](https://alexrojas.netlify.app/post/bs/lec4_tests/) (L10-1, L10-2)  |
-|&nbsp; |2022-05-27 | Prueba de hipótesis para la media (L10-3, L10-4) |
-|6      |2022-06-01 | [Prueba de hipótesis para dos muestras](https://alexrojas.netlify.app/post/bs/lec5_tests2/) (L11-1, L11-2) |
-|&nbsp; |2022-06-03 | Asamblea |
-|7      |2022-06-08 | Comisión |
-|&nbsp; |2022-06-10 | Comisión |
-|8      |2022-06-15 | Prueba de hipótesis para dos muestras (continuación) (L11-1, L11-2)|
-|&nbsp; |2022-06-17 |<font color="blue">Examen I</font>    |
-|9      |2022-06-22 | Correlación (L13-1, L13-2)       |
-|&nbsp; |2022-06-24 | Regresión Lineal Simple (L13-3)  |
-|10     |2022-06-29 | <font color="blue">Sesión preguntas</font>      |
-|&nbsp; |2022-07-01 | <font color="blue">Examen II</font>  |
-|11     |2022-07-06 | Regresión Lineal Simple (L13-4, L13-5)    |
-|&nbsp; |2022-07-08 | Regresión Lineal Simple (L13-6, L13-7)          |
-|12     |2022-07-13 | <font color="blue">Sesión preguntas</font> |
-|&nbsp; |2022-07-15 | <font color="blue">Examen III</font>     |
-|13     |2022-07-20 |  **Festivo**        |
-|&nbsp; |2022-07-22 | Series de tiempo |
-|14     |2022-07-27 | Regresión Lineal Múltiple |
-|&nbsp; |2022-07-29 | Regresión Lineal Múltiple (continuación)        |
-|15     |2022-08-03 | Regresión Lineal Múltiple  (continuación)        |
-|&nbsp; |2022-08-05 | Regresión Lineal Múltiple  (continuación)    |
-|16     |2022-08-10 |  <font color="blue">Sesión preguntas</font>        |
-|&nbsp; |2022-08-12 | <font color="blue">Examen IV</font>            |
+|:------|:----------|:---------------------------------------------------|
+|1      |2025-08-27 |Presentación del curso                              |
+|&nbsp; |2025-08-22 | . |
+|2     |2025-08-20 | .       |
+|&nbsp; |2025-08-22 | . |
+|3     |2025-08-27 | . |
+|&nbsp; |2025-08-29 | .        |
+|4     |2025-08-03 | .        |
+|&nbsp; |2025-08-05 | .    |
+|5     |2025-08-10 |  <font color="blue">Sesión preguntas</font>        |
+|&nbsp; |2025-08-12 | <font color="blue">Examen IV</font>            |
 
-
-<!--
-7|2022-06-08 |[Análisis de varianza](https://alexrojas.netlify.app/post/bs/lec6_anova/) (L12-1, L12-2)                                                                                |
-|      7|2022-06-10 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
-|      8|2022-06-15 |<font color="blue">Examen II</font>                                                                                                                                     |
-|      8|2022-06-17 |Análisis de varianza, continuación (L12-3)                                                                                                                              |
-|      9|2022-06-22 |Análisis de varianza, continuación (L12-4)                                                                                                                              |
-|      9|2022-06-24 |Análisis de varianza, continuación (L12-5)                                                                                                                              |
-|     10|2022-06-29 |                                                                                                                                                                        |
-|     10|2022-07-01 |                                                                                                                                                                        |
-|     11|2022-07-06 |Correlación (L13-1, L13-2)                                                                                                                                              |
-|     11|2022-07-08 |                                                                                                                                         |
-|     12|2022-07-13 |                                                                                                                                  |
-|     12|2022-07-15 |                                                                                                                                  |
-|     13|2022-07-20 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|     13|2022-07-22 |<font color="blue">Examen III</font>                                                                                                                                    |
-|     14|2022-07-27 |Regresión Lineal Múltiple (L14-1, L14-2)                                                                                                                                |
-|     14|2022-07-29 |Regresión Lineal Múltiple (L14-4)                                                                                                                                       |
-|     15|2022-08-03 |Regresión Lineal Múltiple (L14-5, L14-6)                                                                                                                                |
-|     15|2022-08-05 |Regresión Lineal Múltiple (L14-7, L14-8)                                                                                                                                |
-|     16|2022-08-10 |<font color="blue">Sesión preguntas</font>                                                                                                                              |
-|     16|2022-08-12 |<font color="blue">Examen IV</font>                                                                                                                                     |
--->
