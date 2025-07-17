@@ -1,7 +1,7 @@
 +++
 date      = 2020-10-27
 lastmod   = 2025-07-16
-draft     = true
+draft     = false
 tags      = ["Teaching", "Inference"]
 title     = "Estadística Inferencial"
 math      = true
