@@ -64,16 +64,16 @@ Por cita.
 
 |Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
-|1      |2025-08-06 |Presentación del curso                              |
+|1      |2025-08-06 |Presentación del curso. <br> Funciones de variables aleatorias. <br> **Lectura:** Prob 3.4  |
 |&nbsp; |2025-08-08 | . |
-|2     |2025-08-13 | .       |
-|&nbsp; |2025-08-15 | . |
-|3     |2025-08-20 | . |
-|&nbsp; |2025-08-22 | .        |
+|2     |2025-08-13 |  . <br> **Lectura:**  Prob 3.4.1      |
+|&nbsp; |2025-08-15 | . <br> **Lectura:**  Prob 3.4.2  |
+|3     |2025-08-20 | Presentación ejercicios |
+|&nbsp; |2025-08-22 | <font color="blue">Examen I</font>        |
 |4     |2025-08-27 | .        |
 |&nbsp; |2025-08-29 | .    |
 |5     |2025-09-03 |  <font color="blue">Sesión preguntas</font>        |
-|&nbsp; |2025-09-05 | <font color="blue">Examen I</font>            |
+|&nbsp; |2025-09-05 | .            |
 |6     |2025-09-10 | .        |
 |&nbsp; |2025-09-12 | .    |
 |7     |2025-09-17 | .        |
