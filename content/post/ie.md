@@ -51,8 +51,8 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 + DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. AddisonWesley.
 + Freud J. E., Miller I. y Miller M. (2000). *Estadística Matemática con aplicaciones.* Sexta Edición. Pearson Educación.
 + Gómez, M. (2005). *Inferencia estadística.* Ediciones Díaz de Santos.
-+ Mayorga, H. (2003.) *Inferencia Estadística.* Unibiblos.
-+ Rojas A. L. (2025) [Introducción al Cálculo de Probabilidades para estudiantes de Ingeniería](https://editorial.uptc.edu.co/gpd-introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria-9789586609449-680d0a2fc352d.html). Editorial UPTC.
++ Mayorga, H. (2003.) [*Inferencia Estadística.*](https://repositorio.unal.edu.co/handle/unal/53475) Unibiblos.
++ Rojas A. L. (2025) [*Introducción al Cálculo de Probabilidades para Estudiantes de Ingeniería*](https://editorial.uptc.edu.co/gpd-introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria-9789586609449-680d0a2fc352d.html). Editorial UPTC.
 
 
 
