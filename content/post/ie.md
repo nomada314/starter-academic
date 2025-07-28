@@ -7,42 +7,38 @@ title     = "Estadística Inferencial"
 math      = true
 +++
 
-La inferencia juega un papel importante en el ámbito empresarial y social dando soporte y objetividad a las investigaciones que se desarrollan utilizando muestras representativas. Para iniciar el presente curso, el estudiante ya tiene conocimiento de la Estadística Descriptiva, en la cual se trabaja con la población total, y consecuentemente el cálculo de probabilidades; ahora el estudio estadístico se realizará sobre muestras representativas obtenidas de poblaciones en particular, donde se aplican procedimientos inferenciales.
-
-### Justificación
-
-La asignatura de Estadística Inferencial le aporta al estudiante y futuro profesional un conocimiento teórico-práctico que le permite obtener inferencias, utilizando varios métodos, a partir de los datos muestrales, por otra parte las bases teóricas que se desarrollan en este curso, le permiten abordar y resolver un gran número de problemas de investigación de interés en su área, para obtener conclusiones y dar recomendaciones para la toma de decisiones en un caso dado y evaluar la exactitud de dicha inferencia, puesto que al tomar una decisión se desea conocer la posibilidad de que tal decisión sea correcta en el campo de los negocios; además los temas abordados le permiten al estudiante avanzar en otras asignaturas propias de su disciplina.
-
-
-### Competencias
-
-* Identifica claramente la diferencia entre población y muestra, parámetro y estimador.
-* Explica el proceso para la construcción de los intervalos de confianza e interpreta los resultados y concluye.
-* Interpreta apropiadamente los resultados obtenidos en los diferentes procesos inferenciales.
-
 ### Metodología
 
-+ **Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. Plenarias: Son clases en las cuales hay necesidad de una puesta en común de los conceptos.
-+ **Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. Desarrollo de talleres con discusión de ejercicios: En cada semana de trabajo y bajo la supervisión directa del profesor, se desarrolla un taller de ejercicios, a través del cual se soluciona un conjunto de problemas de aplicación a la temática respectiva de clase.
-+ **Trabajos de consulta:** La profundización de ciertos temas de interés relacionados con la asignatura, se llevará a cabo con la revisión del material bibliográfico disponible en la biblioteca o en las bases de datos.
-+ **Trabajos dirigidos:** Son aquellos que se desarrollan en presencia del docente y en los cuales entre otras actividades se realizan las siguientes: Socialización de lecturas, desarrollo de talleres, aclaración de significados.
++ **Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. 
 + **Exposición magistral:** El docente se encargará de realizar la exposición de cada uno de los temas, brindando el espacio para las preguntas de los estudiantes, las discusiones y consensos de información.
++ **Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. 
 + **Manejo de tecnología:** Desarrollo y complemento usando el computador con software estadístico (`R`).
++ **Trabajos de consulta:** La profundización de ciertos temas de interés relacionados con la asignatura, se llevará a cabo con la revisión del material bibliográfico disponible en la biblioteca.
 
 
 ### Contenidos mínimos
 
-
-+ **Unidad 1. Generalidades del muestreo y tipos de muestreo:** Diseños de las investigaciones por muestreo. Tipos de muestreo: Probabilístico y no Probabilístico. Mecanismos de selección de la muestra. Fundamentos del Muestreo Aleatorio Simple (M.A.S.). Fundamentos de otros tipos de muestreo: estratificado, conglomerado y sistemático.
-+ **Unidad 2. Distribuciones muestrales:** Concepto de distribución muestral de un estadístico. Distribución muestral de la media. Distribución muestral de la diferencia de medias. Distribución muestral de la proporción. Distribución muestral de la diferencia de proporciones. Distribuciones muéstrales de la varianza en una y dos poblaciones.
-+ **Unidad 3. Estimación e intervalos de confianza:** Definición de estimadores y estimaciones de parámetros. Características. Propiedades. Estimación puntual. Estimación por Intervalos. Generalidades: Nivel de confianza, límites de confianza, errores. Intervalos de confianza para la media en una y dos poblaciones. Intervalos de confianza para proporciones en una y dos poblaciones. Intervalos de confianza para la varianzas en una y dos poblaciones
-+ **Unidad 4. Pruebas de hipótesis:** Tipos de hipótesis. Tipos de errores (I y II). Pruebas para la media, la proporción y la varianza en una población. Pruebas para la media, la proporción y la varianza en dos poblaciones. Pruebas pareadas. Comparación de más de dos Medias ANOVA.
-+ **Unidad 5. Regresión lineal simple y correlación:** Correlación. Modelo de regresión. Estimación de parámetros. Coeficiente correlación. Prueba de ajuste del modelo.
++ **Unidad 1. Preliminares.** Estadísticas suficientes, auxiliares,  insesgadas, completas. Familia exponencial. Función de distribución empírica. Método de Montecarlo.
++ **Unidad 2. Estimación puntual.** Métodos de sustitución, momentos, máxima verosimilitud y bayesiano para encontrar estimadores. Métodos para evaluar estimadores.
++ **Unidad 3. Contraste de hipótesis.** Elementos de los contraste de hipótesis. Razón de verosimilitud, pruebas de Wald y *score*. Múltiples contrastes.
++ **Unidad 4. Estimación por regiones.** Métodos para encontrar estimadores por intervalo. Intervalos bayesianos. Intervalos aproximados y obtenidos usando con *Bootstrapping*.
 
 
 ### Evaluación
 
-La nota para cada corte se calculará con los siguientes pesos: 40% para talleres, 50% para exámenes y 10% para participación. 
+La nota final será obtenida con base en tres componentes: exámenes, presentaciones y participación. Cada uno de estos componentes se describe a continuación.
+
++ **Exámenes:**  se realizarán tres exámenes parciales durante el semestre. El primer examen se realizará el viernes TBA. El segundo examen se realizará el TBA. El tercer examen se realizará el TBA.
++ **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas.
++ **Presentaciones:** se harán al menos cuatro presentaciones durante el semestre. En la última presentación, el estudiante consultará un artículo publicado en una revista científica que use métodos aprendidos en clase. En el resto de presentaciones, el estudiante presentará la solución a problemas asignados previamenet, usualmente disponibles en el libro guía.
+
+
+|          | Primer 50| Segundo 50|
+|:---------------|------:|------:|
+| Exámenes       |  50 % | 25 % |
+| Participación  |  20 % | 20 % |
+| Presentaciones |  30 % | 30 % |
+| Artículo       |       | 25 % |
 
 
 ### Libro guía:
@@ -51,10 +47,14 @@ La nota para cada corte se calculará con los siguientes pesos: 40% para tallere
 
 ### Otras referencias:
 
-+ Levine, D., Krehbiel, T., y Berenson, M. (2014), Estadística para administración, México: Pearson Educación.
-+ Lind, D. A., Marchal, W. G., & Wathen, S. A. (2017). Statistical techniques in business & economics. McGraw-Hill Education. Disponible electrónicamente en castellano en la página de la [biblioteca](https://biblio.uptc.edu.co/login?qurl=https://www.ebooks7-24.com%2fstage.aspx%3fil%3d%26pg%3d%26ed%3d256)
-+ Mendenhall, W., Beaver, R., & Beaver, B., (2010), Introducción a la probabilidad y la estadística, México DF, México: Cengage Learning Editores S.A., 10a Edición.
-+ Weiers, R. (2008). *Introduction to Business Statistics.* Sixth Edition. Thomson South-Western.
++ Casella G. y Berger R. (2001). *Statistical Inference.* Second Edition. Duxbury.
++ DeGroot, M. y Schervish, M. (2012). *Probability and Statistics.* Fourth Edition. AddisonWesley.
++ Freud J. E., Miller I. y Miller M. (2000). *Estadística Matemática con aplicaciones.* Sexta Edición. Pearson Educación.
++ Gómez, M. (2005). *Inferencia estadística.* Ediciones Díaz de Santos.
++ Mayorga, H. (2003.) *Inferencia Estadística.* Unibiblos.
++ Rojas A. L. (2025) [Introducción al Cálculo de Probabilidades para estudiantes de Ingeniería](https://editorial.uptc.edu.co/gpd-introduccion-al-calculo-de-probabilidades-para-estudiantes-de-ingenieria-9789586609449-680d0a2fc352d.html). Editorial UPTC.
+
+
 
 ### Horas de oficina: 
 
@@ -64,14 +64,14 @@ Por cita.
 
 |Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
-|1      |2025-08-27 |Presentación del curso                              |
-|&nbsp; |2025-08-22 | . |
-|2     |2025-08-20 | .       |
-|&nbsp; |2025-08-22 | . |
-|3     |2025-08-27 | . |
-|&nbsp; |2025-08-29 | .        |
-|4     |2025-08-03 | .        |
-|&nbsp; |2025-08-05 | .    |
-|5     |2025-08-10 |  <font color="blue">Sesión preguntas</font>        |
-|&nbsp; |2025-08-12 | <font color="blue">Examen IV</font>            |
+|1      |2025-08-06 |Presentación del curso                              |
+|&nbsp; |2025-08-08 | . |
+|2     |2025-08-13 | .       |
+|&nbsp; |2025-08-15 | . |
+|3     |2025-08-20 | . |
+|&nbsp; |2025-08-22 | .        |
+|4     |2025-08-27 | .        |
+|&nbsp; |2025-08-29 | .    |
+|5     |2025-09-03 |  <font color="blue">Sesión preguntas</font>        |
+|&nbsp; |2025-09-05 | <font color="blue">Examen I</font>            |
 
