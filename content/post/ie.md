@@ -9,7 +9,7 @@ math      = true
 
 ### Metodología
 
-+ **Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a ver. 
++ **Lectura Previa:** Antes de todo trabajo de clase, el estudiante debe realizar una lectura sobre la temática a trabajar en clase. 
 + **Exposición magistral:** El docente se encargará de realizar la exposición de cada uno de los temas, brindando el espacio para las preguntas de los estudiantes, las discusiones y consensos de información.
 + **Lecturas Complementarias:** Las debe realizar el estudiante para profundizar las temáticas de clase. 
 + **Manejo de tecnología:** Desarrollo y complemento usando el computador con software estadístico (`R`).
