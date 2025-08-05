@@ -1,9 +1,9 @@
 +++
 date      = 2020-09-28
-lastmod   = 2025-07-16
+lastmod   = 2025-08-05
 draft     = false
 tags      = ["Teaching", "Programming", "Python"]
-title     = "Electiva I"
+title     = "Programación"
 math      = true
 +++
 
