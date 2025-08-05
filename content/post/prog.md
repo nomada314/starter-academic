@@ -28,7 +28,7 @@ La nota final será obtenida con base en tres componentes: participación, tarea
 
 + **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas, además de realizar las lecturas asignadas.
 + **Tareas:** se asignarán ocho tareas, cuatro por cada cincuenta. Las tareas serán presentadas oralmente durante la clase.
-+ **Proyecto:**  En parejeas, los estudiantes resolveran un problema práctico en el que utilicen un lenguaje de programación.
++ **Proyecto:**  En parejas, los estudiantes resolveran un problema práctico en el que utilicen un lenguaje de programación.
 
 
 |          | Primer 50| Segundo 50|
@@ -47,11 +47,11 @@ La nota final será obtenida con base en tres componentes: participación, tarea
 
 |Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
-|1      |2025-08-05 |Presentación del curso |
+|1      |2025-08-05 |Presentación del curso <br> https://julialang.org/install/ <br> https://code.visualstudio.com/download|
 |&nbsp; |2025-08-07 | Festivo |
-|2     |2025-08-12 |  <br> **Lectura:**   |
-|&nbsp; |2025-08-14 | . <br> **Lectura:**    |
-|3     |2025-08-19 | . |
+|2     |2025-08-12 | Variables, números enteros y de punto flotante <br> **Lectura:** JJJ 1.1 - 1.2   |
+|&nbsp; |2025-08-14 | Operadores y arreglos <br> **Lectura:**  **Lectura:** JJJ 1.3 - 1.4   |
+|3     |2025-08-19 | Arreglos, continuación |
 |&nbsp; |2025-08-21 |  .       |
 |4     |2025-08-26 | .        |
 |&nbsp; |2025-08-28 | .    |
