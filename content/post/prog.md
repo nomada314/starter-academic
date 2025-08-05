@@ -15,10 +15,7 @@ math      = true
 
 ### Otras referencias
 
-- **(TP)**: Bowney A. B. (2015) [Think Python](https://greenteapress.com/wp/think-python-2e/) *Second edition*. O'Reilly.
-
-- **(PSP)**: Kazarinoff P. D. (2019) [Problem Solving with Python](https://problemsolvingwithpython.com) Independently published.
-
+- **(Q)**: Lobianco, A. (2024)  Julia Quick Syntax Reference *Second edition*. Apress.
 - **(LR)**: López A. y Rojas A.L. (2021) [Introducción a Python para Estudiantes de Ciencias](https://alexrojas.netlify.app/publication/prog/). Editorial UPTC.
 
 
