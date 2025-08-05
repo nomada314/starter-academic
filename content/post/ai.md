@@ -1,6 +1,6 @@
 +++
 date      = 2025-07-16
-lastmod   = 2025-07-16
+lastmod   = 2025-08-05
 draft     = false
 tags      = ["Teaching", "AI"]
 title     = "Inteligencia Artificial"
