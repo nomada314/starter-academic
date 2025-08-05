@@ -7,8 +7,13 @@ title     = "Electiva I"
 math      = true
 +++
 
+
+
 ### Libros guía:
 
+- **(JJJ)**: López A. y Rojas A.L. (2023) [Julia, Julia, Julia](https://alexrojas.netlify.app/publication/julia/). Editorial UPTC.
+
+### Otras referencias
 
 - **(TP)**: Bowney A. B. (2015) [Think Python](https://greenteapress.com/wp/think-python-2e/) *Second edition*. O'Reilly.
 
@@ -16,24 +21,64 @@ math      = true
 
 - **(LR)**: López A. y Rojas A.L. (2021) [Introducción a Python para Estudiantes de Ciencias](https://alexrojas.netlify.app/publication/prog/). Editorial UPTC.
 
-### Horas de tutoría: 
 
-Por cita.
+### Evaluación
+
+La nota final será obtenida con base en tres componentes: participación, tareas y proyecto. Cada uno de estos componentes se describe a continuación.
+
++ **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas, además de realizar las lecturas asignadas.
++ **Tareas:** se asignarán ocho tareas, cuatro por cada cincuenta. Las tareas serán presentadas oralmente durante la clase.
++ **Proyecto:**  En parejeas, los estudiantes resolveran un problema práctico en el que utilicen un lenguaje de programación.
+
+
+|          | Primer 50| Segundo 50|
+|:---------------|------:|------:|
+| Tareas         |  50 % | 40 % |
+| Participación  |  50 % | 40 % |
+| Proyecto       |       | 20 % |
+
+
+### Horas de oficina: 
+
++ Miércoles 8:00 a 10:00 a.m.
++ Por cita
 
 ### Agenda
 
-|Semana |Fecha      |Tema         |
+|Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
-|1      |2025-08-27 |Presentación del curso                              |
-|&nbsp; |2025-08-22 | . |
-|2     |2025-08-20 | .       |
-|&nbsp; |2025-08-22 | . |
-|3     |2025-08-27 | . |
-|&nbsp; |2025-08-29 | .        |
-|4     |2025-08-03 | .        |
-|&nbsp; |2025-08-05 | .    |
-|5     |2025-08-10 |  <font color="blue">Sesión preguntas</font>        |
-|&nbsp; |2025-08-12 | <font color="blue">Examen </font>            |
+|1      |2025-08-05 |Presentación del curso |
+|&nbsp; |2025-08-07 | Festivo |
+|2     |2025-08-12 |  <br> **Lectura:**   |
+|&nbsp; |2025-08-14 | . <br> **Lectura:**    |
+|3     |2025-08-19 | . |
+|&nbsp; |2025-08-21 |  .       |
+|4     |2025-08-26 | .        |
+|&nbsp; |2025-08-28 | .    |
+|5     |2025-09-02 |  .        |
+|&nbsp; |2025-09-04 | .            |
+|6     |2025-09-09 | .        |
+|&nbsp; |2025-09-11 | .    |
+|7     |2025-09-16 | .        |
+|&nbsp; |2025-09-18 | .    |
+|8     |2025-09-23 | .        |
+|&nbsp; |2025-09-25 | .    |
+|9     |2025-09-30 | .        |
+|&nbsp; |2025-10-02 | .    |
+|10     |2025-10-07 | .        |
+|&nbsp; |2025-10-09 | .    |
+|11     |2025-10-14 | .        |
+|&nbsp; |2025-10-16 | .    |
+|12     |2025-10-21 | .        |
+|&nbsp; |2025-10-23 | .    |
+|13     |2025-10-28 | .        |
+|&nbsp; |2025-10-30 | .    |
+|14     |2025-11-04 | .        |
+|&nbsp; |2025-11-06 | .    |
+|15     |2025-11-11 | .        |
+|&nbsp; |2025-11-13 | .    |
+|16     |2025-11-18 | .        |
+|&nbsp; |2025-11-20 | .    |
 
 
 ### Resources:
