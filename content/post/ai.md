@@ -16,8 +16,8 @@ Zhang, A., Lipton, Z.C., Li, M. & Smola, A.J. [Dive into Deep Learning](https://
 
 La nota final será obtenida con base en cuatro componentes: participación, presentaciones, tareas y proyecto. Cada uno de estos componentes se describe a continuación.
 
-+ **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas.
-+ **Presentaciones:** se harán al menos cuatro presentaciones durante el semestre. En una de las presentaciones, el estudiante consultará un artículo publicado en una revista científica que use métodos aprendidos en clase. En el resto de presentaciones, el estudiante presentará métodos, ejemplos y/o soluciones a problemas asignados previamente, usualmente disponibles en el libro guía.
++ **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas, además de realizar las lecturas asignadas.
++ **Presentaciones:** se harán al menos cuatro presentaciones durante el semestre. En una de las presentaciones, el estudiante consultará un artículo publicado en una revista científica que use métodos aprendidos en clase (preferiblemente que ayuden al desarrollo de su proyecto). En el resto de presentaciones, el estudiante presentará métodos, ejemplos y/o soluciones a problemas asignados previamente, usualmente disponibles en el libro guía.
 + **Tareas:** se asignarán cuatro tareas, dos por cada cincuenta.
 + **Proyecto:**  En parejeas, los estudiantes resolveran un problema práctico en el que utilicen redes neuronales profundas.
 
