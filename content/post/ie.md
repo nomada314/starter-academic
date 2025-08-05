@@ -58,7 +58,9 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 
 ### Horas de oficina: 
 
-Por cita.
++ Miércoles 8:00 a 10:00 a.m.
++ Por cita
+
 
 ### Horario
 
