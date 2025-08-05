@@ -10,11 +10,24 @@ math      = true
 
 ### Libro guía:
 
+Zhang, A., Lipton, Z.C., Li, M. & Smola, A.J. [Dive into Deep Learning](https://d2l.ai/index.html)
+
+### Evaluación
+
+La nota final será obtenida con base en cuatro componentes: participación, presentaciones, tareas y proyecto. Cada uno de estos componentes se describe a continuación.
+
++ **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas.
++ **Presentaciones:** se harán al menos cuatro presentaciones durante el semestre. En una de las presentaciones, el estudiante consultará un artículo publicado en una revista científica que use métodos aprendidos en clase. En el resto de presentaciones, el estudiante presentará métodos, ejemplos y/o soluciones a problemas asignados previamente, usualmente disponibles en el libro guía.
++ **Tareas:** se asignarán cuatro tareas, dos por cada cincuenta.
++ **Proyecto:**  En parejeas, los estudiantes resolveran un problema práctico en el que utilicen redes neuronales profundas.
 
 
-### Otras referencias:
-
-+ 
+|          | Primer 50| Segundo 50|
+|:---------------|------:|------:|
+| Tareas         |  30 % | 30 % |
+| Participación  |  30 % | 20 % |
+| Presentaciones |  40 % | 30 % |
+| Proyecto       |       | 20 % |
 
 
 ### Horas de oficina: 
@@ -22,14 +35,13 @@ math      = true
 + Miércoles 8:00 a 10:00 a.m.
 + Por cita
 
-
-### Horario
+### Agenda
 
 |Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
 |1      |2025-08-05 |Presentación del curso |
 |&nbsp; |2025-08-07 | Festivo |
-|2     |2025-08-12 |  . <br> **Lectura:**   |
+|2     |2025-08-12 |  Introducción <br> **Lectura:**  https://d2l.ai/chapter_introduction/index.html |
 |&nbsp; |2025-08-14 | . <br> **Lectura:**    |
 |3     |2025-08-19 | . |
 |&nbsp; |2025-08-21 |  .       |
