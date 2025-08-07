@@ -67,14 +67,14 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |Semana |Fecha      |Tema                                                                                                                                                                    |
 |:------|:----------|:---------------------------------------------------|
 |1      |2025-08-06 |Presentación del curso. <br> Funciones de variables aleatorias. <br> **Lectura:** Prob 3.4  |
-|&nbsp; |2025-08-08 | . |
-|2     |2025-08-13 |  . <br> **Lectura:**  Prob 3.4.1      |
-|&nbsp; |2025-08-15 | . <br> **Lectura:**  Prob 3.4.2  |
-|3     |2025-08-20 | Presentación ejercicios |
-|&nbsp; |2025-08-22 | <font color="blue">Examen I</font>        |
-|4     |2025-08-27 | .        |
-|&nbsp; |2025-08-29 | .    |
-|5     |2025-09-03 |  <font color="blue">Sesión preguntas</font>        |
+|&nbsp; |2025-08-08 | Prob 3.4 y Ejemplo 1.10  |
+|2     |2025-08-13 |  Estadísticas y suficiencia <br> **Lectura:**  Prob 3.4.1 y 3.4.2. IE p. 1 - 10|
+|&nbsp; |2025-08-15 | Estadísticas y suficiencia, cont. <br> **Lectura:**  IE p. 11 - 16 |
+|3     |2025-08-20 | Familia exponencial  <br> **Lectura:**  IE p. 17 - 22|
+|&nbsp; |2025-08-22 | Función de distribución empírica y Método de Montecarlo <br> **Lectura:**  IE p. 17 - 25 |
+|4     |2025-08-27 | Presentación ejercicios |
+|&nbsp; |2025-08-29 | <font color="blue">Examen I</font>    |
+|5     |2025-09-03 |  .        |
 |&nbsp; |2025-09-05 | .            |
 |6     |2025-09-10 | .        |
 |&nbsp; |2025-09-12 | .    |
