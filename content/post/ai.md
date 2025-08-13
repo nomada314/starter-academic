@@ -42,8 +42,8 @@ La nota final será obtenida con base en cuatro componentes: participación, pre
 |1      |2025-08-05 |Presentación del curso |
 |&nbsp; |2025-08-07 | Festivo |
 |2     |2025-08-12 |  Introducción <br> **Lectura:**  https://d2l.ai/chapter_introduction/index.html |
-|&nbsp; |2025-08-14 | . <br> **Lectura:**    |
-|3     |2025-08-19 | . |
+|&nbsp; |2025-08-14 | Manipulación de datos <br> **Lectura:**  [Sec 2.1](https://d2l.ai/chapter_preliminaries/ndarray.html#), [Sec 2.2](https://d2l.ai/chapter_preliminaries/pandas.html) |
+|3     |2025-08-19 | Diferenciación automática <br> **Lectura:** [Sec 2.5](https://d2l.ai/chapter_preliminaries/autograd.html)|
 |&nbsp; |2025-08-21 |  .       |
 |4     |2025-08-26 | .        |
 |&nbsp; |2025-08-28 | .    |
