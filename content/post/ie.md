@@ -28,7 +28,7 @@ math      = true
 
 La nota final será obtenida con base en tres componentes: exámenes, presentaciones y participación. Cada uno de estos componentes se describe a continuación.
 
-+ **Exámenes:**  se realizarán tres exámenes parciales durante el semestre. El primer examen se realizará el viernes TBA. El segundo examen se realizará el TBA. El tercer examen se realizará el TBA.
++ **Exámenes:**  se realizarán tres exámenes parciales durante el semestre. El primer examen se realizará el viernes 29 de agosto de 2025. El segundo examen se realizará el TBA. El tercer examen se realizará el TBA.
 + **Participación:** se espera que el estudiante participe activamente en clase haciendo y contestando preguntas.
 + **Presentaciones:** se harán al menos cuatro presentaciones durante el semestre. En la última presentación, el estudiante consultará un artículo publicado en una revista científica que use métodos aprendidos en clase. En el resto de presentaciones, el estudiante presentará la solución a problemas asignados previamenet, usualmente disponibles en el libro guía.
 
