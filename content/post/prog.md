@@ -80,17 +80,7 @@ La nota final será obtenida con base en tres componentes: participación, tarea
 
 ### Resources:
 
-  - [Anaconda](https://anaconda.org)
-
-  - [CoCalc](https://cocalc.com)
-
   - [Jupyter](https://jupyter.org/)
-
-  - [matplotlib](https://matplotlib.org/3.1.1/index.html)
-
-  - [NumPy](https://www.numpy.org/)
-
-  - [Scipy](https://www.scipy.org/)
 
   - [VS Code](https://code.visualstudio.com/)
 
