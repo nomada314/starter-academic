@@ -72,7 +72,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-08-15 | Estadísticas y suficiencia, cont. <br> **Lectura:**  IE p. 11 - 16 |
 |3     |2025-08-20 | Familia exponencial  <br> **Lectura:**  IE p. 17 - 22|
 |&nbsp; |2025-08-22 | Función de distribución empírica y Método de Montecarlo <br> **Lectura:**  IE p. 17 - 25 |
-|4     |2025-08-27 | Presentación ejercicios |
+|4     |2025-08-27 | Presentación ejercicios (1.2, 1.13, 1.15, 1.16, 1.17) |
 |&nbsp; |2025-08-29 | <font color="blue">Examen I</font>    |
 |5     |2025-09-03 |  .        |
 |&nbsp; |2025-09-05 | .            |
