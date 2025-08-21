@@ -72,7 +72,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-08-15 | Estadísticas y suficiencia, cont. <br> **Lectura:**  IE p. 11 - 16 <br> Familia exponencial  <br> **Lectura:**  IE p. 17 - 22 |
 |3     |2025-08-20 |  Función de distribución empírica y Método de Montecarlo <br> **Lectura:**  IE p. 22 - 33|
 |&nbsp; |2025-08-22 | Estimadores insesgados <br> **Lectura:**  IE p. 35 - 52 |
-|4     |2025-08-27 | Presentación ejercicios (1.1, 1.2, 1.13, 1.15, 1.16, 1.17, 2.2) |
+|4     |2025-08-27 | Presentación ejercicios: 1.1, 1.2, 1.13, 1.15, 1.16, 1.17, 2.2 y Agujas de Buffón (lea la descripción más abajo) |
 |&nbsp; |2025-08-29 | <font color="blue">Examen I</font>   |
 |5     |2025-09-03 |  .        |
 |&nbsp; |2025-09-05 | .            |
@@ -98,4 +98,8 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-11-14 | .    |
 |16     |2025-11-19 | .        |
 |&nbsp; |2025-11-21 | .    |
+
+#### Agujas de Buffon
+
+Consulte el problema de las agujas de Buffon y haga una simulación para estimar $\pi$.
 
