@@ -47,14 +47,14 @@ La nota final será obtenida con base en tres componentes: participación, tarea
 |1      |2025-08-05 |Presentación del curso <br> https://julialang.org/install/ <br> https://code.visualstudio.com/download|
 |&nbsp; |2025-08-07 | Festivo |
 |2     |2025-08-12 | Variables, números enteros y de punto flotante <br> **Lectura:** JJJ 1.1 - 1.2   |
-|&nbsp; |2025-08-14 | Operadores y arreglos <br> **Lectura:**  **Lectura:** JJJ 1.3 - 1.4   |
+|&nbsp; |2025-08-14 | Operadores y arreglos <br>  **Lectura:** JJJ 1.3 - 1.4   |
 |3     |2025-08-19 | Arreglos, continuación |
-|&nbsp; |2025-08-21 |  .       |
-|4     |2025-08-26 | .        |
-|&nbsp; |2025-08-28 | .    |
-|5     |2025-09-02 |  .        |
-|&nbsp; |2025-09-04 | .            |
-|6     |2025-09-09 | .        |
+|&nbsp; |2025-08-21 | *Broadcasting*       |
+|4     |2025-08-26 | Figuras  **Lectura:** JJJ 1.5       |
+|&nbsp; |2025-08-28 | Presentación Taller I (1.2, 1.5, 1.7, 1.8, 1.10, 1.12, 1.16) <br> Estructuras <br> **Lectura:** JJJ 1.6|
+|5     |2025-09-02 |  Estructuras, continuación         |
+|&nbsp; |2025-09-04 | Presentación Taller II (1.18, 1.22, 1.23, 1.24 )  <br> Funciones <br> **Lectura:** JJJ 2.1 |
+|6     |2025-09-09 | Funciones, continuación            |
 |&nbsp; |2025-09-11 | .    |
 |7     |2025-09-16 | .        |
 |&nbsp; |2025-09-18 | .    |
