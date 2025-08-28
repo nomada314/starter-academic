@@ -74,9 +74,9 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-08-22 | Estimadores insesgados <br> **Lectura:**  IE p. 35 - 52 |
 |4     |2025-08-27 | Presentación ejercicios: 1.1, 1.2, 1.13, 1.15, 1.16, 1.17, 2.2 y Agujas de Buffón (lea la descripción más abajo) |
 |&nbsp; |2025-08-29 | <font color="blue">Examen I</font>   |
-|5     |2025-09-03 |  .        |
-|&nbsp; |2025-09-05 | .            |
-|6     |2025-09-10 | .        |
+|5     |2025-09-03 | Estimadores insesgados, continuación <br> **Lectura:**  IE p. 35 - 52   |
+|&nbsp; |2025-09-05 | *Bootstrapping*  <br> **Lectura:**  IE p. 55 - 59         |
+|6     |2025-09-10 | Método de momentos y máxima verosimilitud <br> **Lectura:**  IE p.  59 -    88   |
 |&nbsp; |2025-09-12 | .    |
 |7     |2025-09-17 | .        |
 |&nbsp; |2025-09-19 | .    |
