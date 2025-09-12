@@ -63,18 +63,20 @@ caption = "Figura 3.3."
 * p. 38, Ejemplo 2.5: en el último término en la segunda línea del cálculo de $\mathbb{E}[S^2]$ debe emplearse paréntesis cuadrados, $\mathbb{E}[\overline{X}^2]$.
 * p. 40, En la última expresión para $\mathbb{V}_{\theta}(T(X))$ es un signo menos, en lugar de un signo más.
 * p. 46, En la última línea: Mood *et al.* (1974, p. 326) en lugar de Mood *et al.* (1974, ,p.326).
-* p. 50, En la última ecuación, en la indicadora debe cambiarse $t$ por $\tau$.
+* p. 50, En la última ecuación: en la indicadora debe cambiarse $t$ por $\tau$.
 * p. 51, Ejemplo 2.19: en la expansión de Maclaurin debe usarse $\lambda/n$ en lugar de $n/\lambda$.
 * p. 52, En la última línea debe incluirse "de variables aleatorias" entre las palabras "muestra" e "independiemnte". 
-* p. 57, Figura 2.5, la cantidad de muestras *bootstrap* son 10000, no 1000.
+* p. 57, Figura 2.5: la cantidad de muestras *bootstrap* son 10000, no 1000.
 * p. 61, justo antes de la ecuación para $\mathbb(E)_{\alpha}(X)$, la frase "Usando el método de momentos,".
-* p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
+* p. 61, Ejemplo 2.26: la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
 * p. 70, final del primer párrafo, al decir "si la moneda cae sello", debemos calcular las probabilidades condicionales para cada moneda. Así, en lugar de escribir las probabilidades conjuntas (0.1 y 0.7) debe ser $1/8$ y $7/8$.
-* p. 70, Ejemplo 2.34, en la descripción del ejemplo los valores de $k$ y $r$ están invertidos. Es decir, de los $k$ animales en la segunda captura, $r$ están marcados. Además, el estimador de $N$ por máxima verosimilitud es $\lfloor\frac{tk}{r}\rfloor$.
-* p. 71, Ejemplo 2.35, en la última frase debe ser "luego **el** $\widehat{\theta}_{MLE}$ satisface".
+* p. 70, Ejemplo 2.34: en la descripción del ejemplo los valores de $k$ y $r$ están invertidos. Es decir, de los $k$ animales en la segunda captura, $r$ están marcados. Además, el estimador de $N$ por máxima verosimilitud es $\lfloor\frac{tk}{r}\rfloor$.
+* p. 71, Ejemplo 2.35: en la última frase debe ser "luego **el** $\widehat{\theta}_{MLE}$ satisface".
 * p. 75, Ecuación 2.8: el último término dentro del radical es positivo, no negativo.
-* p. 75, Figura 2.15, panel derecho: la figura presenta $-S(\theta)$, no $-S(\theta)$.
+* p. 75, Figura 2.15: panel derecho: la figura presenta $-S(\theta)$, no $S(\theta)$.
+* p. 76, Ejemplo 2.40: la primera frase debe terminar con gamma$(\alpha, \beta)$, no $\mathbf{\theta} = (\alpha, \beta)$.
 * p. 77, Ejemplo 2.41: el factor inicial en la productoria en la función de log-verosimilitud es para $i = 1$. 
+* p. 77, Ecuación 2.12: falta adicionar $\cdot I_{(-1,2)}(x)+I_{(1,\infty)}(x)$. 
 * p. 100, novena línea: Debe ser $E_{\theta^{(0)}}(\log k(\mathbf{Z}|\theta,\mathbf{X}))$, no $E_{\theta^{(0)}}(\log k(\theta|\mathbf{X}))$.
 * p. 117, Ejemplo 2.60: En la primera ecuación debe ser $\lambda$ en lugar de $\theta$.
 * p. 128, El código usado en el **Ejemplo 2.69** aparece fuera de las márgenes. Sin embargo, este código se encuentra en el [código del segundo capítulo](https://alexrojas.netlify.app/code/Inf/Infcap2.R).
