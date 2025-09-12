@@ -16,10 +16,7 @@ caption = "Figura 3.3."
 +++
 
 
-<center><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b115ef50-medium.jpg" width="250">
-  
-Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-concisa-a-la-inferencia-estadistica/)
-</center>
+<center><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b115ef50-medium.jpg" width="250"></center>
 
 
 ## Datos
@@ -70,8 +67,11 @@ Disponible en [RedBooks](https://www.redbooks.com.co/product/una-introduccion-co
 * p. 51, Ejemplo 2.19: en la expansión de Maclaurin debe usarse $\lambda/n$ en lugar de $n/\lambda$.
 * p. 52, En la última línea debe incluirse "de variables aleatorias" entre las palabras "muestra" e "independiemnte". 
 * p. 57, Figura 2.5, la cantidad de muestras *bootstrap* son 10000, no 1000.
+* p. 61, justo antes de la ecuación para $\mathbb(E)_{\alpha}(X)$, la frase "Usando el método de momentos,".
 * p. 61, Ejemplo 2.26, la definición de $Y$ debe ser $Y=I_{[-1,0)}(X)$ y $\widehat{p}$ es la proporción de electrones que van hacia atrás.
+* p. 70, final del primer párrafo, al decir "si la moneda cae sello", debemos calcular las probabilidades condicionales para cada moneda. Así, en lugar de escribir las probabilidades conjuntas (0.1 y 0.7) debe ser $1/8$ y $7/8$.
 * p. 70, Ejemplo 2.34, en la descripción del ejemplo los valores de $k$ y $r$ están invertidos. Es decir, de los $k$ animales en la segunda captura, $r$ están marcados. Además, el estimador de $N$ por máxima verosimilitud es $\lfloor\frac{tk}{r}\rfloor$.
+* p. 71, Ejemplo 2.35, en la última frase debe ser "luego **el** $\widehat{\theta}_{MLE}$ satisface".
 * p. 75, Ecuación 2.8: el último término dentro del radical es positivo, no negativo.
 * p. 75, Figura 2.15, panel derecho: la figura presenta $-S(\theta)$, no $-S(\theta)$.
 * p. 77, Ejemplo 2.41: el factor inicial en la productoria en la función de log-verosimilitud es para $i = 1$. 
