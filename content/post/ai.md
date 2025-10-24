@@ -60,15 +60,15 @@ La nota final será obtenida con base en cuatro componentes: participación, pre
 |10     |2025-10-07 | .        |
 |&nbsp; |2025-10-09 | .    |
 |11     |2025-10-14 | .        |
-|&nbsp; |2025-10-16 | .    |
-|12     |2025-10-21 | .        |
-|&nbsp; |2025-10-23 | .    |
+|&nbsp; |2025-10-16 | CNN    |
+|12     |2025-10-21 | CNN, cont.        |
+|&nbsp; |2025-10-23 | CNN, cont.    |
 |13     |2025-10-28 | .        |
 |&nbsp; |2025-10-30 | .    |
 |14     |2025-11-04 | .        |
 |&nbsp; |2025-11-06 | .    |
-|15     |2025-11-11 | .        |
-|&nbsp; |2025-11-13 | .    |
-|16     |2025-11-18 | .        |
-|&nbsp; |2025-11-20 | .    |
+|15     |2025-11-11 | Presentación proyecto        |
+|&nbsp; |2025-11-13 | Presentación proyecto    |
+|16     |2025-11-18 | Presentación proyecto        |
+|&nbsp; |2025-11-20 | Presentación proyecto    |
 
