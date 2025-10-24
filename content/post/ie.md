@@ -72,7 +72,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-08-15 | Estadísticas y suficiencia, cont. <br> **Lectura:**  IE p. 11 - 16 <br> Familia exponencial  <br> **Lectura:**  IE p. 17 - 22 |
 |3     |2025-08-20 |  Función de distribución empírica y Método de Montecarlo <br> **Lectura:**  IE p. 22 - 33|
 |&nbsp; |2025-08-22 | Estimadores insesgados <br> **Lectura:**  IE p. 35 - 52 |
-|4     |2025-08-27 | Presentación ejercicios: 1.1, 1.2, 1.13, 1.15, 1.16, 1.17, 2.2 y Agujas de Buffón (lea la descripción más abajo) |
+|4     |2025-08-27 | Presentación ejercicios: 1.1, 1.2, 1.13, 1.15, 1.16, 1.17, 2.2 y Agujas de Buffón  |
 |&nbsp; |2025-08-29 | <font color="blue">Examen I</font>   |
 |5     |2025-09-03 | Estimadores insesgados, continuación <br> **Lectura:**  IE p. 35 - 52   |
 |&nbsp; |2025-09-05 | *Bootstrapping*  <br> **Lectura:**  IE p. 55 - 59         |
@@ -86,20 +86,16 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |&nbsp; |2025-10-03 | .    |
 |10     |2025-10-08 | .        |
 |&nbsp; |2025-10-10 | .    |
-|11     |2025-10-15 | .        |
-|&nbsp; |2025-10-17 | .    |
-|12     |2025-10-22 | .        |
-|&nbsp; |2025-10-24 | Examen 3.  [E1](https://alexrojas.netlify.app/media/ie/ex31.png), [E3a](https://alexrojas.netlify.app/media/ie/ex33a.png) ,[E3b](https://alexrojas.netlify.app/media/ie/ex33b.png)   |
-|13     |2025-10-29 | .        |
-|&nbsp; |2025-10-31 | .    |
-|14     |2025-11-05 | .        |
-|&nbsp; |2025-11-07 | .    |
-|15     |2025-11-12 | .        |
-|&nbsp; |2025-11-14 | .    |
-|16     |2025-11-19 | .        |
-|&nbsp; |2025-11-21 | .    |
-
-#### Agujas de Buffon
-
-Consulte el problema de las agujas de Buffon y haga una simulación para estimar $\pi$.
+|11     |2025-10-15 |         |
+|&nbsp; |2025-10-17 |     |
+|12     |2025-10-22 |       |
+|&nbsp; |2025-10-24 | Examen III.  [E1](https://alexrojas.netlify.app/media/ie/ex31.png), [E3a](https://alexrojas.netlify.app/media/ie/ex33a.png) ,[E3b](https://alexrojas.netlify.app/media/ie/ex33b.png)   |
+|13     |2025-10-29 | Pruebas de hipótesis        |
+|&nbsp; |2025-10-31 | Razón de verosimilitud. Pruebas *score* y de Wald    |
+|14     |2025-11-05 | Múltiples  contrastes  |
+|&nbsp; |2025-11-07 | Presentación ejercicios. Intervalos de confiabilidad  |
+|15     |2025-11-12 | Intervalos de confianza        |
+|&nbsp; |2025-11-14 | Intervalos de confianza aproximados    |
+|16     |2025-11-19 | Presentación artículo    |
+|&nbsp; |2025-11-21 | Examen IV    |
 
