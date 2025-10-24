@@ -77,7 +77,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |5     |2025-09-03 | Estimadores insesgados, continuación <br> **Lectura:**  IE p. 35 - 52   |
 |&nbsp; |2025-09-05 | *Bootstrapping*  <br> **Lectura:**  IE p. 55 - 59         |
 |6     |2025-09-10 | Método de momentos y máxima verosimilitud <br> **Lectura:**  IE p.  59 -    88   |
-|&nbsp; |2025-09-12 | .    |
+|&nbsp; |2025-09-12 |  máxima verosimilitud   |
 |7     |2025-09-17 | .        |
 |&nbsp; |2025-09-19 | .    |
 |8     |2025-09-24 | .        |
@@ -89,7 +89,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |11     |2025-10-15 | .        |
 |&nbsp; |2025-10-17 | .    |
 |12     |2025-10-22 | .        |
-|&nbsp; |2025-10-24 | .    |
+|&nbsp; |2025-10-24 | Examen 3.  [E1](https://alexrojas.netlify.app/media/ie/ex31.png), [E3a](https://alexrojas.netlify.app/media/ie/ex33a.png) ,[E3b](https://alexrojas.netlify.app/media/ie/ex33b.png)   |
 |13     |2025-10-29 | .        |
 |&nbsp; |2025-10-31 | .    |
 |14     |2025-11-05 | .        |
