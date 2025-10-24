@@ -89,7 +89,7 @@ La nota final será obtenida con base en tres componentes: exámenes, presentaci
 |11     |2025-10-15 |         |
 |&nbsp; |2025-10-17 |     |
 |12     |2025-10-22 |       |
-|&nbsp; |2025-10-24 | Examen III.  [E1](https://alexrojas.netlify.app/media/ie/ex31.png), [E3a](https://alexrojas.netlify.app/media/ie/ex33a.png) ,[E3b](https://alexrojas.netlify.app/media/ie/ex33b.png)   |
+|&nbsp; |2025-10-24 | Examen III |
 |13     |2025-10-29 | Pruebas de hipótesis        |
 |&nbsp; |2025-10-31 | Razón de verosimilitud. Pruebas *score* y de Wald    |
 |14     |2025-11-05 | Múltiples  contrastes  |
