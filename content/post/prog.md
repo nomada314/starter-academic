@@ -65,17 +65,17 @@ La nota final será obtenida con base en tres componentes: participación, tarea
 |10     |2025-10-07 | .        |
 |&nbsp; |2025-10-09 | .    |
 |11     |2025-10-14 | .        |
-|&nbsp; |2025-10-16 | .    |
-|12     |2025-10-21 | .        |
-|&nbsp; |2025-10-23 | .    |
-|13     |2025-10-28 | .        |
-|&nbsp; |2025-10-30 | .    |
-|14     |2025-11-04 | .        |
-|&nbsp; |2025-11-06 | .    |
-|15     |2025-11-11 | .        |
-|&nbsp; |2025-11-13 | .    |
-|16     |2025-11-18 | .        |
-|&nbsp; |2025-11-20 | .    |
+|&nbsp; |2025-10-16 | Macros   |
+|12     |2025-10-21 | Animaciones,        |
+|&nbsp; |2025-10-23 | Animaciones, cont.    |
+|13     |2025-10-28 | Práctica        |
+|&nbsp; |2025-10-30 | Práctica    |
+|14     |2025-11-04 | Lectura de datos, subconjuntos        |
+|&nbsp; |2025-11-06 | Concatenación y combinación    |
+|15     |2025-11-11 | Estrategia SAC        |
+|&nbsp; |2025-11-13 | Presentación ejercicios   |
+|16     |2025-11-18 | Visualización        |
+|&nbsp; |2025-11-20 | Presentaciones    |
 
 
 ### Resources:
