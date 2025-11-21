@@ -1,17 +1,23 @@
 +++
 date      = 2020-09-28
-lastmod   = 2025-01-22
+lastmod   = 2025-11-21
 draft     = false
 tags      = ["Teaching"]
 title     = "Teaching"
 math      = true
 +++
 
+## Primer semestre 2026
+
+* [Teoría del interés](https://alexrojas.netlify.app/)
+* [TBA](https://alexrojas.netlify.app/)
+* [TBA](https://alexrojas.netlify.app/)
+
 ## Segundo semestre 2025
 
-* [Programación](https://alexrojas.netlify.app/post/prog/)
-* [Inteligencia Artificial](https://alexrojas.netlify.app/post/ai/)
-* [Estadística Inferencial](https://alexrojas.netlify.app/post/ie/)
+* Programación
+* Inteligencia Artificial
+* Estadística Inferencial
 
 ## Primer semestre 2025
 
