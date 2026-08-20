@@ -72,7 +72,7 @@ Semana | Fecha | Tópico
 1  | Ago 11 | Presentación del curso. 
 2  | Ago 13 | Introducción a `R`
 3  | Ago 18 | Manipulación de datos
-4  | Ago 20 | Manipulación de datos, cont. 
+4  | Ago 20 | Manipulación de datos, cont.  Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/plasticsOrig.csv)
 5  | Ago 25 | 
 
 
