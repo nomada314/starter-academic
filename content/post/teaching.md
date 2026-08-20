@@ -7,11 +7,18 @@ title     = "Teaching"
 math      = true
 +++
 
+## Segundo semestre 2026
+
+* Programación
+* Análisis Numérico
+* Electiva I
+* Estadística Inferencial
+
 ## Primer semestre 2026
 
-* [Teoría del interés](https://alexrojas.netlify.app/)
-* [TBA](https://alexrojas.netlify.app/)
-* [TBA](https://alexrojas.netlify.app/)
+* Teoría del interés
+* Análisis Numérico
+* Cálculo I
 
 ## Segundo semestre 2025
 
