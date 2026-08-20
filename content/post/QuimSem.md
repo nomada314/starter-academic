@@ -1,9 +1,9 @@
 +++
 date      = 2021-01-31
-lastmod   = 2021-01-31
-draft     = true
+lastmod   = 2026-08-20
+draft     = false
 tags      = ["Teaching", "Design of Experiments"]
-title     = "Seminario I. Modulo diseño experimental"
+title     = "Electiva I"
 math      = true
 +++
 
@@ -53,16 +53,15 @@ Por cita
 
 La nota final para este módulo será obtenida con base en tres componentes: exámenes (50%), tareas (40%) y un exposición (10%). Cada uno de estos componentes se describe a continuación.
 
-*Exámenes:* se realizarán dos examenes parciales durante el semestre. El primer examen se realizará el jueves 8 de abril de 2021. El segundo examen se realizará el 20 de mayo de 2021 y el examen final será el jueves 10 de Junio de 2021.
+*Exámenes:* se realizarán dos examenes parciales durante el semestre. 
 
-*Tareas:* A lo largo del semestre se asignarán al menos cuatro (4) tareas. Todas las tareas deben llevarse acabo con algún *software* estadístico, a menos que se diga lo contrario. Además deben ser enviadas usando [Piazza] en formato pdf.
+*Tareas:* A lo largo del semestre se asignarán tareas. Todas las tareas deben llevarse acabo con algún *software* estadístico, a menos que se diga lo contrario. 
 
 *Exposición:* cada estudiante expondrá un artículo relacionado con su área de investigación y que use métodos aprendidos en clase.
 
 **Para tener en cuenta:**
 
-- Para el análisis de datos, se usará el *software* estadístico [R].
-- Toda la comunicación será llevada acabo usando [Piazza].
+- Para el análisis de datos, se usará el *software* estadístico `R`.
 - __[Cualquier documento entregado usando Microsoft Word, escrito a mano o escaneado no será aceptado](http://www.gnu.org/philosophy/no-word-attachments.html)__.
 
 
@@ -70,20 +69,12 @@ La nota final para este módulo será obtenida con base en tres componentes: ex�
 
 Semana | Fecha | Tópico
 ---| ---| ---
-1  | Feb 25 | Presentación del curso. <br> Introducción a `R`
-2  | Mar 04 | Distribución normal y teorema de límite central
-3  | Mar 11 | Distribuciones muestrales
-4  | Mar 18 | Intervalos de confianza
-5  | Mar 25 | Pruebas de hipótesis
-6  | Abr 08 | `R`
-7  | Abr 15 | `R`
-8  | Abr 22 | Principios del diseño de experimentos
-9  | Abr 29 | Principios del diseño de experimentos, cont.
-10  | May 06 | Supuestos
-11  | May 13 | Diseño Factorial
-12  | May 20 | Diseño Factorial, cont
-13  | May 27 | Diseño factorial $2^k$
-14  | Jun 03 | Superficies de respuesta
-15  | Jun 10 | Superficies de respuesta, cont
-16  | Jun 17 | Superficies de respuesta, cont
+1  | Ago 11 | Presentación del curso. 
+2  | Ago 13 | Introducción a `R`
+3  | Ago 18 | Manipulación de datos
+4  | Ago 20 | Manipulación de datos, cont. 
+5  | Ago 25 | 
+
+
+
 
