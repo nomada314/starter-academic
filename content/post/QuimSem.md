@@ -74,7 +74,7 @@ Semana | Fecha | Tópico
 3  | Ago 18 | Manipulación de datos
 4  | Ago 20 | Manipulación de datos, cont.  Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/plasticsOrig.csv)
 5  | Ago 25 | Probabilidad
-6  | Ago 27 | Regresión lineal Datos: [Concentración Na](https://alexrojas.netlify.app/Data/QuimSem/NaConc.csv)
+6  | Ago 27 | Regresión lineal Datos: [Concentración Na](https://alexrojas.netlify.app/Data/QuimSem/NaConc.csv) <br> [Desconocido](https://alexrojas.netlify.app/Data/QuimSem/FAESdes.csv)
 
 
 
