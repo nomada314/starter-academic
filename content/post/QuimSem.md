@@ -73,7 +73,9 @@ Semana | Fecha | Tópico
 2  | Ago 13 | Introducción a `R`
 3  | Ago 18 | Manipulación de datos
 4  | Ago 20 | Manipulación de datos, cont.  Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/plasticsOrig.csv)
-5  | Ago 25 | 
+5  | Ago 25 | Probabilidad
+6  | Ago 27 | Regresión lineal Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/NaConc.csv)
+
 
 
 
