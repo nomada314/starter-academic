@@ -70,12 +70,17 @@ La nota final para este módulo será obtenida con base en tres componentes: ex�
 Semana | Fecha | Tópico
 ---| ---| ---
 1  | Ago 11 | Presentación del curso. 
-2  | Ago 13 | Introducción a `R`
-3  | Ago 18 | Manipulación de datos
-4  | Ago 20 | Manipulación de datos, cont.  Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/plasticsOrig.csv)
-5  | Ago 25 | Probabilidad
-6  | Ago 27 | Regresión lineal Datos: [Concentración Na](https://alexrojas.netlify.app/Data/QuimSem/NaConc.csv) <br> [Desconocido](https://alexrojas.netlify.app/Data/QuimSem/FAESdes.csv)
-
+.   | Ago 13 | Introducción a `R`
+2  | Ago 18 | Manipulación de datos
+.  | Ago 20 | Manipulación de datos, cont.  Datos: [Plasticos](https://alexrojas.netlify.app/Data/QuimSem/plasticsOrig.csv)
+3  | Ago 25 | Probabilidad
+.  | Ago 27 | Regresión lineal Datos: [Concentración Na](https://alexrojas.netlify.app/Data/QuimSem/NaConc.csv) <br> [Desconocido](https://alexrojas.netlify.app/Data/QuimSem/FAESdes.csv)
+4  | Sep 01 | Regresión lineal, cont.
+.  | Sep 03 | Regresión cuadrática
+5  | Sep 08 | Repaso 
+.  | Sep 10 | Examen. Datos: [OPFR](https://alexrojas.netlify.app/Data/QuimSem/OPFR.csv) <br> [OPFRmuestras](https://alexrojas.netlify.app/Data/QuimSem/OPFRmuestras.csv)
+6  | Sep 15 | .
+.  | Sep 17 | .
 
 
 
