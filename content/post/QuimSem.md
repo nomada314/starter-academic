@@ -80,7 +80,7 @@ Semana | Fecha | Tópico
 5  | Sep 08 | Repaso 
 .  | Sep 10 | Examen. Datos: [OPFR](https://alexrojas.netlify.app/Data/QuimSem/OPFR.csv) <br> [OPFRmuestras](https://alexrojas.netlify.app/Data/QuimSem/OPFRmuestras.csv)
 6  | Sep 15 | [Principios de diseño](https://alexrojas.netlify.app/post/quimsem/principiosdiseno.html) 
-.  | Sep 17 | [Principios de diseño, cont.](https://alexrojas.netlify.app/post/quimsem/principiosdiseno.html) 
+.  | Sep 17 | [Diseño Factorial](https://alexrojas.netlify.app/post/quimsem/factorial.html) 
 7  | Sep 22 | .
 .  | Sep 24 | .
 
