@@ -79,9 +79,10 @@ Semana | Fecha | Tópico
 .  | Sep 03 | Regresión cuadrática
 5  | Sep 08 | Repaso 
 .  | Sep 10 | Examen. Datos: [OPFR](https://alexrojas.netlify.app/Data/QuimSem/OPFR.csv) <br> [OPFRmuestras](https://alexrojas.netlify.app/Data/QuimSem/OPFRmuestras.csv)
-6  | Sep 15 | .
-.  | Sep 17 | .
-
+6  | Sep 15 | [Principios de diseño](https://alexrojas.netlify.app/post/quimsem/principiosdiseno.html) 
+.  | Sep 17 | [Principios de diseño, cont.](https://alexrojas.netlify.app/post/quimsem/principiosdiseno.html) 
+7  | Sep 22 | .
+.  | Sep 24 | .
 
 
 
