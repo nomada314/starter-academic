@@ -48,7 +48,7 @@ Por cita
 
 - Montgomery, D. C. (2017). **Design and analysis of experiments**. John wiley & sons.
 
-
+<!--
 **Evaluación**
 
 La nota final para este módulo será obtenida con base en tres componentes: exámenes (50%), tareas (40%) y un exposición (10%). Cada uno de estos componentes se describe a continuación.
@@ -58,6 +58,7 @@ La nota final para este módulo será obtenida con base en tres componentes: ex�
 *Tareas:* A lo largo del semestre se asignarán tareas. Todas las tareas deben llevarse acabo con algún *software* estadístico, a menos que se diga lo contrario. 
 
 *Exposición:* cada estudiante expondrá un artículo relacionado con su área de investigación y que use métodos aprendidos en clase.
+-->
 
 **Para tener en cuenta:**
 
