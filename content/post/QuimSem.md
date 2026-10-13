@@ -88,7 +88,7 @@ Semana | Fecha | Tópico
 .  | Sep 24 | .
 9  | Sep 22 | .
 .  | Sep 24 | .
-10  | Oct 13 | [Diseño Factorial](https://alexrojas.netlify.app/post/quimsem/sr.html) 
+10  | Oct 13 | [Superficie de Respuesta](https://alexrojas.netlify.app/post/quimsem/sr.html) 
 .  | Oct 15 | .
 
 
