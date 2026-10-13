@@ -20,3 +20,20 @@ Run x1 x2 x3 Water/Cement Black_Liq. SNF y
 18 0 0 0 0.340 0.150 0.100 116.0
 19 0 0 0 0.340 0.150 0.100 117.0
 20 0 0 0 0.340 0.150 0.100 117.0
+determine the settings that would allow to toss an object a given distance to fend oﬀ attackers or door-to-door salespeople. The researcher aried three factors on the trebuchet. A, the arm length 4 to 8 inches from the counterweight end to the point where the weights were hung; B, counterweight 10 to 20 pounds; and C, missile weight 2 to 3 ounces.
+run A B C y
+1 4 10 2.5 33
+2 8 10 2.5 85
+3 4 20 2.5 86
+4 8 20 2.5 113
+5 4 15 2 75
+6 8 15 2 105
+7 4 15 3 40
+8 8 15 3 89
+9 6 10 2 83
+10 6 20 2 108
+11 6 10 3 49
+12 6 20 3 101
+13 6 15 2.5 88
+14 6 15 2.5 91
+15 6 15 2.5 91
